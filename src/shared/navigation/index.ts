@@ -1,12 +1,16 @@
-import type { NativeStackScreenProps } from '@react-navigation/native-stack';
+import type { RouteProp } from '@react-navigation/native';
 
 import type { RootStackParamList } from './types';
 
 export type { MainTabParamList, RootRouteName, RootStackParamList } from './types';
 export { navigationRef } from './ref';
+export { useRootNavigation } from './useRootNavigation';
+export type { RootNavigation } from './useRootNavigation';
 
-/** Props for a screen in the root stack: `RootScreenProps<'FoodDetail'>`. */
-export type RootScreenProps<T extends keyof RootStackParamList> = NativeStackScreenProps<
-  RootStackParamList,
-  T
->;
+/**
+ * Props the static navigator passes to a root-stack screen: only `route`.
+ * Use `useRootNavigation()` for navigation.
+ */
+export type RootScreenProps<T extends keyof RootStackParamList> = {
+  route: RouteProp<RootStackParamList, T>;
+};

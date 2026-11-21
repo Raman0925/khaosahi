@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 
 import { ARTICLES } from '@/content';
 import { useInterstitial } from '@/shared/ads';
-import type { RootScreenProps } from '@/shared/navigation';
+import { type RootScreenProps, useRootNavigation } from '@/shared/navigation';
 import { Card, colors, EmptyState, Screen, Text } from '@/shared/ui';
 
 import { ArticleBody } from '../components/ArticleBody';
@@ -12,7 +12,8 @@ import { UnlockPrompt } from '../components/UnlockPrompt';
 import { useExtraUnlock } from '../hooks/useExtraUnlock';
 import { contentLanguage, findArticle } from '../logic/articles';
 
-export function ArticleReaderScreen({ navigation, route }: RootScreenProps<'ArticleReader'>) {
+export function ArticleReaderScreen({ route }: RootScreenProps<'ArticleReader'>) {
+  const navigation = useRootNavigation();
   const { articleId } = route.params;
   const { t, i18n } = useTranslation();
   const language = contentLanguage(i18n.language);

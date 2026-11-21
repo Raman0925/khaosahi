@@ -2,15 +2,22 @@ import { act, render, screen } from '@testing-library/react-native';
 import React from 'react';
 
 import { initI18n } from '@/shared/i18n';
-import type { RootScreenProps } from '@/shared/navigation';
 import { usePreferences } from '@/shared/preferences/store';
 
 import { SettingsDisclaimerScreen } from '../screens/SettingsDisclaimerScreen';
 import { SettingsPrivacyNoticeScreen } from '../screens/SettingsPrivacyNoticeScreen';
 
-initI18n();
+const mockNavigation = {
+  setOptions: jest.fn(),
+  navigate: jest.fn(),
+  push: jest.fn(),
+  goBack: jest.fn(),
+};
+jest.mock('@/shared/navigation/useRootNavigation', () => ({
+  useRootNavigation: () => mockNavigation,
+}));
 
-const navigation = { setOptions: jest.fn() };
+initI18n();
 
 beforeEach(async () => {
   jest.clearAllMocks();
@@ -19,18 +26,16 @@ beforeEach(async () => {
 
 describe('SettingsDisclaimerScreen', () => {
   it('shows the disclaimer and sets the title', async () => {
-    const props = { navigation, route: {} } as unknown as RootScreenProps<'SettingsDisclaimer'>;
-    await render(<SettingsDisclaimerScreen {...props} />);
-    expect(navigation.setOptions).toHaveBeenCalledWith({ title: 'Disclaimer' });
+    await render(<SettingsDisclaimerScreen />);
+    expect(mockNavigation.setOptions).toHaveBeenCalledWith({ title: 'Disclaimer' });
     expect(screen.getByText(/does not diagnose or treat any disease/)).toBeTruthy();
   });
 });
 
 describe('SettingsPrivacyNoticeScreen', () => {
   it('explains what is stored, where, why, for how long, how to delete and ads', async () => {
-    const props = { navigation, route: {} } as unknown as RootScreenProps<'SettingsPrivacyNotice'>;
-    await render(<SettingsPrivacyNoticeScreen {...props} />);
-    expect(navigation.setOptions).toHaveBeenCalledWith({ title: 'What we store' });
+    await render(<SettingsPrivacyNoticeScreen />);
+    expect(mockNavigation.setOptions).toHaveBeenCalledWith({ title: 'What we store' });
     for (const heading of [
       'What is stored',
       'Where it is stored',
@@ -47,8 +52,7 @@ describe('SettingsPrivacyNoticeScreen', () => {
 
   it('is available in Hindi', async () => {
     await act(() => usePreferences.getState().setLanguage('hi'));
-    const props = { navigation, route: {} } as unknown as RootScreenProps<'SettingsPrivacyNotice'>;
-    await render(<SettingsPrivacyNoticeScreen {...props} />);
+    await render(<SettingsPrivacyNoticeScreen />);
     expect(screen.getByText('कहाँ सेव होता है')).toBeTruthy();
   });
 });

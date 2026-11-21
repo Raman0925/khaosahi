@@ -19,15 +19,15 @@ export function setUpPlan(now: Date): void {
   reconcilePlanWithProfile(now);
 }
 
-/** Minimal navigation/route props for a root stack screen. */
-export function screenProps<T extends keyof RootStackParamList>(
+/**
+ * Route props for a root stack screen. Navigation comes from `useRootNavigation`, which each test
+ * file mocks; pass that mock in so callers can assert on it.
+ */
+export function screenProps<T extends keyof RootStackParamList, N>(
   name: T,
-  params?: RootStackParamList[T],
+  params: RootStackParamList[T] | undefined,
+  navigation: N,
 ) {
-  const navigation = { setOptions: jest.fn(), navigate: jest.fn() };
-  const props = {
-    navigation,
-    route: { key: `${name}-1`, name, params },
-  } as unknown as RootScreenProps<T>;
+  const props = { route: { key: `${name}-1`, name, params } } as unknown as RootScreenProps<T>;
   return { props, navigation };
 }

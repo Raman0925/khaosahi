@@ -7,6 +7,16 @@ import { type ProfileInput, useProfileStore } from '@/shared/profile';
 
 import { FoodDetailScreen } from '../screens/FoodDetailScreen';
 
+const mockNavigation = {
+  setOptions: jest.fn(),
+  navigate: jest.fn(),
+  push: jest.fn(),
+  goBack: jest.fn(),
+};
+jest.mock('@/shared/navigation/useRootNavigation', () => ({
+  useRootNavigation: () => mockNavigation,
+}));
+
 const mockOnTrigger = jest.fn();
 
 jest.mock('@/content', () => ({
@@ -24,13 +34,9 @@ initI18n();
 
 type Props = RootScreenProps<'FoodDetail'>;
 
-const navigation = { setOptions: jest.fn(), push: jest.fn() };
-
 function renderDetail(foodId: string) {
   const route = { key: 'FoodDetail-1', name: 'FoodDetail', params: { foodId } } as Props['route'];
-  return render(
-    <FoodDetailScreen route={route} navigation={navigation as unknown as Props['navigation']} />,
-  );
+  return render(<FoodDetailScreen route={route} />);
 }
 
 const setCondition = (condition: ProfileInput['condition']) =>
@@ -60,7 +66,7 @@ describe('FoodDetailScreen', () => {
 
     expect(screen.getByText('Rajma (kidney beans)')).toBeTruthy();
     expect(screen.getByText('राजमा')).toBeTruthy();
-    expect(navigation.setOptions).toHaveBeenCalledWith({ title: 'Food details' });
+    expect(mockNavigation.setOptions).toHaveBeenCalledWith({ title: 'Food details' });
 
     // Rajma: uric acid "limit" is stricter than liver "good", so it comes first.
     const cards = screen.getAllByTestId(/^food-rating-/).map(card => card.props.testID);
@@ -94,7 +100,7 @@ describe('FoodDetailScreen', () => {
     // "missing-food" is not in the list and is skipped.
     expect(screen.getAllByTestId(/^food-row-/)).toHaveLength(1);
     await fireEvent.press(screen.getByTestId('food-row-moong-dal'));
-    expect(navigation.push).toHaveBeenCalledWith('FoodDetail', { foodId: 'moong-dal' });
+    expect(mockNavigation.push).toHaveBeenCalledWith('FoodDetail', { foodId: 'moong-dal' });
   });
 
   it('reports one detail view per mount for the interstitial rule', async () => {
@@ -102,7 +108,6 @@ describe('FoodDetailScreen', () => {
     await screen.rerender(
       <FoodDetailScreen
         route={{ key: 'FoodDetail-1', name: 'FoodDetail', params: { foodId: 'rajma' } }}
-        navigation={navigation as unknown as Props['navigation']}
       />,
     );
     expect(mockOnTrigger).toHaveBeenCalledTimes(1);

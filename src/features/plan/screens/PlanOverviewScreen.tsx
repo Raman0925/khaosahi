@@ -2,7 +2,7 @@ import React, { useCallback, useLayoutEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 
 import { PLAN_WEEKS } from '@/content/schema';
-import type { RootScreenProps } from '@/shared/navigation';
+import { useRootNavigation } from '@/shared/navigation';
 import { useChecklistHistory, weekSummary } from '@/shared/plan';
 import { Button, colors, EmptyState, Screen, Text } from '@/shared/ui';
 
@@ -12,7 +12,8 @@ import { usePlanInfo } from '../usePlanInfo';
 
 const WEEKS = Array.from({ length: PLAN_WEEKS }, (_, index) => index + 1);
 
-export function PlanOverviewScreen({ navigation }: RootScreenProps<'PlanOverview'>) {
+export function PlanOverviewScreen() {
+  const navigation = useRootNavigation();
   const { t } = useTranslation();
   const info = usePlanInfo();
   const history = useChecklistHistory(state => state.rows);

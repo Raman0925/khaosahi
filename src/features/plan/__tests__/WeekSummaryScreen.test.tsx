@@ -8,10 +8,21 @@ import { resetAllStores } from '@/shared/storage';
 import { screenProps, setUpPlan } from '../__fixtures__/screen';
 import { WeekSummaryScreen } from '../screens/WeekSummaryScreen';
 
+const mockNavigation = {
+  setOptions: jest.fn(),
+  navigate: jest.fn(),
+  push: jest.fn(),
+  goBack: jest.fn(),
+};
+jest.mock('@/shared/navigation/useRootNavigation', () => ({
+  useRootNavigation: () => mockNavigation,
+}));
+
 initI18n();
 
 const row = (date: string, done: number) => ({ date, planDay: 1, done, total: 6, itemIds: [] });
 
+beforeEach(() => jest.clearAllMocks());
 beforeEach(async () => {
   jest.useFakeTimers({ now: new Date(2026, 10, 21, 9) });
   await act(async () => {
@@ -34,7 +45,7 @@ describe('WeekSummaryScreen', () => {
         row('2026-11-12', 3),
         row('2026-11-13', 6),
       ]);
-    const { props, navigation } = screenProps('WeekSummary', { week: 1 });
+    const { props, navigation } = screenProps('WeekSummary', { week: 1 }, mockNavigation);
     await render(<WeekSummaryScreen {...props} />);
 
     expect(navigation.setOptions).toHaveBeenCalledWith({ title: 'Week 1' });
@@ -46,7 +57,7 @@ describe('WeekSummaryScreen', () => {
 
   it('says a future week has not started', async () => {
     setUpPlan(new Date(2026, 10, 21, 9));
-    const { props } = screenProps('WeekSummary', { week: 5 });
+    const { props } = screenProps('WeekSummary', { week: 5 }, mockNavigation);
     await render(<WeekSummaryScreen {...props} />);
     expect(screen.getByText('This week has not started yet.')).toBeTruthy();
     expect(screen.getByText('Not started')).toBeTruthy();
@@ -54,7 +65,7 @@ describe('WeekSummaryScreen', () => {
 
   it('explains that the current week has no finished days on day 1', async () => {
     setUpPlan(new Date(2026, 10, 21, 9));
-    const { props } = screenProps('WeekSummary', { week: 1 });
+    const { props } = screenProps('WeekSummary', { week: 1 }, mockNavigation);
     await render(<WeekSummaryScreen {...props} />);
     expect(screen.getByText('No finished days yet. A day is counted after it ends.')).toBeTruthy();
   });

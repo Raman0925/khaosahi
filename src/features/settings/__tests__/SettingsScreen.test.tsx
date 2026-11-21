@@ -5,7 +5,6 @@ import Share from 'react-native-share';
 
 import { openAdPrivacyOptions } from '@/shared/ads';
 import { initI18n } from '@/shared/i18n';
-import type { RootScreenProps } from '@/shared/navigation';
 import { cancelAllNotifications } from '@/shared/notifications';
 import { usePreferences } from '@/shared/preferences/store';
 import { storage } from '@/shared/storage';
@@ -13,6 +12,16 @@ import { APP_VERSION } from '@/shared/utils/appInfo';
 
 import { DEFAULT_PRIVACY_POLICY_URL } from '../constants';
 import { SettingsScreen } from '../screens/SettingsScreen';
+
+const mockNavigation = {
+  setOptions: jest.fn(),
+  navigate: jest.fn(),
+  push: jest.fn(),
+  goBack: jest.fn(),
+};
+jest.mock('@/shared/navigation/useRootNavigation', () => ({
+  useRootNavigation: () => mockNavigation,
+}));
 
 let mockAdPrivacyRequired = false;
 
@@ -34,14 +43,8 @@ jest.mock('react-native-share', () => ({
 
 initI18n();
 
-const navigation = { navigate: jest.fn(), setOptions: jest.fn() };
-
 function renderSettings() {
-  const props = {
-    navigation,
-    route: { key: 'settings', name: 'Settings' },
-  } as unknown as RootScreenProps<'Settings'>;
-  return render(<SettingsScreen {...props} />);
+  return render(<SettingsScreen />);
 }
 
 beforeEach(async () => {
@@ -80,7 +83,7 @@ describe('SettingsScreen', () => {
     await fireEvent.press(screen.getByText('Edit profile'));
     await fireEvent.press(screen.getByText('What we store'));
     await fireEvent.press(screen.getByText('Disclaimer'));
-    expect(navigation.navigate.mock.calls.map(([route]) => route)).toEqual([
+    expect(mockNavigation.navigate.mock.calls.map(([route]) => route)).toEqual([
       'Reminders',
       'ProfileEdit',
       'SettingsPrivacyNotice',

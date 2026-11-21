@@ -7,6 +7,16 @@ import { usePreferences } from '@/shared/preferences/store';
 
 import { ArticleReaderScreen } from '../screens/ArticleReaderScreen';
 
+const mockNavigation = {
+  setOptions: jest.fn(),
+  navigate: jest.fn(),
+  push: jest.fn(),
+  goBack: jest.fn(),
+};
+jest.mock('@/shared/navigation/useRootNavigation', () => ({
+  useRootNavigation: () => mockNavigation,
+}));
+
 const mockOnTrigger = jest.fn();
 const mockRewarded = {
   isLoaded: true,
@@ -32,13 +42,10 @@ jest.mock('@/content', () => {
 
 initI18n();
 
-const navigation = { setOptions: jest.fn(), goBack: jest.fn() };
-
 type Props = RootScreenProps<'ArticleReader'>;
 
 function renderReader(articleId: string) {
   const props = {
-    navigation,
     route: { key: 'reader', name: 'ArticleReader', params: { articleId } },
   } as unknown as Props;
   return render(<ArticleReaderScreen {...props} />);
@@ -57,7 +64,7 @@ beforeEach(async () => {
 describe('ArticleReaderScreen', () => {
   it('renders blocks, read time and ends with the disclaimer', async () => {
     await renderReader('free');
-    expect(navigation.setOptions).toHaveBeenCalledWith({ title: 'free title' });
+    expect(mockNavigation.setOptions).toHaveBeenCalledWith({ title: 'free title' });
     expect(screen.getByText('4 min read')).toBeTruthy();
     expect(screen.getByText('free heading')).toBeTruthy();
     expect(screen.getByText('free paragraph')).toBeTruthy();
@@ -86,7 +93,7 @@ describe('ArticleReaderScreen', () => {
     await renderReader('nope');
     expect(screen.getByText('Article not found')).toBeTruthy();
     await fireEvent.press(screen.getByText('Back to articles'));
-    expect(navigation.goBack).toHaveBeenCalled();
+    expect(mockNavigation.goBack).toHaveBeenCalled();
     await act(() => screen.unmount());
     expect(mockOnTrigger).not.toHaveBeenCalled();
   });

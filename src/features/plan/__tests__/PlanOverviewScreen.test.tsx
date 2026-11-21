@@ -6,11 +6,22 @@ import { i18next, initI18n } from '@/shared/i18n';
 import { usePlanStore } from '@/shared/plan';
 import { resetAllStores } from '@/shared/storage';
 
-import { screenProps, setUpPlan } from '../__fixtures__/screen';
+import { setUpPlan } from '../__fixtures__/screen';
 import { PlanOverviewScreen } from '../screens/PlanOverviewScreen';
+
+const mockNavigation = {
+  setOptions: jest.fn(),
+  navigate: jest.fn(),
+  push: jest.fn(),
+  goBack: jest.fn(),
+};
+jest.mock('@/shared/navigation/useRootNavigation', () => ({
+  useRootNavigation: () => mockNavigation,
+}));
 
 initI18n();
 
+beforeEach(() => jest.clearAllMocks());
 beforeEach(async () => {
   jest.useFakeTimers({ now: new Date(2026, 10, 21, 9) });
   await act(async () => {
@@ -26,16 +37,16 @@ afterEach(() => {
 
 describe('PlanOverviewScreen', () => {
   it('sets a translated title and shows an empty state without a plan', async () => {
-    const { props, navigation } = screenProps('PlanOverview');
-    await render(<PlanOverviewScreen {...props} />);
+    const navigation = mockNavigation;
+    await render(<PlanOverviewScreen />);
     expect(navigation.setOptions).toHaveBeenCalledWith({ title: '90-day plan' });
     expect(screen.getByText('No plan yet')).toBeTruthy();
   });
 
   it('lists 13 weeks with the current week highlighted and opens a week', async () => {
     setUpPlan(new Date(2026, 10, 1, 9)); // today is day 21 → week 3
-    const { props, navigation } = screenProps('PlanOverview');
-    await render(<PlanOverviewScreen {...props} />);
+    const navigation = mockNavigation;
+    await render(<PlanOverviewScreen />);
 
     expect(screen.getAllByTestId(/^week-row-/)).toHaveLength(13);
     expect(screen.getByTestId('week-row-3')).toBeSelected();
@@ -50,8 +61,7 @@ describe('PlanOverviewScreen', () => {
   it('restarts the plan after confirmation', async () => {
     setUpPlan(new Date(2026, 10, 1, 9));
     const alert = jest.spyOn(Alert, 'alert');
-    const { props } = screenProps('PlanOverview');
-    await render(<PlanOverviewScreen {...props} />);
+    await render(<PlanOverviewScreen />);
 
     await fireEvent.press(screen.getByTestId('restart-plan'));
     expect(alert).toHaveBeenCalledWith('Restart the plan?', expect.any(String), expect.any(Array));

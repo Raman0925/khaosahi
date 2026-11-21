@@ -1,15 +1,14 @@
 import React, { useLayoutEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 
-import type { RootScreenProps } from '@/shared/navigation';
+import { useRootNavigation } from '@/shared/navigation';
 import { Card, Screen, Text } from '@/shared/ui';
 
 const NOTICE_SECTIONS = ['what', 'where', 'why', 'howLong', 'delete', 'ads'] as const;
 
 /** Read-only consent notice: what is stored, where, why, how long, how to delete, ads. */
-export function SettingsPrivacyNoticeScreen({
-  navigation,
-}: RootScreenProps<'SettingsPrivacyNotice'>) {
+export function SettingsPrivacyNoticeScreen() {
+  const navigation = useRootNavigation();
   const { t } = useTranslation();
 
   useLayoutEffect(() => {

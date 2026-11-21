@@ -1,7 +1,7 @@
 import React, { useLayoutEffect, useState } from 'react';
 import { StyleSheet, View } from 'react-native';
 
-import type { RootScreenProps } from '@/shared/navigation';
+import { useRootNavigation } from '@/shared/navigation';
 import {
   openNotificationSettings,
   type ReminderSection,
@@ -21,7 +21,8 @@ import { pickTime } from '../pickers';
 
 const WEEKDAYS = ['0', '1', '2', '3', '4', '5', '6'] as const;
 
-export function RemindersScreen({ navigation }: RootScreenProps<'Reminders'>) {
+export function RemindersScreen() {
+  const navigation = useRootNavigation();
   const { t, language } = useLocaleT();
   const settings = useReminderSettings();
   const startDate = usePlanStore(state => state.startDate);

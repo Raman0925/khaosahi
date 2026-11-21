@@ -3,7 +3,7 @@ import { StyleSheet, View } from 'react-native';
 import { useTranslation } from 'react-i18next';
 
 import { PLAN_DAYS } from '@/content/schema';
-import type { RootScreenProps } from '@/shared/navigation';
+import { useRootNavigation } from '@/shared/navigation';
 import { day90Summary, planDay, useChecklistHistory } from '@/shared/plan';
 import { usePreferences } from '@/shared/preferences/store';
 import { type ProgressEntry, useProgressStore } from '@/shared/progress';
@@ -14,7 +14,8 @@ import { metricComparison, SUMMARY_METRICS } from '../logic/metrics';
 import { confirmRestartPlan } from '../restart';
 import { usePlanInfo } from '../usePlanInfo';
 
-export function Day90SummaryScreen({ navigation }: RootScreenProps<'Day90Summary'>) {
+export function Day90SummaryScreen() {
+  const navigation = useRootNavigation();
   const { t } = useTranslation();
   const info = usePlanInfo();
   const history = useChecklistHistory(state => state.rows);

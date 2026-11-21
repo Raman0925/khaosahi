@@ -9,14 +9,25 @@ import { useProgressStore } from '@/shared/progress';
 import { resetAllStores } from '@/shared/storage';
 import { addDays } from '@/shared/utils/dates';
 
-import { screenProps, setUpPlan } from '../__fixtures__/screen';
+import { setUpPlan } from '../__fixtures__/screen';
 import { Day90SummaryScreen } from '../screens/Day90SummaryScreen';
+
+const mockNavigation = {
+  setOptions: jest.fn(),
+  navigate: jest.fn(),
+  push: jest.fn(),
+  goBack: jest.fn(),
+};
+jest.mock('@/shared/navigation/useRootNavigation', () => ({
+  useRootNavigation: () => mockNavigation,
+}));
 
 initI18n();
 
 const TODAY = '2026-11-21';
 const START = addDays(TODAY, -89); // today is day 90
 
+beforeEach(() => jest.clearAllMocks());
 beforeEach(async () => {
   jest.useFakeTimers({ now: new Date(2026, 10, 21, 9) });
   await act(async () => {
@@ -53,8 +64,8 @@ function seedPlan() {
 describe('Day90SummaryScreen', () => {
   it('shows adherence, first vs latest values and the doctor prompt', async () => {
     seedPlan();
-    const { props, navigation } = screenProps('Day90Summary');
-    await render(<Day90SummaryScreen {...props} />);
+    const navigation = mockNavigation;
+    await render(<Day90SummaryScreen />);
 
     expect(navigation.setOptions).toHaveBeenCalledWith({ title: 'Your 90-day summary' });
     expect(screen.getByText('You completed 60 of 90 days (67%).')).toBeTruthy();
@@ -68,15 +79,13 @@ describe('Day90SummaryScreen', () => {
   it('shows weight in the user unit', async () => {
     seedPlan();
     await act(() => usePreferences.getState().setWeightUnit('lb'));
-    const { props } = screenProps('Day90Summary');
-    await render(<Day90SummaryScreen {...props} />);
+    await render(<Day90SummaryScreen />);
     expect(screen.getByLabelText('Weight: first 185.2 lb, latest 176.4 lb')).toBeTruthy();
   });
 
   it('says when the summary is not final yet', async () => {
     setUpPlan(new Date(2026, 10, 12, 9));
-    const { props } = screenProps('Day90Summary');
-    await render(<Day90SummaryScreen {...props} />);
+    await render(<Day90SummaryScreen />);
     expect(
       screen.getByText('You are on Day 10. Your full summary is ready on Day 90.'),
     ).toBeTruthy();
@@ -85,8 +94,8 @@ describe('Day90SummaryScreen', () => {
   it('restarts the plan and goes back to Today', async () => {
     seedPlan();
     const alert = jest.spyOn(Alert, 'alert');
-    const { props, navigation } = screenProps('Day90Summary');
-    await render(<Day90SummaryScreen {...props} />);
+    const navigation = mockNavigation;
+    await render(<Day90SummaryScreen />);
     await fireEvent.press(screen.getByTestId('restart-plan'));
     await act(() => alert.mock.calls[0]?.[2]?.[1]?.onPress?.());
     expect(usePlanStore.getState().startDate).toBe(TODAY);

@@ -1,10 +1,11 @@
 import React, { useLayoutEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 
-import type { RootScreenProps } from '@/shared/navigation';
+import { useRootNavigation } from '@/shared/navigation';
 import { Card, Screen, Text } from '@/shared/ui';
 
-export function SettingsDisclaimerScreen({ navigation }: RootScreenProps<'SettingsDisclaimer'>) {
+export function SettingsDisclaimerScreen() {
+  const navigation = useRootNavigation();
   const { t } = useTranslation();
 
   useLayoutEffect(() => {

@@ -2,7 +2,7 @@ import { FlashList } from '@shopify/flash-list';
 import React, { memo, useCallback, useEffect, useLayoutEffect, useMemo } from 'react';
 import { Alert, StyleSheet, View } from 'react-native';
 
-import type { RootScreenProps } from '@/shared/navigation';
+import { type RootScreenProps, useRootNavigation } from '@/shared/navigation';
 import { useProfile } from '@/shared/profile';
 import { type ProgressEntry, selectMetricEntries, useProgressStore } from '@/shared/progress';
 import { Button, Card, colors, EmptyState, Screen, spacing, Text } from '@/shared/ui';
@@ -14,7 +14,8 @@ import { normalRange, rangeStatus, waistCutoffCm } from '../logic/normalRanges';
 import { formatValue } from '../logic/units';
 import { summarise } from '../summary';
 
-export function ProgressMetricScreen({ navigation, route }: RootScreenProps<'ProgressMetric'>) {
+export function ProgressMetricScreen({ route }: RootScreenProps<'ProgressMetric'>) {
+  const navigation = useRootNavigation();
   const { metric } = route.params;
   const { t, language } = useLocaleT();
   const prefs = useUnitPrefs();

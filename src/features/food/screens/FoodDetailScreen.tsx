@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 
 import type { Food } from '@/content/schema';
 import { useInterstitial } from '@/shared/ads';
-import type { RootScreenProps } from '@/shared/navigation';
+import { type RootScreenProps, useRootNavigation } from '@/shared/navigation';
 import type { Language } from '@/shared/preferences/store';
 import { useProfileStore } from '@/shared/profile';
 import { colors, EmptyState, radius, Screen, spacing, Text } from '@/shared/ui';
@@ -14,7 +14,8 @@ import { RatingCard } from '../components/RatingCard';
 import { getFoodIndex } from '../foodIndex';
 import { effectiveRatings } from '../logic/ratings';
 
-export function FoodDetailScreen({ route, navigation }: RootScreenProps<'FoodDetail'>) {
+export function FoodDetailScreen({ route }: RootScreenProps<'FoodDetail'>) {
+  const navigation = useRootNavigation();
   const { t, i18n } = useTranslation();
   const language: Language = i18n.language === 'hi' ? 'hi' : 'en';
   const { foodId } = route.params;

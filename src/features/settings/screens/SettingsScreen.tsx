@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 
 import { openAdPrivacyOptions, useAdPrivacyOptionsRequired } from '@/shared/ads';
-import type { RootScreenProps } from '@/shared/navigation';
+import { useRootNavigation } from '@/shared/navigation';
 import { usePreferences } from '@/shared/preferences/store';
 import { colors, ListItem, Screen, Text } from '@/shared/ui';
 import { APP_VERSION } from '@/shared/utils/appInfo';
@@ -14,7 +14,8 @@ import { privacyPolicyUrl, RATE_APP_URLS } from '../constants';
 import { openFirstUrl } from '../logic/openUrl';
 
 /** Settings. No ads anywhere on this screen (policy). Title is set by the navigator. */
-export function SettingsScreen({ navigation }: RootScreenProps<'Settings'>) {
+export function SettingsScreen() {
+  const navigation = useRootNavigation();
   const { t, i18n } = useTranslation();
   const lengthUnit = usePreferences(state => state.lengthUnit);
   const weightUnit = usePreferences(state => state.weightUnit);

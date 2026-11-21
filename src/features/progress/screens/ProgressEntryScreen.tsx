@@ -3,7 +3,7 @@ import React, { useEffect, useLayoutEffect, useMemo, useRef } from 'react';
 import { Controller, useForm } from 'react-hook-form';
 import { StyleSheet, View } from 'react-native';
 
-import type { RootScreenProps } from '@/shared/navigation';
+import { type RootScreenProps, useRootNavigation } from '@/shared/navigation';
 import { useProgressStore } from '@/shared/progress';
 import { Button, Chip, colors, Screen, spacing, Text, TextField } from '@/shared/ui';
 import { fromDateKey, todayKey, toDateKey } from '@/shared/utils/dates';
@@ -20,7 +20,8 @@ import { pickDate } from '../pickers';
 
 const GRADES = ['0', '1', '2', '3'] as const;
 
-export function ProgressEntryScreen({ navigation, route }: RootScreenProps<'ProgressEntry'>) {
+export function ProgressEntryScreen({ route }: RootScreenProps<'ProgressEntry'>) {
+  const navigation = useRootNavigation();
   const { metric, entryId } = route.params;
   const { t, language } = useLocaleT();
   const prefs = useUnitPrefs();

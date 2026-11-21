@@ -1,14 +1,15 @@
 import React, { useEffect, useLayoutEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 
-import type { RootScreenProps } from '@/shared/navigation';
+import { type RootScreenProps, useRootNavigation } from '@/shared/navigation';
 import { useChecklistHistory, weekSummary } from '@/shared/plan';
 import { Card, colors, EmptyState, Screen, Text } from '@/shared/ui';
 
 import { toPercent } from '../logic/format';
 import { usePlanInfo } from '../usePlanInfo';
 
-export function WeekSummaryScreen({ navigation, route }: RootScreenProps<'WeekSummary'>) {
+export function WeekSummaryScreen({ route }: RootScreenProps<'WeekSummary'>) {
+  const navigation = useRootNavigation();
   const { t } = useTranslation();
   const { week } = route.params;
   const info = usePlanInfo();
