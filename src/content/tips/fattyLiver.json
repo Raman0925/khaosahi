@@ -4,8 +4,8 @@
     {
       "id": "fl-tip-1",
       "text": {
-        "en": "Losing even 5–10% of body weight may help reduce liver fat. Go slow and steady.",
-        "hi": "वज़न का 5–10% घटाना भी लिवर की चर्बी कम करने में मदद कर सकता है। धीरे-धीरे चलें।"
+        "en": "Losing weight slowly and steadily may help your liver more than a crash diet.",
+        "hi": "धीरे-धीरे और लगातार वज़न घटाना, क्रैश डाइट से ज़्यादा लिवर के काम आ सकता है।"
       },
       "reviewedBy": "PENDING",
       "reviewedOn": null
@@ -13,8 +13,8 @@
     {
       "id": "fl-tip-2",
       "text": {
-        "en": "Swap maida rotis and bread for whole wheat or multigrain.",
-        "hi": "मैदे की रोटी और ब्रेड की जगह गेहूँ या मल्टीग्रेन लें।"
+        "en": "Aim for about half to one kg weight loss a week if you are overweight. Faster is not better for the liver.",
+        "hi": "वज़न ज़्यादा है तो हफ़्ते में लगभग आधा से एक किलो घटाने का लक्ष्य रखें। बहुत तेज़ घटाना लिवर के लिए ठीक नहीं।"
       },
       "reviewedBy": "PENDING",
       "reviewedOn": null
@@ -22,8 +22,791 @@
     {
       "id": "fl-tip-3",
       "text": {
-        "en": "A short walk after meals may help control blood sugar.",
-        "hi": "खाने के बाद थोड़ा टहलना शुगर सँभालने में मदद कर सकता है।"
+        "en": "Even a small weight loss may help reduce liver fat. Every kilo counts.",
+        "hi": "थोड़ा-सा वज़न घटाना भी लिवर की चर्बी कम करने में मदद कर सकता है। हर किलो मायने रखता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-4",
+      "text": {
+        "en": "Cut down sugar in your chai step by step. Your taste will adjust in a few weeks.",
+        "hi": "चाय में चीनी धीरे-धीरे कम करें। कुछ हफ़्तों में स्वाद की आदत पड़ जाएगी।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-5",
+      "text": {
+        "en": "Cold drinks and packaged juices are full of sugar. Choose plain water, chaas or nimbu pani without sugar.",
+        "hi": "कोल्ड ड्रिंक और पैकेट वाले जूस में बहुत चीनी होती है। सादा पानी, छाछ या बिना चीनी का नींबू पानी लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-6",
+      "text": {
+        "en": "Swap maida bread and biscuits for whole wheat roti or a handful of roasted chana.",
+        "hi": "मैदे की ब्रेड और बिस्किट की जगह गेहूँ की रोटी या मुट्ठी भर भुने चने लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-7",
+      "text": {
+        "en": "Keep fried snacks like samosa, pakora and kachori for rare occasions, not daily tea time.",
+        "hi": "समोसा, पकौड़ा, कचौड़ी जैसे तले स्नैक्स कभी-कभार के लिए रखें, रोज़ की चाय के साथ नहीं।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-8",
+      "text": {
+        "en": "Alcohol is hard on a fatty liver. Talk to your doctor about stopping completely.",
+        "hi": "शराब फैटी लिवर पर भारी पड़ती है। पूरी तरह छोड़ने के बारे में डॉक्टर से बात करें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-9",
+      "text": {
+        "en": "There is no \"safe peg\" for a fatty liver. Skipping alcohol may help your liver the most.",
+        "hi": "फैटी लिवर में कोई \"सेफ़ पेग\" नहीं होता। शराब से दूर रहना लिवर के लिए सबसे अच्छा हो सकता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-10",
+      "text": {
+        "en": "A brisk 30-minute walk on most days may help your liver use fat better.",
+        "hi": "ज़्यादातर दिन 30 मिनट तेज़ चलना लिवर को चर्बी बेहतर इस्तेमाल करने में मदद कर सकता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-11",
+      "text": {
+        "en": "Can’t walk 30 minutes at once? Three 10-minute walks after meals also help.",
+        "hi": "एक साथ 30 मिनट नहीं चल पाते? खाने के बाद 10-10 मिनट तीन बार टहलना भी फ़ायदेमंद है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-12",
+      "text": {
+        "en": "A short walk after dinner may help keep blood sugar steady.",
+        "hi": "रात के खाने के बाद थोड़ी देर टहलने से ब्लड शुगर संभली रह सकती है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-13",
+      "text": {
+        "en": "Take the stairs instead of the lift when you can. Small moves add up.",
+        "hi": "जब हो सके लिफ़्ट की जगह सीढ़ियाँ लें। छोटी-छोटी हरकतें मिलकर बड़ा फ़र्क डालती हैं।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-14",
+      "text": {
+        "en": "Add some strength work twice a week, like squats, wall push-ups or lifting water bottles.",
+        "hi": "हफ़्ते में दो बार थोड़ी ताक़त वाली कसरत करें, जैसे उठक-बैठक, दीवार से पुश-अप या पानी की बोतल उठाना।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-15",
+      "text": {
+        "en": "Sitting for long hours is not good for the liver. Stand up and move for a few minutes every hour.",
+        "hi": "घंटों बैठे रहना लिवर के लिए ठीक नहीं। हर घंटे कुछ मिनट उठकर चलें-फिरें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-16",
+      "text": {
+        "en": "Sleep 7–8 hours a night. Poor sleep can make weight control harder.",
+        "hi": "रात में 7–8 घंटे सोएँ। कम नींद से वज़न संभालना मुश्किल हो जाता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-17",
+      "text": {
+        "en": "Keep your phone away for 30 minutes before bed. Better sleep may help you avoid late-night snacking.",
+        "hi": "सोने से 30 मिनट पहले फ़ोन दूर रखें। अच्छी नींद से देर रात का खाना कम हो सकता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-18",
+      "text": {
+        "en": "Use a smaller plate. The same thali looks full with less food.",
+        "hi": "छोटी प्लेट लें। कम खाने में भी थाली भरी-भरी लगती है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-19",
+      "text": {
+        "en": "Fill half your thali with sabzi or salad, a quarter with dal or protein and a quarter with roti or rice.",
+        "hi": "आधी थाली सब्ज़ी या सलाद, एक चौथाई दाल या प्रोटीन और एक चौथाई रोटी या चावल से भरें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-20",
+      "text": {
+        "en": "If you usually eat 4 rotis, try 3 and add an extra katori of sabzi.",
+        "hi": "अगर आप आमतौर पर 4 रोटी खाते हैं, तो 3 खाएँ और एक कटोरी सब्ज़ी ज़्यादा लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-21",
+      "text": {
+        "en": "Eat rice in a measured katori instead of heaping it on the plate.",
+        "hi": "चावल प्लेट में ढेर लगाने की बजाय एक नपी कटोरी में खाएँ।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-22",
+      "text": {
+        "en": "Eat slowly and stop when you feel about 80% full.",
+        "hi": "धीरे-धीरे खाएँ और जब पेट लगभग 80% भर जाए तो रुक जाएँ।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-23",
+      "text": {
+        "en": "Measure oil with a spoon instead of pouring from the bottle.",
+        "hi": "तेल बोतल से सीधा डालने की बजाय चम्मच से नापकर डालें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-24",
+      "text": {
+        "en": "A whole family can usually manage with much less oil than they use today. Cut down a little each week.",
+        "hi": "ज़्यादातर घरों में आज से काफ़ी कम तेल में काम चल सकता है। हर हफ़्ते थोड़ा-थोड़ा कम करें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-25",
+      "text": {
+        "en": "Rotate cooking oils like mustard, groundnut and rice bran instead of using just one.",
+        "hi": "सिर्फ़ एक तेल की जगह सरसों, मूंगफली और राइस ब्रान जैसे तेल बदल-बदल कर इस्तेमाल करें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-26",
+      "text": {
+        "en": "Keep ghee and butter to a small spoon a day, not a big dollop on every roti.",
+        "hi": "घी और मक्खन दिन में एक छोटे चम्मच तक रखें, हर रोटी पर बड़ा लौंदा नहीं।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-27",
+      "text": {
+        "en": "Do not reuse oil left over from deep frying. Reheated oil is best avoided.",
+        "hi": "तलने के बाद बचा तेल दोबारा इस्तेमाल न करें। बार-बार गरम किया तेल न ही लें तो बेहतर।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-28",
+      "text": {
+        "en": "Steam, roast, grill or bake more often instead of deep frying.",
+        "hi": "तलने की बजाय ज़्यादा बार भाप में पकाएँ, भूनें, ग्रिल करें या बेक करें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-29",
+      "text": {
+        "en": "Try an air fryer or a non-stick pan to make tikki or cutlets with very little oil.",
+        "hi": "टिक्की या कटलेट बहुत कम तेल में बनाने के लिए एयर फ्रायर या नॉन-स्टिक तवा आज़माएँ।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-30",
+      "text": {
+        "en": "Make tadka with a teaspoon of oil and plenty of spices for flavour.",
+        "hi": "तड़का एक छोटे चम्मच तेल में लगाएँ और स्वाद के लिए मसाले भरपूर डालें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-31",
+      "text": {
+        "en": "Include some protein in every meal, like dal, curd, paneer, sprouts, egg or fish.",
+        "hi": "हर खाने में थोड़ा प्रोटीन रखें, जैसे दाल, दही, पनीर, अंकुरित अनाज, अंडा या मछली।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-32",
+      "text": {
+        "en": "A katori of dal or chana with each main meal may help keep you full for longer.",
+        "hi": "हर मुख्य खाने के साथ एक कटोरी दाल या चना लेने से देर तक पेट भरा रह सकता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-33",
+      "text": {
+        "en": "Choose low-fat paneer or curd made from toned milk when you can.",
+        "hi": "जहाँ हो सके, टोन्ड दूध से बना पनीर या दही चुनें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-34",
+      "text": {
+        "en": "If you eat non-veg, choose grilled fish or chicken over fried or butter-rich curries.",
+        "hi": "नॉन-वेज खाते हैं तो तली हुई या मक्खन वाली करी की बजाय ग्रिल की हुई मछली या चिकन लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-35",
+      "text": {
+        "en": "Egg whites are a lean protein option. Talk to your doctor or dietitian about whole eggs for you.",
+        "hi": "अंडे की सफ़ेदी हल्का प्रोटीन है। आपके लिए पूरे अंडे के बारे में डॉक्टर या डाइटीशियन से पूछें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-36",
+      "text": {
+        "en": "Fibre from sabzi, salad, dal and whole grains may help keep blood sugar and weight in check.",
+        "hi": "सब्ज़ी, सलाद, दाल और साबुत अनाज का फ़ाइबर ब्लड शुगर और वज़न संभालने में मदद कर सकता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-37",
+      "text": {
+        "en": "Add a bowl of salad with cucumber, tomato, onion or carrot before lunch.",
+        "hi": "दोपहर के खाने से पहले खीरा, टमाटर, प्याज़ या गाजर का एक कटोरा सलाद लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-38",
+      "text": {
+        "en": "Mix some besan, jowar or bajra flour into your wheat atta for extra fibre.",
+        "hi": "ज़्यादा फ़ाइबर के लिए गेहूँ के आटे में थोड़ा बेसन, ज्वार या बाजरे का आटा मिलाएँ।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-39",
+      "text": {
+        "en": "Choose brown rice, millets or hand-pounded rice sometimes instead of polished white rice.",
+        "hi": "कभी-कभी सफ़ेद पॉलिश चावल की जगह ब्राउन राइस, मिलेट या हाथ-कुटा चावल लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-40",
+      "text": {
+        "en": "Eat whole fruit instead of fruit juice. The fibre helps.",
+        "hi": "फलों का जूस नहीं, साबुत फल खाएँ। उसका फ़ाइबर काम आता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-41",
+      "text": {
+        "en": "Keep fruit to 1–2 servings a day and avoid adding sugar or chaat masala with sugar on it.",
+        "hi": "फल दिन में 1–2 बार तक रखें और उस पर चीनी या मीठा चाट मसाला न डालें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-42",
+      "text": {
+        "en": "Read labels on packaged foods. Sugar hides under names like glucose, syrup and maltodextrin.",
+        "hi": "पैकेट वाले खाने के लेबल पढ़ें। चीनी ग्लूकोज़, सिरप और माल्टोडेक्सट्रिन जैसे नामों में छिपी होती है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-43",
+      "text": {
+        "en": "\"Diet\" namkeen and baked chips can still be high in salt and fat. Check the label.",
+        "hi": "\"डाइट\" नमकीन और बेक्ड चिप्स में भी नमक और फ़ैट ज़्यादा हो सकता है। लेबल ज़रूर देखें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-44",
+      "text": {
+        "en": "Keep roasted chana, makhana or a fruit handy so you skip namkeen at tea time.",
+        "hi": "भुने चने, मखाने या कोई फल पास रखें ताकि चाय के साथ नमकीन न खाना पड़े।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-45",
+      "text": {
+        "en": "A small handful of nuts is a good snack, but keep it to a handful.",
+        "hi": "मुट्ठी भर मेवे अच्छा स्नैक हैं, बस मुट्ठी भर तक ही रखें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-46",
+      "text": {
+        "en": "Have a proper breakfast like poha with vegetables, besan chilla or oats upma instead of skipping it.",
+        "hi": "नाश्ता न छोड़ें। सब्ज़ी वाला पोहा, बेसन चीला या ओट्स उपमा जैसा ठीक नाश्ता करें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-47",
+      "text": {
+        "en": "Finish dinner 2–3 hours before you sleep.",
+        "hi": "सोने से 2–3 घंटे पहले रात का खाना खा लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-48",
+      "text": {
+        "en": "Late-night snacking adds up. If hungry, try a glass of warm toned milk without sugar.",
+        "hi": "देर रात का खाना जुड़ता जाता है। भूख लगे तो बिना चीनी का गुनगुना टोन्ड दूध लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-49",
+      "text": {
+        "en": "Drink a glass of water before meals. Sometimes thirst feels like hunger.",
+        "hi": "खाने से पहले एक गिलास पानी पिएँ। कई बार प्यास भी भूख जैसी लगती है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-50",
+      "text": {
+        "en": "Black coffee or chai with less sugar is fine for most people. Skip the sugar and cream.",
+        "hi": "ज़्यादातर लोगों के लिए ब्लैक कॉफ़ी या कम चीनी वाली चाय ठीक है। चीनी और क्रीम छोड़ें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-51",
+      "text": {
+        "en": "At restaurants, choose tandoori, grilled or dry dishes over creamy gravies.",
+        "hi": "होटल में मलाईदार ग्रेवी की जगह तंदूरी, ग्रिल या सूखी चीज़ें चुनें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-52",
+      "text": {
+        "en": "Pick plain roti or tandoori roti over naan, kulcha or butter naan when eating out.",
+        "hi": "बाहर खाते समय नान, कुलचा या बटर नान की जगह सादी या तंदूरी रोटी लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-53",
+      "text": {
+        "en": "When eating out, start with a soup or salad so you eat less of the heavy dishes.",
+        "hi": "बाहर खाने में पहले सूप या सलाद लें, ताकि भारी चीज़ें कम खाई जाएँ।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-54",
+      "text": {
+        "en": "Share a dessert instead of having a full one to yourself.",
+        "hi": "पूरी मिठाई अकेले खाने की बजाय किसी के साथ बाँट लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-55",
+      "text": {
+        "en": "Street food once in a while is okay. Choose roasted bhutta or sprouts chaat over fried items.",
+        "hi": "कभी-कभार स्ट्रीट फ़ूड ठीक है। तली चीज़ों की जगह भुना भुट्टा या अंकुरित चाट लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-56",
+      "text": {
+        "en": "At weddings, take a small plate, fill it with salad and dal first, and go once.",
+        "hi": "शादी में छोटी प्लेट लें, पहले सलाद और दाल रखें, और एक ही बार लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-57",
+      "text": {
+        "en": "During festivals, enjoy one small piece of mithai and say no politely to the second.",
+        "hi": "त्योहार में मिठाई का एक छोटा टुकड़ा खाएँ और दूसरे को प्यार से मना कर दें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-58",
+      "text": {
+        "en": "Gift dry fruits, fruit baskets or roasted snacks instead of boxes of mithai.",
+        "hi": "मिठाई के डिब्बे की जगह मेवे, फलों की टोकरी या भुने स्नैक्स गिफ़्ट करें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-59",
+      "text": {
+        "en": "Make festival sweets at home with less sugar and ghee, like dates-based laddoos in small sizes.",
+        "hi": "त्योहार की मिठाई घर पर कम चीनी और घी में बनाएँ, जैसे खजूर के छोटे लड्डू।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-60",
+      "text": {
+        "en": "After a heavy festival meal, simply go back to your routine the next day. No need to starve.",
+        "hi": "त्योहार के भारी खाने के बाद अगले दिन बस अपनी रोज़ की आदत पर लौट आएँ। भूखा रहने की ज़रूरत नहीं।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-61",
+      "text": {
+        "en": "Get your liver tests repeated when your doctor advises, not more or less often.",
+        "hi": "लिवर की जाँच तभी दोबारा कराएँ जब डॉक्टर कहें, न ज़्यादा न कम।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-62",
+      "text": {
+        "en": "Keep your lab reports in one file and bring them to every doctor visit.",
+        "hi": "अपनी सारी जाँच रिपोर्ट एक फ़ाइल में रखें और हर बार डॉक्टर के पास ले जाएँ।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-63",
+      "text": {
+        "en": "Log your ALT and AST in the app so you and your doctor can see the trend.",
+        "hi": "ALT और AST ऐप में लिखते रहें, ताकि आप और डॉक्टर बदलाव देख सकें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-64",
+      "text": {
+        "en": "Normal liver tests do not always mean no fatty liver. Follow your doctor’s advice on scans.",
+        "hi": "लिवर टेस्ट नॉर्मल होने का मतलब हमेशा फैटी लिवर न होना नहीं है। स्कैन के लिए डॉक्टर की सलाह मानें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-65",
+      "text": {
+        "en": "Never stop or change your medicines on your own. Talk to your doctor first.",
+        "hi": "अपनी मर्ज़ी से दवा कभी बंद या बदलें नहीं। पहले डॉक्टर से बात करें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-66",
+      "text": {
+        "en": "Check with your doctor before taking herbal \"liver detox\" products or supplements.",
+        "hi": "हर्बल \"लिवर डिटॉक्स\" या कोई सप्लीमेंट लेने से पहले डॉक्टर से पूछें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-67",
+      "text": {
+        "en": "Avoid taking painkillers often without asking your doctor.",
+        "hi": "डॉक्टर से पूछे बिना बार-बार पेनकिलर न लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-68",
+      "text": {
+        "en": "If you have diabetes, keeping sugar in control may also help your liver.",
+        "hi": "अगर डायबिटीज़ है तो शुगर कंट्रोल में रखना लिवर के लिए भी मददगार हो सकता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-69",
+      "text": {
+        "en": "Get your blood pressure, sugar and cholesterol checked as your doctor advises. They often go together with fatty liver.",
+        "hi": "डॉक्टर की सलाह से BP, शुगर और कोलेस्ट्रॉल की जाँच कराते रहें। ये अक्सर फैटी लिवर के साथ जुड़े होते हैं।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-70",
+      "text": {
+        "en": "Measure your waist once a month. Belly fat often goes with liver fat.",
+        "hi": "महीने में एक बार कमर नापें। पेट की चर्बी अक्सर लिवर की चर्बी से जुड़ी होती है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-71",
+      "text": {
+        "en": "Weigh yourself once a week, same day and same time, before breakfast.",
+        "hi": "हफ़्ते में एक बार, एक ही दिन और समय, नाश्ते से पहले वज़न लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-72",
+      "text": {
+        "en": "Slim people can have fatty liver too. Healthy eating and activity matter for everyone.",
+        "hi": "दुबले-पतले लोगों को भी फैटी लिवर हो सकता है। सही खाना और कसरत सबके लिए ज़रूरी है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-73",
+      "text": {
+        "en": "Do not try to fix everything at once. Pick one change this week and stick to it.",
+        "hi": "सब कुछ एक साथ बदलने की कोशिश न करें। इस हफ़्ते एक बदलाव चुनें और उस पर टिके रहें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-74",
+      "text": {
+        "en": "Missed a day? That is okay, just pick up again at the next meal.",
+        "hi": "एक दिन छूट गया? कोई बात नहीं। अगले खाने से फिर शुरू कर दें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-75",
+      "text": {
+        "en": "Progress is slow but real. Small habits kept for months may help your liver more than quick fixes.",
+        "hi": "सुधार धीरे होता है पर होता है। महीनों तक निभाई छोटी आदतें जल्दी के उपायों से ज़्यादा काम आ सकती हैं।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-76",
+      "text": {
+        "en": "Get your family on board. It is easier to eat less fried food when the whole house does it.",
+        "hi": "परिवार को साथ लें। जब पूरा घर कम तला खाए तो आपके लिए भी आसान हो जाता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-77",
+      "text": {
+        "en": "Cook one extra sabzi instead of a fried side dish for the family meal.",
+        "hi": "घर के खाने में तली चीज़ की जगह एक सब्ज़ी ज़्यादा बनाएँ।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-78",
+      "text": {
+        "en": "Pack lunch from home on workdays so you do not depend on canteen fried food.",
+        "hi": "काम के दिनों में घर से टिफ़िन ले जाएँ, ताकि कैंटीन के तले खाने पर निर्भर न रहें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-79",
+      "text": {
+        "en": "Stress can lead to overeating. Try 5 minutes of slow breathing or a short walk instead.",
+        "hi": "तनाव में ज़्यादा खाना हो जाता है। उसकी जगह 5 मिनट धीमी साँस लें या थोड़ा टहल लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-80",
+      "text": {
+        "en": "Yoga, cycling, dancing or a game of badminton all count as activity. Pick what you enjoy.",
+        "hi": "योग, साइकिल, डांस या बैडमिंटन, सब कसरत में गिनते हैं। जो अच्छा लगे वही चुनें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-81",
+      "text": {
+        "en": "Choose sprouts, chana or curd for evening hunger instead of biscuits and rusk.",
+        "hi": "शाम की भूख में बिस्किट और रस की जगह अंकुरित अनाज, चना या दही लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-82",
+      "text": {
+        "en": "Rusk, khari and toast are mostly maida. Have them rarely.",
+        "hi": "रस, खारी और टोस्ट ज़्यादातर मैदे से बनते हैं। इन्हें कभी-कभार ही लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-83",
+      "text": {
+        "en": "Honey and jaggery are still sugar. Use them as little as white sugar.",
+        "hi": "शहद और गुड़ भी चीनी ही हैं। इन्हें भी सफ़ेद चीनी जितना ही कम लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-84",
+      "text": {
+        "en": "Choose plain curd over flavoured yoghurt, which often has added sugar.",
+        "hi": "फ़्लेवर वाले योगर्ट की जगह सादा दही लें, उसमें अक्सर चीनी मिली होती है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-85",
+      "text": {
+        "en": "Pick salted chaas over sweet lassi or a milkshake on hot days.",
+        "hi": "गर्मी में मीठी लस्सी या मिल्कशेक की जगह नमकीन छाछ लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-86",
+      "text": {
+        "en": "Keep instant noodles, pizza and burgers as a rare treat, not a weekly habit.",
+        "hi": "इंस्टेंट नूडल्स, पिज़्ज़ा और बर्गर कभी-कभार का खाना रखें, हर हफ़्ते की आदत नहीं।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-87",
+      "text": {
+        "en": "Weekend outings can undo weekday effort. Plan one healthy order before you reach the restaurant.",
+        "hi": "वीकेंड की दावत पूरे हफ़्ते की मेहनत बिगाड़ सकती है। होटल पहुँचने से पहले एक हल्की चीज़ तय कर लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-88",
+      "text": {
+        "en": "Write down what you eat for a few days. It helps you spot hidden sugar and fried snacks.",
+        "hi": "कुछ दिन जो खाते हैं वह लिख लें। इससे छिपी चीनी और तली चीज़ें पकड़ में आती हैं।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-89",
+      "text": {
+        "en": "Feeling tired, itching, yellow eyes or swelling in the belly need a doctor’s visit soon.",
+        "hi": "बहुत थकान, खुजली, आँखों में पीलापन या पेट में सूजन हो तो जल्दी डॉक्टर को दिखाएँ।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-90",
+      "text": {
+        "en": "Celebrate small wins, like a smaller waist or better energy, not just the number on the scale.",
+        "hi": "छोटी जीत का भी जश्न मनाएँ, जैसे कमर कम होना या ज़्यादा फ़ुर्ती, सिर्फ़ वज़न का नंबर नहीं।"
       },
       "reviewedBy": "PENDING",
       "reviewedOn": null
