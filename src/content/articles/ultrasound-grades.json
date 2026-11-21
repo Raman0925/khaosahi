@@ -1,0 +1,176 @@
+{
+  "id": "ultrasound-grades",
+  "topics": ["fattyLiver"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Fatty liver grade 1, 2, 3: what the ultrasound says",
+    "hi": "फैटी लिवर ग्रेड 1, 2, 3: अल्ट्रासाउंड क्या बताता है"
+  },
+  "summary": {
+    "en": "What the grade on your ultrasound report means, what it cannot tell you, and what to do next.",
+    "hi": "अल्ट्रासाउंड रिपोर्ट के ग्रेड का क्या मतलब है, यह क्या नहीं बता सकता, और आगे क्या करें।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Many people in India first hear the words 'fatty liver' on an ultrasound report. The report may say 'Grade 1 fatty liver', 'Grade 2 fatty infiltration' or 'increased echogenicity'. Here is what these words mean in simple language."
+      },
+      {
+        "type": "heading",
+        "text": "How ultrasound sees fat"
+      },
+      {
+        "type": "paragraph",
+        "text": "An ultrasound uses sound waves to make a picture of the inside of your belly. A healthy liver looks a certain shade of grey. When fat builds up, the liver looks brighter on the screen. The radiologist (the doctor who does the scan) compares how bright the liver looks with nearby organs and how clearly the blood vessels and the diaphragm can be seen. Based on this, they give a grade."
+      },
+      {
+        "type": "heading",
+        "text": "What the grades usually mean"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Grade 1 (mild): the liver is a little brighter than normal, but the structures inside it are still clearly seen.",
+          "Grade 2 (moderate): the liver is brighter, and some inner details are harder to see.",
+          "Grade 3 (severe): the liver is very bright, and deeper parts are difficult to see clearly."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "The grade is a rough guide to how much fat is in the liver. It is a description of a picture, not a full judgement of your liver health."
+      },
+      {
+        "type": "heading",
+        "text": "What the grade cannot tell you"
+      },
+      {
+        "type": "paragraph",
+        "text": "An ultrasound is good at spotting fat, but it cannot reliably show whether there is swelling (inflammation) or scarring in the liver. Two people with the same grade can have very different liver health. The grade can also vary a little between machines and between the doctors doing the scan. So try not to worry too much if one report says Grade 1 and the next says Grade 2, or the other way round."
+      },
+      {
+        "type": "paragraph",
+        "text": "To get a fuller picture, your doctor may look at your blood tests, your sugar and cholesterol, and sometimes order other tests, such as a special scan that measures liver stiffness. Follow their advice on which tests you need and when."
+      },
+      {
+        "type": "heading",
+        "text": "Can the grade improve?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fat in the liver can come down when the load on the liver comes down. In many people, steady weight loss, regular activity, less sugar and refined flour, less fried food and avoiding alcohol may help lower the amount of fat over months. Some people see a better grade on a later scan, but this varies from person to person, and changes take time."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Focus on daily habits rather than on the grade alone",
+          "Track your weight and waist size every week or two",
+          "Keep your old ultrasound reports so your doctor can compare",
+          "Ask your doctor when a repeat scan makes sense for you, instead of doing scans very often"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Common worries"
+      },
+      {
+        "type": "paragraph",
+        "text": "'Grade 1 is nothing, I can ignore it.' Grade 1 is often mild, but it is still a sign to act. This is the best time to change habits, before things progress."
+      },
+      {
+        "type": "paragraph",
+        "text": "'Grade 3 means my liver is damaged for life.' Not necessarily. A high grade means more fat, and it deserves careful follow-up with your doctor, but many people still benefit a lot from lifestyle changes."
+      },
+      {
+        "type": "heading",
+        "text": "Your next step"
+      },
+      {
+        "type": "paragraph",
+        "text": "Show your ultrasound report to your doctor and ask what it means for you. Log your ultrasound grade in the Progress section of this app, along with your weight, waist and blood tests, so you can see your journey over time. Then pick one small habit from your plan today and start there."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "भारत में बहुत से लोग 'फैटी लिवर' शब्द पहली बार अल्ट्रासाउंड रिपोर्ट पर पढ़ते हैं। रिपोर्ट में 'Grade 1 fatty liver', 'Grade 2 fatty infiltration' या 'increased echogenicity' लिखा हो सकता है। आसान भाषा में इनका मतलब यहाँ समझें।"
+      },
+      {
+        "type": "heading",
+        "text": "अल्ट्रासाउंड में चर्बी कैसे दिखती है"
+      },
+      {
+        "type": "paragraph",
+        "text": "अल्ट्रासाउंड आवाज़ की तरंगों से पेट के अंदर की तस्वीर बनाता है। सेहतमंद लिवर एक ख़ास तरह के स्लेटी रंग का दिखता है। जब चर्बी जमती है, तो स्क्रीन पर लिवर ज़्यादा चमकीला दिखता है। रेडियोलॉजिस्ट (स्कैन करने वाले डॉक्टर) देखते हैं कि लिवर आसपास के अंगों के मुक़ाबले कितना चमकीला है, और अंदर की नसें और डायाफ़्राम कितनी साफ़ दिखती हैं। इसी के आधार पर वे ग्रेड देते हैं।"
+      },
+      {
+        "type": "heading",
+        "text": "ग्रेड का आमतौर पर क्या मतलब है"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "ग्रेड 1 (हल्का): लिवर सामान्य से थोड़ा ज़्यादा चमकीला है, पर अंदर की बनावट साफ़ दिखती है।",
+          "ग्रेड 2 (मध्यम): लिवर ज़्यादा चमकीला है, और अंदर की कुछ चीज़ें देखना मुश्किल होता है।",
+          "ग्रेड 3 (ज़्यादा): लिवर बहुत चमकीला है, और गहरे हिस्से साफ़ नहीं दिखते।"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "ग्रेड से मोटा-मोटा अंदाज़ा मिलता है कि लिवर में कितनी चर्बी है। यह एक तस्वीर का ब्योरा है, आपके लिवर की पूरी सेहत का फ़ैसला नहीं।"
+      },
+      {
+        "type": "heading",
+        "text": "ग्रेड क्या नहीं बता सकता"
+      },
+      {
+        "type": "paragraph",
+        "text": "अल्ट्रासाउंड चर्बी पकड़ने में अच्छा है, पर यह भरोसे से नहीं बता सकता कि लिवर में सूजन या निशान (स्कारिंग) है या नहीं। एक ही ग्रेड वाले दो लोगों के लिवर की सेहत बहुत अलग हो सकती है। मशीन और स्कैन करने वाले डॉक्टर के हिसाब से भी ग्रेड थोड़ा बदल सकता है। इसलिए अगर एक रिपोर्ट में ग्रेड 1 और अगली में ग्रेड 2 लिखा हो, या इसका उल्टा, तो बहुत परेशान न हों।"
+      },
+      {
+        "type": "paragraph",
+        "text": "पूरी तस्वीर के लिए डॉक्टर आपके ख़ून के टेस्ट, शुगर और कोलेस्ट्रॉल देख सकते हैं, और कभी-कभी दूसरे टेस्ट करा सकते हैं, जैसे लिवर की सख़्ती नापने वाला ख़ास स्कैन। कौन सा टेस्ट कब कराना है, इसके लिए उनकी सलाह मानें।"
+      },
+      {
+        "type": "heading",
+        "text": "क्या ग्रेड सुधर सकता है?"
+      },
+      {
+        "type": "paragraph",
+        "text": "जब लिवर पर बोझ कम होता है तो उसमें जमी चर्बी भी कम हो सकती है। बहुत से लोगों में धीरे-धीरे वज़न घटाना, रोज़ चलना-फिरना, कम चीनी और मैदा, कम तला खाना और शराब से दूरी कुछ महीनों में चर्बी कम करने में मदद कर सकती है। कुछ लोगों को बाद के स्कैन में बेहतर ग्रेड मिलता है, पर यह हर व्यक्ति में अलग होता है, और बदलाव में समय लगता है।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "सिर्फ़ ग्रेड पर नहीं, रोज़ की आदतों पर ध्यान दें",
+          "हर एक-दो हफ़्ते में वज़न और कमर का नाप ट्रैक करें",
+          "पुरानी अल्ट्रासाउंड रिपोर्ट सँभालकर रखें ताकि डॉक्टर तुलना कर सकें",
+          "बार-बार स्कैन कराने के बजाय डॉक्टर से पूछें कि आपके लिए दोबारा स्कैन कब ठीक रहेगा"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "आम चिंताएँ"
+      },
+      {
+        "type": "paragraph",
+        "text": "'ग्रेड 1 तो कुछ नहीं है, इसे छोड़ सकते हैं।' ग्रेड 1 अक्सर हल्का होता है, पर फिर भी यह क़दम उठाने का इशारा है। आदतें बदलने का यही सबसे अच्छा समय है, बात आगे बढ़ने से पहले।"
+      },
+      {
+        "type": "paragraph",
+        "text": "'ग्रेड 3 का मतलब मेरा लिवर हमेशा के लिए ख़राब हो गया।' ज़रूरी नहीं। ज़्यादा ग्रेड का मतलब ज़्यादा चर्बी है, और इसमें डॉक्टर के साथ ध्यान से फ़ॉलो-अप ज़रूरी है, पर बहुत से लोगों को रहन-सहन बदलने से फिर भी काफ़ी फ़ायदा होता है।"
+      },
+      {
+        "type": "heading",
+        "text": "अगला क़दम"
+      },
+      {
+        "type": "paragraph",
+        "text": "अपनी अल्ट्रासाउंड रिपोर्ट डॉक्टर को दिखाएँ और पूछें कि आपके लिए इसका क्या मतलब है। इस ऐप के Progress सेक्शन में वज़न, कमर और ख़ून के टेस्ट के साथ अपना अल्ट्रासाउंड ग्रेड भी दर्ज करें, ताकि समय के साथ अपना सफ़र देख सकें। फिर आज अपने प्लान से एक छोटी आदत चुनें और वहीं से शुरू करें।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

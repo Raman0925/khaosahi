@@ -1,0 +1,272 @@
+{
+  "id": "festival-food-guide",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": true,
+  "title": {
+    "en": "Festival food guide",
+    "hi": "त्योहारों के खाने की गाइड"
+  },
+  "summary": {
+    "en": "Smarter choices and easy swaps for Diwali, Holi, Eid, Navratri, Raksha Bandhan, Christmas, Pongal, Onam and weddings.",
+    "hi": "दिवाली, होली, ईद, नवरात्रि, रक्षाबंधन, क्रिसमस, पोंगल, ओणम और शादियों के लिए समझदारी भरे विकल्प और आसान बदलाव।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Festivals are about family, faith and food, and nobody wants to sit them out. The aim is not to skip the celebration but to enjoy it in a way that leaves you feeling good the next day. A few habits work at every festival: eat a normal meal before visiting, take a small plate, fill half of it with salad or sabzi, choose one or two sweets you really love, and keep walking and drinking water."
+      },
+      {
+        "type": "heading",
+        "text": "Diwali"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Gift dry fruits, fruit baskets or roasted makhana instead of boxes of mithai.",
+          "Make baked or air-fried versions of mathri, chakli and shakarpara.",
+          "Choose milk-based sweets in small pieces over deep-fried ones like jalebi and gulab jamun.",
+          "Try homemade sweets with dates and nuts and less added sugar.",
+          "Serve guests chaas or nimbu pani instead of cold drinks."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Holi"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Have one gujiya, preferably baked, and share the rest.",
+          "Serve thandai with less sugar and more milk and nuts, or plain chaas.",
+          "Offer dahi bhalla with lots of curd and less sweet chutney.",
+          "Keep fruit chaat and cucumber sticks out for snacking while playing.",
+          "Skip bhang and alcohol-based drinks."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Eid"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Enjoy sheer khurma in a small cup, made with less sugar and more nuts.",
+          "Choose chicken or fish dishes cooked in less oil over mutton and organ meat dishes.",
+          "Pair biryani with plenty of raita and salad and keep the rice portion small.",
+          "Prefer tandoori or grilled kebabs over fried ones.",
+          "During Ramzan, open the fast with dates, water and fruit before fried pakoras."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Navratri"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Make kuttu or rajgira cheela on the tawa instead of puri.",
+          "Roast makhana and peanuts lightly instead of frying.",
+          "Use samak rice khichdi with lots of vegetables.",
+          "Have fruit with curd for a filling snack.",
+          "At garba nights, carry water and choose fruit or buttermilk at stalls."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Raksha Bandhan and Bhai Dooj"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Gift a box of nuts, dried figs or a fruit hamper.",
+          "Make a small batch of homemade laddoos with dates, nuts and seeds.",
+          "Share sweets by cutting them into small pieces."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Christmas and New Year"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Have a small slice of plum cake and pass on the second.",
+          "Make homemade cakes with whole wheat flour, fruit and less sugar.",
+          "Choose roasted chicken or grilled fish with vegetables for the main meal.",
+          "Serve fresh lime soda without sugar or spiced tea instead of punch or wine."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Pongal, Sankranti and Lohri"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Enjoy ven pongal with plenty of vegetables and go easy on ghee.",
+          "Have sakkarai pongal in a small katori.",
+          "Til-gud laddoos are tasty; one or two small pieces are enough.",
+          "Roasted peanuts, chana and corn by the bonfire are better than fried snacks and rewari in large amounts."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Onam"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "The sadya is full of vegetable dishes like avial, thoran and olan; fill up on these.",
+          "Keep rice to a modest portion and enjoy sambar and rasam.",
+          "Take payasam in a small cup and choose one variety.",
+          "Have banana chips in a small handful only."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Weddings and parties"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Walk around the whole buffet first, then choose.",
+          "Start with salad, soup or a dal and roti.",
+          "Pick tandoori, grilled or steamed dishes over fried starters.",
+          "Choose one sweet and enjoy it slowly.",
+          "Dance, it counts as exercise."
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "त्योहार परिवार, आस्था और खाने के होते हैं, और कोई उनसे दूर नहीं रहना चाहता। मक़सद जश्न छोड़ना नहीं, बल्कि इस तरह मनाना है कि अगले दिन भी अच्छा महसूस हो। कुछ आदतें हर त्योहार में काम आती हैं: किसी के घर जाने से पहले आम खाना खा लें, छोटी प्लेट लें, आधी प्लेट सलाद या सब्ज़ी से भरें, सिर्फ़ एक-दो मिठाई चुनें जो सच में पसंद हों, और चलते रहें व पानी पीते रहें।"
+      },
+      {
+        "type": "heading",
+        "text": "दिवाली"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "मिठाई के डिब्बों की जगह मेवे, फलों की टोकरी या भुना मखाना गिफ़्ट करें।",
+          "मठरी, चकली और शकरपारे बेक करके या एयर फ़्रायर में बनाएँ।",
+          "जलेबी और गुलाब जामुन जैसी तली मिठाई की जगह दूध वाली मिठाई के छोटे टुकड़े चुनें।",
+          "खजूर और मेवे से कम चीनी वाली घर की मिठाई बनाएँ।",
+          "मेहमानों को कोल्ड ड्रिंक की जगह छाछ या नींबू पानी दें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "होली"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "एक गुझिया लें, हो सके तो बेक की हुई, और बाक़ी बाँट दें।",
+          "कम चीनी और ज़्यादा दूध-मेवे वाली ठंडाई, या सादी छाछ दें।",
+          "दही भल्ले में ज़्यादा दही और कम मीठी चटनी डालें।",
+          "खेलते समय खाने के लिए फ्रूट चाट और खीरे के टुकड़े रखें।",
+          "भांग और शराब वाले ड्रिंक से दूर रहें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ईद"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "शीर ख़ुरमा छोटे कप में लें, कम चीनी और ज़्यादा मेवे के साथ।",
+          "मटन और कलेजी वाले व्यंजनों की जगह कम तेल में बना चिकन या मछली चुनें।",
+          "बिरयानी के साथ ढेर सारा रायता और सलाद लें और चावल कम रखें।",
+          "तले कबाब की जगह तंदूरी या ग्रिल्ड कबाब लें।",
+          "रमज़ान में रोज़ा तले पकौड़ों से पहले खजूर, पानी और फल से खोलें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "नवरात्रि"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "पूरी की जगह तवे पर कुट्टू या राजगिरा का चीला बनाएँ।",
+          "मखाना और मूँगफली तलें नहीं, हल्का भूनें।",
+          "ढेर सारी सब्ज़ियों के साथ समा के चावल की खिचड़ी बनाएँ।",
+          "पेट भरने वाले स्नैक के लिए दही के साथ फल लें।",
+          "गरबा की रात पानी साथ रखें और स्टॉल पर फल या छाछ चुनें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "रक्षाबंधन और भाई दूज"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "मेवे, सूखे अंजीर या फलों का हैम्पर गिफ़्ट करें।",
+          "खजूर, मेवे और बीजों से घर पर थोड़े लड्डू बनाएँ।",
+          "मिठाई छोटे टुकड़ों में काटकर बाँटें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "क्रिसमस और नया साल"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "प्लम केक का एक छोटा टुकड़ा लें, दूसरा छोड़ दें।",
+          "घर पर आटे, फलों और कम चीनी से केक बनाएँ।",
+          "मुख्य खाने में सब्ज़ियों के साथ रोस्टेड चिकन या ग्रिल्ड मछली चुनें।",
+          "पंच या वाइन की जगह बिना चीनी का फ्रेश लाइम सोडा या मसाला चाय दें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "पोंगल, संक्रांति और लोहड़ी"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "वेन पोंगल ढेर सारी सब्ज़ियों के साथ खाएँ और घी कम रखें।",
+          "सक्करई पोंगल छोटी कटोरी में लें।",
+          "तिल-गुड़ के लड्डू स्वाद वाले हैं; एक-दो छोटे टुकड़े काफ़ी हैं।",
+          "अलाव के पास तले स्नैक्स और ढेर सारी रेवड़ी की जगह भुनी मूँगफली, चना और भुट्टा बेहतर है।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ओणम"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "सद्या में अवियल, थोरन और ओलन जैसी ढेर सारी सब्ज़ियाँ होती हैं; इन्हीं से पेट भरें।",
+          "चावल थोड़े रखें और सांभर-रसम का मज़ा लें।",
+          "पायसम छोटे कप में लें और एक ही तरह का चुनें।",
+          "केले के चिप्स बस एक छोटी मुट्ठी।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "शादी और पार्टी"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "पहले पूरा बुफ़े घूमकर देखें, फिर चुनें।",
+          "शुरुआत सलाद, सूप या दाल-रोटी से करें।",
+          "तले स्टार्टर की जगह तंदूरी, ग्रिल्ड या भाप वाले व्यंजन चुनें।",
+          "एक मिठाई चुनें और आराम से उसका मज़ा लें।",
+          "डांस करें, यह भी कसरत है।"
+        ]
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

@@ -1,0 +1,286 @@
+{
+  "id": "seven-day-sample-menu",
+  "topics": ["fattyLiver", "uricAcid", "general"],
+  "readMinutes": 4,
+  "rewardedExtra": true,
+  "title": {
+    "en": "7-day sample menu",
+    "hi": "7 दिन का सैंपल मेन्यू"
+  },
+  "summary": {
+    "en": "A week of simple Indian meal ideas with veg and non-veg options and Jain notes for every day.",
+    "hi": "एक हफ़्ते के आसान भारतीय खाने के आइडिया, हर दिन शाकाहारी और नॉन-वेज विकल्प और जैन नोट के साथ।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Use this menu as a source of ideas, not a strict rule. Mix and match days, repeat the meals your family enjoys, and adjust portions to your appetite. Every day follows the same simple pattern: half the plate vegetables, a quarter whole grains and a quarter protein, cooked in a little oil. Drink water through the day and keep chai to one or two cups with little or no sugar."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non-veg options use eggs, fish and chicken. Red meat, organ meat and shellfish are left out of this menu. Egg-eaters can pick the egg-based options and the veg options on other days."
+      },
+      {
+        "type": "heading",
+        "text": "Day 1"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Breakfast: vegetable poha with peas and peanuts, and a glass of chaas.",
+          "Lunch (veg): 2 phulkas, moong dal, lauki sabzi, cucumber salad.",
+          "Lunch (non-veg): 2 phulkas, light chicken curry made with little oil, lauki sabzi, salad.",
+          "Snack: one guava or apple, and a small handful of roasted chana.",
+          "Dinner (veg): vegetable dalia khichdi with a katori of curd.",
+          "Dinner (non-veg): dalia khichdi with 2 egg-white bhurji on the side.",
+          "Jain note: make poha without onion and potato; use capsicum, peas and tomato. Use raw banana or lauki-based dishes in place of root vegetables."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Day 2"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Breakfast: 2 moong dal cheelas with mint chutney.",
+          "Lunch (veg): a small katori of brown or regular rice, rajma or chole in a small portion, mixed salad, curd.",
+          "Lunch (non-veg): small katori rice, fish curry made with rohu or pomfret in little oil, cabbage sabzi.",
+          "Snack: a glass of buttermilk and a few roasted makhana.",
+          "Dinner (veg): 2 jowar rotis, palak paneer with less cream, carrot-cucumber salad.",
+          "Dinner (non-veg): 2 jowar rotis, tawa-grilled chicken tikka, palak sabzi.",
+          "Jain note: make chole or rajma with tomato, ginger powder and hing instead of onion-garlic; skip carrot in the salad and use cucumber and capsicum."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Day 3"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Breakfast: vegetable upma with rava or dalia, and a small bowl of papaya.",
+          "Lunch (veg): 2 multigrain rotis, chana dal with lauki, bhindi sabzi, salad.",
+          "Lunch (non-veg): 2 multigrain rotis, egg curry with one whole egg and extra egg whites, bhindi sabzi.",
+          "Snack: sprouts chaat with tomato, cucumber and lemon.",
+          "Dinner (veg): foxtail millet pulao with vegetables and a bowl of raita.",
+          "Dinner (non-veg): millet pulao with steamed or grilled fish and raita.",
+          "Jain note: skip onion in upma and use curry leaves and green chilli; use moong sprouts only if your family's practice allows sprouts."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Day 4"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Breakfast: 2 idlis with sambar and a little coconut chutney.",
+          "Lunch (veg): small katori rice, toor dal, beans poriyal, curd.",
+          "Lunch (non-veg): small katori rice, chicken stew with vegetables, beans poriyal.",
+          "Snack: one orange or a slice of melon.",
+          "Dinner (veg): 2 ragi dosas with vegetable kurma.",
+          "Dinner (non-veg): 2 ragi dosas with egg-white masala bhurji.",
+          "Jain note: make sambar with lauki, tomato and drumstick instead of onion and radish; kurma can use capsicum, peas and beans."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Day 5"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Breakfast: besan cheela with grated vegetables and green chutney.",
+          "Lunch (veg): 2 phulkas, paneer bhurji with capsicum, tinda or turai sabzi, salad.",
+          "Lunch (non-veg): 2 phulkas, fish tikka made on the tawa, turai sabzi, salad.",
+          "Snack: a cup of roasted makhana or a small handful of peanuts.",
+          "Dinner (veg): moong dal khichdi with plenty of vegetables and a katori of curd.",
+          "Dinner (non-veg): moong dal khichdi with a side of grilled chicken pieces.",
+          "Jain note: use cabbage, capsicum and tomato in the cheela instead of onion and carrot."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Day 6"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Breakfast: vegetable dalia (broken wheat) with milk or as a savoury upma.",
+          "Lunch (veg): 2 bajra or jowar rotis, kadhi made with little oil, methi or mixed sabzi.",
+          "Lunch (non-veg): 2 millet rotis, home-style chicken curry with little oil, mixed sabzi.",
+          "Snack: one apple or pear with a few almonds.",
+          "Dinner (veg): mixed vegetable soup, 1 roti, and a small bowl of chana salad.",
+          "Dinner (non-veg): vegetable soup with shredded chicken, 1 roti, salad.",
+          "Jain note: make kadhi with hing and methi seeds instead of onion; prefer tomato-based soups without potato."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Day 7"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Breakfast: vegetable stuffed paratha cooked with a little oil, with curd. A weekend treat in a sensible portion.",
+          "Lunch (veg): small katori rice, masoor or mixed dal, pumpkin sabzi, salad.",
+          "Lunch (non-veg): small katori rice, light fish curry, pumpkin sabzi, salad.",
+          "Snack: chaas with roasted jeera, and a fruit.",
+          "Dinner (veg): 2 rotis, matar paneer with less oil, cucumber raita.",
+          "Dinner (non-veg): 2 rotis, egg-white omelette with vegetables, cucumber raita.",
+          "Jain note: stuff parathas with paneer, methi or cabbage instead of aloo and onion."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Make it your own"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Swap dishes for your regional favourites, keeping the same plate pattern.",
+          "Cook a little extra dal or sabzi at dinner for the next day's lunch box.",
+          "Use the Food checker in the app to see how each dish fits your condition."
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "इस मेन्यू को आइडिया की तरह इस्तेमाल करें, सख़्त नियम की तरह नहीं। दिन आगे-पीछे करें, जो खाना परिवार को पसंद है उसे दोहराएँ, और मात्रा अपनी भूख के हिसाब से रखें। हर दिन एक ही आसान तरीक़ा है: आधी थाली सब्ज़ी, एक चौथाई साबुत अनाज और एक चौथाई प्रोटीन, कम तेल में बना। दिन भर पानी पिएँ और चाय एक-दो कप तक रखें, कम या बिना चीनी के।"
+      },
+      {
+        "type": "paragraph",
+        "text": "नॉन-वेज विकल्पों में अंडा, मछली और चिकन है। रेड मीट, कलेजी जैसे अंग और झींगा जैसे शेलफ़िश इस मेन्यू में नहीं हैं। अंडा खाने वाले अंडे वाले विकल्प चुनें और बाक़ी दिन शाकाहारी विकल्प।"
+      },
+      {
+        "type": "heading",
+        "text": "दिन 1"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "नाश्ता: मटर और मूँगफली वाला सब्ज़ी पोहा, और एक गिलास छाछ।",
+          "दोपहर (शाकाहारी): 2 फुलके, मूँग दाल, लौकी की सब्ज़ी, खीरे का सलाद।",
+          "दोपहर (नॉन-वेज): 2 फुलके, कम तेल वाली हल्की चिकन करी, लौकी की सब्ज़ी, सलाद।",
+          "स्नैक: एक अमरूद या सेब, और एक छोटी मुट्ठी भुना चना।",
+          "रात (शाकाहारी): सब्ज़ी वाली दलिया खिचड़ी और एक कटोरी दही।",
+          "रात (नॉन-वेज): दलिया खिचड़ी के साथ 2 अंडों की सफ़ेदी की भुर्जी।",
+          "जैन नोट: पोहा बिना प्याज़-आलू के बनाएँ; शिमला मिर्च, मटर और टमाटर डालें। जड़ वाली सब्ज़ियों की जगह कच्चा केला या लौकी वाले व्यंजन लें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "दिन 2"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "नाश्ता: पुदीने की चटनी के साथ 2 मूँग दाल चीले।",
+          "दोपहर (शाकाहारी): एक छोटी कटोरी ब्राउन या सादे चावल, थोड़ा राजमा या छोले, मिक्स सलाद, दही।",
+          "दोपहर (नॉन-वेज): छोटी कटोरी चावल, कम तेल में रोहू या पॉम्फ़्रेट की फ़िश करी, पत्तागोभी की सब्ज़ी।",
+          "स्नैक: एक गिलास छाछ और थोड़ा भुना मखाना।",
+          "रात (शाकाहारी): 2 ज्वार की रोटी, कम क्रीम वाला पालक पनीर, गाजर-खीरे का सलाद।",
+          "रात (नॉन-वेज): 2 ज्वार की रोटी, तवे पर बना चिकन टिक्का, पालक की सब्ज़ी।",
+          "जैन नोट: छोले या राजमा प्याज़-लहसुन की जगह टमाटर, सोंठ और हींग से बनाएँ; सलाद में गाजर की जगह खीरा और शिमला मिर्च लें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "दिन 3"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "नाश्ता: सूजी या दलिया का सब्ज़ी उपमा, और एक छोटी कटोरी पपीता।",
+          "दोपहर (शाकाहारी): 2 मल्टीग्रेन रोटी, लौकी वाली चना दाल, भिंडी की सब्ज़ी, सलाद।",
+          "दोपहर (नॉन-वेज): 2 मल्टीग्रेन रोटी, एक पूरे अंडे और ज़्यादा सफ़ेदी वाली अंडा करी, भिंडी की सब्ज़ी।",
+          "स्नैक: टमाटर, खीरा और नींबू वाली अंकुरित चाट।",
+          "रात (शाकाहारी): सब्ज़ियों वाला कंगनी (मिलेट) पुलाव और एक कटोरी रायता।",
+          "रात (नॉन-वेज): मिलेट पुलाव के साथ भाप में पकी या ग्रिल्ड मछली और रायता।",
+          "जैन नोट: उपमा में प्याज़ की जगह करी पत्ता और हरी मिर्च डालें; अंकुरित मूँग तभी लें जब आपके परिवार के नियम में चलता हो।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "दिन 4"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "नाश्ता: सांभर और थोड़ी नारियल चटनी के साथ 2 इडली।",
+          "दोपहर (शाकाहारी): छोटी कटोरी चावल, अरहर दाल, बीन्स पोरियल, दही।",
+          "दोपहर (नॉन-वेज): छोटी कटोरी चावल, सब्ज़ियों वाला चिकन स्टू, बीन्स पोरियल।",
+          "स्नैक: एक संतरा या ख़रबूज़े की एक फाँक।",
+          "रात (शाकाहारी): सब्ज़ी कुरमा के साथ 2 रागी डोसे।",
+          "रात (नॉन-वेज): अंडे की सफ़ेदी की मसाला भुर्जी के साथ 2 रागी डोसे।",
+          "जैन नोट: सांभर में प्याज़ और मूली की जगह लौकी, टमाटर और सहजन डालें; कुरमा में शिमला मिर्च, मटर और बीन्स लें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "दिन 5"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "नाश्ता: कद्दूकस की सब्ज़ियों वाला बेसन चीला, हरी चटनी के साथ।",
+          "दोपहर (शाकाहारी): 2 फुलके, शिमला मिर्च वाली पनीर भुर्जी, टिंडा या तुरई की सब्ज़ी, सलाद।",
+          "दोपहर (नॉन-वेज): 2 फुलके, तवे पर बना फ़िश टिक्का, तुरई की सब्ज़ी, सलाद।",
+          "स्नैक: एक कप भुना मखाना या एक छोटी मुट्ठी मूँगफली।",
+          "रात (शाकाहारी): ढेर सारी सब्ज़ियों वाली मूँग दाल खिचड़ी और एक कटोरी दही।",
+          "रात (नॉन-वेज): मूँग दाल खिचड़ी के साथ ग्रिल्ड चिकन के कुछ टुकड़े।",
+          "जैन नोट: चीले में प्याज़ और गाजर की जगह पत्तागोभी, शिमला मिर्च और टमाटर डालें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "दिन 6"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "नाश्ता: दूध के साथ सब्ज़ी दलिया, या नमकीन उपमा की तरह।",
+          "दोपहर (शाकाहारी): 2 बाजरा या ज्वार की रोटी, कम तेल वाली कढ़ी, मेथी या मिक्स सब्ज़ी।",
+          "दोपहर (नॉन-वेज): 2 मिलेट रोटी, कम तेल वाली घर जैसी चिकन करी, मिक्स सब्ज़ी।",
+          "स्नैक: एक सेब या नाशपाती और कुछ बादाम।",
+          "रात (शाकाहारी): मिक्स सब्ज़ी सूप, 1 रोटी और एक छोटी कटोरी चना सलाद।",
+          "रात (नॉन-वेज): चिकन के टुकड़ों वाला सब्ज़ी सूप, 1 रोटी, सलाद।",
+          "जैन नोट: कढ़ी प्याज़ की जगह हींग और मेथी दाने से बनाएँ; बिना आलू वाले टमाटर सूप लें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "दिन 7"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "नाश्ता: कम तेल में बना सब्ज़ी भरा परांठा, दही के साथ। वीकेंड का स्वाद, पर सही मात्रा में।",
+          "दोपहर (शाकाहारी): छोटी कटोरी चावल, मसूर या मिक्स दाल, कद्दू की सब्ज़ी, सलाद।",
+          "दोपहर (नॉन-वेज): छोटी कटोरी चावल, हल्की फ़िश करी, कद्दू की सब्ज़ी, सलाद।",
+          "स्नैक: भुने जीरे वाली छाछ और एक फल।",
+          "रात (शाकाहारी): 2 रोटी, कम तेल वाला मटर पनीर, खीरे का रायता।",
+          "रात (नॉन-वेज): 2 रोटी, सब्ज़ियों वाला अंडे की सफ़ेदी का ऑमलेट, खीरे का रायता।",
+          "जैन नोट: परांठे में आलू-प्याज़ की जगह पनीर, मेथी या पत्तागोभी भरें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "इसे अपने हिसाब से बनाएँ"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "थाली का यही तरीक़ा रखते हुए अपने इलाक़े के पसंदीदा व्यंजन बदल-बदलकर लें।",
+          "रात को थोड़ी ज़्यादा दाल या सब्ज़ी बना लें, अगले दिन के टिफ़िन के लिए।",
+          "हर व्यंजन आपके लिए कैसा है, यह देखने के लिए ऐप का फ़ूड चेकर इस्तेमाल करें।"
+        ]
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

@@ -1,0 +1,198 @@
+{
+  "id": "festivals-and-weddings",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Festivals and weddings",
+    "hi": "त्योहार और शादियाँ"
+  },
+  "summary": {
+    "en": "Enjoy celebrations with family while keeping your liver and uric acid goals in mind.",
+    "hi": "परिवार के साथ जश्न का मज़ा लें, और लिवर व यूरिक एसिड का भी ध्यान रखें।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Diwali, Holi, Eid, Christmas, Navratri, Onam, Pongal, weddings, birthdays and pujas: in India there is always a celebration around the corner, and almost all of them come with food. Celebrations are important for happiness and family bonds. The aim is not to stay away, but to enjoy them in a way that does not set you back for weeks."
+      },
+      {
+        "type": "heading",
+        "text": "Plan ahead"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Eat a light, normal meal or snack before you go. Arriving very hungry leads to overeating.",
+          "Keep your usual meals on the other days of the festival week. Do not skip meals to save up for a feast.",
+          "Decide in advance on one or two favourite treats you will enjoy, and let the rest go.",
+          "Carry a water bottle, especially at long functions and in hot weather."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "At the buffet"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Walk around the whole buffet once before you pick anything.",
+          "Use a smaller plate if there is one, and fill half of it with salad, sabzi and dal first.",
+          "Choose tandoori or grilled starters over fried ones, and take one or two pieces, not a full plate.",
+          "Have one type of grain: either roti, rice, pulao or puri, not all of them.",
+          "Go easy on rich gravies with cream, butter or cashew paste.",
+          "Stand away from the starters counter while chatting, so you are not eating without noticing."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Mithai and sweets"
+      },
+      {
+        "type": "paragraph",
+        "text": "Festival sweets are full of sugar and often ghee or are deep fried. For fatty liver, sugar and fat together are the main concern. For uric acid, sugary drinks and very sweet foods may also play a part."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Pick one small piece of your favourite sweet and enjoy it slowly, instead of tasting every kind.",
+          "Share a sweet with someone, or take half.",
+          "Choose milk-based sweets in small portions, or fruit, over deep-fried sweets like jalebi and gulab jamun when you can.",
+          "When giving gifts, consider dry fruits in small packs, fruit baskets or other non-sweet gifts.",
+          "Store boxes of sweets out of sight, and pass extra boxes on rather than finishing them alone."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Drinks"
+      },
+      {
+        "type": "paragraph",
+        "text": "Welcome drinks, cold drinks, sharbat, thandai and alcohol can add a lot of sugar and calories without you noticing. Alcohol can harm the liver and may raise uric acid, and beer is especially linked with gout attacks. If you have fatty liver or gout, ask your doctor whether any alcohol is safe for you. Plain water, nimbu pani with little sugar, jaljeera or buttermilk are better choices."
+      },
+      {
+        "type": "heading",
+        "text": "Fasting during festivals"
+      },
+      {
+        "type": "paragraph",
+        "text": "Many festivals include a vrat. Fasting food is often fried, like sabudana vada and kuttu puri, or very sweet. Choose roasted makhana, fruit, curd, sabudana khichdi with less oil, or samak rice with vegetables. If you have diabetes or take regular medicines, talk to your doctor before fasting."
+      },
+      {
+        "type": "heading",
+        "text": "Wedding season tips"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "If you have several functions in a row, keep the meals in between simple: dal, sabzi, roti and salad.",
+          "Dance at the sangeet and walk wherever you can. Being active helps balance the extra food.",
+          "Late dinners are common at weddings. Have a light snack at your usual dinner time so you do not overeat at midnight.",
+          "Try to sleep enough between functions. Tiredness makes cravings stronger.",
+          "Keep taking your medicines on time, even when your routine changes."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Be kind to yourself"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you ate more than you planned, that is normal and nothing to feel guilty about. Drink water, go for a walk the next morning, and get back to your usual routine at your next meal. Small slips do not cancel weeks of good habits."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "दिवाली, होली, ईद, क्रिसमस, नवरात्रि, ओणम, पोंगल, शादियाँ, जन्मदिन और पूजा: हमारे यहाँ कोई न कोई जश्न हमेशा पास ही होता है, और लगभग हर जश्न में खाना होता है। ख़ुशी और परिवार के रिश्तों के लिए ये मौक़े ज़रूरी हैं। मक़सद इनसे दूर रहना नहीं, बल्कि ऐसे मनाना है कि हफ़्तों की मेहनत पर पानी न फिरे।"
+      },
+      {
+        "type": "heading",
+        "text": "पहले से तैयारी करें"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "जाने से पहले हल्का, आम खाना या नाश्ता कर लें। बहुत भूखे पहुँचने पर ज़्यादा खा लेते हैं।",
+          "त्योहार वाले हफ़्ते के बाक़ी दिनों में अपना आम खाना खाएँ। दावत के लिए खाना छोड़ें नहीं।",
+          "पहले से तय कर लें कि कौन-सी एक-दो पसंदीदा चीज़ें खाएँगे, बाक़ी छोड़ दें।",
+          "पानी की बोतल साथ रखें, ख़ासकर लंबे फ़ंक्शन और गर्मी में।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "बुफ़े पर"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "कुछ भी लेने से पहले पूरे बुफ़े का एक चक्कर लगा लें।",
+          "छोटी प्लेट हो तो वही लें, और पहले आधी प्लेट सलाद, सब्ज़ी और दाल से भरें।",
+          "तले स्टार्टर की जगह तंदूरी या ग्रिल्ड चुनें, और पूरी प्लेट नहीं, एक-दो पीस लें।",
+          "एक ही तरह का अनाज लें: रोटी, चावल, पुलाव या पूरी में से एक, सब नहीं।",
+          "क्रीम, मक्खन या काजू पेस्ट वाली भारी ग्रेवी कम लें।",
+          "बातें करते समय स्टार्टर काउंटर से दूर खड़े हों, ताकि बिना ध्यान दिए खाते न रहें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "मिठाई"
+      },
+      {
+        "type": "paragraph",
+        "text": "त्योहार की मिठाइयों में चीनी बहुत होती है, और अक्सर घी भी, या वे तली होती हैं। फैटी लिवर में चीनी और चर्बी साथ मिलकर सबसे बड़ी चिंता हैं। यूरिक एसिड में भी मीठे ड्रिंक और बहुत मीठी चीज़ों का असर हो सकता है।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "हर तरह की मिठाई चखने की जगह अपनी पसंद की एक छोटी मिठाई लें और आराम से खाएँ।",
+          "मिठाई किसी के साथ बाँटें, या आधी लें।",
+          "जब हो सके, जलेबी और गुलाब जामुन जैसी तली मिठाई की जगह थोड़ी दूध वाली मिठाई या फल चुनें।",
+          "तोहफ़े में छोटे पैकेट में ड्राई फ्रूट, फलों की टोकरी या कोई बिना मीठा तोहफ़ा दें।",
+          "मिठाई के डिब्बे नज़र से दूर रखें, और ज़्यादा डिब्बे अकेले ख़त्म करने की जगह आगे बाँट दें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ड्रिंक्स"
+      },
+      {
+        "type": "paragraph",
+        "text": "वेलकम ड्रिंक, कोल्ड ड्रिंक, शरबत, ठंडाई और शराब से बिना पता चले बहुत चीनी और कैलोरी जुड़ जाती है। शराब लिवर को नुकसान पहुँचा सकती है और यूरिक एसिड बढ़ा सकती है, और बीयर ख़ासकर गाउट के दर्द से जुड़ी है। फैटी लिवर या गाउट है तो डॉक्टर से पूछें कि आपके लिए थोड़ी शराब भी ठीक है या नहीं। सादा पानी, कम चीनी वाला नींबू पानी, जलजीरा या छाछ बेहतर विकल्प हैं।"
+      },
+      {
+        "type": "heading",
+        "text": "त्योहार पर व्रत"
+      },
+      {
+        "type": "paragraph",
+        "text": "बहुत से त्योहारों में व्रत होता है। व्रत का खाना अक्सर तला होता है, जैसे साबूदाना वड़ा और कुट्टू की पूरी, या बहुत मीठा। भुना मखाना, फल, दही, कम तेल वाली साबूदाना खिचड़ी या सब्ज़ी वाले समा के चावल चुनें। अगर शुगर है या रोज़ दवा लेते हैं, तो व्रत से पहले डॉक्टर से बात करें।"
+      },
+      {
+        "type": "heading",
+        "text": "शादी के सीज़न के लिए बातें"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "लगातार कई फ़ंक्शन हों तो बीच के खाने सादे रखें: दाल, सब्ज़ी, रोटी और सलाद।",
+          "संगीत में नाचें और जहाँ हो सके पैदल चलें। चलना-फिरना ज़्यादा खाने का असर कम करने में मदद करता है।",
+          "शादियों में डिनर देर से होता है। अपने आम डिनर के समय हल्का नाश्ता कर लें, ताकि आधी रात को ज़्यादा न खाएँ।",
+          "फ़ंक्शन के बीच पूरी नींद लेने की कोशिश करें। थकान में खाने की तलब ज़्यादा होती है।",
+          "रूटीन बदले तब भी दवाएँ समय पर लेते रहें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ख़ुद पर सख़्ती न करें"
+      },
+      {
+        "type": "paragraph",
+        "text": "अगर सोचा था उससे ज़्यादा खा लिया, तो यह आम बात है, इसके लिए ख़ुद को दोष न दें। पानी पिएँ, अगली सुबह टहलने जाएँ, और अगले खाने से अपने रूटीन पर लौट आएँ। छोटी चूकें हफ़्तों की अच्छी आदतों को मिटा नहीं देतीं।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

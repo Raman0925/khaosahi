@@ -1,0 +1,182 @@
+{
+  "id": "indian-thali-plating",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "How to plate a healthy Indian thali",
+    "hi": "सेहतमंद थाली कैसे लगाएँ"
+  },
+  "summary": {
+    "en": "A simple half-quarter-quarter way to fill your plate, using the roti, dal and sabzi you already eat.",
+    "hi": "आधी-चौथाई-चौथाई का आसान तरीक़ा, उसी रोटी, दाल और सब्ज़ी के साथ जो आप पहले से खाते हैं।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "You do not need special diet food to eat well. A regular home thali can support your liver and uric acid goals when the amounts on the plate are in the right balance. The easiest way to think about it is to divide your plate into parts."
+      },
+      {
+        "type": "heading",
+        "text": "The half-quarter-quarter plate"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Half the plate: sabzi and salad. Cooked vegetables like lauki, tori, bhindi, beans, cabbage, gobhi, palak or mixed sabzi, plus raw salad like cucumber, tomato, carrot or onion.",
+          "One quarter: protein. Dal, chana, rajma, paneer, curd, tofu or soya, or for non-veg eaters, eggs, fish or chicken.",
+          "One quarter: grains. Roti, rice, millet roti, dalia or brown rice. This is the part most of us overfill."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Many Indian meals are the other way round: a big pile of rice or four to five rotis, a small katori of dal and a spoon of sabzi. Simply shifting space from the grain part to the sabzi part is one of the most useful changes you can make."
+      },
+      {
+        "type": "heading",
+        "text": "Think in katoris"
+      },
+      {
+        "type": "paragraph",
+        "text": "Katori sizes vary a lot from home to home. A small, standard katori is easier to keep track of than a large serving bowl. Use the same katori each day so you know roughly how much you are eating."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Sabzi: one to two katoris, and more salad if you are still hungry.",
+          "Dal or another protein: about one katori.",
+          "Rice: about one katori of cooked rice, or two rotis of medium size, instead of both together in large amounts.",
+          "Curd or buttermilk: a small katori of plain curd or a glass of chaas can be part of the meal."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Watch the oil and extras"
+      },
+      {
+        "type": "paragraph",
+        "text": "Even a well-balanced plate can carry a lot of hidden fat and salt. Tadka, ghee on rotis, papad, pickle and fried sides add up quickly."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Measure oil with a spoon while cooking instead of pouring from the bottle.",
+          "Keep ghee or butter on roti to a thin smear, or skip it on most days.",
+          "Choose dry-roasted papad over fried, and treat pickle as a small taste, not a side dish.",
+          "Keep fried items like puri, pakoda and bhature for special occasions."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Notes for your condition"
+      },
+      {
+        "type": "paragraph",
+        "text": "For fatty liver, the main focus is on smaller grain portions, less sugar and refined flour, and less fried food. For high uric acid, the same plate works well. Dals and vegetables are generally fine in normal portions for most people, while large amounts of red meat, organ meat and seafood are best limited. If you have both conditions, this plate suits both."
+      },
+      {
+        "type": "heading",
+        "text": "Small habits that make the plate work"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Start the meal with salad or sabzi, then dal, then roti or rice.",
+          "Serve yourself once, in the kitchen, instead of keeping big serving bowls on the table.",
+          "Eat slowly and sit down for meals, away from the TV or phone when you can.",
+          "Drink water with your meal instead of sweet drinks.",
+          "If you are still hungry, take more sabzi or salad first."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Over time, this way of plating may help with weight, blood sugar and liver health, without giving up the food your family loves."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "अच्छा खाने के लिए किसी ख़ास डाइट फ़ूड की ज़रूरत नहीं है। घर की आम थाली भी लिवर और यूरिक एसिड के लिए अच्छी हो सकती है, अगर थाली में चीज़ें सही अनुपात में हों। सबसे आसान तरीक़ा है थाली को हिस्सों में बाँटकर सोचना।"
+      },
+      {
+        "type": "heading",
+        "text": "आधी-चौथाई-चौथाई थाली"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "आधी थाली: सब्ज़ी और सलाद। लौकी, तोरी, भिंडी, बीन्स, पत्तागोभी, गोभी, पालक या मिक्स सब्ज़ी, साथ में खीरा, टमाटर, गाजर या प्याज़ का सलाद।",
+          "एक चौथाई: प्रोटीन। दाल, चना, राजमा, पनीर, दही, टोफ़ू या सोया, या नॉन-वेज खाने वालों के लिए अंडा, मछली या चिकन।",
+          "एक चौथाई: अनाज। रोटी, चावल, मिलेट की रोटी, दलिया या ब्राउन राइस। ज़्यादातर लोग यही हिस्सा सबसे ज़्यादा भर लेते हैं।"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "हमारी बहुत-सी थालियाँ उल्टी होती हैं: ढेर सारा चावल या चार-पाँच रोटी, छोटी कटोरी दाल और एक चम्मच सब्ज़ी। अनाज की जगह थोड़ी कम करके सब्ज़ी की जगह बढ़ाना सबसे फ़ायदेमंद बदलावों में से एक है।"
+      },
+      {
+        "type": "heading",
+        "text": "कटोरी से सोचें"
+      },
+      {
+        "type": "paragraph",
+        "text": "हर घर की कटोरी का साइज़ अलग होता है। बड़े डोंगे के बजाय छोटी, एक जैसी कटोरी से हिसाब रखना आसान है। रोज़ वही कटोरी इस्तेमाल करें, ताकि आपको अंदाज़ा रहे कि कितना खा रहे हैं।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "सब्ज़ी: एक से दो कटोरी, और भूख बाक़ी हो तो और सलाद।",
+          "दाल या दूसरा प्रोटीन: लगभग एक कटोरी।",
+          "चावल: लगभग एक कटोरी पका चावल, या दो मीडियम रोटी, दोनों ज़्यादा मात्रा में एक साथ नहीं।",
+          "दही या छाछ: एक छोटी कटोरी सादा दही या एक गिलास छाछ खाने का हिस्सा हो सकता है।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "तेल और ऊपर की चीज़ों पर ध्यान दें"
+      },
+      {
+        "type": "paragraph",
+        "text": "अच्छी तरह लगी थाली में भी छिपा हुआ तेल और नमक बहुत हो सकता है। तड़का, रोटी पर घी, पापड़, अचार और तली चीज़ें जल्दी जुड़ जाती हैं।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "खाना बनाते समय तेल बोतल से सीधे न डालें, चम्मच से नापें।",
+          "रोटी पर घी या मक्खन बस हल्का-सा लगाएँ, या ज़्यादातर दिन न लगाएँ।",
+          "तले पापड़ की जगह भुना पापड़ लें, और अचार बस थोड़ा-सा स्वाद के लिए।",
+          "पूरी, पकौड़े और भटूरे जैसी तली चीज़ें ख़ास मौक़ों के लिए रखें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "आपकी हालत के लिए बातें"
+      },
+      {
+        "type": "paragraph",
+        "text": "फैटी लिवर में ख़ास ध्यान अनाज की मात्रा कम करने, चीनी और मैदा कम करने और तला खाना कम करने पर है। ज़्यादा यूरिक एसिड में भी यही थाली ठीक रहती है। ज़्यादातर लोगों के लिए दाल और सब्ज़ियाँ आम मात्रा में ठीक रहती हैं, जबकि रेड मीट, कलेजी जैसे अंग और सी-फ़ूड ज़्यादा मात्रा में न लेना बेहतर है। दोनों दिक़्क़तें हों तो यह थाली दोनों के लिए ठीक है।"
+      },
+      {
+        "type": "heading",
+        "text": "छोटी आदतें जो थाली को काम का बनाती हैं"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "खाना सलाद या सब्ज़ी से शुरू करें, फिर दाल, फिर रोटी या चावल।",
+          "टेबल पर बड़े डोंगे रखने के बजाय रसोई में ही एक बार परोस लें।",
+          "धीरे खाएँ और बैठकर खाएँ, हो सके तो टीवी या फ़ोन से दूर।",
+          "खाने के साथ मीठे ड्रिंक की जगह पानी पिएँ।",
+          "भूख बाक़ी हो तो पहले और सब्ज़ी या सलाद लें।"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "समय के साथ, थाली लगाने का यह तरीक़ा वज़न, शुगर और लिवर की सेहत में मदद कर सकता है, और वह खाना भी नहीं छोड़ना पड़ता जो आपके घरवालों को पसंद है।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

@@ -1,0 +1,188 @@
+{
+  "id": "eating-out-and-street-food",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Eating out and street food",
+    "hi": "बाहर का खाना और स्ट्रीट फ़ूड"
+  },
+  "summary": {
+    "en": "How to order smarter at restaurants, dhabas and chaat stalls without feeling left out.",
+    "hi": "रेस्टोरेंट, ढाबे और चाट के ठेले पर समझदारी से कैसे ऑर्डर करें, बिना अलग-थलग महसूस किए।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Eating out is part of life: office lunches, family dinners, a quick plate of chaat on the way home. Restaurant and street food often has more oil, salt, sugar and maida than home food, and portions are bigger. You do not have to stop eating out. A few simple choices can make a big difference."
+      },
+      {
+        "type": "heading",
+        "text": "Before you go"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Do not go out very hungry. A fruit, a glass of buttermilk or a handful of roasted chana an hour before helps you order calmly.",
+          "If you know the menu, decide what you will order before you arrive.",
+          "If eating out is a daily habit, try to carry a home tiffin on most days."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "At a restaurant or dhaba"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Choose tandoori, grilled, roasted or steamed items over fried, creamy or butter-loaded ones.",
+          "Pick tandoori roti or plain phulka over naan, butter naan, kulcha or laccha paratha.",
+          "Order dal tadka or a dry sabzi rather than dal makhani, malai kofta or butter masala gravies.",
+          "Ask for less oil, less butter and no cream. Most places will do it if you ask.",
+          "Start with a salad or clear soup, and share heavy dishes with the table.",
+          "Have plain rice or jeera rice in a small portion instead of biryani or fried rice on most visits.",
+          "Drink water, plain soda with lemon or unsweetened buttermilk instead of cold drinks, mocktails or sweet lassi."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "South Indian, Chinese and fast food"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "South Indian: idli, plain dosa, uttapam with sambar are lighter choices. Medu vada and ghee roast dosa are heavier.",
+          "Indo-Chinese: choose clear soups, stir-fried vegetables, or steamed momos. Fried momos, manchurian, chilli dishes in thick sauce and fried noodles are heavy in oil and refined flour.",
+          "Pizza and burgers: keep these occasional. Choose thin crust with vegetables, skip extra cheese, and share instead of having a whole one.",
+          "Skip the combo meal upgrade with fries and a large cold drink."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Street food and chaat"
+      },
+      {
+        "type": "paragraph",
+        "text": "Street food is hard to resist, and some options are lighter than others. Watch the frying oil, which is often reused many times, and the sweet chutney."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Lighter picks: bhel with more sprouts and vegetables, sprouts chaat, roasted corn (bhutta), fruit chaat, grilled sandwich with vegetables and less butter, plain idli.",
+          "Have less often: samosa, kachori, pakoda, aloo tikki, pav bhaji with butter, vada pav, chole bhature and jalebi.",
+          "Ask for less sev and less sweet chutney, and more onion, tomato and cucumber.",
+          "Choose a place that looks clean and uses fresh oil, and drink only sealed or safe water."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Notes for your condition"
+      },
+      {
+        "type": "paragraph",
+        "text": "With fatty liver, the main things to watch are fried food, maida, sugary drinks and desserts, and alcohol. With high uric acid, be careful with meat-heavy dishes, organ meat, seafood platters, beer and sugary drinks, and drink plenty of water. When you go out for non-veg food, a moderate portion of grilled chicken or fish with salad is a better choice than a large mixed meat platter."
+      },
+      {
+        "type": "heading",
+        "text": "Keep it balanced"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "If lunch was heavy, keep dinner light with dal, sabzi and salad.",
+          "Take a short walk after a big meal.",
+          "Skip dessert or share one with the table.",
+          "One meal out does not undo your progress. Get back to your usual habits at the next meal."
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "बाहर खाना ज़िंदगी का हिस्सा है: ऑफ़िस का लंच, परिवार के साथ डिनर, घर लौटते हुए एक प्लेट चाट। रेस्टोरेंट और स्ट्रीट फ़ूड में अक्सर घर के खाने से ज़्यादा तेल, नमक, चीनी और मैदा होता है, और मात्रा भी ज़्यादा होती है। बाहर खाना बंद करने की ज़रूरत नहीं। कुछ आसान फ़ैसले बड़ा फ़र्क़ ला सकते हैं।"
+      },
+      {
+        "type": "heading",
+        "text": "जाने से पहले"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "बहुत भूखे होकर न जाएँ। एक घंटा पहले एक फल, एक गिलास छाछ या मुट्ठी भर भुने चने से आप आराम से ऑर्डर कर पाएँगे।",
+          "मेन्यू पता हो तो पहुँचने से पहले ही तय कर लें कि क्या मँगाना है।",
+          "अगर रोज़ बाहर खाते हैं, तो ज़्यादातर दिन घर का टिफ़िन ले जाने की कोशिश करें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "रेस्टोरेंट या ढाबे पर"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "तली, क्रीम वाली या मक्खन से भरी डिश की जगह तंदूरी, ग्रिल्ड, भुनी या भाप में बनी चीज़ें चुनें।",
+          "नान, बटर नान, कुलचा या लच्छा पराठा की जगह तंदूरी रोटी या सादा फुलका लें।",
+          "दाल मखनी, मलाई कोफ़्ता या बटर मसाला ग्रेवी की जगह दाल तड़का या सूखी सब्ज़ी मँगाएँ।",
+          "कम तेल, कम मक्खन और बिना क्रीम के लिए कहें। कहने पर ज़्यादातर जगह बना देते हैं।",
+          "सलाद या साफ़ सूप से शुरू करें, और भारी डिश सबके साथ बाँटें।",
+          "ज़्यादातर बार बिरयानी या फ़्राइड राइस की जगह थोड़ा सादा या जीरा चावल लें।",
+          "कोल्ड ड्रिंक, मॉकटेल या मीठी लस्सी की जगह पानी, नींबू वाला सादा सोडा या बिना चीनी की छाछ पिएँ।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "साउथ इंडियन, चाइनीज़ और फ़ास्ट फ़ूड"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "साउथ इंडियन: इडली, सादा डोसा, उत्तपम और सांभर हल्के विकल्प हैं। मेदू वड़ा और घी रोस्ट डोसा भारी होते हैं।",
+          "इंडो-चाइनीज़: साफ़ सूप, हल्की भुनी सब्ज़ियाँ या स्टीम्ड मोमोज़ चुनें। फ़्राइड मोमोज़, मंचूरियन, गाढ़ी सॉस वाली चिली डिश और फ़्राइड नूडल्स में तेल और मैदा ज़्यादा होता है।",
+          "पिज़्ज़ा और बर्गर: कभी-कभार ही। सब्ज़ियों वाला पतला क्रस्ट चुनें, एक्स्ट्रा चीज़ न लें, और पूरा अकेले खाने की जगह बाँटें।",
+          "फ़्राइज़ और बड़ी कोल्ड ड्रिंक वाला कॉम्बो अपग्रेड न लें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "स्ट्रीट फ़ूड और चाट"
+      },
+      {
+        "type": "paragraph",
+        "text": "स्ट्रीट फ़ूड से बचना मुश्किल है, और कुछ चीज़ें बाक़ियों से हल्की होती हैं। तलने वाले तेल पर ध्यान दें, जो अक्सर कई बार इस्तेमाल होता है, और मीठी चटनी पर भी।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "हल्के विकल्प: ज़्यादा स्प्राउट्स और सब्ज़ी वाली भेल, अंकुरित चाट, भुना भुट्टा, फ्रूट चाट, कम मक्खन वाला सब्ज़ी ग्रिल्ड सैंडविच, सादी इडली।",
+          "कम बार खाएँ: समोसा, कचौड़ी, पकौड़े, आलू टिक्की, मक्खन वाली पाव भाजी, वड़ा पाव, छोले भटूरे और जलेबी।",
+          "कम सेव और कम मीठी चटनी, और ज़्यादा प्याज़, टमाटर और खीरा माँगें।",
+          "साफ़-सुथरी जगह चुनें जहाँ ताज़ा तेल हो, और सिर्फ़ सील बंद या सुरक्षित पानी पिएँ।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "आपकी हालत के लिए बातें"
+      },
+      {
+        "type": "paragraph",
+        "text": "फैटी लिवर में तली चीज़ें, मैदा, मीठे ड्रिंक और मिठाई, और शराब पर सबसे ज़्यादा ध्यान दें। ज़्यादा यूरिक एसिड में ज़्यादा मीट वाली डिश, कलेजी जैसे अंग, सी-फ़ूड प्लैटर, बीयर और मीठे ड्रिंक से सावधान रहें, और ख़ूब पानी पिएँ। नॉन-वेज खाने जाएँ तो बड़े मिक्स मीट प्लैटर की जगह सलाद के साथ ठीक-ठाक मात्रा में ग्रिल्ड चिकन या मछली बेहतर है।"
+      },
+      {
+        "type": "heading",
+        "text": "संतुलन बनाए रखें"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "दोपहर का खाना भारी रहा तो रात में दाल, सब्ज़ी और सलाद जैसा हल्का खाना खाएँ।",
+          "भारी खाने के बाद थोड़ा टहल लें।",
+          "मिठाई छोड़ दें या सबके साथ एक बाँट लें।",
+          "एक बार बाहर खाने से आपकी मेहनत बेकार नहीं होती। अगले खाने से फिर अपनी आदतों पर लौट आएँ।"
+        ]
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

@@ -1,0 +1,143 @@
+{
+  "id": "uric-acid-myths-and-facts",
+  "topics": ["uricAcid"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": { "en": "Uric acid: common myths and the facts", "hi": "यूरिक एसिड: आम ग़लतफ़हमियाँ और सच" },
+  "summary": {
+    "en": "Clearing up popular beliefs about uric acid and gout that can lead to wrong choices.",
+    "hi": "यूरिक एसिड और गाउट से जुड़ी आम बातें, जिनसे ग़लत फ़ैसले हो सकते हैं, उनका सच।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Advice about uric acid is everywhere: from family, WhatsApp forwards and social media videos. Some of it is helpful, but a lot of it is confusing or wrong. Here are some common myths and what mainstream guidance says."
+      },
+      { "type": "heading", "text": "Myth: High uric acid always means gout" },
+      {
+        "type": "paragraph",
+        "text": "Fact: Many people have high uric acid on a blood test but never get a gout attack. Gout happens when uric acid forms crystals in a joint and causes sudden pain and swelling. Your doctor will decide what a high value means for you, based on symptoms and other tests."
+      },
+      { "type": "heading", "text": "Myth: You must stop eating dal" },
+      {
+        "type": "paragraph",
+        "text": "Fact: Plant foods like dal, rajma, peas and spinach have not been shown to raise the risk of gout the way meat and seafood do. A normal katori of dal with meals is generally fine for most people. Stopping dal can leave a vegetarian short of protein."
+      },
+      { "type": "heading", "text": "Myth: Tomatoes cause gout" },
+      {
+        "type": "paragraph",
+        "text": "Fact: Tomatoes are low in purines. A few people feel they trigger pain, but this is not true for most. Unless you notice a clear pattern, there is no need to remove tomato from your food."
+      },
+      { "type": "heading", "text": "Myth: Diet alone can always bring uric acid to normal" },
+      {
+        "type": "paragraph",
+        "text": "Fact: Most uric acid is made by the body itself, and genes and kidney health play a big role. Healthy eating may help lower uric acid and the number of attacks, but many people also need medicine. Needing medicine is not a failure."
+      },
+      { "type": "heading", "text": "Myth: Once the pain goes, I can stop my medicine" },
+      {
+        "type": "paragraph",
+        "text": "Fact: Medicines that lower uric acid usually work only while you take them. Stopping them on your own can bring the level back up and lead to more attacks. Always talk to your doctor before stopping or changing any medicine."
+      },
+      { "type": "heading", "text": "Myth: Only people who eat a lot of meat get gout" },
+      {
+        "type": "paragraph",
+        "text": "Fact: Vegetarians can also get high uric acid and gout. Weight, sugary drinks, alcohol, family history, kidney problems and some medicines all play a part."
+      },
+      { "type": "heading", "text": "Myth: Fruit juice is a healthy drink for uric acid" },
+      {
+        "type": "paragraph",
+        "text": "Fact: Juices, especially packaged ones, and cold drinks are high in fructose, which may raise uric acid. Whole fruit in sensible portions is a better choice."
+      },
+      { "type": "heading", "text": "Myth: Starving or fasting will flush out uric acid" },
+      {
+        "type": "paragraph",
+        "text": "Fact: Long fasts and crash diets may actually raise uric acid for a while and can trigger an attack. Slow, steady weight loss with regular meals is safer."
+      },
+      { "type": "heading", "text": "Myth: Home remedies can replace a doctor" },
+      {
+        "type": "paragraph",
+        "text": "Fact: Things like apple cider vinegar, baking soda water or special powders are often promoted online, but they are not proven to manage gout, and some can be harmful, for example for people with high blood pressure or kidney problems. Check with your doctor before trying any remedy or supplement."
+      },
+      { "type": "heading", "text": "What really may help" },
+      {
+        "type": "bullets",
+        "items": [
+          "Drinking water regularly through the day, unless your doctor has limited fluids",
+          "Avoiding beer and limiting other alcohol",
+          "Cutting down on cold drinks, packaged juices and sweets",
+          "Keeping organ meat and shellfish rare and red meat small",
+          "Including low-fat milk and curd",
+          "Losing extra weight slowly and staying active",
+          "Taking your medicines as prescribed and getting tests done when your doctor advises"
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "यूरिक एसिड पर सलाह हर तरफ़ से मिलती है: घरवालों से, व्हाट्सऐप फ़ॉरवर्ड से और सोशल मीडिया वीडियो से। इनमें से कुछ काम की होती है, पर बहुत सी उलझाने वाली या ग़लत। यहाँ कुछ आम ग़लतफ़हमियाँ हैं और मुख्य गाइडलाइन उनके बारे में क्या कहती है।"
+      },
+      { "type": "heading", "text": "ग़लतफ़हमी: हाई यूरिक एसिड मतलब हमेशा गाउट" },
+      {
+        "type": "paragraph",
+        "text": "सच: कई लोगों के ब्लड टेस्ट में यूरिक एसिड हाई आता है पर उन्हें कभी गाउट अटैक नहीं होता। गाउट तब होता है जब यूरिक एसिड जोड़ में क्रिस्टल बनाकर अचानक दर्द और सूजन करता है। आपकी तकलीफ़ और बाकी टेस्ट देखकर डॉक्टर तय करेंगे कि हाई वैल्यू का आपके लिए क्या मतलब है।"
+      },
+      { "type": "heading", "text": "ग़लतफ़हमी: दाल खाना बंद करना ही होगा" },
+      {
+        "type": "paragraph",
+        "text": "सच: दाल, राजमा, मटर और पालक जैसी पौधों वाली चीज़ों से गाउट का ख़तरा उस तरह बढ़ता नहीं दिखा जैसे मीट और सीफ़ूड से। ज़्यादातर लोगों के लिए खाने के साथ एक नॉर्मल कटोरी दाल आम तौर पर ठीक है। दाल छोड़ने से शाकाहारी लोगों में प्रोटीन कम पड़ सकता है।"
+      },
+      { "type": "heading", "text": "ग़लतफ़हमी: टमाटर से गाउट होता है" },
+      {
+        "type": "paragraph",
+        "text": "सच: टमाटर में प्यूरीन कम होते हैं। कुछ लोगों को लगता है कि इससे दर्द बढ़ता है, पर ज़्यादातर लोगों के साथ ऐसा नहीं होता। जब तक आपको साफ़ पैटर्न न दिखे, खाने से टमाटर हटाने की ज़रूरत नहीं।"
+      },
+      { "type": "heading", "text": "ग़लतफ़हमी: सिर्फ़ डाइट से यूरिक एसिड हमेशा नॉर्मल हो जाएगा" },
+      {
+        "type": "paragraph",
+        "text": "सच: ज़्यादातर यूरिक एसिड शरीर ख़ुद बनाता है, और इसमें जीन और किडनी की सेहत का बड़ा रोल है। सही खाना यूरिक एसिड और अटैक कम करने में मदद कर सकता है, पर कई लोगों को दवा की भी ज़रूरत होती है। दवा लेना कोई हार नहीं है।"
+      },
+      { "type": "heading", "text": "ग़लतफ़हमी: दर्द गया तो दवा बंद कर सकते हैं" },
+      {
+        "type": "paragraph",
+        "text": "सच: यूरिक एसिड कम करने वाली दवाएँ आम तौर पर तभी तक काम करती हैं जब तक आप उन्हें लेते हैं। अपने मन से बंद करने पर लेवल फिर बढ़ सकता है और अटैक ज़्यादा हो सकते हैं। कोई भी दवा बंद करने या बदलने से पहले हमेशा डॉक्टर से बात करें।"
+      },
+      { "type": "heading", "text": "ग़लतफ़हमी: गाउट सिर्फ़ ज़्यादा मीट खाने वालों को होता है" },
+      {
+        "type": "paragraph",
+        "text": "सच: शाकाहारियों को भी हाई यूरिक एसिड और गाउट हो सकता है। वज़न, मीठे ड्रिंक, शराब, परिवार में होना, किडनी की दिक्कत और कुछ दवाएँ, सबका इसमें हाथ होता है।"
+      },
+      { "type": "heading", "text": "ग़लतफ़हमी: यूरिक एसिड में फलों का जूस अच्छा ड्रिंक है" },
+      {
+        "type": "paragraph",
+        "text": "सच: जूस, ख़ासकर पैकेट वाले, और कोल्ड ड्रिंक में फ़्रुक्टोज़ ज़्यादा होता है, जो यूरिक एसिड बढ़ा सकता है। सही मात्रा में साबुत फल बेहतर विकल्प है।"
+      },
+      { "type": "heading", "text": "ग़लतफ़हमी: भूखे रहने या लंबे उपवास से यूरिक एसिड निकल जाएगा" },
+      {
+        "type": "paragraph",
+        "text": "सच: लंबे उपवास और क्रैश डाइट से कुछ समय के लिए यूरिक एसिड उल्टा बढ़ सकता है और अटैक आ सकता है। नियमित खाने के साथ धीरे-धीरे वज़न घटाना ज़्यादा सुरक्षित है।"
+      },
+      { "type": "heading", "text": "ग़लतफ़हमी: घरेलू नुस्ख़े डॉक्टर की जगह ले सकते हैं" },
+      {
+        "type": "paragraph",
+        "text": "सच: ऐप्पल साइडर विनेगर, बेकिंग सोडा वाला पानी या ख़ास चूर्ण जैसी चीज़ें ऑनलाइन ख़ूब बताई जाती हैं, पर गाउट संभालने में इनका फ़ायदा साबित नहीं है, और कुछ नुक़सान भी कर सकती हैं, जैसे हाई बीपी या किडनी की दिक्कत वालों में। कोई भी नुस्ख़ा या सप्लीमेंट आज़माने से पहले डॉक्टर से पूछें।"
+      },
+      { "type": "heading", "text": "असल में क्या मदद कर सकता है" },
+      {
+        "type": "bullets",
+        "items": [
+          "दिन भर नियम से पानी पीना, जब तक डॉक्टर ने पानी कम करने को न कहा हो",
+          "बीयर से बचना और बाकी शराब कम करना",
+          "कोल्ड ड्रिंक, पैकेट जूस और मिठाई कम करना",
+          "ऑर्गन मीट और शेलफ़िश कभी-कभार, और रेड मीट कम मात्रा में",
+          "कम फ़ैट वाला दूध और दही शामिल करना",
+          "ज़्यादा वज़न धीरे-धीरे घटाना और एक्टिव रहना",
+          "दवाएँ बताए अनुसार लेना और डॉक्टर के कहने पर टेस्ट करवाना"
+        ]
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

@@ -1,0 +1,168 @@
+{
+  "id": "fatty-liver-in-slim-people",
+  "topics": ["fattyLiver"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Fatty liver when you are not overweight",
+    "hi": "वज़न ज़्यादा नहीं, फिर भी फैटी लिवर"
+  },
+  "summary": {
+    "en": "Why slim or normal-weight people can have fatty liver, especially in India, and what may help.",
+    "hi": "दुबले या सामान्य वज़न वाले लोगों को भी फैटी लिवर क्यों हो सकता है, ख़ासकर भारत में, और क्या मदद कर सकता है।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "'But I am not fat, how can I have fatty liver?' This is a question many people ask when they see their ultrasound report. It is a fair question. Fatty liver is often linked with being overweight, but a good number of people with a normal body weight also have it. Doctors sometimes call this 'lean' fatty liver. It seems to be more common in Asian countries, including India."
+      },
+      {
+        "type": "heading",
+        "text": "Why it happens"
+      },
+      {
+        "type": "paragraph",
+        "text": "Body weight alone does not show where fat is stored. Two people with the same weight can have very different amounts of fat inside the belly and around the organs. Many South Asians tend to store more fat inside the belly and less muscle, even at a normal weight. This hidden fat is closely linked with insulin resistance and fat in the liver."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "A thin body but a growing belly or waist",
+          "Low muscle mass from little physical activity",
+          "A diet high in sugar, sweet chai, refined carbs and fried snacks",
+          "Diabetes, pre-diabetes or high triglycerides",
+          "Family history of diabetes or fatty liver",
+          "Recent weight gain, even if total weight is still 'normal'",
+          "Alcohol, poor sleep and long-term stress"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Sometimes other causes, such as certain medicines, thyroid problems or other liver conditions, can also lead to fat in the liver. Your doctor may check for these, especially in slim people."
+      },
+      {
+        "type": "heading",
+        "text": "Check your waist, not just your weight"
+      },
+      {
+        "type": "paragraph",
+        "text": "A measuring tape can tell you more than a weighing scale. Measure your waist at the level of your belly button, standing relaxed, after breathing out. Indian guidance uses lower waist and BMI cut-offs than Western countries, because health risks start at smaller sizes for many Asians. Log your waist in the Progress section, and ask your doctor what a healthy waist size is for you."
+      },
+      {
+        "type": "heading",
+        "text": "What may help"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you are not overweight, the focus shifts from losing a lot of weight to improving body composition and food quality. In other words, less belly fat and more muscle. If your doctor feels a small amount of weight loss would help, a slow pace is best."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Cut down added sugar: sweet chai, mithai, cold drinks and juice",
+          "Swap maida and bakery items for whole grains like atta, millets and dalia",
+          "Limit fried snacks, namkeen and food cooked in reused oil",
+          "Add protein to every meal: dal, chana, rajma, paneer, curd, sprouts, egg or fish",
+          "Walk briskly most days of the week",
+          "Add strength exercises two or three times a week: squats, wall push-ups, stair climbing or light weights",
+          "Avoid alcohol",
+          "Sleep 7 to 8 hours"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Why muscle matters"
+      },
+      {
+        "type": "paragraph",
+        "text": "Muscles are the biggest users of sugar in the body. More muscle means better use of sugar and less pressure on the liver to store it as fat. Strength exercises, along with enough protein, help build and keep muscle. You do not need a gym. Simple home exercises done regularly are a good start. If you have joint, heart or other health problems, ask your doctor which exercises are safe."
+      },
+      {
+        "type": "heading",
+        "text": "Do not ignore it"
+      },
+      {
+        "type": "paragraph",
+        "text": "Because they look slim, some people feel their fatty liver is not important. But lean fatty liver still needs the same care and follow-up as any other fatty liver. Keep your check-ups with your doctor, track your liver tests and waist over time, and build the daily habits in your plan. These steps may help keep your liver healthy for years to come."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "'मैं तो मोटा नहीं हूँ, फिर मुझे फैटी लिवर कैसे?' अल्ट्रासाउंड रिपोर्ट देखकर बहुत से लोग यही सवाल पूछते हैं। सवाल जायज़ है। फैटी लिवर अक्सर ज़्यादा वज़न से जुड़ा होता है, पर सामान्य वज़न वाले काफ़ी लोगों को भी यह होता है। डॉक्टर कभी-कभी इसे 'लीन' फैटी लिवर कहते हैं। यह भारत समेत एशियाई देशों में ज़्यादा आम लगता है।"
+      },
+      {
+        "type": "heading",
+        "text": "ऐसा क्यों होता है"
+      },
+      {
+        "type": "paragraph",
+        "text": "सिर्फ़ वज़न से यह पता नहीं चलता कि चर्बी कहाँ जमा है। एक जैसे वज़न वाले दो लोगों के पेट के अंदर और अंगों के आसपास की चर्बी बहुत अलग हो सकती है। बहुत से दक्षिण एशियाई लोगों में, सामान्य वज़न पर भी, पेट के अंदर ज़्यादा चर्बी और मांसपेशियाँ कम होती हैं। यह छिपी चर्बी इंसुलिन रेज़िस्टेंस और लिवर की चर्बी से गहराई से जुड़ी है।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "शरीर दुबला पर पेट या कमर बढ़ती हुई",
+          "कम चलने-फिरने से मांसपेशियाँ कम",
+          "ज़्यादा चीनी, मीठी चाय, रिफ़ाइंड कार्ब्स और तले स्नैक्स वाला खाना",
+          "डायबिटीज़, प्री-डायबिटीज़ या ज़्यादा ट्राइग्लिसराइड",
+          "परिवार में डायबिटीज़ या फैटी लिवर",
+          "हाल में वज़न बढ़ना, भले ही कुल वज़न अब भी 'सामान्य' हो",
+          "शराब, कम नींद और लंबे समय का तनाव"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "कभी-कभी कुछ दवाइयाँ, थायरॉइड की दिक़्क़त या लिवर की दूसरी बीमारियाँ भी लिवर में चर्बी की वजह बन सकती हैं। डॉक्टर इनकी जाँच कर सकते हैं, ख़ासकर दुबले लोगों में।"
+      },
+      {
+        "type": "heading",
+        "text": "सिर्फ़ वज़न नहीं, कमर भी नापें"
+      },
+      {
+        "type": "paragraph",
+        "text": "नापने वाला फ़ीता वज़न की मशीन से ज़्यादा बता सकता है। आराम से खड़े होकर, साँस छोड़ने के बाद, नाभि की ऊँचाई पर कमर नापें। भारतीय गाइडलाइन में कमर और BMI की सीमा पश्चिमी देशों से कम रखी गई है, क्योंकि बहुत से एशियाई लोगों में कम नाप पर ही सेहत का ख़तरा शुरू हो जाता है। Progress सेक्शन में अपनी कमर का नाप दर्ज करें, और डॉक्टर से पूछें कि आपके लिए सही कमर का नाप क्या है।"
+      },
+      {
+        "type": "heading",
+        "text": "क्या मदद कर सकता है"
+      },
+      {
+        "type": "paragraph",
+        "text": "अगर आपका वज़न ज़्यादा नहीं है, तो ध्यान बहुत वज़न घटाने से हटकर शरीर की बनावट और खाने की क्वालिटी सुधारने पर आता है। यानी पेट की चर्बी कम और मांसपेशियाँ ज़्यादा। अगर डॉक्टर को लगे कि थोड़ा वज़न घटाना मददगार होगा, तो धीरे-धीरे घटाना सबसे अच्छा है।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "ऊपर से डाली चीनी कम करें: मीठी चाय, मिठाई, कोल्ड ड्रिंक और जूस",
+          "मैदा और बेकरी की जगह आटा, मोटे अनाज और दलिया जैसे साबुत अनाज लें",
+          "तले स्नैक्स, नमकीन और बार-बार के तेल में बनी चीज़ें कम करें",
+          "हर खाने में प्रोटीन रखें: दाल, चना, राजमा, पनीर, दही, अंकुरित अनाज, अंडा या मछली",
+          "हफ़्ते के ज़्यादातर दिन तेज़ क़दमों से टहलें",
+          "हफ़्ते में दो-तीन बार ताक़त वाली कसरत करें: उठक-बैठक, दीवार पुश-अप, सीढ़ियाँ चढ़ना या हल्के वज़न",
+          "शराब से दूर रहें",
+          "7 से 8 घंटे सोएँ"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "मांसपेशियाँ क्यों ज़रूरी हैं"
+      },
+      {
+        "type": "paragraph",
+        "text": "शरीर में शुगर की सबसे ज़्यादा खपत मांसपेशियाँ करती हैं। ज़्यादा मांसपेशियाँ यानी शुगर का बेहतर इस्तेमाल और लिवर पर उसे चर्बी बनाकर जमा करने का कम दबाव। ताक़त वाली कसरत और भरपूर प्रोटीन से मांसपेशियाँ बनती और बनी रहती हैं। जिम ज़रूरी नहीं है। घर पर रोज़ की आसान कसरत अच्छी शुरुआत है। अगर जोड़ों, दिल या कोई और दिक़्क़त है, तो डॉक्टर से पूछें कि कौन सी कसरत सुरक्षित है।"
+      },
+      {
+        "type": "heading",
+        "text": "इसे नज़रअंदाज़ न करें"
+      },
+      {
+        "type": "paragraph",
+        "text": "दुबले दिखने की वजह से कुछ लोगों को लगता है कि उनका फैटी लिवर कोई बड़ी बात नहीं। लेकिन लीन फैटी लिवर को भी उतनी ही देखभाल और फ़ॉलो-अप चाहिए जितना किसी और फैटी लिवर को। डॉक्टर से नियमित जाँच कराते रहें, समय के साथ लिवर टेस्ट और कमर का नाप ट्रैक करें, और अपने प्लान की रोज़ की आदतें अपनाएँ। ये क़दम आने वाले सालों में लिवर को सेहतमंद रखने में मदद कर सकते हैं।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

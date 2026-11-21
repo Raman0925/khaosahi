@@ -1,0 +1,198 @@
+{
+  "id": "fatty-liver-myths-and-facts",
+  "topics": ["fattyLiver"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Fatty liver: myths and facts",
+    "hi": "फैटी लिवर: भ्रम और सच"
+  },
+  "summary": {
+    "en": "Clearing up common beliefs about fatty liver, from 'only drinkers get it' to detox drinks and liver tonics.",
+    "hi": "फैटी लिवर से जुड़ी आम बातों की सच्चाई, 'सिर्फ़ शराब पीने वालों को होता है' से लेकर डिटॉक्स ड्रिंक और लिवर टॉनिक तक।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Once people hear they have fatty liver, they often get advice from everywhere: relatives, neighbours, WhatsApp forwards and videos. Some of it is helpful, but a lot of it is confusing or wrong. Here are some common myths and what mainstream medical guidance actually says."
+      },
+      {
+        "type": "heading",
+        "text": "Myth: Only people who drink alcohol get fatty liver"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fact: The most common type of fatty liver today is linked to weight, blood sugar, cholesterol and lifestyle, not alcohol. Many people who have never had a drink have fatty liver. Alcohol can make liver fat worse, though, so it is best avoided."
+      },
+      {
+        "type": "heading",
+        "text": "Myth: Only overweight people get it"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fact: Being overweight raises the risk, but people with a normal weight can also have fatty liver, especially if they carry fat around the belly, have diabetes or have a family history. This is quite common in India."
+      },
+      {
+        "type": "heading",
+        "text": "Myth: No pain means no problem"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fact: Fatty liver often causes no symptoms for years. The absence of pain does not mean the liver is fine. That is why tests and steady habits matter, even when you feel well."
+      },
+      {
+        "type": "heading",
+        "text": "Myth: Detox drinks and juice cleanses clean the liver"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fact: Your liver does its own cleaning work. There is no good evidence that detox teas, juice cleanses or special powders remove fat from the liver. Fruit juices can actually add sugar that the liver turns into fat. Some herbal mixtures can even harm the liver."
+      },
+      {
+        "type": "heading",
+        "text": "Myth: A liver tonic will fix it"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fact: Many tonics, syrups and supplements are sold as liver protectors, but none can replace weight loss, healthy eating and activity. Some products may not suit you or may react with your medicines. Always ask your doctor before taking any tonic, herbal product or supplement."
+      },
+      {
+        "type": "heading",
+        "text": "Myth: I must stop eating all fat and ghee"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fact: Liver fat comes mostly from extra calories overall, especially from sugar, refined carbs and large portions, not only from fat in food. You need some healthy fat. The aim is to use less oil and ghee, avoid deep-fried and reused-oil foods, and choose nuts and seeds in small amounts."
+      },
+      {
+        "type": "heading",
+        "text": "Myth: Rice is the main villain"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fact: Rice in a sensible portion, with plenty of dal and sabzi, can be part of a liver-friendly meal. Problems come from very large portions and from combining rice with fried and sugary foods. The same applies to roti: portion matters."
+      },
+      {
+        "type": "heading",
+        "text": "Myth: Fruits are bad because they have sugar"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fact: Whole fruits come with fibre, water and vitamins. One or two portions a day are usually fine and can replace sweets. What adds load is fruit juice, packaged fruit drinks and very large amounts of very sweet fruits like mango or chikoo at one time."
+      },
+      {
+        "type": "heading",
+        "text": "Myth: Once you have it, nothing can be done"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fact: The liver responds well when the load on it comes down. Many people see better liver tests and less fat on scans after months of steady weight loss, healthier food and regular activity. Results vary, but your daily habits really do count."
+      },
+      {
+        "type": "heading",
+        "text": "Myth: I can stop my medicines once I start eating healthy"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fact: Healthy habits work alongside your treatment, not instead of it. Never stop or change medicines for diabetes, blood pressure, cholesterol or anything else without talking to your doctor."
+      },
+      {
+        "type": "paragraph",
+        "text": "When you hear a new claim, ask yourself: Is it selling something? Does it promise quick results? Does it ask me to skip my doctor's advice? If yes, be careful. Simple home food, daily walking, good sleep and regular check-ups remain the most trusted path."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "जैसे ही लोगों को पता चलता है कि उन्हें फैटी लिवर है, हर तरफ़ से सलाह मिलने लगती है: रिश्तेदार, पड़ोसी, व्हाट्सऐप मैसेज और वीडियो। इनमें से कुछ काम की होती है, पर बहुत सी उलझाने वाली या ग़लत होती है। यहाँ कुछ आम भ्रम हैं और मुख्य डॉक्टरी सलाह असल में क्या कहती है।"
+      },
+      {
+        "type": "heading",
+        "text": "भ्रम: फैटी लिवर सिर्फ़ शराब पीने वालों को होता है"
+      },
+      {
+        "type": "paragraph",
+        "text": "सच: आज सबसे आम फैटी लिवर वज़न, शुगर, कोलेस्ट्रॉल और रहन-सहन से जुड़ा है, शराब से नहीं। बहुत से लोग जिन्होंने कभी शराब नहीं पी, उन्हें भी फैटी लिवर होता है। हाँ, शराब लिवर की चर्बी बढ़ा सकती है, इसलिए इससे दूर रहना ही अच्छा है।"
+      },
+      {
+        "type": "heading",
+        "text": "भ्रम: यह सिर्फ़ मोटे लोगों को होता है"
+      },
+      {
+        "type": "paragraph",
+        "text": "सच: ज़्यादा वज़न से ख़तरा बढ़ता है, पर सामान्य वज़न वालों को भी फैटी लिवर हो सकता है, ख़ासकर अगर पेट पर चर्बी हो, डायबिटीज़ हो या परिवार में किसी को हो। भारत में यह काफ़ी आम है।"
+      },
+      {
+        "type": "heading",
+        "text": "भ्रम: दर्द नहीं है तो कोई दिक़्क़त नहीं"
+      },
+      {
+        "type": "paragraph",
+        "text": "सच: फैटी लिवर में अक्सर सालों तक कोई लक्षण नहीं होता। दर्द न होने का मतलब यह नहीं कि लिवर ठीक है। इसीलिए अच्छा महसूस होने पर भी टेस्ट और अच्छी आदतें ज़रूरी हैं।"
+      },
+      {
+        "type": "heading",
+        "text": "भ्रम: डिटॉक्स ड्रिंक और जूस क्लीन्ज़ लिवर साफ़ करते हैं"
+      },
+      {
+        "type": "paragraph",
+        "text": "सच: लिवर अपनी सफ़ाई ख़ुद करता है। इसका कोई अच्छा सबूत नहीं है कि डिटॉक्स चाय, जूस क्लीन्ज़ या ख़ास पाउडर लिवर से चर्बी निकालते हैं। फलों का जूस तो उल्टा ऐसी शुगर जोड़ सकता है जिसे लिवर चर्बी में बदल देता है। कुछ जड़ी-बूटी के मिश्रण लिवर को नुक़सान भी पहुँचा सकते हैं।"
+      },
+      {
+        "type": "heading",
+        "text": "भ्रम: लिवर टॉनिक से सब ठीक हो जाएगा"
+      },
+      {
+        "type": "paragraph",
+        "text": "सच: बहुत से टॉनिक, सिरप और सप्लीमेंट लिवर बचाने वाले बताकर बेचे जाते हैं, पर कोई भी वज़न घटाने, अच्छे खाने और चलने-फिरने की जगह नहीं ले सकता। कुछ प्रोडक्ट आपको सूट न करें या आपकी दवाइयों के साथ असर करें, ऐसा हो सकता है। कोई भी टॉनिक, जड़ी-बूटी या सप्लीमेंट लेने से पहले हमेशा डॉक्टर से पूछें।"
+      },
+      {
+        "type": "heading",
+        "text": "भ्रम: मुझे सारी चिकनाई और घी बिल्कुल बंद करना होगा"
+      },
+      {
+        "type": "paragraph",
+        "text": "सच: लिवर की चर्बी ज़्यादातर कुल मिलाकर ज़्यादा कैलोरी से आती है, ख़ासकर चीनी, रिफ़ाइंड कार्ब्स और बड़ी मात्रा से, सिर्फ़ खाने की चिकनाई से नहीं। शरीर को कुछ अच्छी चिकनाई चाहिए। मक़सद है कम तेल और घी, तली और बार-बार के तेल वाली चीज़ों से बचना, और थोड़ी मात्रा में मेवे और बीज लेना।"
+      },
+      {
+        "type": "heading",
+        "text": "भ्रम: चावल ही सबसे बड़ा दुश्मन है"
+      },
+      {
+        "type": "paragraph",
+        "text": "सच: सही मात्रा में चावल, ख़ूब दाल और सब्ज़ी के साथ, लिवर के लिए ठीक खाने का हिस्सा हो सकता है। दिक़्क़त बहुत बड़ी मात्रा से और चावल के साथ तली व मीठी चीज़ें खाने से होती है। रोटी पर भी यही बात लागू है: मात्रा मायने रखती है।"
+      },
+      {
+        "type": "heading",
+        "text": "भ्रम: फल ख़राब हैं क्योंकि उनमें शुगर है"
+      },
+      {
+        "type": "paragraph",
+        "text": "सच: साबुत फल के साथ फ़ाइबर, पानी और विटामिन मिलते हैं। दिन में एक-दो हिस्से आमतौर पर ठीक हैं और मिठाई की जगह ले सकते हैं। बोझ बढ़ाते हैं फलों का जूस, पैकेट वाले फ़्रूट ड्रिंक, और एक बार में बहुत ज़्यादा आम या चीकू जैसे बहुत मीठे फल।"
+      },
+      {
+        "type": "heading",
+        "text": "भ्रम: एक बार हो गया तो कुछ नहीं हो सकता"
+      },
+      {
+        "type": "paragraph",
+        "text": "सच: जब लिवर पर बोझ कम होता है तो वह अच्छा जवाब देता है। बहुत से लोगों में महीनों तक धीरे-धीरे वज़न घटाने, अच्छे खाने और रोज़ चलने-फिरने के बाद लिवर टेस्ट बेहतर आते हैं और स्कैन में चर्बी कम दिखती है। नतीजे अलग-अलग होते हैं, पर आपकी रोज़ की आदतें सच में मायने रखती हैं।"
+      },
+      {
+        "type": "heading",
+        "text": "भ्रम: अच्छा खाने लगा हूँ तो दवा बंद कर सकता हूँ"
+      },
+      {
+        "type": "paragraph",
+        "text": "सच: अच्छी आदतें इलाज के साथ काम करती हैं, उसकी जगह नहीं। डायबिटीज़, बीपी, कोलेस्ट्रॉल या किसी भी चीज़ की दवा डॉक्टर से बात किए बिना कभी बंद या कम-ज़्यादा न करें।"
+      },
+      {
+        "type": "paragraph",
+        "text": "जब कोई नया दावा सुनें, तो ख़ुद से पूछें: क्या यह कुछ बेच रहा है? क्या यह जल्दी नतीजे का वादा करता है? क्या यह डॉक्टर की सलाह छोड़ने को कहता है? अगर हाँ, तो सावधान रहें। घर का सादा खाना, रोज़ टहलना, अच्छी नींद और नियमित जाँच ही सबसे भरोसेमंद रास्ता है।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

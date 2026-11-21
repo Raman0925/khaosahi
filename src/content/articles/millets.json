@@ -1,0 +1,182 @@
+{
+  "id": "millets",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Millets: old grains, new habits",
+    "hi": "मोटा अनाज (मिलेट्स): पुराने अनाज, नई आदतें"
+  },
+  "summary": {
+    "en": "Jowar, bajra, ragi and other millets can add fibre and variety to your meals. How to use them, and why portions still matter.",
+    "hi": "ज्वार, बाजरा, रागी जैसे मोटे अनाज खाने में फ़ाइबर और बदलाव ला सकते हैं। इन्हें कैसे खाएँ, और मात्रा क्यों फिर भी ज़रूरी है।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Millets were everyday food in many Indian homes for generations before polished rice and maida became common. Today they are making a comeback, and for good reason. Most millets are whole grains, so they bring more fibre, minerals and slow-releasing energy than refined grains. Swapping some of your white rice or maida for millets may help you feel full for longer and may support steadier blood sugar."
+      },
+      {
+        "type": "heading",
+        "text": "Common millets in India"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Jowar (sorghum): soft rotis, bhakri, upma and dosa.",
+          "Bajra (pearl millet): rotis and khichdi, popular in winter in Rajasthan, Gujarat and Haryana.",
+          "Ragi or nachni (finger millet): ragi mudde, dosa, porridge and roti; rich in calcium.",
+          "Foxtail millet (kangni, navane): works like rice in pulao, khichdi and upma.",
+          "Little millet (kutki, sama), kodo and barnyard millet (samak, jhangora): good in place of rice, and some are used on vrat days.",
+          "Proso millet (chena) and browntop millet: less common, but easy to cook like rice."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Why they may help"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "More fibre than polished rice or maida, which slows down digestion and may reduce sugar spikes.",
+          "Fibre keeps you full, which may help with portion control and gradual weight loss.",
+          "Naturally free of gluten, though this matters mainly for people who need to avoid gluten.",
+          "They add variety, so healthy eating does not feel boring."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Portions still matter"
+      },
+      {
+        "type": "paragraph",
+        "text": "Millets are healthier grains, but they are still grains. Eating four bajra rotis with lots of ghee is not lighter than two wheat rotis. Keep the same portion you would for any cereal: roughly a quarter of your plate. Fill half the plate with sabzi or salad and the rest with dal, curd, paneer or another protein. Millet cookies, millet chips and millet namkeen from the market are often made with refined flour, sugar and oil, so read the label and treat them as snacks, not health food."
+      },
+      {
+        "type": "heading",
+        "text": "Easy ways to start"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Mix jowar or bajra flour with your wheat atta, starting with a small share and increasing slowly.",
+          "Replace white rice with foxtail or little millet two or three times a week.",
+          "Try ragi dosa or ragi cheela for breakfast.",
+          "Make vegetable millet khichdi with moong dal for a light dinner.",
+          "Ragi porridge with milk and a little jaggery or fruit instead of sugary breakfast cereal."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Cooking tips"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Wash small millets well and soak them for a few hours to make them cook evenly and digest more easily.",
+          "Millet rotis break easily. Knead with warm water and pat them by hand or between two sheets.",
+          "Bajra is warming and heavy for some people; many families prefer it in winter.",
+          "Add millets slowly to your diet. A sudden jump in fibre may cause gas or bloating at first.",
+          "Drink enough water when you eat more fibre."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "A note on uric acid and kidneys"
+      },
+      {
+        "type": "paragraph",
+        "text": "Millets are plant grains and are generally fine in normal portions for people with high uric acid. If you have kidney disease or have been told to limit certain minerals, ask your doctor or dietitian which grains suit you best."
+      },
+      {
+        "type": "paragraph",
+        "text": "Millets are not magic, but they are a simple, local and affordable way to make your everyday thali more wholesome."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "पॉलिश वाले चावल और मैदा आम होने से पहले, कई पीढ़ियों तक मोटे अनाज भारत के घरों का रोज़ का खाना थे। आज ये फिर से लोकप्रिय हो रहे हैं, और इसकी वजह भी है। ज़्यादातर मिलेट्स साबुत अनाज हैं, तो इनमें रिफ़ाइंड अनाज से ज़्यादा फ़ाइबर, मिनरल और धीरे-धीरे मिलने वाली ताक़त होती है। कुछ सफ़ेद चावल या मैदे की जगह मोटा अनाज लेने से पेट ज़्यादा देर भरा रह सकता है और शुगर ज़्यादा स्थिर रह सकती है।"
+      },
+      {
+        "type": "heading",
+        "text": "भारत के आम मोटे अनाज"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "ज्वार: नरम रोटी, भाकरी, उपमा और डोसा।",
+          "बाजरा: रोटी और खिचड़ी, राजस्थान, गुजरात और हरियाणा में सर्दियों में ख़ूब खाया जाता है।",
+          "रागी या नाचनी: रागी मुद्दे, डोसा, दलिया और रोटी; इसमें कैल्शियम अच्छा होता है।",
+          "कंगनी (फ़ॉक्सटेल मिलेट): पुलाव, खिचड़ी और उपमा में चावल की तरह।",
+          "कुटकी, कोदो और सामक (झंगोरा): चावल की जगह अच्छे, और कुछ व्रत में भी खाए जाते हैं।",
+          "चेना और ब्राउनटॉप मिलेट: कम मिलते हैं, पर चावल की तरह आसानी से बनते हैं।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ये क्यों मदद कर सकते हैं"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "पॉलिश वाले चावल या मैदे से ज़्यादा फ़ाइबर, जिससे खाना धीरे पचता है और शुगर का उछाल कम हो सकता है।",
+          "फ़ाइबर से पेट भरा रहता है, जिससे मात्रा पर काबू और धीरे-धीरे वज़न घटाने में मदद मिल सकती है।",
+          "इनमें ग्लूटेन नहीं होता, हालाँकि यह ज़्यादातर उन्हीं के लिए मायने रखता है जिन्हें ग्लूटेन से बचना है।",
+          "खाने में बदलाव आता है, तो सेहतमंद खाना बोरिंग नहीं लगता।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "मात्रा फिर भी ज़रूरी है"
+      },
+      {
+        "type": "paragraph",
+        "text": "मोटे अनाज बेहतर हैं, पर हैं तो अनाज ही। ढेर सारे घी के साथ चार बाजरे की रोटी, दो गेहूँ की रोटी से हल्की नहीं है। किसी भी अनाज जितनी मात्रा रखें: थाली का लगभग एक चौथाई। आधी थाली सब्ज़ी या सलाद और बाक़ी में दाल, दही, पनीर या कोई दूसरा प्रोटीन। बाज़ार के मिलेट बिस्कुट, मिलेट चिप्स और मिलेट नमकीन में अक्सर मैदा, चीनी और तेल होता है, तो लेबल पढ़ें और इन्हें हेल्थ फ़ूड नहीं, स्नैक समझें।"
+      },
+      {
+        "type": "heading",
+        "text": "शुरू करने के आसान तरीक़े"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "अपने गेहूँ के आटे में ज्वार या बाजरे का आटा मिलाएँ, थोड़े से शुरू करके धीरे-धीरे बढ़ाएँ।",
+          "हफ़्ते में दो-तीन बार सफ़ेद चावल की जगह कंगनी या कुटकी लें।",
+          "नाश्ते में रागी डोसा या रागी चीला आज़माएँ।",
+          "हल्के डिनर के लिए मूँग दाल के साथ सब्ज़ी वाली मिलेट खिचड़ी बनाएँ।",
+          "मीठे पैकेट वाले सीरियल की जगह दूध के साथ रागी दलिया, थोड़ा गुड़ या फल डालकर।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "पकाने के टिप्स"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "छोटे मिलेट्स अच्छे से धोकर कुछ घंटे भिगो दें, इससे ये बराबर पकते हैं और आसानी से पचते हैं।",
+          "मिलेट की रोटी जल्दी टूटती है। गुनगुने पानी से आटा गूँधें और हाथ से थपथपाकर या दो शीट के बीच बेलें।",
+          "बाजरा गर्म तासीर का और कुछ लोगों के लिए भारी होता है; कई परिवार इसे सर्दियों में खाते हैं।",
+          "मोटा अनाज धीरे-धीरे बढ़ाएँ। अचानक ज़्यादा फ़ाइबर से शुरू में गैस या पेट फूल सकता है।",
+          "ज़्यादा फ़ाइबर खाते समय पानी भी भरपूर पिएँ।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "यूरिक एसिड और किडनी के बारे में"
+      },
+      {
+        "type": "paragraph",
+        "text": "मिलेट्स पौधों से मिलने वाले अनाज हैं और हाई यूरिक एसिड वालों के लिए आम मात्रा में आमतौर पर ठीक माने जाते हैं। अगर किडनी की बीमारी है या कुछ मिनरल कम लेने को कहा गया है, तो अपने डॉक्टर या डाइटीशियन से पूछें कि कौन से अनाज आपके लिए सही हैं।"
+      },
+      {
+        "type": "paragraph",
+        "text": "मोटा अनाज कोई जादू नहीं है, पर रोज़ की थाली को ज़्यादा पौष्टिक बनाने का यह एक आसान, लोकल और सस्ता तरीक़ा है।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

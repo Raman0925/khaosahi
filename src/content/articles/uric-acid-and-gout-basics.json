@@ -1,0 +1,144 @@
+{
+  "id": "uric-acid-and-gout-basics",
+  "topics": ["uricAcid"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Uric acid and gout: the basics",
+    "hi": "यूरिक एसिड और गठिया (गाउट): बुनियादी बातें"
+  },
+  "summary": {
+    "en": "What uric acid is, why it goes up, and how it is linked to painful gout attacks.",
+    "hi": "यूरिक एसिड क्या है, यह क्यों बढ़ता है, और इसका गाउट के दर्द से क्या रिश्ता है।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Uric acid is a natural waste product. Your body makes it when it breaks down substances called purines. Purines are found in your own cells and also in some foods and drinks. Normally, uric acid dissolves in the blood, passes through the kidneys and leaves the body in urine."
+      },
+      {
+        "type": "paragraph",
+        "text": "When the body makes too much uric acid, or the kidneys do not remove enough of it, the level in the blood goes up. Doctors call this high uric acid or hyperuricaemia. Many people find out about it only from a routine blood test, because high uric acid on its own often causes no symptoms."
+      },
+      { "type": "heading", "text": "What is gout?" },
+      {
+        "type": "paragraph",
+        "text": "If uric acid stays high for a long time, it can form tiny needle-like crystals in and around the joints. When the body reacts to these crystals, the joint suddenly becomes very painful, red, hot and swollen. This is called a gout attack or flare. It often starts at night and very often affects the big toe, but it can also affect the ankle, knee, wrist or fingers."
+      },
+      {
+        "type": "paragraph",
+        "text": "Not everyone with high uric acid gets gout. But the higher the level stays and the longer it stays high, the more the chance of attacks. Over many years, repeated attacks can damage joints, and some people get lumps of crystals under the skin or kidney stones."
+      },
+      { "type": "heading", "text": "Why does uric acid go up?" },
+      {
+        "type": "bullets",
+        "items": [
+          "Family history: it often runs in families",
+          "Extra body weight, especially around the tummy",
+          "Alcohol, especially beer",
+          "Sugary drinks such as cold drinks and packaged juices",
+          "Large amounts of organ meat, shellfish and red meat",
+          "Not drinking enough water",
+          "Kidney problems, high blood pressure, diabetes and some medicines"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Food is only one part of the picture. Most uric acid is made by your own body, so genes, weight and kidney health matter a lot. That is why some people who eat very carefully still have high levels, and why your doctor may suggest medicines along with diet changes."
+      },
+      { "type": "heading", "text": "What may help" },
+      {
+        "type": "bullets",
+        "items": [
+          "Drink water regularly through the day, unless your doctor has asked you to limit fluids",
+          "Lose extra weight slowly and steadily, not with crash diets",
+          "Avoid beer and limit other alcohol; ask your doctor what is safe for you",
+          "Cut down on cold drinks, packaged juices and sweets",
+          "Keep organ meat and shellfish rare, and keep red meat portions small",
+          "Build meals around roti, rice, dal, sabzi, salad, low-fat milk and curd",
+          "Stay active with daily walking"
+        ]
+      },
+      { "type": "heading", "text": "About your test report" },
+      {
+        "type": "paragraph",
+        "text": "Your report will show your uric acid value next to your lab's reference range. The range can differ slightly between labs, and between men and women. A single high value does not always mean gout. Your doctor will look at your symptoms, other tests and your health history before deciding what you need."
+      },
+      { "type": "heading", "text": "Work with your doctor" },
+      {
+        "type": "paragraph",
+        "text": "If you have been given medicines for uric acid or gout, keep taking them exactly as prescribed. Never stop or change them on your own, even if you feel fine. Diet and lifestyle changes work best together with your doctor's plan, and they may help you have fewer attacks over time."
+      },
+      {
+        "type": "paragraph",
+        "text": "See a doctor soon if a joint becomes suddenly hot, swollen and very painful, especially with fever, or if this is your first attack. These signs need a proper check-up."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "यूरिक एसिड शरीर में बनने वाला एक कुदरती कचरा है। शरीर इसे तब बनाता है जब वह प्यूरीन नाम की चीज़ों को तोड़ता है। प्यूरीन हमारी अपनी कोशिकाओं में भी होते हैं और कुछ खाने-पीने की चीज़ों में भी। आम तौर पर यूरिक एसिड खून में घुल जाता है, किडनी से होकर पेशाब के रास्ते बाहर निकल जाता है।"
+      },
+      {
+        "type": "paragraph",
+        "text": "जब शरीर ज़्यादा यूरिक एसिड बनाने लगे, या किडनी उसे पूरा बाहर न निकाल पाए, तो खून में इसका लेवल बढ़ जाता है। इसे हाई यूरिक एसिड कहते हैं। कई लोगों को इसका पता सिर्फ़ रूटीन ब्लड टेस्ट से चलता है, क्योंकि अकेले हाई यूरिक एसिड से अक्सर कोई तकलीफ़ नहीं होती।"
+      },
+      { "type": "heading", "text": "गाउट क्या है?" },
+      {
+        "type": "paragraph",
+        "text": "अगर यूरिक एसिड लंबे समय तक ज़्यादा रहे, तो जोड़ों में और उनके आसपास सुई जैसे बारीक क्रिस्टल बन सकते हैं। जब शरीर इन क्रिस्टल पर रिएक्ट करता है, तो जोड़ अचानक बहुत दर्द करने लगता है, लाल, गरम और सूजा हुआ हो जाता है। इसे गाउट का अटैक कहते हैं। यह अक्सर रात में शुरू होता है और ज़्यादातर पैर के अंगूठे में होता है, पर टखने, घुटने, कलाई या उँगलियों में भी हो सकता है।"
+      },
+      {
+        "type": "paragraph",
+        "text": "हर किसी को, जिसका यूरिक एसिड ज़्यादा है, गाउट नहीं होता। लेकिन लेवल जितना ज़्यादा और जितने लंबे समय तक रहे, अटैक का ख़तरा उतना बढ़ता है। कई सालों तक बार-बार अटैक होने से जोड़ ख़राब हो सकते हैं, और कुछ लोगों को त्वचा के नीचे क्रिस्टल की गाँठें या किडनी में पथरी हो सकती है।"
+      },
+      { "type": "heading", "text": "यूरिक एसिड क्यों बढ़ता है?" },
+      {
+        "type": "bullets",
+        "items": [
+          "परिवार में किसी को हो, तो ख़तरा ज़्यादा",
+          "ज़्यादा वज़न, ख़ासकर पेट की चर्बी",
+          "शराब, ख़ासकर बीयर",
+          "मीठे ड्रिंक जैसे कोल्ड ड्रिंक और पैकेट वाला जूस",
+          "बहुत ज़्यादा कलेजी-गुर्दा जैसा ऑर्गन मीट, झींगा जैसा सीफ़ूड और रेड मीट",
+          "कम पानी पीना",
+          "किडनी की दिक्कत, हाई बीपी, डायबिटीज़ और कुछ दवाएँ"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "खाना पूरी कहानी का सिर्फ़ एक हिस्सा है। ज़्यादातर यूरिक एसिड हमारा शरीर ख़ुद बनाता है, इसलिए जीन, वज़न और किडनी की सेहत का बड़ा रोल है। इसीलिए कुछ लोग बहुत ध्यान से खाने के बाद भी हाई लेवल रखते हैं, और डॉक्टर डाइट के साथ दवा भी बता सकते हैं।"
+      },
+      { "type": "heading", "text": "क्या मदद कर सकता है" },
+      {
+        "type": "bullets",
+        "items": [
+          "दिन भर थोड़ा-थोड़ा पानी पीते रहें, जब तक डॉक्टर ने पानी कम करने को न कहा हो",
+          "ज़्यादा वज़न धीरे-धीरे घटाएँ, क्रैश डाइट से नहीं",
+          "बीयर से बचें और बाकी शराब भी कम करें; आपके लिए क्या ठीक है, डॉक्टर से पूछें",
+          "कोल्ड ड्रिंक, पैकेट जूस और मिठाई कम करें",
+          "ऑर्गन मीट और सीफ़ूड कभी-कभार ही लें, रेड मीट की मात्रा कम रखें",
+          "खाना रोटी, चावल, दाल, सब्ज़ी, सलाद, कम फ़ैट वाले दूध और दही के आसपास रखें",
+          "रोज़ टहलकर एक्टिव रहें"
+        ]
+      },
+      { "type": "heading", "text": "आपकी टेस्ट रिपोर्ट" },
+      {
+        "type": "paragraph",
+        "text": "आपकी रिपोर्ट में यूरिक एसिड की वैल्यू के साथ आपकी लैब की नॉर्मल रेंज लिखी होगी। यह रेंज अलग-अलग लैब में और आदमी-औरत के लिए थोड़ी अलग हो सकती है। एक बार की हाई वैल्यू का मतलब हमेशा गाउट नहीं होता। डॉक्टर आपकी तकलीफ़, बाकी टेस्ट और पुरानी सेहत देखकर ही तय करेंगे कि आपको क्या चाहिए।"
+      },
+      { "type": "heading", "text": "डॉक्टर के साथ चलें" },
+      {
+        "type": "paragraph",
+        "text": "अगर आपको यूरिक एसिड या गाउट की दवा दी गई है, तो उसे ठीक वैसे ही लेते रहें जैसे बताया गया है। अच्छा महसूस होने पर भी अपने मन से दवा बंद या बदलें नहीं। डाइट और लाइफ़स्टाइल के बदलाव डॉक्टर के प्लान के साथ मिलकर सबसे अच्छा काम करते हैं, और समय के साथ अटैक कम करने में मदद कर सकते हैं।"
+      },
+      {
+        "type": "paragraph",
+        "text": "अगर कोई जोड़ अचानक गरम, सूजा और बहुत दर्द वाला हो जाए, ख़ासकर बुख़ार के साथ, या यह आपका पहला अटैक हो, तो जल्दी डॉक्टर को दिखाएँ। इन लक्षणों में ठीक से जाँच ज़रूरी है।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

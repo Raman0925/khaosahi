@@ -1,0 +1,176 @@
+{
+  "id": "when-to-see-a-doctor",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "When to see a doctor",
+    "hi": "डॉक्टर के पास कब जाएँ"
+  },
+  "summary": {
+    "en": "Warning signs that need a doctor quickly, and why regular check-ups matter.",
+    "hi": "ऐसे ख़तरे के संकेत जिनमें जल्दी डॉक्टर को दिखाना ज़रूरी है, और नियमित जाँच क्यों ज़रूरी है।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Food and lifestyle changes are an important part of looking after your liver and uric acid. But some symptoms need a doctor, not a diet change. This app cannot check your symptoms. If you notice any of the signs below, please do not wait to see if better food helps. Get medical help."
+      },
+      {
+        "type": "heading",
+        "text": "Go to a doctor or hospital urgently if you have"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Yellow eyes or yellow skin (jaundice)",
+          "Very dark urine or pale, clay-coloured stools",
+          "Vomiting blood, or black, sticky, tar-like stools",
+          "Swelling of the belly or new swelling of the legs and feet",
+          "Confusion, unusual sleepiness, or behaviour that family members find strange",
+          "Severe pain in the belly, especially the upper right side",
+          "Fever together with a hot, red, swollen and painful joint",
+          "Sudden, severe pain in the side or back, often moving towards the groin, which may be a kidney stone",
+          "Easy bruising or bleeding from the gums or nose that does not stop"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "If someone is very drowsy, confused, vomiting blood or has severe pain, take them to the nearest emergency department or call for an ambulance. Do not drive yourself if you feel faint or very unwell."
+      },
+      {
+        "type": "heading",
+        "text": "See your doctor soon (within a few days) if you have"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "A painful, swollen joint, even without fever, especially if it is the first time",
+          "Joint pain that keeps coming back or is getting more frequent",
+          "Weight loss without trying, or loss of appetite that does not go away",
+          "Constant tiredness or weakness that is new for you",
+          "Itching all over the body without a rash",
+          "Lumps under the skin near joints, ears or elbows",
+          "Burning or blood while passing urine, or passing much less urine than usual",
+          "Any side effect you think may be from a medicine you are taking"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Why routine check-ups matter"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fatty liver and high uric acid often cause no symptoms for years. Feeling fine does not always mean everything is fine inside. Regular visits help your doctor see how you are doing, repeat tests when needed and adjust any treatment."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Keep the follow-up dates your doctor gives you, even when you feel well.",
+          "Take your old and new reports with you, or show the charts in the Progress tab.",
+          "Tell your doctor about other conditions too, such as diabetes, high BP, thyroid, kidney problems or high cholesterol, since they are often linked.",
+          "Ask your doctor when to repeat your liver tests, uric acid and ultrasound."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Making the most of your visit"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Write down your symptoms, when they started and what makes them better or worse.",
+          "Make a list of every medicine, supplement and herbal product you take.",
+          "Be honest about alcohol, smoking and what you usually eat. Your doctor is there to help, not to judge.",
+          "Ask what you should do if the same problem comes back at night or on a holiday."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "When in doubt, it is always better to get checked. Getting help early is never a waste of time."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "लिवर और यूरिक एसिड का ध्यान रखने में खाना-पीना और रहन-सहन बहुत ज़रूरी है। पर कुछ लक्षणों में डाइट बदलने से नहीं, डॉक्टर से काम चलता है। यह ऐप आपके लक्षण नहीं जाँच सकता। नीचे लिखे कोई भी संकेत दिखें तो यह इंतज़ार न करें कि अच्छा खाने से ठीक हो जाएगा। डॉक्टर की मदद लें।"
+      },
+      {
+        "type": "heading",
+        "text": "इनमें से कुछ भी हो तो तुरंत डॉक्टर या अस्पताल जाएँ"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "आँखें या त्वचा पीली होना (पीलिया)",
+          "पेशाब बहुत गहरे रंग का होना, या मल का रंग फीका, मिट्टी जैसा होना",
+          "ख़ून की उल्टी, या काला, चिपचिपा, तारकोल जैसा मल",
+          "पेट फूलना या पैरों और टखनों में नई सूजन",
+          "उलझन, बहुत ज़्यादा नींद आना, या ऐसा बर्ताव जो घरवालों को अजीब लगे",
+          "पेट में तेज़ दर्द, ख़ासकर ऊपर दाईं तरफ़",
+          "बुख़ार के साथ कोई जोड़ गरम, लाल, सूजा और बहुत दर्द वाला हो",
+          "कमर या बगल में अचानक तेज़ दर्द जो नीचे जाँघ की तरफ़ जाए, यह पथरी हो सकती है",
+          "आसानी से नील पड़ना, या मसूड़ों या नाक से ख़ून जो रुके नहीं"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "अगर कोई बहुत सुस्त है, उलझा हुआ है, ख़ून की उल्टी कर रहा है या तेज़ दर्द में है, तो उसे पास के इमरजेंसी में ले जाएँ या एम्बुलेंस बुलाएँ। चक्कर या बहुत कमज़ोरी लगे तो ख़ुद गाड़ी न चलाएँ।"
+      },
+      {
+        "type": "heading",
+        "text": "इनमें कुछ दिनों के अंदर डॉक्टर को दिखाएँ"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "कोई जोड़ सूजा और दर्द वाला हो, बिना बुख़ार के भी, ख़ासकर अगर पहली बार हुआ हो",
+          "जोड़ों का दर्द बार-बार लौटे या जल्दी-जल्दी होने लगे",
+          "बिना कोशिश के वज़न घटना, या भूख कम होना जो ठीक न हो",
+          "हर समय थकान या कमज़ोरी जो पहले नहीं थी",
+          "बिना दाने के पूरे शरीर में खुजली",
+          "जोड़ों, कान या कोहनी के पास त्वचा के नीचे गाँठें",
+          "पेशाब में जलन या ख़ून, या पेशाब बहुत कम आना",
+          "कोई भी परेशानी जो आपको लगे किसी दवा की वजह से है"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "नियमित जाँच क्यों ज़रूरी है"
+      },
+      {
+        "type": "paragraph",
+        "text": "फैटी लिवर और ज़्यादा यूरिक एसिड में सालों तक कोई लक्षण नहीं होते। ठीक महसूस करने का मतलब हमेशा यह नहीं कि अंदर सब ठीक है। नियमित मिलने से डॉक्टर देख पाते हैं कि आप कैसे हैं, ज़रूरत हो तो टेस्ट दोबारा कराते हैं और इलाज बदलते हैं।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "डॉक्टर ने जो दोबारा मिलने की तारीख़ दी है, उस पर ज़रूर जाएँ, चाहे आप ठीक महसूस करें।",
+          "पुरानी और नई रिपोर्टें साथ ले जाएँ, या प्रोग्रेस टैब के चार्ट दिखाएँ।",
+          "डॉक्टर को दूसरी बीमारियों के बारे में भी बताएँ, जैसे शुगर, BP, थायरॉइड, किडनी की दिक़्क़त या कोलेस्ट्रॉल, क्योंकि ये अक्सर आपस में जुड़ी होती हैं।",
+          "पूछें कि लिवर टेस्ट, यूरिक एसिड और अल्ट्रासाउंड दोबारा कब कराना है।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "डॉक्टर से मिलने का पूरा फ़ायदा कैसे उठाएँ"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "अपने लक्षण लिख लें, कब शुरू हुए और किससे बढ़ते या घटते हैं।",
+          "जो भी दवा, सप्लीमेंट या जड़ी-बूटी वाली चीज़ लेते हैं, सबकी लिस्ट बनाएँ।",
+          "शराब, सिगरेट और रोज़ के खाने के बारे में सच बताएँ। डॉक्टर मदद के लिए हैं, आपको परखने के लिए नहीं।",
+          "पूछें कि यही दिक़्क़त रात में या छुट्टी के दिन हो तो क्या करना है।"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "शक हो तो जाँच करा लेना हमेशा बेहतर है। जल्दी मदद लेना कभी भी समय की बर्बादी नहीं है।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

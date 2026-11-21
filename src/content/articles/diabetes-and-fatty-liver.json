@@ -1,0 +1,170 @@
+{
+  "id": "diabetes-and-fatty-liver",
+  "topics": ["fattyLiver"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Diabetes and fatty liver: how they are linked",
+    "hi": "डायबिटीज़ और फैटी लिवर: दोनों का रिश्ता"
+  },
+  "summary": {
+    "en": "Why high blood sugar and fatty liver often come together, and everyday habits that may help both.",
+    "hi": "बढ़ी शुगर और फैटी लिवर अक्सर साथ क्यों होते हैं, और रोज़ की कौन सी आदतें दोनों में मदद कर सकती हैं।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Fatty liver and type 2 diabetes are like two neighbours who share the same wall. Many people with diabetes have fat in their liver, and many people with fatty liver have high sugar or pre-diabetes, sometimes without knowing it. India has a very large number of people with diabetes, so understanding this link is important for many families."
+      },
+      {
+        "type": "heading",
+        "text": "The common root: insulin resistance"
+      },
+      {
+        "type": "paragraph",
+        "text": "Insulin is a hormone that helps sugar from food move from the blood into the body's cells. When the body becomes less sensitive to insulin, called insulin resistance, the pancreas has to make more insulin to keep sugar in control. High insulin levels push the liver to make and store more fat. At the same time, a fatty liver itself makes insulin work less well. This creates a cycle where each problem feeds the other."
+      },
+      {
+        "type": "paragraph",
+        "text": "Belly fat, little physical activity, poor sleep and a diet high in sugar and refined flour all add to insulin resistance. Many Indians also tend to store fat around the waist and inside the belly, which is closely linked to both conditions."
+      },
+      {
+        "type": "heading",
+        "text": "Why this matters"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "People with diabetes have a higher chance of their fatty liver getting worse over time",
+          "Fatty liver may make blood sugar harder to control",
+          "Both raise the risk of heart disease, which is a major health concern for people with fatty liver"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "This is why doctors often check sugar (fasting sugar, HbA1c) when they find fatty liver, and may check the liver in people with diabetes. If you have one, ask your doctor whether you should be tested for the other."
+      },
+      {
+        "type": "heading",
+        "text": "Good news: the same habits help both"
+      },
+      {
+        "type": "paragraph",
+        "text": "You do not need two separate diets. The habits that may help your liver also help your sugar control."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Cut sugar: less sugar in chai, fewer sweets and mithai, no cold drinks or packaged juice",
+          "Choose whole grains: whole wheat atta, brown or hand-pounded rice in small portions, millets like jowar, bajra and ragi",
+          "Reduce maida: white bread, naan, biscuits, cakes and bakery items",
+          "Add protein to every meal: dal, chana, rajma, sprouts, paneer, curd, egg or fish",
+          "Fill half the plate with sabzi and salad, which adds fibre and slows down the sugar rise",
+          "Eat whole fruit in small portions instead of juice",
+          "Walk for 10 to 15 minutes after main meals",
+          "Aim for slow, steady weight loss if you are overweight",
+          "Sleep 7 to 8 hours and manage stress"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Be careful with diet changes and medicines"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you take tablets or insulin for diabetes, eating much less or skipping meals can make your sugar drop too low. Signs of low sugar include shaking, sweating, sudden hunger, confusion or feeling faint. Talk to your doctor before you change your diet a lot, start fasting or begin a new exercise routine. Your doctor may need to adjust your medicines. Never stop or change diabetes medicines on your own."
+      },
+      {
+        "type": "paragraph",
+        "text": "Also be careful with 'sugar-free' sweets and 'diabetic' products. Many still contain maida, ghee or a lot of calories, which add to liver fat."
+      },
+      {
+        "type": "heading",
+        "text": "Track your numbers together"
+      },
+      {
+        "type": "paragraph",
+        "text": "Keep your sugar reports, liver tests, weight and waist size in one place. In this app you can log your weight, waist and liver tests in the Progress section and see how they move over time. Share these trends with your doctor at each visit. Small, steady changes in your thali and daily walk may help both your liver and your sugar over the coming months."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "फैटी लिवर और टाइप 2 डायबिटीज़ ऐसे दो पड़ोसी हैं जिनकी दीवार एक ही है। डायबिटीज़ वाले बहुत से लोगों के लिवर में चर्बी होती है, और फैटी लिवर वाले बहुत से लोगों की शुगर ज़्यादा होती है या प्री-डायबिटीज़ होती है, कई बार उन्हें पता भी नहीं होता। भारत में डायबिटीज़ वाले लोग बहुत ज़्यादा हैं, इसलिए यह रिश्ता समझना कई परिवारों के लिए ज़रूरी है।"
+      },
+      {
+        "type": "heading",
+        "text": "दोनों की एक जड़: इंसुलिन रेज़िस्टेंस"
+      },
+      {
+        "type": "paragraph",
+        "text": "इंसुलिन एक हार्मोन है जो खाने से आई शुगर को ख़ून से शरीर की कोशिकाओं तक पहुँचाने में मदद करता है। जब शरीर पर इंसुलिन का असर कम होने लगता है, जिसे इंसुलिन रेज़िस्टेंस कहते हैं, तो शुगर क़ाबू में रखने के लिए अग्न्याशय (पैंक्रियाज़) को ज़्यादा इंसुलिन बनाना पड़ता है। ज़्यादा इंसुलिन लिवर को ज़्यादा चर्बी बनाने और जमा करने की तरफ़ धकेलता है। वहीं, चर्बी वाला लिवर ख़ुद इंसुलिन का असर और कम कर देता है। इस तरह एक चक्कर बन जाता है जिसमें दोनों दिक़्क़तें एक-दूसरे को बढ़ाती हैं।"
+      },
+      {
+        "type": "paragraph",
+        "text": "पेट की चर्बी, कम चलना-फिरना, कम नींद और ज़्यादा चीनी व मैदा वाला खाना, ये सब इंसुलिन रेज़िस्टेंस बढ़ाते हैं। बहुत से भारतीयों में चर्बी कमर के आसपास और पेट के अंदर जमती है, जिसका दोनों बीमारियों से गहरा रिश्ता है।"
+      },
+      {
+        "type": "heading",
+        "text": "यह क्यों ज़रूरी है"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "डायबिटीज़ वाले लोगों में समय के साथ फैटी लिवर बढ़ने की संभावना ज़्यादा होती है",
+          "फैटी लिवर से शुगर क़ाबू करना मुश्किल हो सकता है",
+          "दोनों से दिल की बीमारी का ख़तरा बढ़ता है, जो फैटी लिवर वालों के लिए एक बड़ी चिंता है"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "इसीलिए फैटी लिवर मिलने पर डॉक्टर अक्सर शुगर (फ़ास्टिंग शुगर, HbA1c) जाँचते हैं, और डायबिटीज़ वालों का लिवर भी देख सकते हैं। अगर आपको इनमें से एक है, तो डॉक्टर से पूछें कि क्या दूसरे की जाँच भी करानी चाहिए।"
+      },
+      {
+        "type": "heading",
+        "text": "अच्छी ख़बर: वही आदतें दोनों में मदद करती हैं"
+      },
+      {
+        "type": "paragraph",
+        "text": "आपको दो अलग डाइट की ज़रूरत नहीं है। जो आदतें लिवर की मदद कर सकती हैं, वही शुगर क़ाबू में रखने में भी मदद करती हैं।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "चीनी कम करें: चाय में कम चीनी, कम मिठाई, कोल्ड ड्रिंक और पैकेट वाला जूस नहीं",
+          "साबुत अनाज चुनें: गेहूँ का आटा, ब्राउन या हाथ-कुटा चावल थोड़ी मात्रा में, ज्वार, बाजरा और रागी जैसे मोटे अनाज",
+          "मैदा कम करें: सफ़ेद ब्रेड, नान, बिस्कुट, केक और बेकरी की चीज़ें",
+          "हर खाने में प्रोटीन रखें: दाल, चना, राजमा, अंकुरित अनाज, पनीर, दही, अंडा या मछली",
+          "आधी थाली सब्ज़ी और सलाद से भरें, इससे फ़ाइबर मिलता है और शुगर धीरे बढ़ती है",
+          "जूस की जगह थोड़ी मात्रा में साबुत फल खाएँ",
+          "मुख्य खाने के बाद 10 से 15 मिनट टहलें",
+          "वज़न ज़्यादा है तो धीरे-धीरे घटाने का लक्ष्य रखें",
+          "7 से 8 घंटे सोएँ और तनाव कम करें"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "खाने में बदलाव और दवाइयों में सावधानी"
+      },
+      {
+        "type": "paragraph",
+        "text": "अगर आप डायबिटीज़ की गोली या इंसुलिन लेते हैं, तो बहुत कम खाने या खाना छोड़ने से शुगर बहुत नीचे जा सकती है। शुगर कम होने के संकेत हैं: काँपना, पसीना, अचानक तेज़ भूख, घबराहट या बेहोशी जैसा लगना। खाने में बड़ा बदलाव करने, व्रत शुरू करने या नई कसरत शुरू करने से पहले डॉक्टर से बात करें। हो सकता है डॉक्टर को आपकी दवा बदलनी पड़े। डायबिटीज़ की दवा कभी भी अपने आप बंद या कम-ज़्यादा न करें।"
+      },
+      {
+        "type": "paragraph",
+        "text": "'शुगर-फ़्री' मिठाई और 'डायबिटिक' प्रोडक्ट से भी सावधान रहें। इनमें से बहुतों में फिर भी मैदा, घी या बहुत कैलोरी होती है, जो लिवर की चर्बी बढ़ाती है।"
+      },
+      {
+        "type": "heading",
+        "text": "अपने नंबर साथ में ट्रैक करें"
+      },
+      {
+        "type": "paragraph",
+        "text": "शुगर की रिपोर्ट, लिवर टेस्ट, वज़न और कमर का नाप एक जगह रखें। इस ऐप के Progress सेक्शन में आप वज़न, कमर और लिवर टेस्ट दर्ज कर सकते हैं और देख सकते हैं कि समय के साथ ये कैसे बदलते हैं। हर बार डॉक्टर के पास जाएँ तो ये ट्रेंड दिखाएँ। थाली और रोज़ की सैर में छोटे, लगातार बदलाव आने वाले महीनों में आपके लिवर और शुगर, दोनों में मदद कर सकते हैं।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}
