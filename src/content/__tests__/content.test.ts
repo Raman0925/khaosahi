@@ -23,10 +23,10 @@ describe('bundled content', () => {
     expect(result.errors.join('\n')).toMatch(/forbidden wording/);
   });
 
-  it('passes release validation; unreviewed items are only a warning', () => {
+  it('passes release validation (full plan weeks and tip counts)', () => {
     const result = validateContent(content, { release: true });
     expect(result.errors).toEqual([]);
-    expect(result.warnings.join('\n')).toMatch(/PENDING/);
+    expect(result.warnings).toEqual([]);
   });
 });
 

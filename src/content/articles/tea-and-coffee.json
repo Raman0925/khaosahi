@@ -17,17 +17,26 @@
         "type": "paragraph",
         "text": "For many of us, the day does not start without a cup of chai, and evenings feel incomplete without another. The good news is that you do not have to give up tea or coffee. The real issue is usually what comes with them: sugar, full-cream milk, and biscuits, namkeen or pakoras on the side."
       },
-      { "type": "heading", "text": "Coffee" },
+      {
+        "type": "heading",
+        "text": "Coffee"
+      },
       {
         "type": "paragraph",
         "text": "Studies have found that people who drink coffee regularly tend to have a lower risk of liver scarring, and coffee has also been linked with lower uric acid in some research. This does not mean coffee is a medicine, or that you should start drinking it if you do not already. But if you enjoy a cup or two, plain coffee with little or no sugar can fit into a healthy routine for most people."
       },
-      { "type": "heading", "text": "Tea" },
+      {
+        "type": "heading",
+        "text": "Tea"
+      },
       {
         "type": "paragraph",
         "text": "Regular chai and green tea can both be part of your day. Tea itself is not a problem for most people. Lemon tea, ginger tea and herbal teas without sugar are also fine choices. Do not believe claims that a special tea will melt liver fat or flush out uric acid on its own."
       },
-      { "type": "heading", "text": "Watch the sugar" },
+      {
+        "type": "heading",
+        "text": "Watch the sugar"
+      },
       {
         "type": "paragraph",
         "text": "Two or three spoons of sugar in each cup, four or five cups a day, add up to a lot of sugar. Sugar may add fat to the liver and raise uric acid. Cutting it down slowly is one of the most useful changes you can make."
@@ -42,7 +51,10 @@
           "Avoid ready-mix tea and coffee sachets and café drinks with syrups, cream and whipped toppings"
         ]
       },
-      { "type": "heading", "text": "Milk and the snacks on the side" },
+      {
+        "type": "heading",
+        "text": "Milk and the snacks on the side"
+      },
       {
         "type": "bullets",
         "items": [
@@ -52,7 +64,10 @@
           "If chai is a habit when you feel bored or stressed, try a short walk or a glass of water first"
         ]
       },
-      { "type": "heading", "text": "How much is fine?" },
+      {
+        "type": "heading",
+        "text": "How much is fine?"
+      },
       {
         "type": "paragraph",
         "text": "Most healthy adults can have a few cups of tea or coffee a day without trouble. Too much caffeine can cause poor sleep, a racing heart, acidity or anxiety. Try to keep your last cup at least a few hours before bedtime, because good sleep also matters for your weight and liver."
@@ -61,12 +76,18 @@
         "type": "paragraph",
         "text": "Ask your doctor about caffeine if you are pregnant, have heart rhythm problems, uncontrolled blood pressure, severe acidity or trouble sleeping, or if you take medicines that may interact with it."
       },
-      { "type": "heading", "text": "Tea and coffee do not replace water" },
+      {
+        "type": "heading",
+        "text": "Tea and coffee do not replace water"
+      },
       {
         "type": "paragraph",
         "text": "Chai and coffee do add to your fluids, but plain water should still be your main drink, especially if you have high uric acid. A good habit is to drink a glass of water before every cup of tea or coffee."
       },
-      { "type": "heading", "text": "A better chai routine" },
+      {
+        "type": "heading",
+        "text": "A better chai routine"
+      },
       {
         "type": "paragraph",
         "text": "For example: morning chai with half a spoon of sugar and toned milk, a cup of plain coffee or green tea mid-morning, and evening chai with roasted chana instead of biscuits. Small changes like these, done every day, may make a real difference over time."
@@ -77,17 +98,26 @@
         "type": "paragraph",
         "text": "हममें से बहुतों का दिन चाय के कप के बिना शुरू नहीं होता, और शाम भी एक और कप के बिना अधूरी लगती है। अच्छी बात यह है कि आपको चाय या कॉफ़ी छोड़नी नहीं है। असली दिक्कत अक्सर साथ आने वाली चीज़ों में होती है: चीनी, फ़ुल-क्रीम दूध, और साथ में बिस्किट, नमकीन या पकौड़े।"
       },
-      { "type": "heading", "text": "कॉफ़ी" },
+      {
+        "type": "heading",
+        "text": "कॉफ़ी"
+      },
       {
         "type": "paragraph",
         "text": "स्टडीज़ में देखा गया है कि नियम से कॉफ़ी पीने वालों में लिवर सख़्त होने का ख़तरा कम होता है, और कुछ रिसर्च में कॉफ़ी को कम यूरिक एसिड से भी जोड़ा गया है। इसका मतलब यह नहीं कि कॉफ़ी कोई दवा है, या अगर आप नहीं पीते तो शुरू कर दें। लेकिन अगर आपको एक-दो कप पसंद हैं, तो कम या बिना चीनी वाली सादी कॉफ़ी ज़्यादातर लोगों के लिए अच्छी दिनचर्या का हिस्सा हो सकती है।"
       },
-      { "type": "heading", "text": "चाय" },
+      {
+        "type": "heading",
+        "text": "चाय"
+      },
       {
         "type": "paragraph",
         "text": "आम चाय और ग्रीन टी, दोनों आपके दिन का हिस्सा हो सकती हैं। ज़्यादातर लोगों के लिए चाय अपने आप में दिक्कत नहीं है। बिना चीनी वाली नींबू चाय, अदरक चाय और हर्बल चाय भी अच्छे विकल्प हैं। ऐसे दावों पर भरोसा न करें कि कोई ख़ास चाय अकेले लिवर की चर्बी पिघला देगी या यूरिक एसिड बाहर निकाल देगी।"
       },
-      { "type": "heading", "text": "चीनी पर ध्यान दें" },
+      {
+        "type": "heading",
+        "text": "चीनी पर ध्यान दें"
+      },
       {
         "type": "paragraph",
         "text": "हर कप में दो-तीन चम्मच चीनी, और दिन में चार-पाँच कप, मिलाकर बहुत सारी चीनी हो जाती है। चीनी लिवर में चर्बी बढ़ा सकती है और यूरिक एसिड भी। इसे धीरे-धीरे कम करना सबसे काम के बदलावों में से एक है।"
@@ -102,7 +132,10 @@
           "रेडी-मिक्स चाय-कॉफ़ी के पैकेट और सिरप, क्रीम वाली कैफ़े ड्रिंक से बचें"
         ]
       },
-      { "type": "heading", "text": "दूध और साथ का नाश्ता" },
+      {
+        "type": "heading",
+        "text": "दूध और साथ का नाश्ता"
+      },
       {
         "type": "bullets",
         "items": [
@@ -112,7 +145,10 @@
           "अगर बोरियत या तनाव में चाय की आदत है, तो पहले थोड़ा टहल लें या एक गिलास पानी पी लें"
         ]
       },
-      { "type": "heading", "text": "कितना ठीक है?" },
+      {
+        "type": "heading",
+        "text": "कितना ठीक है?"
+      },
       {
         "type": "paragraph",
         "text": "ज़्यादातर स्वस्थ लोग दिन में कुछ कप चाय या कॉफ़ी बिना दिक्कत ले सकते हैं। ज़्यादा कैफ़ीन से नींद ख़राब हो सकती है, दिल तेज़ धड़क सकता है, एसिडिटी या घबराहट हो सकती है। आख़िरी कप सोने से कुछ घंटे पहले लें, क्योंकि अच्छी नींद भी वज़न और लिवर के लिए ज़रूरी है।"
@@ -121,18 +157,22 @@
         "type": "paragraph",
         "text": "अगर आप प्रेग्नेंट हैं, दिल की धड़कन की दिक्कत है, बीपी काबू में नहीं है, बहुत एसिडिटी या नींद की परेशानी है, या ऐसी दवा लेते हैं जिस पर असर पड़ सकता है, तो कैफ़ीन के बारे में डॉक्टर से पूछें।"
       },
-      { "type": "heading", "text": "चाय-कॉफ़ी पानी की जगह नहीं ले सकतीं" },
+      {
+        "type": "heading",
+        "text": "चाय-कॉफ़ी पानी की जगह नहीं ले सकतीं"
+      },
       {
         "type": "paragraph",
         "text": "चाय और कॉफ़ी से भी शरीर को पानी मिलता है, पर सादा पानी ही आपका मुख्य ड्रिंक रहना चाहिए, ख़ासकर हाई यूरिक एसिड में। अच्छी आदत है कि हर कप चाय या कॉफ़ी से पहले एक गिलास पानी पिएँ।"
       },
-      { "type": "heading", "text": "चाय की बेहतर दिनचर्या" },
+      {
+        "type": "heading",
+        "text": "चाय की बेहतर दिनचर्या"
+      },
       {
         "type": "paragraph",
         "text": "जैसे: सुबह टोंड दूध और आधे चम्मच चीनी वाली चाय, दोपहर से पहले एक कप सादी कॉफ़ी या ग्रीन टी, और शाम की चाय के साथ बिस्किट की जगह भुना चना। रोज़ किए गए ऐसे छोटे बदलाव समय के साथ असली फ़र्क़ ला सकते हैं।"
       }
     ]
-  },
-  "reviewedBy": "PENDING",
-  "reviewedOn": null
+  }
 }

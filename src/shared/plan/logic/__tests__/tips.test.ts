@@ -7,8 +7,6 @@ function tips(prefix: string, count: number): Tip[] {
   return Array.from({ length: count }, (_, n) => ({
     id: `${prefix}-${n + 1}`,
     text: { en: `${prefix} ${n + 1}`, hi: `${prefix} ${n + 1}` },
-    reviewedBy: 'PENDING',
-    reviewedOn: null,
   }));
 }
 

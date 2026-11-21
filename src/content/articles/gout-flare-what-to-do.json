@@ -17,7 +17,10 @@
         "type": "paragraph",
         "text": "A gout flare can start suddenly, often at night. A joint, very often the big toe, becomes red, hot, swollen and so painful that even a bedsheet touching it hurts. The pain is usually worst in the first day or two and then slowly settles over several days. Knowing what to do can make the attack easier to handle."
       },
-      { "type": "heading", "text": "See a doctor promptly if" },
+      {
+        "type": "heading",
+        "text": "See a doctor promptly if"
+      },
       {
         "type": "bullets",
         "items": [
@@ -33,7 +36,10 @@
         "type": "paragraph",
         "text": "A hot, swollen joint with fever can sometimes be an infection, which needs urgent treatment. Only a doctor can tell the difference, so do not wait at home in these cases."
       },
-      { "type": "heading", "text": "Comfort steps at home" },
+      {
+        "type": "heading",
+        "text": "Comfort steps at home"
+      },
       {
         "type": "bullets",
         "items": [
@@ -46,7 +52,10 @@
           "Eat simple home food: roti, dal, sabzi, curd. Avoid organ meat, shellfish, rich non-veg dishes and sugary drinks"
         ]
       },
-      { "type": "heading", "text": "About medicines" },
+      {
+        "type": "heading",
+        "text": "About medicines"
+      },
       {
         "type": "paragraph",
         "text": "Do not start, stop or change any medicine on your own during a flare. Some common painkillers are not safe for people with kidney, stomach or heart problems, and some uric acid medicines need special handling during an attack. If your doctor has already given you a plan for flares, follow it. If not, call your doctor and ask what to take."
@@ -55,7 +64,10 @@
         "type": "paragraph",
         "text": "If you are already taking a medicine to lower uric acid every day, do not stop it because of the attack unless your doctor tells you to. Stopping suddenly can make things worse."
       },
-      { "type": "heading", "text": "Things that may trigger a flare" },
+      {
+        "type": "heading",
+        "text": "Things that may trigger a flare"
+      },
       {
         "type": "bullets",
         "items": [
@@ -67,7 +79,10 @@
           "Starting or changing some medicines"
         ]
       },
-      { "type": "heading", "text": "After the attack settles" },
+      {
+        "type": "heading",
+        "text": "After the attack settles"
+      },
       {
         "type": "paragraph",
         "text": "Once the pain is gone, it is easy to forget about it. But this is the best time to plan ahead with your doctor. Ask whether you need a uric acid test, whether you need long-term medicine, and what to do if another attack comes."
@@ -91,7 +106,10 @@
         "type": "paragraph",
         "text": "गाउट का अटैक अचानक शुरू हो सकता है, अक्सर रात में। कोई जोड़, ज़्यादातर पैर का अंगूठा, लाल, गरम और सूज जाता है, और इतना दर्द करता है कि उस पर चादर लगना भी बर्दाश्त नहीं होता। दर्द आम तौर पर पहले एक-दो दिन सबसे ज़्यादा होता है और फिर कुछ दिनों में धीरे-धीरे कम होता है। क्या करना है यह पता हो, तो अटैक संभालना आसान हो जाता है।"
       },
-      { "type": "heading", "text": "इन हालात में जल्दी डॉक्टर को दिखाएँ" },
+      {
+        "type": "heading",
+        "text": "इन हालात में जल्दी डॉक्टर को दिखाएँ"
+      },
       {
         "type": "bullets",
         "items": [
@@ -107,7 +125,10 @@
         "type": "paragraph",
         "text": "बुख़ार के साथ गरम, सूजा जोड़ कभी-कभी इन्फ़ेक्शन भी हो सकता है, जिसका तुरंत इलाज ज़रूरी है। यह फ़र्क़ सिर्फ़ डॉक्टर ही बता सकते हैं, इसलिए ऐसे में घर पर इंतज़ार न करें।"
       },
-      { "type": "heading", "text": "घर पर आराम के तरीक़े" },
+      {
+        "type": "heading",
+        "text": "घर पर आराम के तरीक़े"
+      },
       {
         "type": "bullets",
         "items": [
@@ -120,7 +141,10 @@
           "सादा घर का खाना खाएँ: रोटी, दाल, सब्ज़ी, दही। ऑर्गन मीट, सीफ़ूड, भारी नॉन-वेज और मीठे ड्रिंक से बचें"
         ]
       },
-      { "type": "heading", "text": "दवाओं के बारे में" },
+      {
+        "type": "heading",
+        "text": "दवाओं के बारे में"
+      },
       {
         "type": "paragraph",
         "text": "अटैक के दौरान अपने मन से कोई दवा शुरू, बंद या बदलें नहीं। कुछ आम दर्द की दवाएँ किडनी, पेट या दिल की दिक्कत वालों के लिए ठीक नहीं होतीं, और यूरिक एसिड की कुछ दवाओं को अटैक के समय ख़ास तरीक़े से लेना होता है। अगर डॉक्टर ने अटैक के लिए पहले से प्लान दिया है, तो उसे मानें। अगर नहीं, तो डॉक्टर को फ़ोन करके पूछें कि क्या लेना है।"
@@ -129,7 +153,10 @@
         "type": "paragraph",
         "text": "अगर आप पहले से रोज़ यूरिक एसिड कम करने की दवा ले रहे हैं, तो अटैक की वजह से उसे बंद न करें, जब तक डॉक्टर न कहें। अचानक बंद करने से हालत बिगड़ सकती है।"
       },
-      { "type": "heading", "text": "किन चीज़ों से अटैक शुरू हो सकता है" },
+      {
+        "type": "heading",
+        "text": "किन चीज़ों से अटैक शुरू हो सकता है"
+      },
       {
         "type": "bullets",
         "items": [
@@ -141,7 +168,10 @@
           "कुछ दवाएँ शुरू करना या बदलना"
         ]
       },
-      { "type": "heading", "text": "अटैक ठीक होने के बाद" },
+      {
+        "type": "heading",
+        "text": "अटैक ठीक होने के बाद"
+      },
       {
         "type": "paragraph",
         "text": "दर्द जाते ही इसे भूल जाना आसान है। लेकिन यही डॉक्टर के साथ आगे का प्लान बनाने का सबसे अच्छा समय है। पूछें कि क्या यूरिक एसिड टेस्ट करवाना है, क्या लंबे समय की दवा चाहिए, और अगला अटैक आए तो क्या करना है।"
@@ -160,7 +190,5 @@
         "text": "सही इलाज और रोज़ की आदतों से गाउट वाले कई लोगों के अटैक समय के साथ कम हो जाते हैं। आपको यह अकेले नहीं संभालना है; इसमें डॉक्टर आपके साथी हैं।"
       }
     ]
-  },
-  "reviewedBy": "PENDING",
-  "reviewedOn": null
+  }
 }

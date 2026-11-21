@@ -3,7 +3,10 @@
   "topics": ["uricAcid", "fattyLiver"],
   "readMinutes": 3,
   "rewardedExtra": false,
-  "title": { "en": "Fruits, juices and hidden fructose", "hi": "फल, जूस और छुपा हुआ फ़्रुक्टोज़" },
+  "title": {
+    "en": "Fruits, juices and hidden fructose",
+    "hi": "फल, जूस और छुपा हुआ फ़्रुक्टोज़"
+  },
   "summary": {
     "en": "Why whole fruit is fine in sensible portions, but packaged juices and cold drinks are not.",
     "hi": "सही मात्रा में साबुत फल क्यों ठीक है, पर पैकेट जूस और कोल्ड ड्रिंक क्यों नहीं।"
@@ -14,7 +17,10 @@
         "type": "paragraph",
         "text": "Fruits are healthy, so a glass of juice must be healthy too. This is a very common belief, but for the liver and for uric acid it is not quite right. The key is a natural sugar called fructose, and the form in which you take it."
       },
-      { "type": "heading", "text": "What is fructose?" },
+      {
+        "type": "heading",
+        "text": "What is fructose?"
+      },
       {
         "type": "paragraph",
         "text": "Fructose is a type of sugar found naturally in fruits and honey. It is also half of ordinary table sugar, and it is used in large amounts in cold drinks, packaged juices, sweets and many processed foods. Unlike some other sugars, fructose is handled mainly by the liver."
@@ -27,7 +33,10 @@
           "This is why sugary drinks are linked with both fatty liver and gout"
         ]
       },
-      { "type": "heading", "text": "Whole fruit is different" },
+      {
+        "type": "heading",
+        "text": "Whole fruit is different"
+      },
       {
         "type": "paragraph",
         "text": "A whole fruit comes with fibre, water, vitamins and minerals. The fibre slows down how fast the sugar enters your blood, and you need to chew, which fills you up. It is hard to eat four oranges at once, but very easy to drink the juice of four oranges in a minute. For most people with fatty liver or high uric acid, whole fruit in sensible portions is a good choice."
@@ -43,7 +52,10 @@
           "Cherries are often said to help with gout; they are fine as a fruit, but they do not replace your doctor's advice"
         ]
       },
-      { "type": "heading", "text": "Drinks to cut down" },
+      {
+        "type": "heading",
+        "text": "Drinks to cut down"
+      },
       {
         "type": "bullets",
         "items": [
@@ -58,12 +70,18 @@
         "type": "paragraph",
         "text": "Even fresh, home-made juice loses most of the fibre. If you really enjoy it, keep it to a small glass now and then, and do not add sugar. Most of the time, choose the whole fruit instead."
       },
-      { "type": "heading", "text": "Watch for hidden sugar" },
+      {
+        "type": "heading",
+        "text": "Watch for hidden sugar"
+      },
       {
         "type": "paragraph",
         "text": "Fructose and sugar hide in many packaged foods. Read the label and look for words like sugar, glucose-fructose syrup, high fructose corn syrup, invert syrup, fruit juice concentrate and honey. Ketchup, flavoured yoghurt, breakfast cereals, biscuits and health drinks often contain more sugar than you expect."
       },
-      { "type": "heading", "text": "Better swaps" },
+      {
+        "type": "heading",
+        "text": "Better swaps"
+      },
       {
         "type": "bullets",
         "items": [
@@ -83,7 +101,10 @@
         "type": "paragraph",
         "text": "फल सेहतमंद हैं, तो जूस का गिलास भी सेहतमंद होगा। यह बहुत आम सोच है, लेकिन लिवर और यूरिक एसिड के लिए यह पूरी तरह सही नहीं। असली बात है फ़्रुक्टोज़ नाम की एक कुदरती शुगर, और वह आप किस रूप में लेते हैं।"
       },
-      { "type": "heading", "text": "फ़्रुक्टोज़ क्या है?" },
+      {
+        "type": "heading",
+        "text": "फ़्रुक्टोज़ क्या है?"
+      },
       {
         "type": "paragraph",
         "text": "फ़्रुक्टोज़ एक तरह की शुगर है जो फलों और शहद में कुदरती रूप से होती है। आम चीनी का भी आधा हिस्सा फ़्रुक्टोज़ होता है, और कोल्ड ड्रिंक, पैकेट जूस, मिठाई और कई पैकेट वाली चीज़ों में यह बहुत मात्रा में डाला जाता है। कुछ दूसरी शुगर की तरह नहीं, फ़्रुक्टोज़ को ज़्यादातर लिवर ही संभालता है।"
@@ -96,7 +117,10 @@
           "इसीलिए मीठे ड्रिंक फैटी लिवर और गाउट दोनों से जुड़े हैं"
         ]
       },
-      { "type": "heading", "text": "साबुत फल अलग है" },
+      {
+        "type": "heading",
+        "text": "साबुत फल अलग है"
+      },
       {
         "type": "paragraph",
         "text": "साबुत फल के साथ फ़ाइबर, पानी, विटामिन और मिनरल भी आते हैं। फ़ाइबर की वजह से शुगर धीरे-धीरे ख़ून में जाती है, और चबाने से पेट भरता है। एक साथ चार संतरे खाना मुश्किल है, पर चार संतरों का जूस एक मिनट में पी जाना बहुत आसान। फैटी लिवर या हाई यूरिक एसिड वाले ज़्यादातर लोगों के लिए सही मात्रा में साबुत फल अच्छा विकल्प है।"
@@ -112,7 +136,10 @@
           "चेरी को अक्सर गाउट में फ़ायदेमंद बताया जाता है; फल के तौर पर ठीक है, पर यह डॉक्टर की सलाह की जगह नहीं ले सकती"
         ]
       },
-      { "type": "heading", "text": "ये ड्रिंक कम करें" },
+      {
+        "type": "heading",
+        "text": "ये ड्रिंक कम करें"
+      },
       {
         "type": "bullets",
         "items": [
@@ -127,12 +154,18 @@
         "type": "paragraph",
         "text": "घर का ताज़ा जूस भी ज़्यादातर फ़ाइबर खो देता है। अगर आपको बहुत पसंद है, तो कभी-कभार छोटा गिलास लें और चीनी न डालें। ज़्यादातर समय साबुत फल ही चुनें।"
       },
-      { "type": "heading", "text": "छुपी हुई चीनी पर नज़र रखें" },
+      {
+        "type": "heading",
+        "text": "छुपी हुई चीनी पर नज़र रखें"
+      },
       {
         "type": "paragraph",
         "text": "फ़्रुक्टोज़ और चीनी कई पैकेट वाली चीज़ों में छुपी होती है। लेबल पढ़ें और शुगर, ग्लूकोज़-फ़्रुक्टोज़ सिरप, हाई फ़्रुक्टोज़ कॉर्न सिरप, इनवर्ट सिरप, फ्रूट जूस कॉन्सन्ट्रेट और शहद जैसे शब्द देखें। केचप, फ़्लेवर वाला दही, ब्रेकफ़ास्ट सीरियल, बिस्किट और हेल्थ ड्रिंक में अक्सर उम्मीद से ज़्यादा चीनी होती है।"
       },
-      { "type": "heading", "text": "बेहतर बदलाव" },
+      {
+        "type": "heading",
+        "text": "बेहतर बदलाव"
+      },
       {
         "type": "bullets",
         "items": [
@@ -147,7 +180,5 @@
         "text": "अगर फैटी लिवर या हाई यूरिक एसिड के साथ डायबिटीज़ भी है, तो डॉक्टर या डाइटीशियन से पूछें कि आपकी शुगर के लिए कौन-से फल और कितनी मात्रा सबसे ठीक है।"
       }
     ]
-  },
-  "reviewedBy": "PENDING",
-  "reviewedOn": null
+  }
 }

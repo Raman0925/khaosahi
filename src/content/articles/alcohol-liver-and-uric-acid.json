@@ -3,7 +3,10 @@
   "topics": ["fattyLiver", "uricAcid"],
   "readMinutes": 3,
   "rewardedExtra": false,
-  "title": { "en": "Alcohol, your liver and uric acid", "hi": "शराब, आपका लिवर और यूरिक एसिड" },
+  "title": {
+    "en": "Alcohol, your liver and uric acid",
+    "hi": "शराब, आपका लिवर और यूरिक एसिड"
+  },
   "summary": {
     "en": "How alcohol affects fatty liver and uric acid, why beer is a special concern, and tips for cutting down.",
     "hi": "शराब फैटी लिवर और यूरिक एसिड पर कैसे असर डालती है, बीयर क्यों ख़ास चिंता है, और कम करने के तरीक़े।"
@@ -14,7 +17,10 @@
         "type": "paragraph",
         "text": "Alcohol is part of many social occasions, from weekend parties to weddings. But if you have fatty liver or high uric acid, it is one of the most important things to look at. Both the liver and the kidneys have to work harder when you drink."
       },
-      { "type": "heading", "text": "Alcohol and the liver" },
+      {
+        "type": "heading",
+        "text": "Alcohol and the liver"
+      },
       {
         "type": "paragraph",
         "text": "The liver is the organ that breaks down alcohol. While doing this, it tends to store more fat. Alcohol also brings a lot of empty calories, which add to weight gain. If your liver already has extra fat, alcohol adds to the load and may increase the risk of inflammation and scarring over time."
@@ -23,7 +29,10 @@
         "type": "paragraph",
         "text": "For people with fatty liver, the safest choice is to avoid alcohol. Mainstream liver guidance advises people with fatty liver to avoid or strictly limit alcohol, and to avoid it fully if there is any scarring. There is no amount of alcohol that is known to be good for a fatty liver. Your doctor can tell you what applies to you."
       },
-      { "type": "heading", "text": "Alcohol and uric acid" },
+      {
+        "type": "heading",
+        "text": "Alcohol and uric acid"
+      },
       {
         "type": "paragraph",
         "text": "Alcohol may raise uric acid in two ways: it can make the body produce more, and it can make it harder for the kidneys to pass it out. Drinking also tends to dehydrate you. This is why a gout attack often follows a night of drinking."
@@ -37,12 +46,18 @@
           "Cocktails and mixers often add a lot of sugar, which is a problem for both the liver and uric acid"
         ]
       },
-      { "type": "heading", "text": "If you have both conditions" },
+      {
+        "type": "heading",
+        "text": "If you have both conditions"
+      },
       {
         "type": "paragraph",
         "text": "Having fatty liver and high uric acid together makes a strong case for stopping alcohol. Many people notice that cutting out alcohol also helps with weight, sleep, blood pressure and energy levels."
       },
-      { "type": "heading", "text": "Tips for cutting down or stopping" },
+      {
+        "type": "heading",
+        "text": "Tips for cutting down or stopping"
+      },
       {
         "type": "bullets",
         "items": [
@@ -55,7 +70,10 @@
           "Track your alcohol-free days in a calendar and be proud of each one"
         ]
       },
-      { "type": "heading", "text": "When to get help" },
+      {
+        "type": "heading",
+        "text": "When to get help"
+      },
       {
         "type": "paragraph",
         "text": "If you drink every day, find it hard to stop, or feel shaky, sweaty or very anxious when you skip a drink, do not stop suddenly on your own. Stopping abruptly after heavy drinking can be dangerous. Talk to your doctor, who can help you stop safely and may refer you to a de-addiction service."
@@ -64,7 +82,10 @@
         "type": "paragraph",
         "text": "Also see a doctor promptly if you notice yellow eyes or skin, swelling of the tummy or legs, vomiting blood or black stools, or confusion. These are warning signs that need urgent care."
       },
-      { "type": "heading", "text": "Medicines and alcohol" },
+      {
+        "type": "heading",
+        "text": "Medicines and alcohol"
+      },
       {
         "type": "paragraph",
         "text": "Some medicines do not mix well with alcohol. If you take any regular medicine, ask your doctor or pharmacist whether alcohol is safe with it. Never skip your medicines because you plan to drink."
@@ -79,7 +100,10 @@
         "type": "paragraph",
         "text": "वीकेंड पार्टी से लेकर शादी तक, शराब कई मौक़ों का हिस्सा होती है। लेकिन अगर आपको फैटी लिवर या हाई यूरिक एसिड है, तो इस पर ध्यान देना सबसे ज़रूरी बातों में से एक है। शराब पीने पर लिवर और किडनी दोनों को ज़्यादा मेहनत करनी पड़ती है।"
       },
-      { "type": "heading", "text": "शराब और लिवर" },
+      {
+        "type": "heading",
+        "text": "शराब और लिवर"
+      },
       {
         "type": "paragraph",
         "text": "शराब को लिवर ही तोड़ता है। ऐसा करते समय वह ज़्यादा चर्बी जमा करने लगता है। शराब से बहुत सारी ख़ाली कैलोरी भी मिलती है, जिससे वज़न बढ़ता है। अगर लिवर में पहले से चर्बी है, तो शराब बोझ और बढ़ा देती है और समय के साथ सूजन और लिवर सख़्त होने का ख़तरा बढ़ा सकती है।"
@@ -88,7 +112,10 @@
         "type": "paragraph",
         "text": "फैटी लिवर वालों के लिए सबसे सुरक्षित है शराब न पीना। लिवर की मुख्य गाइडलाइन फैटी लिवर वालों को शराब से बचने या बहुत कम करने की सलाह देती है, और अगर लिवर में सख़्ती आ गई हो तो पूरी तरह छोड़ने को कहती है। ऐसी कोई मात्रा नहीं है जो फैटी लिवर के लिए अच्छी मानी जाती हो। आपके लिए क्या ठीक है, डॉक्टर बताएँगे।"
       },
-      { "type": "heading", "text": "शराब और यूरिक एसिड" },
+      {
+        "type": "heading",
+        "text": "शराब और यूरिक एसिड"
+      },
       {
         "type": "paragraph",
         "text": "शराब दो तरह से यूरिक एसिड बढ़ा सकती है: शरीर ज़्यादा यूरिक एसिड बनाने लगता है, और किडनी के लिए उसे बाहर निकालना मुश्किल हो जाता है। पीने से शरीर में पानी की कमी भी होती है। इसीलिए अक्सर शराब वाली रात के बाद गाउट का अटैक आता है।"
@@ -102,12 +129,18 @@
           "कॉकटेल और मिक्सर में अक्सर बहुत चीनी होती है, जो लिवर और यूरिक एसिड दोनों के लिए ठीक नहीं"
         ]
       },
-      { "type": "heading", "text": "अगर दोनों दिक्कतें हैं" },
+      {
+        "type": "heading",
+        "text": "अगर दोनों दिक्कतें हैं"
+      },
       {
         "type": "paragraph",
         "text": "फैटी लिवर और हाई यूरिक एसिड दोनों हों, तो शराब छोड़ने की वजह और भी मज़बूत हो जाती है। कई लोगों को शराब छोड़ने पर वज़न, नींद, बीपी और एनर्जी में भी फ़र्क़ महसूस होता है।"
       },
-      { "type": "heading", "text": "कम करने या छोड़ने के तरीक़े" },
+      {
+        "type": "heading",
+        "text": "कम करने या छोड़ने के तरीक़े"
+      },
       {
         "type": "bullets",
         "items": [
@@ -120,7 +153,10 @@
           "कैलेंडर में बिना शराब वाले दिन गिनें और हर दिन पर गर्व करें"
         ]
       },
-      { "type": "heading", "text": "कब मदद लें" },
+      {
+        "type": "heading",
+        "text": "कब मदद लें"
+      },
       {
         "type": "paragraph",
         "text": "अगर आप रोज़ पीते हैं, छोड़ना मुश्किल लगता है, या न पीने पर हाथ काँपते हैं, पसीना आता है या बहुत घबराहट होती है, तो अपने आप अचानक न छोड़ें। ज़्यादा पीने के बाद एकदम छोड़ना ख़तरनाक हो सकता है। डॉक्टर से बात करें, वे सुरक्षित तरीक़े से छोड़ने में मदद करेंगे और नशा मुक्ति सेवा के पास भेज सकते हैं।"
@@ -129,7 +165,10 @@
         "type": "paragraph",
         "text": "अगर आँखें या त्वचा पीली दिखें, पेट या पैरों में सूजन हो, ख़ून की उल्टी हो, काला मल आए, या उलझन हो, तो तुरंत डॉक्टर को दिखाएँ। ये ख़तरे के संकेत हैं जिनमें जल्दी इलाज ज़रूरी है।"
       },
-      { "type": "heading", "text": "दवाएँ और शराब" },
+      {
+        "type": "heading",
+        "text": "दवाएँ और शराब"
+      },
       {
         "type": "paragraph",
         "text": "कुछ दवाएँ शराब के साथ ठीक नहीं रहतीं। अगर आप कोई दवा रोज़ लेते हैं, तो डॉक्टर या केमिस्ट से पूछें कि उसके साथ शराब ठीक है या नहीं। पीने का प्लान हो तो भी अपनी दवा न छोड़ें।"
@@ -139,7 +178,5 @@
         "text": "हर क़दम मायने रखता है। रोज़ पीने से कम दिन, और फिर बिल्कुल नहीं, तक पहुँचना भी समय के साथ आपके लिवर और यूरिक एसिड के लिए मददगार हो सकता है।"
       }
     ]
-  },
-  "reviewedBy": "PENDING",
-  "reviewedOn": null
+  }
 }

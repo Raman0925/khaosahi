@@ -22,9 +22,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "walk-15",
@@ -32,9 +30,7 @@
             "en": "Walk for 15 minutes",
             "hi": "15 मिनट टहलें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "water-on-waking",
@@ -42,9 +38,7 @@
             "en": "Drink a glass of water as soon as you wake up",
             "hi": "सुबह उठते ही एक गिलास पानी पिएँ"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "carry-bottle",
@@ -52,9 +46,7 @@
             "en": "Carry a water bottle with you when you leave home",
             "hi": "घर से निकलते समय पानी की बोतल साथ रखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "urine-check",
@@ -62,9 +54,7 @@
             "en": "Check your urine colour: if it is dark yellow, drink more water",
             "hi": "पेशाब का रंग देखें: गहरा पीला हो तो और पानी पिएँ"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-sugary-drinks",
@@ -72,9 +62,7 @@
             "en": "No cold drinks, packaged juice or energy drinks today",
             "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या एनर्जी ड्रिंक नहीं"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "sleep-7h",
@@ -82,9 +70,7 @@
             "en": "Sleep 7–8 hours",
             "hi": "7–8 घंटे सोएँ"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "weigh-in",
@@ -92,9 +78,7 @@
             "en": "Weigh yourself in the morning before breakfast and log it in the app",
             "hi": "सुबह नाश्ते से पहले वज़न लें और ऐप में लिखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "veg-half-plate",
@@ -102,9 +86,7 @@
             "en": "Fill half your plate with sabzi or salad at lunch and dinner",
             "hi": "दोपहर और रात के खाने में आधी थाली सब्ज़ी या सलाद रखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "dinner-by-8",
@@ -112,9 +94,7 @@
             "en": "Finish dinner by 8 pm",
             "hi": "रात का खाना 8 बजे तक खा लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-salad",
@@ -123,9 +103,7 @@
             "hi": "खीरा, टमाटर, पत्तागोभी और शिमला मिर्च का नींबू वाला जैन सलाद लें"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "egg-protein",
@@ -134,9 +112,7 @@
             "hi": "आज प्रोटीन के लिए अंडा लें — उबला, या कम तेल वाली भुर्जी"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "no-organ-meat",
@@ -145,9 +121,7 @@
             "hi": "आज कलेजी, गुर्दा, भेजा या कोई भी अंदरूनी अंग वाला मांस नहीं"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "kachumber-salad",
@@ -156,9 +130,7 @@
             "hi": "दोपहर के खाने के साथ एक कटोरी कचूमर सलाद (प्याज़, खीरा, टमाटर, नींबू) लें"
           },
           "frequency": "rotating",
-          "diets": ["veg", "egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["veg", "egg", "nonveg"]
         }
       ]
     },
@@ -179,9 +151,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "walk-20",
@@ -189,9 +159,7 @@
             "en": "Walk for 20 minutes",
             "hi": "20 मिनट टहलें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "no-beer",
@@ -199,9 +167,7 @@
             "en": "No beer or any other alcohol today",
             "hi": "आज बीयर या कोई भी शराब नहीं"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "no-sugary-drinks",
@@ -209,9 +175,7 @@
             "en": "No cold drinks, packaged juice or energy drinks today",
             "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या एनर्जी ड्रिंक नहीं"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "fruit-not-juice",
@@ -219,9 +183,7 @@
             "en": "Eat a whole fruit (guava, apple, orange or papaya) instead of juice",
             "hi": "जूस की जगह साबुत फल खाएँ (अमरूद, सेब, संतरा या पपीता)"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "nimbu-pani",
@@ -229,9 +191,7 @@
             "en": "Have plain nimbu pani or jeera water without sugar instead of a sweet drink",
             "hi": "मीठे ड्रिंक की जगह बिना चीनी का नींबू पानी या जीरा पानी लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "chaas-instead",
@@ -239,9 +199,7 @@
             "en": "Have a glass of plain chaas instead of a sweet lassi or shake",
             "hi": "मीठी लस्सी या शेक की जगह एक गिलास सादी छाछ लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "chai-half-sugar",
@@ -249,9 +207,7 @@
             "en": "Have your chai with half the usual sugar, or none",
             "hi": "चाय में आधी चीनी डालें, या बिल्कुल नहीं"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "carry-bottle",
@@ -259,9 +215,7 @@
             "en": "Carry a water bottle with you when you leave home",
             "hi": "घर से निकलते समय पानी की बोतल साथ रखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "urine-check",
@@ -269,9 +223,7 @@
             "en": "Check your urine colour: if it is dark yellow, drink more water",
             "hi": "पेशाब का रंग देखें: गहरा पीला हो तो और पानी पिएँ"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-salad",
@@ -280,9 +232,7 @@
             "hi": "खीरा, टमाटर, पत्तागोभी और शिमला मिर्च का नींबू वाला जैन सलाद लें"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "egg-no-butter",
@@ -291,9 +241,7 @@
             "hi": "अंडा बिना मक्खन के बनाएँ — उबालें, पोच करें या कुछ बूँद तेल में"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "no-shellfish",
@@ -302,9 +250,7 @@
             "hi": "झींगा, केकड़ा और दूसरी शेलफ़िश न खाएँ"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         }
       ]
     },
@@ -325,9 +271,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "walk-20",
@@ -335,9 +279,7 @@
             "en": "Walk for 20 minutes",
             "hi": "20 मिनट टहलें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "thali-plating",
@@ -345,9 +287,7 @@
             "en": "Plate one meal the thali way: half sabzi, a quarter dal or protein, a quarter roti or rice",
             "hi": "एक खाना थाली के हिसाब से परोसें: आधी सब्ज़ी, चौथाई दाल या प्रोटीन, चौथाई रोटी या चावल"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "veg-half-plate",
@@ -355,9 +295,7 @@
             "en": "Fill half your plate with sabzi or salad at lunch and dinner",
             "hi": "दोपहर और रात के खाने में आधी थाली सब्ज़ी या सलाद रखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "salad-first",
@@ -365,9 +303,7 @@
             "en": "Start lunch with a katori of salad: cucumber, tomato, cabbage or capsicum",
             "hi": "दोपहर के खाने की शुरुआत एक कटोरी सलाद से करें: खीरा, टमाटर, पत्तागोभी या शिमला मिर्च"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "dal-normal-portion",
@@ -375,9 +311,7 @@
             "en": "Have your usual katori of dal — normal portions of dal are generally fine",
             "hi": "अपनी रोज़ की एक कटोरी दाल खाएँ — सामान्य मात्रा में दाल आम तौर पर ठीक है"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "rice-one-katori",
@@ -385,9 +319,7 @@
             "en": "Keep rice to one katori per meal",
             "hi": "हर खाने में चावल एक कटोरी तक रखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "one-roti-less",
@@ -395,9 +327,7 @@
             "en": "Have one roti less than usual at dinner and add more sabzi instead",
             "hi": "रात के खाने में रोज़ से एक रोटी कम लें और उसकी जगह सब्ज़ी ज़्यादा लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "low-fat-dairy",
@@ -405,9 +335,7 @@
             "en": "Have low-fat milk, curd or chaas once today",
             "hi": "आज एक बार कम फ़ैट वाला दूध, दही या छाछ लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "wait-second-helping",
@@ -415,9 +343,7 @@
             "en": "Wait 10 minutes before taking a second helping",
             "hi": "दोबारा परोसने से पहले 10 मिनट रुकें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "kachumber-salad",
@@ -426,9 +352,7 @@
             "hi": "दोपहर के खाने के साथ एक कटोरी कचूमर सलाद (प्याज़, खीरा, टमाटर, नींबू) लें"
           },
           "frequency": "rotating",
-          "diets": ["veg", "egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["veg", "egg", "nonveg"]
         },
         {
           "id": "jain-protein",
@@ -437,9 +361,7 @@
             "hi": "एक खाने में जैन प्रोटीन जोड़ें: पनीर, दही, मूँग दाल या चना"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "egg-protein",
@@ -448,9 +370,7 @@
             "hi": "आज प्रोटीन के लिए अंडा लें — उबला, या कम तेल वाली भुर्जी"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "nonveg-small-portion",
@@ -459,9 +379,7 @@
             "hi": "पूरे दिन में चिकन या मछली हथेली के बराबर एक छोटे हिस्से तक रखें"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         }
       ]
     },
@@ -482,9 +400,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "walk-20",
@@ -492,9 +408,7 @@
             "en": "Walk for 20 minutes",
             "hi": "20 मिनट टहलें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "low-fat-dairy",
@@ -502,9 +416,7 @@
             "en": "Have low-fat milk, curd or chaas once today",
             "hi": "आज एक बार कम फ़ैट वाला दूध, दही या छाछ लें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "dal-normal-portion",
@@ -512,9 +424,7 @@
             "en": "Have your usual katori of dal — normal portions of dal are generally fine",
             "hi": "अपनी रोज़ की एक कटोरी दाल खाएँ — सामान्य मात्रा में दाल आम तौर पर ठीक है"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "paneer-tofu",
@@ -522,9 +432,7 @@
             "en": "Add paneer, tofu or soya to one meal for protein",
             "hi": "प्रोटीन के लिए एक खाने में पनीर, टोफ़ू या सोया लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "protein-breakfast",
@@ -532,9 +440,7 @@
             "en": "Add protein to breakfast: moong or besan chilla, paneer, curd or dal",
             "hi": "नाश्ते में प्रोटीन जोड़ें: मूँग या बेसन चीला, पनीर, दही या दाल"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "curd-katori",
@@ -542,9 +448,7 @@
             "en": "Have a katori of plain curd or a glass of chaas, without sugar",
             "hi": "एक कटोरी सादा दही या एक गिलास छाछ लें, बिना चीनी के"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-organ-meat",
@@ -553,9 +457,7 @@
             "hi": "आज कलेजी, गुर्दा, भेजा या कोई भी अंदरूनी अंग वाला मांस नहीं"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "no-shellfish",
@@ -564,9 +466,7 @@
             "hi": "झींगा, केकड़ा और दूसरी शेलफ़िश न खाएँ"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "no-red-meat",
@@ -575,9 +475,7 @@
             "hi": "आज मटन या कोई रेड मीट नहीं; नॉन-वेज खाना हो तो थोड़ा चिकन या अंडा लें"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "no-meat-gravy",
@@ -586,9 +484,7 @@
             "hi": "मांस की गाढ़ी ग्रेवी, कीमा, निहारी और मटन सूप/शोरबा न लें"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "nonveg-not-daily",
@@ -597,9 +493,7 @@
             "hi": "आज पूरा शाकाहारी दिन रखें, भले ही आप रोज़ नॉन-वेज खाते हों"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "egg-protein",
@@ -608,9 +502,7 @@
             "hi": "आज प्रोटीन के लिए अंडा लें — उबला, या कम तेल वाली भुर्जी"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "jain-protein",
@@ -619,9 +511,7 @@
             "hi": "एक खाने में जैन प्रोटीन जोड़ें: पनीर, दही, मूँग दाल या चना"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "sprouts-chaat",
@@ -630,9 +520,7 @@
             "hi": "प्याज़, टमाटर और नींबू के साथ एक कटोरी अंकुरित मूँग की चाट खाएँ"
           },
           "frequency": "rotating",
-          "diets": ["veg", "egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["veg", "egg", "nonveg"]
         }
       ]
     },
@@ -653,9 +541,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "walk-30",
@@ -663,9 +549,7 @@
             "en": "Walk for 30 minutes",
             "hi": "30 मिनट टहलें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "regular-meals",
@@ -673,9 +557,7 @@
             "en": "Eat regular meals today — do not skip meals or starve yourself",
             "hi": "आज समय पर खाना खाएँ — खाना न छोड़ें, भूखे न रहें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "no-crash-diet",
@@ -683,9 +565,7 @@
             "en": "No crash diets or long fasts — sudden weight loss can raise uric acid",
             "hi": "क्रैश डाइट या लंबा उपवास नहीं — अचानक वज़न घटने से यूरिक एसिड बढ़ सकता है"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "weigh-in",
@@ -693,9 +573,7 @@
             "en": "Weigh yourself in the morning before breakfast and log it in the app",
             "hi": "सुबह नाश्ते से पहले वज़न लें और ऐप में लिखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "waist-measure",
@@ -703,9 +581,7 @@
             "en": "Measure your waist at the level of your navel and log it in the app",
             "hi": "नाभि की सीध में कमर नापें और ऐप में लिखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "weight-pace",
@@ -713,9 +589,7 @@
             "en": "Check your weight trend: aim for slow loss, about half to one kg a week at most",
             "hi": "अपने वज़न का रुझान देखें: धीरे-धीरे घटाएँ, हफ़्ते में ज़्यादा से ज़्यादा आधा से एक किलो"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "one-roti-less",
@@ -723,9 +597,7 @@
             "en": "Have one roti less than usual at dinner and add more sabzi instead",
             "hi": "रात के खाने में रोज़ से एक रोटी कम लें और उसकी जगह सब्ज़ी ज़्यादा लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "small-plate",
@@ -733,9 +605,7 @@
             "en": "Use a smaller plate for dinner",
             "hi": "रात के खाने के लिए छोटी थाली लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-skip-breakfast",
@@ -743,9 +613,7 @@
             "en": "Eat a proper breakfast within 2 hours of waking up",
             "hi": "उठने के 2 घंटे के अंदर ठीक से नाश्ता करें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "light-dinner",
@@ -753,9 +621,7 @@
             "en": "Keep dinner lighter than lunch: dal, sabzi and 1–2 rotis",
             "hi": "रात का खाना दोपहर से हल्का रखें: दाल, सब्ज़ी और 1–2 रोटी"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-chauvihar",
@@ -764,9 +630,7 @@
             "hi": "अगर आप चौविहार करते हैं, तो सूर्यास्त से पहले का खाना हल्का रखें: दाल, सब्ज़ी और 1–2 रोटी"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "egg-white-breakfast",
@@ -775,9 +639,7 @@
             "hi": "नाश्ते में सब्ज़ी के साथ अंडे की सफ़ेदी का ऑमलेट या उबली सफ़ेदी लें"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "nonveg-small-portion",
@@ -786,9 +648,7 @@
             "hi": "पूरे दिन में चिकन या मछली हथेली के बराबर एक छोटे हिस्से तक रखें"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         }
       ]
     },
@@ -809,9 +669,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "gentle-move-20",
@@ -819,9 +677,7 @@
             "en": "Do 20 minutes of gentle activity like walking, cycling or swimming; rest any joint that is painful",
             "hi": "20 मिनट हल्की कसरत करें जैसे टहलना, साइकिल या तैराकी; जो जोड़ दर्द करे उसे आराम दें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "water-after-walk",
@@ -829,9 +685,7 @@
             "en": "Drink a glass of water after your walk or exercise",
             "hi": "टहलने या कसरत के बाद एक गिलास पानी पिएँ"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "stretch-10",
@@ -839,9 +693,7 @@
             "en": "Do 10 minutes of stretching or simple yoga",
             "hi": "10 मिनट स्ट्रेचिंग या आसान योग करें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "sit-less",
@@ -849,9 +701,7 @@
             "en": "For every hour you sit, get up and move for 2–3 minutes",
             "hi": "हर घंटे बैठने के बाद 2–3 मिनट उठकर चलें-फिरें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "stairs",
@@ -859,9 +709,7 @@
             "en": "Take the stairs instead of the lift at least once today",
             "hi": "आज कम से कम एक बार लिफ़्ट की जगह सीढ़ियाँ लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "walk-after-meal",
@@ -869,9 +717,7 @@
             "en": "Take a 10-minute walk after lunch or dinner",
             "hi": "दोपहर या रात के खाने के बाद 10 मिनट टहलें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "strength-10",
@@ -879,9 +725,7 @@
             "en": "Do 10 minutes of simple strength moves: sit-to-stand from a chair, wall push-ups, step-ups",
             "hi": "10 मिनट आसान ताक़त वाली कसरत करें: कुर्सी से उठना-बैठना, दीवार पर पुश-अप, सीढ़ी पर चढ़ना-उतरना"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "active-chores",
@@ -889,9 +733,7 @@
             "en": "Do one household chore actively: sweeping, gardening or walking to the market",
             "hi": "घर का कोई एक काम चलते-फिरते करें: झाड़ू, बाग़बानी या पैदल बाज़ार जाना"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "sleep-7h",
@@ -899,9 +741,7 @@
             "en": "Sleep 7–8 hours",
             "hi": "7–8 घंटे सोएँ"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-sabzi",
@@ -910,9 +750,7 @@
             "hi": "लौकी, तोरी, पत्तागोभी, शिमला मिर्च या बीन्स की कम तेल वाली जैन सब्ज़ी बनाएँ"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "egg-no-butter",
@@ -921,9 +759,7 @@
             "hi": "अंडा बिना मक्खन के बनाएँ — उबालें, पोच करें या कुछ बूँद तेल में"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "no-red-meat",
@@ -932,9 +768,7 @@
             "hi": "आज मटन या कोई रेड मीट नहीं; नॉन-वेज खाना हो तो थोड़ा चिकन या अंडा लें"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         }
       ]
     },
@@ -955,9 +789,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "gentle-move-30",
@@ -965,9 +797,7 @@
             "en": "Do 30 minutes of low-impact activity like walking or cycling; skip it on a day a joint is swollen",
             "hi": "30 मिनट हल्की कसरत करें जैसे टहलना या साइकिल; जिस दिन जोड़ में सूजन हो उस दिन न करें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "no-sugary-drinks",
@@ -975,9 +805,7 @@
             "en": "No cold drinks, packaged juice or energy drinks today",
             "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या एनर्जी ड्रिंक नहीं"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "fruit-not-juice",
@@ -985,9 +813,7 @@
             "en": "Eat a whole fruit (guava, apple, orange or papaya) instead of juice",
             "hi": "जूस की जगह साबुत फल खाएँ (अमरूद, सेब, संतरा या पपीता)"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-added-sugar",
@@ -995,9 +821,7 @@
             "en": "No added sugar or jaggery in anything you eat or drink today",
             "hi": "आज किसी भी खाने-पीने में ऊपर से चीनी या गुड़ नहीं"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "sweet-small",
@@ -1005,9 +829,7 @@
             "en": "If you have a sweet, keep it to one small piece right after a meal",
             "hi": "मीठा खाना हो तो खाने के तुरंत बाद बस एक छोटा टुकड़ा लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "roasted-snack",
@@ -1015,9 +837,7 @@
             "en": "Choose a roasted snack — chana, makhana or a fruit — instead of namkeen",
             "hi": "नमकीन की जगह भुना नाश्ता लें — चना, मखाना या कोई फल"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "craving-pause",
@@ -1025,9 +845,7 @@
             "en": "When a craving hits, drink water and wait 10 minutes before deciding",
             "hi": "जब कुछ खाने का मन करे, पानी पिएँ और फ़ैसला करने से पहले 10 मिनट रुकें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "vit-c-fruit",
@@ -1035,9 +853,7 @@
             "en": "Have a vitamin C-rich fruit like amla, guava or orange",
             "hi": "विटामिन C वाला फल लें जैसे आँवला, अमरूद या संतरा"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-packaged-snacks",
@@ -1045,9 +861,7 @@
             "en": "No chips, cookies or packaged namkeen today",
             "hi": "आज चिप्स, कुकीज़ या पैकेट वाली नमकीन नहीं"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-farsan-swap",
@@ -1056,9 +870,7 @@
             "hi": "तले फ़रसाण (घी वाला खाखरा, फाफड़ा, गाठिया) की जगह सादा खाखरा, भुना मखाना या चना लें"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "egg-protein",
@@ -1067,9 +879,7 @@
             "hi": "आज प्रोटीन के लिए अंडा लें — उबला, या कम तेल वाली भुर्जी"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "no-processed-meat",
@@ -1078,9 +888,7 @@
             "hi": "आज प्रोसेस्ड मीट नहीं: सॉसेज, सलामी, नगेट्स या तले कबाब"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         }
       ]
     },
@@ -1101,9 +909,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "gentle-move-30",
@@ -1111,9 +917,7 @@
             "en": "Do 30 minutes of low-impact activity like walking or cycling; skip it on a day a joint is swollen",
             "hi": "30 मिनट हल्की कसरत करें जैसे टहलना या साइकिल; जिस दिन जोड़ में सूजन हो उस दिन न करें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "sleep-7h",
@@ -1121,9 +925,7 @@
             "en": "Sleep 7–8 hours",
             "hi": "7–8 घंटे सोएँ"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "fixed-bedtime",
@@ -1131,9 +933,7 @@
             "en": "Go to bed and wake up at about the same time as yesterday",
             "hi": "कल जितने ही समय पर सोएँ और उठें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "screens-off",
@@ -1141,9 +941,7 @@
             "en": "Switch off TV and phone 30 minutes before bed",
             "hi": "सोने से 30 मिनट पहले टीवी और फ़ोन बंद कर दें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "slow-breathing",
@@ -1151,9 +949,7 @@
             "en": "Spend 5 minutes on slow breathing or quiet time to relax",
             "hi": "5 मिनट धीमी साँस लें या चुपचाप बैठकर आराम करें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "stress-talk",
@@ -1161,9 +957,7 @@
             "en": "Talk to someone you trust about anything that is worrying you",
             "hi": "जो बात परेशान कर रही है, किसी भरोसेमंद व्यक्ति से बात करें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-late-chai",
@@ -1171,9 +965,7 @@
             "en": "No chai or coffee after 5 pm so you sleep better",
             "hi": "शाम 5 बजे के बाद चाय या कॉफ़ी नहीं, ताकि नींद अच्छी आए"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-night-snack",
@@ -1181,9 +973,7 @@
             "en": "No snacking after dinner; if hungry, have warm milk without sugar or a glass of water",
             "hi": "रात के खाने के बाद कुछ न खाएँ; भूख लगे तो बिना चीनी का गुनगुना दूध या पानी लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "medicines-on-time",
@@ -1191,9 +981,7 @@
             "en": "If your doctor has prescribed medicines, take them as advised — never stop on your own",
             "hi": "अगर डॉक्टर ने दवा दी है तो बताए अनुसार लें — अपने आप कभी बंद न करें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-chauvihar",
@@ -1202,9 +990,7 @@
             "hi": "अगर आप चौविहार करते हैं, तो सूर्यास्त से पहले का खाना हल्का रखें: दाल, सब्ज़ी और 1–2 रोटी"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "egg-no-butter",
@@ -1213,9 +999,7 @@
             "hi": "अंडा बिना मक्खन के बनाएँ — उबालें, पोच करें या कुछ बूँद तेल में"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "nonveg-not-daily",
@@ -1224,9 +1008,7 @@
             "hi": "आज पूरा शाकाहारी दिन रखें, भले ही आप रोज़ नॉन-वेज खाते हों"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         }
       ]
     },
@@ -1247,9 +1029,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "gentle-move-30",
@@ -1257,9 +1037,7 @@
             "en": "Do 30 minutes of low-impact activity like walking or cycling; skip it on a day a joint is swollen",
             "hi": "30 मिनट हल्की कसरत करें जैसे टहलना या साइकिल; जिस दिन जोड़ में सूजन हो उस दिन न करें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "no-beer",
@@ -1267,9 +1045,7 @@
             "en": "No beer or any other alcohol today",
             "hi": "आज बीयर या कोई भी शराब नहीं"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "eat-out-grilled",
@@ -1277,9 +1053,7 @@
             "en": "When eating out, choose tandoori, grilled or dal-sabzi dishes over fried or creamy gravies",
             "hi": "बाहर खाएँ तो तली या मलाईदार ग्रेवी की जगह तंदूरी, ग्रिल या दाल-सब्ज़ी चुनें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "eat-out-share",
@@ -1287,9 +1061,7 @@
             "en": "Share a restaurant dish or order a half portion",
             "hi": "रेस्टोरेंट में डिश बाँटकर खाएँ या हाफ़ प्लेट मँगाएँ"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "street-food-swap",
@@ -1297,9 +1069,7 @@
             "en": "Pick a lighter street food — roasted corn, fruit chaat or idli — instead of pani puri, tikki or bhature",
             "hi": "गोलगप्पे, टिक्की या भटूरे की जगह हल्का स्ट्रीट फ़ूड चुनें — भुना भुट्टा, फ्रूट चाट या इडली"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-extra-butter",
@@ -1307,9 +1077,7 @@
             "en": "Ask for no extra butter, cream or cheese on your order",
             "hi": "ऑर्डर में ऊपर से मक्खन, क्रीम या चीज़ न डलवाएँ"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "lunch-box",
@@ -1317,9 +1085,7 @@
             "en": "Carry a home-made lunch box when you go out",
             "hi": "बाहर जाएँ तो घर का बना टिफ़िन साथ ले जाएँ"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "carry-bottle",
@@ -1327,9 +1093,7 @@
             "en": "Carry a water bottle with you when you leave home",
             "hi": "घर से निकलते समय पानी की बोतल साथ रखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "chaas-instead",
@@ -1337,9 +1101,7 @@
             "en": "Have a glass of plain chaas instead of a sweet lassi or shake",
             "hi": "मीठी लस्सी या शेक की जगह एक गिलास सादी छाछ लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-farsan-swap",
@@ -1348,9 +1110,7 @@
             "hi": "तले फ़रसाण (घी वाला खाखरा, फाफड़ा, गाठिया) की जगह सादा खाखरा, भुना मखाना या चना लें"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "no-meat-gravy",
@@ -1359,9 +1119,7 @@
             "hi": "मांस की गाढ़ी ग्रेवी, कीमा, निहारी और मटन सूप/शोरबा न लें"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "no-shellfish",
@@ -1370,9 +1128,7 @@
             "hi": "झींगा, केकड़ा और दूसरी शेलफ़िश न खाएँ"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "egg-protein",
@@ -1381,9 +1137,7 @@
             "hi": "आज प्रोटीन के लिए अंडा लें — उबला, या कम तेल वाली भुर्जी"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         }
       ]
     },
@@ -1404,9 +1158,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "gentle-move-30",
@@ -1414,9 +1166,7 @@
             "en": "Do 30 minutes of low-impact activity like walking or cycling; skip it on a day a joint is swollen",
             "hi": "30 मिनट हल्की कसरत करें जैसे टहलना या साइकिल; जिस दिन जोड़ में सूजन हो उस दिन न करें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "no-beer",
@@ -1424,9 +1174,7 @@
             "en": "No beer or any other alcohol today",
             "hi": "आज बीयर या कोई भी शराब नहीं"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "festival-plan",
@@ -1434,9 +1182,7 @@
             "en": "Before a festival or function, decide in advance what you will eat and what you will skip",
             "hi": "त्योहार या फ़ंक्शन से पहले ही तय कर लें कि क्या खाएँगे और क्या छोड़ेंगे"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "eat-before-party",
@@ -1444,9 +1190,7 @@
             "en": "Before a party or wedding, eat a small healthy snack at home so you are not very hungry",
             "hi": "पार्टी या शादी में जाने से पहले घर पर थोड़ा हेल्दी खा लें ताकि बहुत भूख न लगे"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "buffet-round",
@@ -1454,9 +1198,7 @@
             "en": "At a buffet, take one round: fill half the plate with salad and sabzi first",
             "hi": "बुफ़े में एक ही बार प्लेट भरें: पहले आधी प्लेट सलाद और सब्ज़ी से"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "one-sweet-festival",
@@ -1464,9 +1206,7 @@
             "en": "At a celebration, pick one sweet you really love and have a small piece",
             "hi": "जश्न में वही एक मिठाई चुनें जो सबसे ज़्यादा पसंद हो, और छोटा टुकड़ा लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "say-no-politely",
@@ -1474,9 +1214,7 @@
             "en": "Practise a polite “no, thank you” for second helpings and sweets",
             "hi": "दोबारा परोसने और मिठाई के लिए विनम्रता से “नहीं, धन्यवाद” कहने की आदत डालें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "travel-snacks",
@@ -1484,9 +1222,7 @@
             "en": "When travelling, pack roasted chana, fruit and a water bottle",
             "hi": "सफ़र में भुना चना, फल और पानी की बोतल साथ रखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-sugary-drinks",
@@ -1494,9 +1230,7 @@
             "en": "No cold drinks, packaged juice or energy drinks today",
             "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या एनर्जी ड्रिंक नहीं"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-sweet-small",
@@ -1505,9 +1239,7 @@
             "hi": "जैन त्योहार के खाने में एक मिठाई का छोटा टुकड़ा लें और पेट सब्ज़ी-दाल से भरें"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "no-organ-meat",
@@ -1516,9 +1248,7 @@
             "hi": "आज कलेजी, गुर्दा, भेजा या कोई भी अंदरूनी अंग वाला मांस नहीं"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "no-meat-gravy",
@@ -1527,9 +1257,7 @@
             "hi": "मांस की गाढ़ी ग्रेवी, कीमा, निहारी और मटन सूप/शोरबा न लें"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "egg-no-butter",
@@ -1538,9 +1266,7 @@
             "hi": "अंडा बिना मक्खन के बनाएँ — उबालें, पोच करें या कुछ बूँद तेल में"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         }
       ]
     },
@@ -1561,9 +1287,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "gentle-move-30",
@@ -1571,9 +1295,7 @@
             "en": "Do 30 minutes of low-impact activity like walking or cycling; skip it on a day a joint is swollen",
             "hi": "30 मिनट हल्की कसरत करें जैसे टहलना या साइकिल; जिस दिन जोड़ में सूजन हो उस दिन न करें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "regular-meals",
@@ -1581,9 +1303,7 @@
             "en": "Eat regular meals today — do not skip meals or starve yourself",
             "hi": "आज समय पर खाना खाएँ — खाना न छोड़ें, भूखे न रहें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "vrat-smart",
@@ -1591,9 +1311,7 @@
             "en": "On a vrat day, choose fruit, curd, roasted makhana or kuttu roti instead of fried sabudana or puri",
             "hi": "व्रत के दिन तले साबूदाने या पूरी की जगह फल, दही, भुना मखाना या कुट्टू की रोटी लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "vrat-water",
@@ -1601,9 +1319,7 @@
             "en": "If you fast, keep drinking water through the day (unless your doctor has limited fluids)",
             "hi": "उपवास करें तो दिन भर पानी पीते रहें (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "vrat-doctor",
@@ -1611,9 +1327,7 @@
             "en": "Planning a long fast? Ask your doctor first, especially if you take medicines or have gout",
             "hi": "लंबा उपवास रखना है? पहले डॉक्टर से पूछें, ख़ासकर अगर आप दवा लेते हैं या गाउट है"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-crash-diet",
@@ -1621,9 +1335,7 @@
             "en": "No crash diets or long fasts — sudden weight loss can raise uric acid",
             "hi": "क्रैश डाइट या लंबा उपवास नहीं — अचानक वज़न घटने से यूरिक एसिड बढ़ सकता है"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "plan-tomorrow",
@@ -1631,9 +1343,7 @@
             "en": "Plan tomorrow’s meals tonight",
             "hi": "आज रात ही कल के खाने की योजना बना लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "grocery-list",
@@ -1641,9 +1351,7 @@
             "en": "Make a grocery list with more sabzi, fruit, dal and whole grains, and stick to it",
             "hi": "ज़्यादा सब्ज़ी, फल, दाल और साबुत अनाज वाली सामान की सूची बनाएँ और उसी के हिसाब से ख़रीदें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "family-meal",
@@ -1651,9 +1359,7 @@
             "en": "Cook one healthy meal for the whole family, not a separate “diet” plate",
             "hi": "पूरे परिवार के लिए एक हेल्दी खाना बनाएँ, अलग “डाइट” वाली थाली नहीं"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-paryushan",
@@ -1662,9 +1368,7 @@
             "hi": "एकासना या उपवास के दिन अपनी परंपरा के अनुसार उबला पानी भरपूर पिएँ और उपवास हल्के खाने से खोलें"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "egg-protein",
@@ -1673,9 +1377,7 @@
             "hi": "आज प्रोटीन के लिए अंडा लें — उबला, या कम तेल वाली भुर्जी"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "nonveg-small-portion",
@@ -1684,9 +1386,7 @@
             "hi": "पूरे दिन में चिकन या मछली हथेली के बराबर एक छोटे हिस्से तक रखें"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "low-fat-dairy",
@@ -1694,9 +1394,7 @@
             "en": "Have low-fat milk, curd or chaas once today",
             "hi": "आज एक बार कम फ़ैट वाला दूध, दही या छाछ लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         }
       ]
     },
@@ -1717,9 +1415,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "gentle-move-30",
@@ -1727,9 +1423,7 @@
             "en": "Do 30 minutes of low-impact activity like walking or cycling; skip it on a day a joint is swollen",
             "hi": "30 मिनट हल्की कसरत करें जैसे टहलना या साइकिल; जिस दिन जोड़ में सूजन हो उस दिन न करें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "low-fat-dairy",
@@ -1737,9 +1431,7 @@
             "en": "Have low-fat milk, curd or chaas once today",
             "hi": "आज एक बार कम फ़ैट वाला दूध, दही या छाछ लें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "log-labs",
@@ -1747,9 +1439,7 @@
             "en": "Log your latest lab values in the app if you have a recent report",
             "hi": "अगर हाल की रिपोर्ट है तो लैब वैल्यू ऐप में लिखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "lab-date",
@@ -1757,9 +1447,7 @@
             "en": "Check when your next blood test is due and note the date",
             "hi": "देखें कि अगला ब्लड टेस्ट कब होना है और तारीख़ लिख लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "doctor-questions",
@@ -1767,9 +1455,7 @@
             "en": "Write down questions for your next doctor visit",
             "hi": "अगली बार डॉक्टर से पूछने वाले सवाल लिख लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "medicines-on-time",
@@ -1777,9 +1463,7 @@
             "en": "If your doctor has prescribed medicines, take them as advised — never stop on your own",
             "hi": "अगर डॉक्टर ने दवा दी है तो बताए अनुसार लें — अपने आप कभी बंद न करें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "weigh-in",
@@ -1787,9 +1471,7 @@
             "en": "Weigh yourself in the morning before breakfast and log it in the app",
             "hi": "सुबह नाश्ते से पहले वज़न लें और ऐप में लिखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "waist-measure",
@@ -1797,9 +1479,7 @@
             "en": "Measure your waist at the level of your navel and log it in the app",
             "hi": "नाभि की सीध में कमर नापें और ऐप में लिखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "review-progress",
@@ -1807,9 +1487,7 @@
             "en": "Look at your progress charts in the app and note what has improved",
             "hi": "ऐप में अपने प्रोग्रेस चार्ट देखें और लिखें कि क्या सुधरा है"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "urine-check",
@@ -1817,9 +1495,7 @@
             "en": "Check your urine colour: if it is dark yellow, drink more water",
             "hi": "पेशाब का रंग देखें: गहरा पीला हो तो और पानी पिएँ"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-protein",
@@ -1828,9 +1504,7 @@
             "hi": "एक खाने में जैन प्रोटीन जोड़ें: पनीर, दही, मूँग दाल या चना"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "egg-no-butter",
@@ -1839,9 +1513,7 @@
             "hi": "अंडा बिना मक्खन के बनाएँ — उबालें, पोच करें या कुछ बूँद तेल में"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "no-shellfish",
@@ -1850,9 +1522,7 @@
             "hi": "झींगा, केकड़ा और दूसरी शेलफ़िश न खाएँ"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         }
       ]
     },
@@ -1873,9 +1543,7 @@
             "en": "Drink water through the day so your urine stays pale yellow — about 8–12 glasses, unless your doctor has limited your fluids",
             "hi": "दिन भर पानी पीते रहें ताकि पेशाब हल्का पीला रहे — लगभग 8–12 गिलास, अगर डॉक्टर ने पानी कम पीने को नहीं कहा है"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "gentle-move-30",
@@ -1883,9 +1551,7 @@
             "en": "Do 30 minutes of low-impact activity like walking or cycling; skip it on a day a joint is swollen",
             "hi": "30 मिनट हल्की कसरत करें जैसे टहलना या साइकिल; जिस दिन जोड़ में सूजन हो उस दिन न करें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "veg-half-plate",
@@ -1893,9 +1559,7 @@
             "en": "Fill half your plate with sabzi or salad at lunch and dinner",
             "hi": "दोपहर और रात के खाने में आधी थाली सब्ज़ी या सलाद रखें"
           },
-          "frequency": "daily",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "daily"
         },
         {
           "id": "next-90-plan",
@@ -1903,9 +1567,7 @@
             "en": "Pick the three habits you will keep after this plan ends",
             "hi": "वे तीन आदतें चुनें जो आप यह प्लान ख़त्म होने के बाद भी निभाएँगे"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "week-win",
@@ -1913,9 +1575,7 @@
             "en": "Write down one healthy change you kept up this week",
             "hi": "इस हफ़्ते जो एक अच्छी आदत निभाई, उसे लिख लें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "relapse-reset",
@@ -1923,9 +1583,7 @@
             "en": "If you slipped up this week, restart at the next meal — no guilt needed",
             "hi": "इस हफ़्ते कहीं चूक हुई हो तो अगले खाने से फिर शुरू करें — ख़ुद को दोष न दें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "family-walk",
@@ -1933,9 +1591,7 @@
             "en": "Go for an evening walk with a family member or friend",
             "hi": "शाम को परिवार के किसी सदस्य या दोस्त के साथ टहलने जाएँ"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-beer",
@@ -1943,9 +1599,7 @@
             "en": "No beer or any other alcohol today",
             "hi": "आज बीयर या कोई भी शराब नहीं"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "no-sugary-drinks",
@@ -1953,9 +1607,7 @@
             "en": "No cold drinks, packaged juice or energy drinks today",
             "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या एनर्जी ड्रिंक नहीं"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "carry-bottle",
@@ -1963,9 +1615,7 @@
             "en": "Carry a water bottle with you when you leave home",
             "hi": "घर से निकलते समय पानी की बोतल साथ रखें"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "sleep-7h",
@@ -1973,9 +1623,7 @@
             "en": "Sleep 7–8 hours",
             "hi": "7–8 घंटे सोएँ"
           },
-          "frequency": "rotating",
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "frequency": "rotating"
         },
         {
           "id": "jain-sabzi",
@@ -1984,9 +1632,7 @@
             "hi": "लौकी, तोरी, पत्तागोभी, शिमला मिर्च या बीन्स की कम तेल वाली जैन सब्ज़ी बनाएँ"
           },
           "frequency": "rotating",
-          "diets": ["jain"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["jain"]
         },
         {
           "id": "egg-protein",
@@ -1995,9 +1641,7 @@
             "hi": "आज प्रोटीन के लिए अंडा लें — उबला, या कम तेल वाली भुर्जी"
           },
           "frequency": "rotating",
-          "diets": ["egg", "nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["egg", "nonveg"]
         },
         {
           "id": "no-organ-meat",
@@ -2006,9 +1650,7 @@
             "hi": "आज कलेजी, गुर्दा, भेजा या कोई भी अंदरूनी अंग वाला मांस नहीं"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         },
         {
           "id": "nonveg-not-daily",
@@ -2017,9 +1659,7 @@
             "hi": "आज पूरा शाकाहारी दिन रखें, भले ही आप रोज़ नॉन-वेज खाते हों"
           },
           "frequency": "rotating",
-          "diets": ["nonveg"],
-          "reviewedBy": "PENDING",
-          "reviewedOn": null
+          "diets": ["nonveg"]
         }
       ]
     }

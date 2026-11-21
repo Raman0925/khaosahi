@@ -25,8 +25,6 @@ export function makeArticle(
         { type: 'bullets', items: [`${id} पहली बात`] },
       ],
     },
-    reviewedBy: 'PENDING',
-    reviewedOn: null,
     ...overrides,
   };
 }

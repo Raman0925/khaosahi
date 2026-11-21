@@ -34,8 +34,6 @@ export function makeFood(spec: FoodSpec): Food {
       portion: text('uric portion'),
     },
     swaps: spec.swaps ?? [],
-    reviewedBy: 'PENDING',
-    reviewedOn: null,
   };
 }
 

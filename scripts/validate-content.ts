@@ -4,8 +4,7 @@
  *
  *   npm run validate-content            # dev: missing counts are warnings
  *   npm run validate-content -- --release   # release: full counts required
- *
- * reviewedBy "PENDING" is reported as a warning only (no external dietitian review, ADR-005).
+
  */
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -46,6 +45,6 @@ result.warnings.forEach(w => console.warn(`warn  ${w}`));
 result.errors.forEach(e => console.error(`error ${e}`));
 console.warn(
   `content: ${result.errors.length} errors, ${result.warnings.length} warnings, ` +
-    `${result.pendingCount} PENDING (${release ? 'release' : 'dev'} mode)`,
+    `(${release ? 'release' : 'dev'} mode)`,
 );
 process.exit(result.errors.length > 0 ? 1 : 0);

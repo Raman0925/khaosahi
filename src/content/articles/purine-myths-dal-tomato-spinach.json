@@ -17,7 +17,10 @@
         "type": "paragraph",
         "text": "As soon as someone hears \"high uric acid\", relatives and neighbours start giving advice: stop dal, stop rajma, no tomato, no palak, no mushroom. Many people end up eating only roti and potato, and still their uric acid does not come down. Let us look at what mainstream guidance actually says."
       },
-      { "type": "heading", "text": "Not all purines act the same" },
+      {
+        "type": "heading",
+        "text": "Not all purines act the same"
+      },
       {
         "type": "paragraph",
         "text": "Purines are found in many foods. Older advice treated all purine-containing foods the same way. Larger studies over the years have found something different: purines from meat and seafood are linked with higher uric acid and more gout attacks, but purines from plant foods such as dal, beans, peas, spinach, cauliflower and mushrooms have not shown the same link in most people."
@@ -26,7 +29,10 @@
         "type": "paragraph",
         "text": "Plant foods also bring fibre, vitamins, minerals and protein. Diets rich in vegetables, pulses and whole grains are linked with better weight, blood sugar and heart health, and all of these matter when you have high uric acid."
       },
-      { "type": "heading", "text": "Dal and rajma" },
+      {
+        "type": "heading",
+        "text": "Dal and rajma"
+      },
       {
         "type": "paragraph",
         "text": "Dal is one of the main sources of protein in an Indian vegetarian diet. For most people with high uric acid, a normal katori of dal or rajma with meals is generally fine. Removing dal completely can leave you short of protein, and you may end up filling the gap with more rice, maida or fried snacks, which does not help."
@@ -40,17 +46,26 @@
           "Sprouts, chana and moong can be part of a balanced week"
         ]
       },
-      { "type": "heading", "text": "Tomato" },
+      {
+        "type": "heading",
+        "text": "Tomato"
+      },
       {
         "type": "paragraph",
         "text": "Tomato is low in purines. A few people say tomatoes seem to bring on their gout, but this has not been shown clearly for most people. Tomato in your sabzi, dal or salad is usually fine. If you feel a particular food triggers your pain again and again, note it down and discuss it with your doctor."
       },
-      { "type": "heading", "text": "Palak, mushroom and other vegetables" },
+      {
+        "type": "heading",
+        "text": "Palak, mushroom and other vegetables"
+      },
       {
         "type": "paragraph",
         "text": "Spinach and mushrooms have moderate purines, but current evidence does not link them strongly with gout attacks. Palak sabzi or palak dal in normal portions can be part of your meals. If your doctor has told you to watch oxalates because of kidney stones, follow that advice, since that is a different issue."
       },
-      { "type": "heading", "text": "So what really matters more?" },
+      {
+        "type": "heading",
+        "text": "So what really matters more?"
+      },
       {
         "type": "bullets",
         "items": [
@@ -62,7 +77,10 @@
           "Not drinking enough water"
         ]
       },
-      { "type": "heading", "text": "Everyone is a little different" },
+      {
+        "type": "heading",
+        "text": "Everyone is a little different"
+      },
       {
         "type": "paragraph",
         "text": "Some people do notice that certain foods seem to trigger their pain. If you suspect a food, keep a simple diary of what you ate in the day or two before an attack. Share it with your doctor or dietitian instead of cutting out whole food groups on your own. They can help you decide what to limit and how to keep your meals balanced."
@@ -77,7 +95,10 @@
         "type": "paragraph",
         "text": "जैसे ही किसी को \"यूरिक एसिड हाई\" सुनाई देता है, रिश्तेदार और पड़ोसी सलाह देने लगते हैं: दाल बंद, राजमा बंद, टमाटर नहीं, पालक नहीं, मशरूम नहीं। कई लोग सिर्फ़ रोटी-आलू खाने लगते हैं, फिर भी यूरिक एसिड कम नहीं होता। आइए देखें कि आजकल की मुख्य गाइडलाइन असल में क्या कहती है।"
       },
-      { "type": "heading", "text": "सारे प्यूरीन एक जैसे नहीं होते" },
+      {
+        "type": "heading",
+        "text": "सारे प्यूरीन एक जैसे नहीं होते"
+      },
       {
         "type": "paragraph",
         "text": "प्यूरीन बहुत-सी चीज़ों में होते हैं। पुरानी सलाह में प्यूरीन वाली हर चीज़ को एक जैसा माना जाता था। सालों में हुई बड़ी स्टडीज़ में कुछ और पता चला: मीट और सीफ़ूड के प्यूरीन यूरिक एसिड बढ़ने और गाउट अटैक से जुड़े हैं, लेकिन दाल, बीन्स, मटर, पालक, फूलगोभी और मशरूम जैसी पौधों वाली चीज़ों के प्यूरीन का ज़्यादातर लोगों में ऐसा असर नहीं दिखा।"
@@ -86,7 +107,10 @@
         "type": "paragraph",
         "text": "पौधों वाले खाने से फ़ाइबर, विटामिन, मिनरल और प्रोटीन भी मिलता है। सब्ज़ी, दाल और साबुत अनाज वाला खाना बेहतर वज़न, ब्लड शुगर और दिल की सेहत से जुड़ा है, और हाई यूरिक एसिड में ये सब मायने रखते हैं।"
       },
-      { "type": "heading", "text": "दाल और राजमा" },
+      {
+        "type": "heading",
+        "text": "दाल और राजमा"
+      },
       {
         "type": "paragraph",
         "text": "भारतीय शाकाहारी खाने में दाल प्रोटीन का सबसे बड़ा ज़रिया है। हाई यूरिक एसिड वाले ज़्यादातर लोगों के लिए खाने के साथ एक नॉर्मल कटोरी दाल या राजमा आम तौर पर ठीक है। दाल पूरी तरह छोड़ने से प्रोटीन कम पड़ सकता है, और फिर लोग वह कमी ज़्यादा चावल, मैदा या तली चीज़ों से भरते हैं, जिससे फ़ायदा नहीं होता।"
@@ -100,17 +124,26 @@
           "अंकुरित अनाज, चना और मूँग भी हफ़्ते के संतुलित खाने का हिस्सा हो सकते हैं"
         ]
       },
-      { "type": "heading", "text": "टमाटर" },
+      {
+        "type": "heading",
+        "text": "टमाटर"
+      },
       {
         "type": "paragraph",
         "text": "टमाटर में प्यूरीन कम होते हैं। कुछ लोगों को लगता है कि टमाटर से उनका गाउट बढ़ता है, लेकिन ज़्यादातर लोगों में यह साफ़ तौर पर साबित नहीं हुआ है। सब्ज़ी, दाल या सलाद में टमाटर आम तौर पर ठीक है। अगर आपको लगे कि कोई ख़ास चीज़ बार-बार आपका दर्द बढ़ाती है, तो उसे लिख लें और डॉक्टर से बात करें।"
       },
-      { "type": "heading", "text": "पालक, मशरूम और बाकी सब्ज़ियाँ" },
+      {
+        "type": "heading",
+        "text": "पालक, मशरूम और बाकी सब्ज़ियाँ"
+      },
       {
         "type": "paragraph",
         "text": "पालक और मशरूम में प्यूरीन मध्यम मात्रा में होते हैं, लेकिन अभी के सबूत इन्हें गाउट अटैक से ज़्यादा नहीं जोड़ते। नॉर्मल मात्रा में पालक की सब्ज़ी या पालक दाल आपके खाने में रह सकती है। अगर किडनी की पथरी की वजह से डॉक्टर ने ऑक्सलेट पर ध्यान देने को कहा है, तो वह सलाह मानें, क्योंकि वह अलग बात है।"
       },
-      { "type": "heading", "text": "तो असल में किस पर ज़्यादा ध्यान दें?" },
+      {
+        "type": "heading",
+        "text": "तो असल में किस पर ज़्यादा ध्यान दें?"
+      },
       {
         "type": "bullets",
         "items": [
@@ -122,7 +155,10 @@
           "कम पानी पीना"
         ]
       },
-      { "type": "heading", "text": "हर इंसान थोड़ा अलग है" },
+      {
+        "type": "heading",
+        "text": "हर इंसान थोड़ा अलग है"
+      },
       {
         "type": "paragraph",
         "text": "कुछ लोगों को सच में लगता है कि कुछ चीज़ों से उनका दर्द शुरू होता है। अगर किसी चीज़ पर शक हो, तो अटैक से एक-दो दिन पहले क्या खाया, उसकी छोटी डायरी रखें। अपने मन से पूरे-पूरे खाने के ग्रुप छोड़ने के बजाय यह डायरी डॉक्टर या डाइटीशियन को दिखाएँ। वे बताएँगे कि क्या कम करना है और खाना संतुलित कैसे रखना है।"
@@ -132,7 +168,5 @@
         "text": "छोटी बात: रोटी, एक कटोरी दाल, सब्ज़ी, सलाद और दही वाली नॉर्मल थाली हाई यूरिक एसिड वाले ज़्यादातर लोगों के लिए अच्छी शुरुआत है। अपनी मेहनत ड्रिंक, शराब, ऑर्गन मीट, सीफ़ूड और वज़न पर लगाएँ, जहाँ इससे सबसे ज़्यादा फ़र्क़ पड़ सकता है।"
       }
     ]
-  },
-  "reviewedBy": "PENDING",
-  "reviewedOn": null
+  }
 }

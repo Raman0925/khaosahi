@@ -1,15 +1,13 @@
 import { z } from 'zod';
 
-import { idSchema, localizedSchema, reviewSchema } from './common';
+import { idSchema, localizedSchema } from './common';
 
 export const TIP_CONDITIONS = ['fattyLiver', 'uricAcid'] as const;
 
-export const tipSchema = z
-  .object({
-    id: idSchema,
-    text: localizedSchema,
-  })
-  .extend(reviewSchema.shape);
+export const tipSchema = z.object({
+  id: idSchema,
+  text: localizedSchema,
+});
 
 export type Tip = z.infer<typeof tipSchema>;
 

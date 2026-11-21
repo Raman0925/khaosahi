@@ -10,8 +10,6 @@ export function item(
     text: { en: id, hi: id },
     frequency,
     ...(diets ? { diets } : {}),
-    reviewedBy: 'PENDING',
-    reviewedOn: null,
   };
 }
 

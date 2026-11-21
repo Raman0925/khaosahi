@@ -3,7 +3,6 @@ import { z } from 'zod';
 import {
   articleSchema,
   foodsFileSchema,
-  PENDING,
   PLAN_IDS,
   PLAN_WEEKS,
   planSchema,
@@ -21,7 +20,7 @@ export type ContentInput = {
   articles: unknown[];
 };
 
-export type ValidationResult = { errors: string[]; warnings: string[]; pendingCount: number };
+export type ValidationResult = { errors: string[]; warnings: string[] };
 
 function issues(prefix: string, error: z.ZodError): string[] {
   return error.issues.map(i => `${prefix}: ${i.path.join('.')} ${i.message}`);
@@ -37,21 +36,9 @@ function collectStrings(value: unknown, out: string[]): void {
   }
 }
 
-function countPending(value: unknown): number {
-  if (Array.isArray(value)) {
-    return value.reduce<number>((sum, v) => sum + countPending(v), 0);
-  }
-  if (value && typeof value === 'object') {
-    const own = (value as { reviewedBy?: unknown }).reviewedBy === PENDING ? 1 : 0;
-    return own + Object.values(value).reduce<number>((sum, v) => sum + countPending(v), 0);
-  }
-  return 0;
-}
-
 /**
  * Validates all bundled content. `release` mode also enforces full counts
- * (13 plan weeks, 90 tips per condition). `reviewedBy` is informational only: content ships
- * without an external dietitian review (ADR-005), so PENDING items are reported, never errors.
+ * (13 plan weeks, 90 tips per condition).
  */
 export function validateContent(
   input: ContentInput,
@@ -155,10 +142,5 @@ export function validateContent(
     }
   }
 
-  const pendingCount = countPending(input);
-  if (pendingCount > 0) {
-    warnings.push(`${pendingCount} content items have no external review (reviewedBy "PENDING")`);
-  }
-
-  return { errors, warnings, pendingCount };
+  return { errors, warnings };
 }

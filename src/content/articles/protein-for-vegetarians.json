@@ -3,7 +3,10 @@
   "topics": ["uricAcid", "general"],
   "readMinutes": 3,
   "rewardedExtra": false,
-  "title": { "en": "Protein for vegetarians", "hi": "शाकाहारियों के लिए प्रोटीन" },
+  "title": {
+    "en": "Protein for vegetarians",
+    "hi": "शाकाहारियों के लिए प्रोटीन"
+  },
   "summary": {
     "en": "How to get enough protein from Indian vegetarian food, including when you have high uric acid or fatty liver.",
     "hi": "भारतीय शाकाहारी खाने से पूरा प्रोटीन कैसे पाएँ, हाई यूरिक एसिड या फैटी लिवर होने पर भी।"
@@ -18,7 +21,10 @@
         "type": "paragraph",
         "text": "A common worry is that protein foods like dal and paneer will raise uric acid. Current guidance suggests that plant proteins and low-fat dairy are good choices for most people with high uric acid. In fact, low-fat milk and curd are often linked with lower uric acid."
       },
-      { "type": "heading", "text": "Good vegetarian protein sources" },
+      {
+        "type": "heading",
+        "text": "Good vegetarian protein sources"
+      },
       {
         "type": "bullets",
         "items": [
@@ -32,7 +38,10 @@
           "Whole grains and millets add some protein too"
         ]
       },
-      { "type": "heading", "text": "Spread it through the day" },
+      {
+        "type": "heading",
+        "text": "Spread it through the day"
+      },
       {
         "type": "paragraph",
         "text": "Instead of one big dal serving at dinner, try to add some protein to every meal. This is easier on digestion and helps keep hunger in check."
@@ -46,12 +55,18 @@
           "Dinner: paneer or tofu bhurji, dal with sabzi, or a bowl of moong dal khichdi with vegetables"
         ]
       },
-      { "type": "heading", "text": "For Jain diets" },
+      {
+        "type": "heading",
+        "text": "For Jain diets"
+      },
       {
         "type": "paragraph",
         "text": "Jain meals can still be rich in protein. Moong, masoor, toor and chana dal, besan cheela, paneer, curd and chaas, and nuts all fit. Use raw banana, lauki, tinda, capsicum and other permitted vegetables in place of root vegetables, and season with hing, jeera and ginger powder if fresh ginger is avoided."
       },
-      { "type": "heading", "text": "Things to watch" },
+      {
+        "type": "heading",
+        "text": "Things to watch"
+      },
       {
         "type": "bullets",
         "items": [
@@ -62,7 +77,10 @@
           "If you have kidney disease, your doctor may want you to limit protein, so follow their advice"
         ]
       },
-      { "type": "heading", "text": "How do I know I am getting enough?" },
+      {
+        "type": "heading",
+        "text": "How do I know I am getting enough?"
+      },
       {
         "type": "paragraph",
         "text": "Protein needs differ by body weight, age, activity and health. A simple check: does almost every meal have a protein food on the plate, such as dal, curd, paneer, chana or sprouts? If the answer is yes, you are probably on the right track. A dietitian can tell you a more exact target for your body."
@@ -81,7 +99,10 @@
         "type": "paragraph",
         "text": "आम डर यह है कि दाल और पनीर जैसी प्रोटीन वाली चीज़ें यूरिक एसिड बढ़ा देंगी। आजकल की गाइडलाइन के हिसाब से हाई यूरिक एसिड वाले ज़्यादातर लोगों के लिए पौधों वाला प्रोटीन और कम फ़ैट वाला दूध-दही अच्छे विकल्प हैं। कम फ़ैट वाला दूध और दही तो अक्सर कम यूरिक एसिड से जुड़े पाए गए हैं।"
       },
-      { "type": "heading", "text": "शाकाहारी प्रोटीन के अच्छे स्रोत" },
+      {
+        "type": "heading",
+        "text": "शाकाहारी प्रोटीन के अच्छे स्रोत"
+      },
       {
         "type": "bullets",
         "items": [
@@ -95,7 +116,10 @@
           "साबुत अनाज और मोटे अनाज से भी थोड़ा प्रोटीन मिलता है"
         ]
       },
-      { "type": "heading", "text": "दिन भर में बाँटें" },
+      {
+        "type": "heading",
+        "text": "दिन भर में बाँटें"
+      },
       {
         "type": "paragraph",
         "text": "रात में एक बड़ी कटोरी दाल खाने के बजाय हर खाने में थोड़ा प्रोटीन जोड़ें। इससे पाचन आसान रहता है और भूख काबू में रहती है।"
@@ -109,12 +133,18 @@
           "रात: पनीर या टोफ़ू भुर्जी, दाल-सब्ज़ी, या सब्ज़ी वाली मूँग दाल खिचड़ी"
         ]
       },
-      { "type": "heading", "text": "जैन खाने के लिए" },
+      {
+        "type": "heading",
+        "text": "जैन खाने के लिए"
+      },
       {
         "type": "paragraph",
         "text": "जैन खाने में भी भरपूर प्रोटीन हो सकता है। मूँग, मसूर, अरहर और चना दाल, बेसन चीला, पनीर, दही-छाछ और मेवे, सब चल सकते हैं। ज़मीन के नीचे वाली सब्ज़ियों की जगह कच्चा केला, लौकी, टिंडा, शिमला मिर्च जैसी सब्ज़ियाँ लें, और अगर अदरक नहीं खाते तो हींग, जीरा और सोंठ से स्वाद दें।"
       },
-      { "type": "heading", "text": "इन बातों का ध्यान रखें" },
+      {
+        "type": "heading",
+        "text": "इन बातों का ध्यान रखें"
+      },
       {
         "type": "bullets",
         "items": [
@@ -125,7 +155,10 @@
           "अगर किडनी की बीमारी है, तो डॉक्टर प्रोटीन कम करने को कह सकते हैं, उनकी बात मानें"
         ]
       },
-      { "type": "heading", "text": "कैसे पता चले कि प्रोटीन पूरा है?" },
+      {
+        "type": "heading",
+        "text": "कैसे पता चले कि प्रोटीन पूरा है?"
+      },
       {
         "type": "paragraph",
         "text": "प्रोटीन की ज़रूरत वज़न, उम्र, मेहनत और सेहत के हिसाब से अलग होती है। आसान जाँच: क्या लगभग हर खाने की थाली में दाल, दही, पनीर, चना या अंकुरित अनाज जैसी कोई प्रोटीन वाली चीज़ है? अगर हाँ, तो आप शायद सही रास्ते पर हैं। डाइटीशियन आपके शरीर के लिए ज़्यादा सही टारगेट बता सकते हैं।"
@@ -135,7 +168,5 @@
         "text": "थाली में आधी सब्ज़ी और सलाद, चौथाई रोटी या चावल, और चौथाई दाल, दही या पनीर रखना, बिना ज़्यादा खाए हर खाने में प्रोटीन पाने का आसान तरीक़ा है।"
       }
     ]
-  },
-  "reviewedBy": "PENDING",
-  "reviewedOn": null
+  }
 }

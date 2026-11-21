@@ -17,7 +17,10 @@
         "type": "paragraph",
         "text": "If you eat non-veg and have high uric acid or gout, you do not always have to give it up completely. But the type of meat, how much you eat and how often matter a lot. Animal foods, especially some kinds, are among the foods most clearly linked with higher uric acid and gout attacks."
       },
-      { "type": "heading", "text": "Keep these rare or avoid" },
+      {
+        "type": "heading",
+        "text": "Keep these rare or avoid"
+      },
       {
         "type": "bullets",
         "items": [
@@ -32,7 +35,10 @@
         "type": "paragraph",
         "text": "During a gout flare, or if your attacks are frequent, it is wise to avoid these completely and ask your doctor when, or whether, you can have them again."
       },
-      { "type": "heading", "text": "Can fit in small portions" },
+      {
+        "type": "heading",
+        "text": "Can fit in small portions"
+      },
       {
         "type": "paragraph",
         "text": "Many people with high uric acid can include chicken or fish in modest amounts. A palm-sized piece is a reasonable portion for one meal. Choose how you cook it carefully, because fried and creamy dishes also add a lot of fat, which is not good for the liver."
@@ -46,7 +52,10 @@
           "Fill the rest of the plate with sabzi, salad and a moderate portion of roti or rice"
         ]
       },
-      { "type": "heading", "text": "Eggs and dairy: helpful alternatives" },
+      {
+        "type": "heading",
+        "text": "Eggs and dairy: helpful alternatives"
+      },
       {
         "type": "paragraph",
         "text": "Eggs are low in purines and are a good protein choice for most people with high uric acid. Boiled eggs, egg bhurji with vegetables or a simple omelette cooked in little oil work well. If you have fatty liver or high cholesterol, ask your doctor how many yolks suit you; egg whites can be eaten more freely."
@@ -55,7 +64,10 @@
         "type": "paragraph",
         "text": "Low-fat milk, curd and chaas are also good choices and may even help lower uric acid. Including them more often lets you cut down on meat without feeling short of protein."
       },
-      { "type": "heading", "text": "Easy swaps" },
+      {
+        "type": "heading",
+        "text": "Easy swaps"
+      },
       {
         "type": "bullets",
         "items": [
@@ -67,12 +79,18 @@
           "Non-veg twice a day → non-veg in one meal, dal or curd in the other"
         ]
       },
-      { "type": "heading", "text": "Watch the extras too" },
+      {
+        "type": "heading",
+        "text": "Watch the extras too"
+      },
       {
         "type": "paragraph",
         "text": "Non-veg meals often come with beer, cold drinks or rich desserts, especially at parties and weddings. These can raise uric acid as much as the meat itself. Pair your meal with water, nimbu pani without sugar or chaas instead."
       },
-      { "type": "heading", "text": "A sample week" },
+      {
+        "type": "heading",
+        "text": "A sample week"
+      },
       {
         "type": "paragraph",
         "text": "For example, a person who eats non-veg might have grilled fish on two days, a small portion of chicken curry on two days, eggs at breakfast on some days, and fully vegetarian meals with dal, curd and paneer on the rest. Organ meat and shellfish stay off the menu. Your doctor or dietitian can adjust this to your own reports and needs."
@@ -83,7 +101,10 @@
         "type": "paragraph",
         "text": "अगर आप नॉन-वेज खाते हैं और आपका यूरिक एसिड हाई है या गाउट है, तो इसे हमेशा पूरी तरह छोड़ना ज़रूरी नहीं। लेकिन कौन-सा मीट, कितना और कितनी बार खाते हैं, इससे बड़ा फ़र्क़ पड़ता है। जानवरों से मिलने वाला खाना, ख़ासकर कुछ चीज़ें, हाई यूरिक एसिड और गाउट अटैक से सबसे साफ़ तौर पर जुड़ी पाई गई हैं।"
       },
-      { "type": "heading", "text": "इन्हें कभी-कभार ही लें या न लें" },
+      {
+        "type": "heading",
+        "text": "इन्हें कभी-कभार ही लें या न लें"
+      },
       {
         "type": "bullets",
         "items": [
@@ -98,7 +119,10 @@
         "type": "paragraph",
         "text": "गाउट अटैक के दौरान, या अगर अटैक बार-बार होते हैं, तो इन्हें पूरी तरह छोड़ना समझदारी है, और डॉक्टर से पूछें कि दोबारा कब या क्या ले सकते हैं।"
       },
-      { "type": "heading", "text": "कम मात्रा में चल सकते हैं" },
+      {
+        "type": "heading",
+        "text": "कम मात्रा में चल सकते हैं"
+      },
       {
         "type": "paragraph",
         "text": "हाई यूरिक एसिड वाले कई लोग थोड़ी मात्रा में चिकन या मछली ले सकते हैं। एक खाने में हथेली जितना टुकड़ा ठीक मात्रा है। पकाने का तरीक़ा ध्यान से चुनें, क्योंकि तली और क्रीम वाली डिश में चर्बी बहुत होती है, जो लिवर के लिए अच्छी नहीं।"
@@ -112,7 +136,10 @@
           "बाकी थाली सब्ज़ी, सलाद और सीमित रोटी या चावल से भरें"
         ]
       },
-      { "type": "heading", "text": "अंडा और दूध-दही: अच्छे विकल्प" },
+      {
+        "type": "heading",
+        "text": "अंडा और दूध-दही: अच्छे विकल्प"
+      },
       {
         "type": "paragraph",
         "text": "अंडे में प्यूरीन कम होते हैं और हाई यूरिक एसिड वाले ज़्यादातर लोगों के लिए यह प्रोटीन का अच्छा विकल्प है। उबला अंडा, सब्ज़ी वाली अंडा भुर्जी या कम तेल का सादा ऑमलेट अच्छा रहता है। अगर फैटी लिवर या हाई कोलेस्ट्रॉल है, तो डॉक्टर से पूछें कि कितनी ज़र्दी ठीक है; अंडे की सफ़ेदी ज़्यादा आराम से खा सकते हैं।"
@@ -121,7 +148,10 @@
         "type": "paragraph",
         "text": "कम फ़ैट वाला दूध, दही और छाछ भी अच्छे विकल्प हैं और यूरिक एसिड कम करने में मदद भी कर सकते हैं। इन्हें ज़्यादा बार लेने से मीट कम करने पर भी प्रोटीन की कमी नहीं लगती।"
       },
-      { "type": "heading", "text": "आसान बदलाव" },
+      {
+        "type": "heading",
+        "text": "आसान बदलाव"
+      },
       {
         "type": "bullets",
         "items": [
@@ -133,18 +163,22 @@
           "दिन में दो बार नॉन-वेज → एक खाने में नॉन-वेज, दूसरे में दाल या दही"
         ]
       },
-      { "type": "heading", "text": "साथ वाली चीज़ों पर भी ध्यान दें" },
+      {
+        "type": "heading",
+        "text": "साथ वाली चीज़ों पर भी ध्यान दें"
+      },
       {
         "type": "paragraph",
         "text": "नॉन-वेज खाने के साथ अक्सर बीयर, कोल्ड ड्रिंक या भारी मिठाई आती है, ख़ासकर पार्टी और शादी में। ये भी मीट जितना ही यूरिक एसिड बढ़ा सकते हैं। इनकी जगह पानी, बिना चीनी का नींबू पानी या छाछ लें।"
       },
-      { "type": "heading", "text": "एक हफ़्ते का उदाहरण" },
+      {
+        "type": "heading",
+        "text": "एक हफ़्ते का उदाहरण"
+      },
       {
         "type": "paragraph",
         "text": "जैसे, नॉन-वेज खाने वाला कोई इंसान दो दिन ग्रिल्ड मछली, दो दिन थोड़ी चिकन करी, कुछ दिन नाश्ते में अंडा, और बाकी दिन दाल, दही और पनीर वाला पूरा शाकाहारी खाना ले सकता है। ऑर्गन मीट और शेलफ़िश मेन्यू से बाहर रहें। डॉक्टर या डाइटीशियन आपकी रिपोर्ट और ज़रूरत के हिसाब से इसमें बदलाव कर सकते हैं।"
       }
     ]
-  },
-  "reviewedBy": "PENDING",
-  "reviewedOn": null
+  }
 }
