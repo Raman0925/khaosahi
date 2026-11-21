@@ -1,0 +1,43 @@
+# Food checker: search "rajma" (English/Hinglish) and "राजमा" (Devanagari) -> food detail.
+#
+# Selector assumptions:
+# - The Food tab label is "Food" (nav.food).
+# - The search box has testID "food-search" (fallback: placeholder text starting with "Search").
+# - foods.json contains an item named "Rajma" with the Hindi alias "राजमा" (agent A7a).
+# - The detail screen shows the food name and at least one rating label (Good / Limit / Avoid).
+# - Devanagari input needs a Maestro version with unicode inputText support on Android.
+appId: app.khaosahi
+name: 02-food-search
+tags:
+  - smoke
+---
+- runFlow: subflows/onboard.yaml
+
+# English / Hinglish search
+- tapOn: 'Food'
+- tapOn:
+    id: 'food-search'
+    optional: true
+- runFlow:
+    when:
+      notVisible:
+        id: 'food-search'
+    commands:
+      - tapOn: '(?i)Search.*'
+- inputText: 'rajma'
+- hideKeyboard
+- tapOn: '(?i)Rajma.*'
+- assertVisible: '(?i)Rajma.*'
+- assertVisible: 'Good|Limit|Avoid'
+- back
+
+# Devanagari search
+- tapOn:
+    id: 'food-search'
+    optional: true
+- eraseText: 20
+- inputText: 'राजमा'
+- hideKeyboard
+- tapOn: '(?i)(Rajma|राजमा).*'
+- assertVisible: 'Good|Limit|Avoid'
+- back

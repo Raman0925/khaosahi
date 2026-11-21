@@ -1,0 +1,72 @@
+# Reusable: fresh install -> onboarding -> Today. Called by every top-level flow.
+#
+# Selector assumptions (screens are built in parallel; adjust once the i18n keys land):
+# - Language screen shows "English" and "हिन्दी" options and a "Continue" button (common.continue).
+# - Intro slides have a "Skip" button (common.skip).
+# - Disclaimer screen shows the exact common.disclaimer text, a checkbox/row starting with
+#   "I understand" or "I accept", and a "Continue" button.
+# - Consent screen has an "I agree" button.
+# - Age gate asks if the user is 18 or older with a "Yes" / "I am 18 or older" answer.
+# - Profile setup uses field labels "Age", "Height", "Weight", "Waist", condition chips with the
+#   common.conditions labels, diet chips with the common.dietTypes labels, and a "Save" button.
+# - Today is the initial tab after onboarding; its tab label is "Today" (nav.today).
+# Profile used: condition "Both", diet "Vegetarian", age 45, height 168 cm, weight 78 kg.
+appId: app.khaosahi
+---
+- launchApp:
+    clearState: true
+
+# F1.1 Language
+- extendedWaitUntil:
+    visible: 'English'
+    timeout: 20000
+- tapOn: 'English'
+- tapOn: 'Continue|Next'
+
+# F1.2 Intro slides (skippable)
+- runFlow:
+    when:
+      visible: 'Skip'
+    commands:
+      - tapOn: 'Skip'
+
+# F1.3 Disclaimer
+- assertVisible: 'KhaoSahi gives general diet and lifestyle information.*'
+- tapOn: '(?i)I (understand|accept|agree).*'
+- tapOn: 'Continue|Next'
+
+# F1.4 Consent
+- assertVisible: '(?i).*(stays|stored) on (this|your) (phone|device).*'
+- tapOn: '(?i)I agree'
+
+# F1.5 Age gate
+- tapOn: '(?i)(Yes|I am 18 or older|18 or older).*'
+- runFlow:
+    when:
+      visible: 'Continue|Next'
+    commands:
+      - tapOn: 'Continue|Next'
+
+# F2 Profile
+- tapOn: 'Both'
+- tapOn: 'Age'
+- inputText: '45'
+- tapOn: '(?i)Height.*'
+- inputText: '168'
+- tapOn: '(?i)Weight.*'
+- inputText: '78'
+- hideKeyboard
+- scrollUntilVisible:
+    element: 'Vegetarian'
+    direction: DOWN
+- tapOn: 'Vegetarian'
+- scrollUntilVisible:
+    element: 'Save|Continue|Create my plan|Done'
+    direction: DOWN
+- tapOn: 'Save|Continue|Create my plan|Done'
+
+# F1.7 Onboarding ends on Today
+- extendedWaitUntil:
+    visible: '(?i)Day 1 ?/ ?90.*'
+    timeout: 15000
+- assertVisible: 'Today'
