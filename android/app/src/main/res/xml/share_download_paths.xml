@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Overrides react-native-share's FileProvider paths (same resource name, so the app's copy wins
+     in the resource merge). Keeps the library's two entries and adds files/backup/ so
+     Settings → "Export my data" can share the newest snapshot (Dirs.DocumentDir = filesDir). -->
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="rnshare1" path="Download/" />
+    <cache-path name="rnshare2" path="/" />
+    <files-path name="khaosahi_backup" path="backup/" />
+</paths>

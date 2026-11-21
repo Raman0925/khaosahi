@@ -17,6 +17,12 @@ jest.mock('react-native-bootsplash', () => ({
 
 jest.mock('react-native-config', () => ({ __esModule: true, default: {} }));
 
+// Settings → Export uses the share sheet; tests that check sharing override this with jest.mock.
+jest.mock('react-native-share', () => ({
+  __esModule: true,
+  default: { open: jest.fn(() => Promise.resolve({ success: true, message: '' })) },
+}));
+
 // react-native-mmkv uses its in-memory mock under Jest; only the Nitro import needs stubbing.
 jest.mock('react-native-nitro-modules', () => ({
   NitroModules: {
