@@ -50,11 +50,12 @@ function countPending(value: unknown): number {
 
 /**
  * Validates all bundled content. `release` mode also enforces full counts
- * (13 plan weeks, 90 tips per condition) and zero PENDING reviews unless `allowUnreviewed`.
+ * (13 plan weeks, 90 tips per condition). `reviewedBy` is informational only: content ships
+ * without an external dietitian review (ADR-005), so PENDING items are reported, never errors.
  */
 export function validateContent(
   input: ContentInput,
-  options: { release: boolean; allowUnreviewed: boolean },
+  options: { release: boolean },
 ): ValidationResult {
   const errors: string[] = [];
   const warnings: string[] = [];
@@ -156,11 +157,7 @@ export function validateContent(
 
   const pendingCount = countPending(input);
   if (pendingCount > 0) {
-    if (options.release && !options.allowUnreviewed) {
-      errors.push(`${pendingCount} content items are still reviewedBy "PENDING"`);
-    } else {
-      warnings.push(`${pendingCount} content items are still reviewedBy "PENDING"`);
-    }
+    warnings.push(`${pendingCount} content items have no external review (reviewedBy "PENDING")`);
   }
 
   return { errors, warnings, pendingCount };

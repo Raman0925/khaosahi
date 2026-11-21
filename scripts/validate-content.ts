@@ -2,10 +2,10 @@
  * Validates bundled content. Fails (exit 1) on schema errors, unknown swap ids, duplicate ids,
  * forbidden wording, or unregistered article files.
  *
- *   npm run validate-content            # dev: counts and PENDING are warnings
- *   npm run validate-content -- --release   # release: full counts and zero PENDING required
+ *   npm run validate-content            # dev: missing counts are warnings
+ *   npm run validate-content -- --release   # release: full counts required
  *
- * Set ALLOW_UNREVIEWED_CONTENT=true to allow PENDING items in a release run (dev builds only).
+ * reviewedBy "PENDING" is reported as a warning only (no external dietitian review, ADR-005).
  */
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
@@ -16,7 +16,6 @@ const root = join(__dirname, '..', 'src', 'content');
 const readJson = (path: string): unknown => JSON.parse(readFileSync(join(root, path), 'utf8'));
 
 const release = process.argv.includes('--release');
-const allowUnreviewed = process.env.ALLOW_UNREVIEWED_CONTENT === 'true';
 
 const articleFiles = readdirSync(join(root, 'articles')).filter(f => f.endsWith('.json'));
 const indexSource = readFileSync(join(root, 'index.ts'), 'utf8');
@@ -36,7 +35,7 @@ const result = validateContent(
     },
     articles: articleFiles.map(f => readJson(`articles/${f}`)),
   },
-  { release, allowUnreviewed },
+  { release },
 );
 
 for (const file of unregistered) {

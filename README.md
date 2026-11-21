@@ -21,14 +21,14 @@ Release builds read `.env` (copy `.env.example`; never commit it). Signing uses 
 
 ## Scripts
 
-| Script                     | What                                                                                             |
-| -------------------------- | ------------------------------------------------------------------------------------------------ |
-| `npm run lint`             | ESLint (flat config), zero warnings                                                              |
-| `npm run typecheck`        | TypeScript strict                                                                                |
-| `npm test`                 | Jest + Testing Library                                                                           |
-| `npm run validate-content` | Content schema/consistency check (`:release` also requires full counts and no `PENDING` reviews) |
-| `npm run check`            | All of the above                                                                                 |
-| `npm run format`           | Prettier                                                                                         |
+| Script                     | What                                                                             |
+| -------------------------- | -------------------------------------------------------------------------------- |
+| `npm run lint`             | ESLint (flat config), zero warnings                                              |
+| `npm run typecheck`        | TypeScript strict                                                                |
+| `npm test`                 | Jest + Testing Library                                                           |
+| `npm run validate-content` | Content schema/consistency check (`:release` also requires full plan/tip counts) |
+| `npm run check`            | All of the above                                                                 |
+| `npm run format`           | Prettier                                                                         |
 
 E2E: Maestro flows in `.maestro/` (`maestro test .maestro`). CI runs them on Android 16
 (font scale 1.0 and 2.0) and a low-end API 26 / 2 GB emulator; screenshots are uploaded as

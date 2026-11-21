@@ -6,7 +6,7 @@ const content = { foods: FOODS, plans: PLANS, tips: TIPS, articles: [...ARTICLES
 
 describe('bundled content', () => {
   it('passes structural validation', () => {
-    const result = validateContent(content, { release: false, allowUnreviewed: true });
+    const result = validateContent(content, { release: false });
     expect(result.errors).toEqual([]);
   });
 
@@ -18,17 +18,15 @@ describe('bundled content', () => {
       swaps: ['does-not-exist'],
       name: { en: 'Liver cure tea', hi: 'चाय' },
     };
-    const result = validateContent(
-      { ...content, foods: [...FOODS, bad] },
-      { release: false, allowUnreviewed: true },
-    );
+    const result = validateContent({ ...content, foods: [...FOODS, bad] }, { release: false });
     expect(result.errors.join('\n')).toMatch(/unknown id "does-not-exist"/);
     expect(result.errors.join('\n')).toMatch(/forbidden wording/);
   });
 
-  it('fails release validation while items are PENDING', () => {
-    const result = validateContent(content, { release: true, allowUnreviewed: false });
-    expect(result.errors.join('\n')).toMatch(/PENDING/);
+  it('passes release validation; unreviewed items are only a warning', () => {
+    const result = validateContent(content, { release: true });
+    expect(result.errors).toEqual([]);
+    expect(result.warnings.join('\n')).toMatch(/PENDING/);
   });
 });
 
