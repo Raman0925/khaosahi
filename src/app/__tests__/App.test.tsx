@@ -29,7 +29,7 @@ describe('App shell', () => {
   it('shows the main tabs once onboarding is complete', async () => {
     await act(() => usePreferences.getState().completeOnboarding());
     await render(<App />);
-    expect(await screen.findByTestId('placeholder-TodayScreen')).toBeTruthy();
+    expect(await screen.findByTestId('today-screen')).toBeTruthy();
     expect(screen.getByLabelText('Open settings')).toBeTruthy();
   });
 });

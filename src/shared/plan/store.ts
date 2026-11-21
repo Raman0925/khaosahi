@@ -4,34 +4,56 @@ import { z } from 'zod';
 
 import { mmkvPersistOptions } from '@/shared/storage/persist';
 import { registerStoreReset } from '@/shared/storage/reset';
+import type { DateKey } from '@/shared/utils/dates';
+
+import type { PlanKey } from './logic/schedule';
+import { dateKeySchema, planKeySchema, type Ticks, ticksSchema } from './schema';
 
 /**
- * Plan state. A0 CONTRACT, owned and extended by A3 (plan generation, checklist, streaks).
- * Other modules rely on: `startDate` (local YYYY-MM-DD of plan day 1, or null before a plan
- * exists) — e.g. the 90-day retest reminder in shared/notifications. Keep that field and its
- * meaning when extending this store.
+ * Plan state (A3). Other modules rely on: `startDate` (local YYYY-MM-DD of plan day 1, or null
+ * before a plan exists) — e.g. the 90-day retest reminder in shared/notifications.
+ *
+ * Use the functions in `./sync` (rollover, toggle, restart) rather than the raw setters so the
+ * checklist history stays correct.
  */
 const persistedSchema = z.object({
-  startDate: z
-    .string()
-    .regex(/^\d{4}-\d{2}-\d{2}$/)
-    .nullable(),
+  startDate: dateKeySchema.nullable(),
+  /** Profile (condition + diet) the plan was started for. */
+  planKey: planKeySchema.nullable().default(null),
+  /** Ticks for the current (not yet finalised) day. */
+  ticks: ticksSchema.nullable().default(null),
 });
 
-type PlanState = z.infer<typeof persistedSchema> & {
-  setStartDate: (startDate: string | null) => void;
+type PersistedPlan = z.infer<typeof persistedSchema>;
+
+type PlanState = PersistedPlan & {
+  setStartDate: (startDate: DateKey | null) => void;
+  /** Starts a fresh plan on `today` (day 1) with no ticks. */
+  startPlan: (planKey: PlanKey, today: DateKey) => void;
+  setPlanKey: (planKey: PlanKey) => void;
+  setTicks: (ticks: Ticks) => void;
   reset: () => void;
 };
+
+const EMPTY: PersistedPlan = { startDate: null, planKey: null, ticks: null };
 
 export const usePlanStore = create<PlanState>()(
   persist(
     set => ({
-      startDate: null,
+      ...EMPTY,
       setStartDate: startDate => set({ startDate }),
-      reset: () => set({ startDate: null }),
+      startPlan: (planKey, today) =>
+        set({ startDate: today, planKey, ticks: { dateKey: today, doneItemIds: [] } }),
+      setPlanKey: planKey => set({ planKey }),
+      setTicks: ticks => set({ ticks }),
+      reset: () => set(EMPTY),
     }),
-    mmkvPersistOptions<PlanState, z.infer<typeof persistedSchema>>('plan', persistedSchema, {
-      partialize: state => ({ startDate: state.startDate }),
+    mmkvPersistOptions<PlanState, PersistedPlan>('plan', persistedSchema, {
+      partialize: state => ({
+        startDate: state.startDate,
+        planKey: state.planKey,
+        ticks: state.ticks,
+      }),
     }),
   ),
 );
