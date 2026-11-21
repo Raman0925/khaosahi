@@ -12,4 +12,3 @@ export { TextField } from './TextField';
 export { RatingBadge } from './RatingBadge';
 export { Icon } from './Icon';
 export type { IconName } from './Icon';
-export { PlaceholderScreen } from './PlaceholderScreen';
