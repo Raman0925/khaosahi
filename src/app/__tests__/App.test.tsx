@@ -16,7 +16,7 @@ beforeEach(async () => {
 describe('App shell', () => {
   it('starts on onboarding and switches language in-app', async () => {
     await render(<App />);
-    expect(await screen.findByTestId('placeholder-LanguageScreen')).toBeTruthy();
+    expect(await screen.findByTestId('onboarding-language')).toBeTruthy();
     expect(screen.getByText('Continue')).toBeTruthy();
 
     await fireEvent.press(screen.getByText('हिन्दी'));
