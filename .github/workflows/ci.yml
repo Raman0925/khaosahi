@@ -175,10 +175,7 @@ jobs:
           ram-size: ${{ matrix.ram }}
           disable-animations: true
           emulator-options: -no-snapshot-save -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none
-          script: |
-            adb install -r apk/app-release.apk
-            adb shell settings put system font_scale ${{ matrix.font-scale }}
-            maestro test .maestro --format junit --output maestro-report.xml --test-output-dir maestro-out
+          script: bash scripts/e2e-ci.sh ${{ matrix.font-scale }}
       - uses: actions/upload-artifact@v7
         if: always()
         with:
@@ -186,5 +183,7 @@ jobs:
           path: |
             maestro-report.xml
             maestro-out/
+            logcat.txt
+            logcat-app.txt
             ~/.maestro/tests/
           retention-days: 14
