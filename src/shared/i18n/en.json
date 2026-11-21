@@ -305,8 +305,130 @@
       }
     }
   },
-  "progress": {},
-  "reminders": {},
+  "progress": {
+    "intro": "Log your numbers to see how you are doing over time.",
+    "metrics": {
+      "weight": "Weight",
+      "waist": "Waist",
+      "alt": "ALT (liver test)",
+      "ast": "AST (liver test)",
+      "uricAcid": "Uric acid",
+      "ultrasound": "Fatty liver grade (ultrasound)"
+    },
+    "grades": {
+      "0": "Normal",
+      "1": "Grade 1",
+      "2": "Grade 2",
+      "3": "Grade 3"
+    },
+    "add": "Add",
+    "addMetric": "Add {{metric}}",
+    "openMetricHint": "Opens the chart and all entries",
+    "noEntries": "No entries yet",
+    "latest": "Latest: {{value}} on {{date}}",
+    "trend": {
+      "up": "↑ Higher than last time",
+      "down": "↓ Lower than last time",
+      "same": "→ Same as last time"
+    },
+    "status": {
+      "within": "In normal range",
+      "above": "Above normal range",
+      "below": "Below normal range"
+    },
+    "chart": {
+      "xAxis": "Date",
+      "yAxis": "{{metric}} ({{unit}})",
+      "normalRange": "Normal range (dashed lines): {{range}}",
+      "upTo": "up to {{max}} {{unit}}",
+      "between": "{{min}}–{{max}} {{unit}}",
+      "labsVary": "Lab ranges vary. Check the range printed on your report and ask your doctor.",
+      "waistLine": "Dashed line: waist risk level for Indians, {{value}}",
+      "a11y": "Chart of {{metric}}, {{count}} entries. Latest {{value}} on {{date}}. {{trend}}",
+      "single": "Add one more entry to see a line.",
+      "emptyTitle": "No entries yet",
+      "emptyBody": "Add your first entry to start your chart.",
+      "showingSome": "Chart shows {{shown}} of {{count}} entries. All entries are listed below."
+    },
+    "history": "All entries",
+    "edit": "Edit",
+    "editEntry": "Edit {{label}}",
+    "deleteEntry": "Delete {{label}}",
+    "deleteTitle": "Delete this entry?",
+    "deleteBody": "{{label}} will be removed from this phone.",
+    "entry": {
+      "titleAdd": "Add {{metric}}",
+      "titleEdit": "Edit {{metric}}",
+      "value": "Value",
+      "grade": "Ultrasound result",
+      "date": "Date",
+      "changeDate": "Change date, now {{date}}",
+      "futureDate": "The date cannot be in the future",
+      "note": "Use the value from your lab report."
+    }
+  },
+  "reminders": {
+    "title": "Reminders",
+    "intro": "Reminders are set on this phone only. They may come a few minutes late.",
+    "enable": "{{name}} reminder",
+    "time": "Time",
+    "changeTime": "Change time for {{name}}, now {{time}}",
+    "daily": {
+      "title": "Daily checklist",
+      "body": "A reminder to tick off today’s checklist."
+    },
+    "water": {
+      "title": "Drink water",
+      "body": "Reminders between 9 am and 9 pm.",
+      "every": "Every {{count}} hours"
+    },
+    "weighIn": {
+      "title": "Weekly weigh-in",
+      "body": "A reminder to check and log your weight.",
+      "day": "Day"
+    },
+    "retest": {
+      "title": "90-day lab test",
+      "body": "A reminder to talk to your doctor about repeating your tests.",
+      "on": "On {{date}}",
+      "noPlan": "Set up your 90-day plan first.",
+      "passed": "Your 90 days are over. Talk to your doctor about a retest."
+    },
+    "weekdays": {
+      "0": "Sunday",
+      "1": "Monday",
+      "2": "Tuesday",
+      "3": "Wednesday",
+      "4": "Thursday",
+      "5": "Friday",
+      "6": "Saturday"
+    },
+    "denied": {
+      "title": "Notifications are off",
+      "body": "To get reminders, allow notifications for KhaoSahi in your phone settings.",
+      "openSettings": "Open phone settings"
+    },
+    "error": "Could not turn on the reminder. Please try again.",
+    "channelName": "Reminders",
+    "notifications": {
+      "daily": {
+        "title": "Time for today’s checklist",
+        "body": "Open KhaoSahi and tick what you did today."
+      },
+      "water": {
+        "title": "Time to drink water",
+        "body": "Have a glass of water now."
+      },
+      "weighIn": {
+        "title": "Weekly weigh-in",
+        "body": "Check your weight and add it in KhaoSahi."
+      },
+      "retest": {
+        "title": "Your 90 days are done",
+        "body": "Talk to your doctor about repeating your liver or uric acid tests."
+      }
+    }
+  },
   "learn": {
     "topics": {
       "all": "All",

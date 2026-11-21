@@ -2,6 +2,8 @@
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:tools="http://schemas.android.com/tools">
   <uses-permission android:name="android.permission.INTERNET" />
+  <!-- Reminders use inexact alarms (ADR-001); drop the exact-alarm permission notify-kit declares. -->
+  <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" tools:node="remove" />
 
   <application
     android:name=".MainApplication"
