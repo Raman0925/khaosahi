@@ -58,8 +58,135 @@
     "settings": "Settings",
     "openSettings": "Open settings"
   },
-  "onboarding": {},
-  "profile": {},
+  "onboarding": {
+    "language": {
+      "title": "Choose your language",
+      "subtitle": "You can change it later in Settings.",
+      "english": "English",
+      "hindi": "हिन्दी"
+    },
+    "intro": {
+      "foodTitle": "Know what to eat",
+      "foodBody": "See which everyday Indian foods are good, which to limit and which to avoid for fatty liver and high uric acid.",
+      "planTitle": "A simple 90-day plan",
+      "planBody": "Small daily steps, a checklist and reminders that may help you build healthier habits.",
+      "progressTitle": "Track your progress",
+      "progressBody": "Log your weight, waist and lab values and see them on charts. Everything stays on your phone.",
+      "position": "{{current}} of {{total}}",
+      "getStarted": "Get started"
+    },
+    "disclaimer": {
+      "title": "Before you start",
+      "notMedical": "KhaoSahi is a diet guide, not a medical device.",
+      "acknowledge": "I have read and understood"
+    },
+    "consent": {
+      "title": "Your data and privacy",
+      "intro": "Please read how KhaoSahi uses your data.",
+      "whatTitle": "What we store",
+      "whatBody": "Your profile (condition, age, sex, height, weight, waist, diet, region), lab values, progress logs, your daily checklist and reminder settings.",
+      "whereTitle": "Where it is stored",
+      "whereBody": "Only on this phone. KhaoSahi has no account and no server, and we do not upload your data. If backup is on, Android's own device backup to your Google account may include app data.",
+      "whyTitle": "Why",
+      "whyBody": "To personalise your plan and to track your progress.",
+      "howLongTitle": "How long",
+      "howLongBody": "Until you delete it.",
+      "deleteTitle": "How to delete",
+      "deleteBody": "Go to Settings → Delete all data. Uninstalling the app also removes it from this phone.",
+      "adsTitle": "Ads",
+      "adsBody": "The app shows ads from Google AdMob. Google may use your device's advertising ID. No health data is shared with ads.",
+      "agree": "I agree"
+    },
+    "ageGate": {
+      "title": "Are you 18 or older?",
+      "body": "KhaoSahi is made for adults.",
+      "yes": "Yes, I am 18 or older",
+      "no": "No, I am under 18",
+      "blockedTitle": "Sorry, KhaoSahi is only for adults",
+      "blockedBody": "This app is made for people aged 18 and above. For advice on healthy eating, please talk to your parents and your doctor.",
+      "goBack": "Go back"
+    }
+  },
+  "profile": {
+    "setupTitle": "Tell us about yourself",
+    "setupSubtitle": "This helps us make your plan. You can change it later in Settings.",
+    "editTitle": "Edit profile",
+    "saveAndStart": "Save and start",
+    "fields": {
+      "condition": "Your condition",
+      "age": "Age",
+      "sex": "Sex",
+      "height": "Height",
+      "weight": "Weight",
+      "waist": "Waist",
+      "waistHelper": "Measure around your belly, at the level of the navel.",
+      "dietType": "What do you eat?",
+      "region": "Which region's food do you eat most?"
+    },
+    "ageSuffix": "years",
+    "sexes": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    },
+    "regions": {
+      "north": "North",
+      "south": "South",
+      "east": "East",
+      "west": "West",
+      "central": "Central",
+      "northeast": "North-east"
+    },
+    "units": {
+      "length": "Height and waist in",
+      "weight": "Weight in",
+      "a11y": "{{group}} {{unit}}"
+    },
+    "labs": {
+      "title": "Lab results",
+      "subtitle": "Optional. Add them if you have a recent report.",
+      "alt": "ALT (SGPT)",
+      "ast": "AST (SGOT)",
+      "ultrasound": "Fatty liver grade on ultrasound",
+      "uricAcid": "Uric acid",
+      "testDate": "Test date",
+      "noDate": "Not set",
+      "pickDate": "Choose date",
+      "clearDate": "Clear date",
+      "pickDateA11y": "Choose test date",
+      "clearDateA11y": "Clear test date"
+    },
+    "grades": {
+      "1": "Grade 1",
+      "2": "Grade 2",
+      "3": "Grade 3",
+      "notDone": "Not done"
+    },
+    "bmi": {
+      "title": "BMI",
+      "hint": "Enter your height and weight to see your BMI.",
+      "value": "Your BMI is {{value}}: {{category}}",
+      "note": "Uses the BMI cut-offs for Indian adults.",
+      "categories": {
+        "underweight": "Underweight",
+        "normal": "Normal",
+        "overweight": "Overweight",
+        "obese": "Obese"
+      }
+    },
+    "errors": {
+      "wholeNumber": "Enter a whole number",
+      "futureDate": "The date cannot be in the future",
+      "fixErrors": "Please check the fields marked in red.",
+      "saveFailed": "Could not save your profile. Please try again."
+    },
+    "restart": {
+      "title": "Restart your 90-day plan?",
+      "body": "You changed your condition or diet type. Your 90-day plan will start again from Day 1 to match.",
+      "confirm": "Save and restart"
+    },
+    "missing": "No profile found yet."
+  },
   "today": {},
   "food": {},
   "plan": {},
