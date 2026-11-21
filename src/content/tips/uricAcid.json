@@ -1,0 +1,32 @@
+{
+  "condition": "uricAcid",
+  "tips": [
+    {
+      "id": "ua-tip-1",
+      "text": {
+        "en": "Drinking enough water helps your body pass out uric acid.",
+        "hi": "भरपूर पानी पीने से शरीर यूरिक एसिड बाहर निकाल पाता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "ua-tip-2",
+      "text": {
+        "en": "Beer and other alcohol can raise uric acid. Talk to your doctor about stopping.",
+        "hi": "बीयर और शराब यूरिक एसिड बढ़ा सकती है। छोड़ने के बारे में डॉक्टर से बात करें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "ua-tip-3",
+      "text": {
+        "en": "Low-fat milk and curd are good protein choices for you.",
+        "hi": "कम फ़ैट वाला दूध और दही आपके लिए प्रोटीन के अच्छे विकल्प हैं।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    }
+  ]
+}

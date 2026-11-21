@@ -1,0 +1,71 @@
+{
+  "common": {
+    "appName": "KhaoSahi",
+    "continue": "Continue",
+    "next": "Next",
+    "back": "Back",
+    "skip": "Skip",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "done": "Done",
+    "close": "Close",
+    "retry": "Try again",
+    "yes": "Yes",
+    "no": "No",
+    "optional": "Optional",
+    "ad": "Ad",
+    "comingSoon": "Coming soon",
+    "disclaimer": "KhaoSahi gives general diet and lifestyle information. It does not diagnose or treat any disease. Always follow your doctor's advice and talk to them before changing your diet or medicines.",
+    "units": {
+      "kg": "kg",
+      "lb": "lb",
+      "cm": "cm",
+      "in": "in",
+      "ul": "U/L",
+      "mgdl": "mg/dL"
+    },
+    "conditions": {
+      "fattyLiver": "Fatty liver",
+      "uricAcid": "High uric acid / gout",
+      "both": "Both"
+    },
+    "ratings": {
+      "good": "Good",
+      "limit": "Limit",
+      "avoid": "Avoid"
+    },
+    "dietTypes": {
+      "veg": "Vegetarian",
+      "egg": "Eggetarian",
+      "nonveg": "Non-vegetarian",
+      "jain": "Jain"
+    }
+  },
+  "errors": {
+    "title": "Something went wrong",
+    "body": "Sorry, the app hit a problem. Your data is safe on this phone. Please try again.",
+    "required": "This field is required",
+    "range": "Enter a value between {{min}} and {{max}}",
+    "number": "Enter a valid number"
+  },
+  "nav": {
+    "today": "Today",
+    "food": "Food",
+    "progress": "Progress",
+    "learn": "Learn",
+    "settings": "Settings",
+    "openSettings": "Open settings"
+  },
+  "onboarding": {},
+  "profile": {},
+  "today": {},
+  "food": {},
+  "plan": {},
+  "progress": {},
+  "reminders": {},
+  "learn": {},
+  "settings": {},
+  "ads": {}
+}

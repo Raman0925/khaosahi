@@ -1,0 +1,103 @@
+{
+  "id": "uricAcid",
+  "title": {
+    "en": "Uric acid plan",
+    "hi": "यूरिक एसिड प्लान"
+  },
+  "weeks": [
+    {
+      "week": 1,
+      "title": {
+        "en": "Week 1: Small steps",
+        "hi": "हफ़्ता 1: छोटे क़दम"
+      },
+      "focus": {
+        "en": "Build simple daily habits: water, walking and more sabzi.",
+        "hi": "रोज़ की आसान आदतें: पानी, टहलना और ज़्यादा सब्ज़ी।"
+      },
+      "items": [
+        {
+          "id": "drink-water",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-30",
+          "text": {
+            "en": "Walk for 30 minutes",
+            "hi": "30 मिनट टहलें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "veg-half-plate",
+          "text": {
+            "en": "Fill half your plate with sabzi or salad at lunch and dinner",
+            "hi": "दोपहर और रात के खाने में आधी थाली सब्ज़ी या सलाद रखें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-sugary-drinks",
+          "text": {
+            "en": "No cold drinks, packaged juice or sweetened tea today",
+            "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या ज़्यादा चीनी वाली चाय नहीं"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "dinner-by-8",
+          "text": {
+            "en": "Finish dinner by 8 pm",
+            "hi": "रात का खाना 8 बजे तक खा लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "sleep-7h",
+          "text": {
+            "en": "Sleep 7–8 hours",
+            "hi": "7–8 घंटे सोएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-organ-meat",
+          "text": {
+            "en": "No organ meat (kaleji) or shellfish today",
+            "hi": "आज कलेजी या झींगा जैसी चीज़ें नहीं"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "limit-rajma-chole",
+          "text": {
+            "en": "Keep rajma, chole and other whole pulses to a small portion",
+            "hi": "राजमा, छोले और साबुत दालें थोड़ी मात्रा में ही"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto Backup for Android 11 and lower. Backs up MMKV (files/mmkv) and our data files
+     (progress log, checklist history, snapshots) so data restores on a new phone.
+     Temp files from atomic writes live in files/.tmp and are excluded. -->
+<full-backup-content>
+    <include domain="file" path="." />
+    <exclude domain="file" path=".tmp/" />
+</full-backup-content>

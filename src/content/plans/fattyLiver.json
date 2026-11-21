@@ -1,0 +1,102 @@
+{
+  "id": "fattyLiver",
+  "title": {
+    "en": "Fatty liver plan",
+    "hi": "फैटी लिवर प्लान"
+  },
+  "weeks": [
+    {
+      "week": 1,
+      "title": {
+        "en": "Week 1: Small steps",
+        "hi": "हफ़्ता 1: छोटे क़दम"
+      },
+      "focus": {
+        "en": "Build simple daily habits: water, walking and more sabzi.",
+        "hi": "रोज़ की आसान आदतें: पानी, टहलना और ज़्यादा सब्ज़ी।"
+      },
+      "items": [
+        {
+          "id": "drink-water",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-30",
+          "text": {
+            "en": "Walk for 30 minutes",
+            "hi": "30 मिनट टहलें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "veg-half-plate",
+          "text": {
+            "en": "Fill half your plate with sabzi or salad at lunch and dinner",
+            "hi": "दोपहर और रात के खाने में आधी थाली सब्ज़ी या सलाद रखें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-sugary-drinks",
+          "text": {
+            "en": "No cold drinks, packaged juice or sweetened tea today",
+            "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या ज़्यादा चीनी वाली चाय नहीं"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "dinner-by-8",
+          "text": {
+            "en": "Finish dinner by 8 pm",
+            "hi": "रात का खाना 8 बजे तक खा लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "sleep-7h",
+          "text": {
+            "en": "Sleep 7–8 hours",
+            "hi": "7–8 घंटे सोएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-fried-snacks",
+          "text": {
+            "en": "Skip fried snacks like samosa, pakora and namkeen",
+            "hi": "समोसा, पकौड़े और नमकीन जैसे तले स्नैक्स छोड़ें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "oil-3-tsp",
+          "text": {
+            "en": "Use no more than 3–4 teaspoons of oil in all meals today",
+            "hi": "आज पूरे खाने में 3–4 चम्मच से ज़्यादा तेल नहीं"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    }
+  ]
+}

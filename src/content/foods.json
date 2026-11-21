@@ -1,0 +1,172 @@
+[
+  {
+    "id": "moong-dal",
+    "category": "pulses",
+    "dietType": "jain",
+    "name": { "en": "Moong dal (yellow, split)", "hi": "मूंग दाल (पीली)" },
+    "aliases": {
+      "en": ["green gram", "mung dal"],
+      "hi": ["मूंग", "मूँग की दाल"],
+      "hinglish": ["moong", "mung", "moong ki dal"]
+    },
+    "liver": {
+      "rating": "good",
+      "reason": {
+        "en": "Light, high in protein and fibre, and low in fat. A good everyday dal.",
+        "hi": "हल्की दाल है, इसमें प्रोटीन और फ़ाइबर अच्छा है और चिकनाई कम है। रोज़ खाने के लिए अच्छी।"
+      },
+      "portion": {
+        "en": "1 katori (about 150 ml) cooked, with little oil in the tadka.",
+        "hi": "1 कटोरी (लगभग 150 ml) पकी दाल, तड़के में कम तेल।"
+      }
+    },
+    "uricAcid": {
+      "rating": "good",
+      "purine": "moderate",
+      "reason": {
+        "en": "Split moong is one of the lighter dals. Fine in normal portions.",
+        "hi": "धुली मूंग हल्की दालों में से है। सामान्य मात्रा में ठीक है।"
+      },
+      "portion": {
+        "en": "1 katori cooked, once or twice a day.",
+        "hi": "दिन में 1–2 बार, 1 कटोरी पकी दाल।"
+      }
+    },
+    "swaps": [],
+    "reviewedBy": "PENDING",
+    "reviewedOn": null
+  },
+  {
+    "id": "rajma",
+    "category": "pulses",
+    "dietType": "jain",
+    "name": { "en": "Rajma (kidney beans)", "hi": "राजमा" },
+    "aliases": {
+      "en": ["kidney beans", "red beans"],
+      "hi": ["राजमा", "राजमाह"],
+      "hinglish": ["rajma", "rajmah", "rajma chawal"]
+    },
+    "liver": {
+      "rating": "good",
+      "reason": {
+        "en": "Rich in fibre and plant protein, which may help with weight and blood sugar.",
+        "hi": "इसमें फ़ाइबर और प्रोटीन अच्छा है, जो वज़न और शुगर को सँभालने में मदद कर सकता है।"
+      },
+      "portion": {
+        "en": "1 katori cooked, made with little oil and no cream.",
+        "hi": "1 कटोरी पका हुआ, कम तेल में और बिना मलाई के।"
+      }
+    },
+    "uricAcid": {
+      "rating": "limit",
+      "purine": "moderate",
+      "reason": {
+        "en": "Has more purines than split dals. Small portions are usually fine.",
+        "hi": "इसमें धुली दालों से ज़्यादा प्यूरीन होता है। थोड़ी मात्रा आमतौर पर ठीक रहती है।"
+      },
+      "portion": {
+        "en": "Half a katori, not more than 2–3 times a week.",
+        "hi": "आधी कटोरी, हफ़्ते में 2–3 बार से ज़्यादा नहीं।"
+      }
+    },
+    "swaps": ["moong-dal"],
+    "reviewedBy": "PENDING",
+    "reviewedOn": null
+  },
+  {
+    "id": "white-rice",
+    "category": "cereals",
+    "dietType": "jain",
+    "name": { "en": "White rice", "hi": "सफ़ेद चावल" },
+    "aliases": {
+      "en": ["rice", "steamed rice", "plain rice"],
+      "hi": ["चावल", "भात"],
+      "hinglish": ["chawal", "bhaat", "bhat"]
+    },
+    "liver": {
+      "rating": "limit",
+      "reason": {
+        "en": "Refined carbs raise blood sugar quickly. Large portions can add to liver fat.",
+        "hi": "यह जल्दी शुगर बढ़ाता है। ज़्यादा मात्रा लिवर में चर्बी बढ़ा सकती है।"
+      },
+      "portion": {
+        "en": "Up to 1 katori cooked per meal, with dal and plenty of sabzi.",
+        "hi": "एक बार में 1 कटोरी तक, दाल और भरपूर सब्ज़ी के साथ।"
+      }
+    },
+    "uricAcid": {
+      "rating": "good",
+      "purine": "low",
+      "reason": {
+        "en": "Low in purines. Keep portions moderate to help with weight.",
+        "hi": "इसमें प्यूरीन कम है। वज़न के लिए मात्रा सीमित रखें।"
+      },
+      "portion": { "en": "1 katori cooked per meal.", "hi": "एक बार में 1 कटोरी।" }
+    },
+    "swaps": ["brown-rice"],
+    "reviewedBy": "PENDING",
+    "reviewedOn": null
+  },
+  {
+    "id": "brown-rice",
+    "category": "cereals",
+    "dietType": "jain",
+    "name": { "en": "Brown rice", "hi": "ब्राउन चावल" },
+    "aliases": {
+      "en": ["unpolished rice", "red rice"],
+      "hi": ["भूरा चावल"],
+      "hinglish": ["brown chawal"]
+    },
+    "liver": {
+      "rating": "good",
+      "reason": {
+        "en": "More fibre than white rice, so it raises blood sugar more slowly.",
+        "hi": "सफ़ेद चावल से ज़्यादा फ़ाइबर, इसलिए शुगर धीरे बढ़ती है।"
+      },
+      "portion": { "en": "1 katori cooked per meal.", "hi": "एक बार में 1 कटोरी।" }
+    },
+    "uricAcid": {
+      "rating": "good",
+      "purine": "low",
+      "reason": { "en": "Low in purines and filling.", "hi": "इसमें प्यूरीन कम है और पेट भरा रहता है।" },
+      "portion": { "en": "1 katori cooked per meal.", "hi": "एक बार में 1 कटोरी।" }
+    },
+    "swaps": [],
+    "reviewedBy": "PENDING",
+    "reviewedOn": null
+  },
+  {
+    "id": "samosa",
+    "category": "snacks",
+    "dietType": "veg",
+    "name": { "en": "Samosa", "hi": "समोसा" },
+    "aliases": {
+      "en": ["fried samosa"],
+      "hi": ["समोसे"],
+      "hinglish": ["samosa", "samose", "aloo samosa"]
+    },
+    "liver": {
+      "rating": "avoid",
+      "reason": {
+        "en": "Deep-fried in reused oil with refined flour. This kind of food can add to liver fat.",
+        "hi": "बार-बार इस्तेमाल हुए तेल में तला और मैदे से बना। ऐसा खाना लिवर की चर्बी बढ़ा सकता है।"
+      },
+      "portion": {
+        "en": "Best skipped. If you have one, make it a rare treat.",
+        "hi": "न खाएँ तो बेहतर। कभी-कभार ही।"
+      }
+    },
+    "uricAcid": {
+      "rating": "limit",
+      "purine": "low",
+      "reason": {
+        "en": "Not high in purines, but fried food and extra weight can make uric acid harder to control.",
+        "hi": "इसमें प्यूरीन ज़्यादा नहीं, पर तला खाना और बढ़ा वज़न यूरिक एसिड को सँभालना मुश्किल कर सकते हैं।"
+      },
+      "portion": { "en": "Rarely, one small piece.", "hi": "कभी-कभार, एक छोटा।" }
+    },
+    "swaps": ["moong-dal"],
+    "reviewedBy": "PENDING",
+    "reviewedOn": null
+  }
+]

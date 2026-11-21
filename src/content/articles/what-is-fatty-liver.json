@@ -1,0 +1,62 @@
+{
+  "id": "what-is-fatty-liver",
+  "topics": ["fattyLiver"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "What is fatty liver?",
+    "hi": "फैटी लिवर क्या है?"
+  },
+  "summary": {
+    "en": "A simple explanation of fatty liver and why diet matters.",
+    "hi": "फैटी लिवर की आसान जानकारी और खाने का इसमें क्या रोल है।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Fatty liver means extra fat has built up in the liver. It is very common in India and often has no symptoms in the early stages."
+      },
+      {
+        "type": "heading",
+        "text": "What can help"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Gradual weight loss if you are overweight",
+          "Less sugar, maida and fried food",
+          "Daily physical activity"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "These changes may help improve liver health over time. Your doctor will guide you on tests and treatment."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "फैटी लिवर का मतलब है कि लिवर में ज़्यादा चर्बी जमा हो गई है। भारत में यह बहुत आम है और शुरू में अक्सर कोई लक्षण नहीं होते।"
+      },
+      {
+        "type": "heading",
+        "text": "क्या मदद कर सकता है"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "वज़न ज़्यादा है तो धीरे-धीरे घटाएँ",
+          "चीनी, मैदा और तला खाना कम करें",
+          "रोज़ थोड़ी कसरत या टहलना"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "ये बदलाव समय के साथ लिवर की सेहत सुधारने में मदद कर सकते हैं। जाँच और इलाज के लिए आपके डॉक्टर ही सही राह बताएँगे।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

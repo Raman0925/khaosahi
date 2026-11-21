@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Auto Backup (cloud) and device-to-device transfer for Android 12+. Same rules as
+     backup_rules.xml. MMKV is intentionally NOT encrypted with a Keystore key so restore works. -->
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="file" path="." />
+        <exclude domain="file" path=".tmp/" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="file" path="." />
+        <exclude domain="file" path=".tmp/" />
+    </device-transfer>
+</data-extraction-rules>

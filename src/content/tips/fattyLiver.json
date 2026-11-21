@@ -1,0 +1,32 @@
+{
+  "condition": "fattyLiver",
+  "tips": [
+    {
+      "id": "fl-tip-1",
+      "text": {
+        "en": "Losing even 5–10% of body weight may help reduce liver fat. Go slow and steady.",
+        "hi": "वज़न का 5–10% घटाना भी लिवर की चर्बी कम करने में मदद कर सकता है। धीरे-धीरे चलें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-2",
+      "text": {
+        "en": "Swap maida rotis and bread for whole wheat or multigrain.",
+        "hi": "मैदे की रोटी और ब्रेड की जगह गेहूँ या मल्टीग्रेन लें।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    },
+    {
+      "id": "fl-tip-3",
+      "text": {
+        "en": "A short walk after meals may help control blood sugar.",
+        "hi": "खाने के बाद थोड़ा टहलना शुगर सँभालने में मदद कर सकता है।"
+      },
+      "reviewedBy": "PENDING",
+      "reviewedOn": null
+    }
+  ]
+}
