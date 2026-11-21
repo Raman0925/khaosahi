@@ -6,12 +6,14 @@ import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { AdsProvider } from '@/shared/ads';
 import { initI18n } from '@/shared/i18n';
 import { syncReminders } from '@/shared/notifications';
+import { initPlanSync } from '@/shared/plan';
 import { writeDailySnapshot } from '@/shared/storage';
 
 import { ErrorBoundary } from './ErrorBoundary';
 import { RootNavigator } from './navigation/RootNavigator';
 
 initI18n();
+initPlanSync();
 
 export function App() {
   useEffect(() => {
