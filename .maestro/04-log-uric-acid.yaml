@@ -11,10 +11,18 @@ tags: [smoke]
     direction: DOWN
 - tapOn:
     id: 'progress-add-uricAcid'
+- scrollUntilVisible:
+    element:
+      id: 'progress-entry-value'
+    direction: DOWN
 - tapOn:
     id: 'progress-entry-value'
 - inputText: '6.8'
 - hideKeyboard
+- scrollUntilVisible:
+    element:
+      id: 'progress-entry-save'
+    direction: DOWN
 - tapOn:
     id: 'progress-entry-save'
 - scrollUntilVisible:

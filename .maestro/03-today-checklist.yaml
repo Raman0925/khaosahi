@@ -4,7 +4,9 @@ name: 03-today-checklist
 tags: [smoke]
 ---
 - runFlow: subflows/onboard.yaml
-- assertVisible: '0 of [0-9]+ done'
+- scrollUntilVisible:
+    element: '0 of [0-9]+ done'
+    direction: DOWN
 - tapOn:
     id: 'checklist-item-.*'
     index: 0

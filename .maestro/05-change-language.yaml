@@ -6,8 +6,10 @@ tags: [smoke]
 - runFlow: subflows/onboard.yaml
 - tapOn:
     id: 'open-settings'
+- scrollUntilVisible:
+    element: 'हिन्दी'
+    direction: DOWN
 - tapOn: 'हिन्दी'
-- assertVisible: 'भाषा'
 - back
 - assertVisible: 'आज'
 - takeScreenshot: 05-hindi

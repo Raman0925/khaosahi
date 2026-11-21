@@ -16,7 +16,11 @@ appId: app.khaosahi
 - tapOn:
     id: 'intro-skip'
 # Disclaimer
-- assertVisible: 'KhaoSahi gives general diet and lifestyle information.*'
+# (The disclaimer text is checked by unit tests; at font scale 2.0 it needs scrolling.)
+- scrollUntilVisible:
+    element:
+      id: 'disclaimer-ack'
+    direction: DOWN
 - tapOn:
     id: 'disclaimer-ack'
 - tapOn:
@@ -29,6 +33,10 @@ appId: app.khaosahi
 - tapOn:
     id: 'consent-agree'
 # Age gate
+- scrollUntilVisible:
+    element:
+      id: 'age-yes'
+    direction: DOWN
 - tapOn:
     id: 'age-yes'
 # Profile
@@ -36,8 +44,16 @@ appId: app.khaosahi
     visible:
       id: 'profile-setup'
     timeout: 10000
+- scrollUntilVisible:
+    element:
+      id: 'condition-both'
+    direction: DOWN
 - tapOn:
     id: 'condition-both'
+- scrollUntilVisible:
+    element:
+      id: 'field-ageYears'
+    direction: DOWN
 - tapOn:
     id: 'field-ageYears'
 - inputText: '45'

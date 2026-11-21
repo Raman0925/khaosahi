@@ -9,10 +9,18 @@ tags: [smoke]
     id: 'food-search'
 - inputText: 'rajma'
 - hideKeyboard
+- scrollUntilVisible:
+    element:
+      id: 'food-row-rajma'
+    direction: DOWN
 - tapOn:
     id: 'food-row-rajma'
 - assertVisible:
     id: 'food-detail-screen'
+- scrollUntilVisible:
+    element:
+      id: 'food-rating-uricAcid'
+    direction: DOWN
 - assertVisible:
     id: 'food-rating-uricAcid'
 - takeScreenshot: 02-food-detail
@@ -22,5 +30,7 @@ tags: [smoke]
 - eraseText: 20
 - inputText: 'राजमा'
 - hideKeyboard
-- assertVisible:
-    id: 'food-row-rajma'
+- scrollUntilVisible:
+    element:
+      id: 'food-row-rajma'
+    direction: DOWN
