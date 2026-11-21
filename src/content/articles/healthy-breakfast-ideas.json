@@ -1,0 +1,204 @@
+{
+  "id": "healthy-breakfast-ideas",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Healthy Indian breakfast ideas",
+    "hi": "सेहतमंद देसी नाश्ते के आइडिया"
+  },
+  "summary": {
+    "en": "Easy, filling breakfasts for veg, egg and Jain eaters, and what to keep for once in a while.",
+    "hi": "वेज, अंडा और जैन खाने वालों के लिए आसान, पेट भरने वाले नाश्ते, और क्या कभी-कभार ही खाएँ।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "A good breakfast can keep you full until lunch and make it easier to avoid biscuits and namkeen mid-morning. The best breakfasts have some protein, some fibre from vegetables or whole grains, and not too much sugar, maida or oil."
+      },
+      {
+        "type": "heading",
+        "text": "What makes a breakfast work"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Protein: dal-based batters, besan, curd, paneer, milk, sprouts, or eggs for egg eaters.",
+          "Fibre: vegetables mixed into the dish, whole grains like dalia, oats or millets, or a fruit on the side.",
+          "Less sugar and maida: plain tea with little or no sugar, and no sweet bakery items most days.",
+          "A sensible amount of oil: a non-stick pan and a teaspoon of oil go a long way."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Easy everyday options"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Vegetable poha: add peas, onion, capsicum and peanuts in small amounts, with a squeeze of lemon. Keep the oil low.",
+          "Besan chilla: mix besan with chopped vegetables and a little curd. Serve with green chutney.",
+          "Moong dal chilla: soak and grind moong dal, add vegetables, and cook on a non-stick tawa.",
+          "Vegetable upma: use suji or broken wheat with plenty of vegetables, or try a millet upma.",
+          "Idli or dosa with sambar: sambar adds dal and vegetables. Go easy on coconut chutney and oil on the dosa.",
+          "Dalia: savoury vegetable dalia, or plain dalia cooked in milk with fruit instead of sugar.",
+          "Oats: plain rolled oats cooked as savoury oats with vegetables, or with milk and fruit. Avoid flavoured packets with added sugar.",
+          "Sprouts chaat: moong or chana sprouts with onion, tomato, cucumber and lemon.",
+          "Curd or hung-curd bowl with fruit and a few nuts."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "For egg eaters"
+      },
+      {
+        "type": "paragraph",
+        "text": "Eggs are a handy protein. A vegetable omelette made mostly with egg whites, a boiled egg with a multigrain toast and salad, or egg bhurji with plenty of onion, tomato and capsicum are all good choices. Cook with little oil, and talk to your doctor or dietitian about how many whole eggs suit you."
+      },
+      {
+        "type": "heading",
+        "text": "Jain-friendly options"
+      },
+      {
+        "type": "paragraph",
+        "text": "Many breakfasts can be made without onion, garlic or root vegetables. Use capsicum, tomato, cabbage, beans, peas, lauki and grated raw papaya in place of onion and potato, and add hing, ginger powder and green chilli for flavour where suitable for your practice."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Moong dal or besan chilla with capsicum, tomato and coriander.",
+          "Poha with peas, peanuts and tomato, without onion or potato.",
+          "Vegetable dalia or millet upma with beans, peas and capsicum.",
+          "Idli with lauki or tomato chutney, and plain sambar made without onion or garlic."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Keep these for once in a while"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Paratha with butter or ghee every day, especially aloo or stuffed parathas with extra fat.",
+          "Puri-sabzi, kachori, samosa, chole bhature and other fried breakfasts.",
+          "Biscuits, rusk, cake and bakery items with chai.",
+          "Sugary breakfast cereals, flavoured oats packets and sweetened juices.",
+          "White bread with jam or a thick layer of butter."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "You do not have to give up your favourite paratha forever. Make it with less oil, stuff it with vegetables or paneer, and pair it with curd instead of butter, a few times a week rather than every day."
+      },
+      {
+        "type": "heading",
+        "text": "Quick tips"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Soak dal or make chilla batter the night before to save time.",
+          "Keep chai to one or two cups and cut the sugar slowly.",
+          "If you have no time to cook, a fruit with a glass of milk or a bowl of curd is better than skipping breakfast for biscuits later.",
+          "For people with diabetes, ask your doctor or dietitian which breakfast portions suit your sugar levels."
+        ]
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "अच्छा नाश्ता आपको दोपहर तक भरा रखता है और बीच सुबह बिस्किट और नमकीन से बचना आसान बनाता है। सबसे अच्छे नाश्ते में थोड़ा प्रोटीन, सब्ज़ी या साबुत अनाज से फ़ाइबर, और कम चीनी, मैदा और तेल होता है।"
+      },
+      {
+        "type": "heading",
+        "text": "अच्छा नाश्ता कैसे बनता है"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "प्रोटीन: दाल का घोल, बेसन, दही, पनीर, दूध, अंकुरित दाल, या अंडा खाने वालों के लिए अंडा।",
+          "फ़ाइबर: डिश में मिली सब्ज़ियाँ, दलिया, ओट्स या मिलेट जैसे साबुत अनाज, या साथ में एक फल।",
+          "कम चीनी और मैदा: कम या बिना चीनी की चाय, और ज़्यादातर दिन मीठी बेकरी चीज़ें नहीं।",
+          "सही मात्रा में तेल: नॉन-स्टिक तवा और एक चम्मच तेल काफ़ी है।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "रोज़ के आसान विकल्प"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "सब्ज़ी वाला पोहा: मटर, प्याज़, शिमला मिर्च और थोड़ी मूँगफली डालें, ऊपर से नींबू। तेल कम रखें।",
+          "बेसन चीला: बेसन में कटी सब्ज़ियाँ और थोड़ा दही मिलाएँ। हरी चटनी के साथ खाएँ।",
+          "मूँग दाल चीला: मूँग दाल भिगोकर पीसें, सब्ज़ियाँ मिलाएँ और नॉन-स्टिक तवे पर बनाएँ।",
+          "सब्ज़ी वाला उपमा: सूजी या दलिया में ख़ूब सब्ज़ियाँ डालें, या मिलेट का उपमा बनाएँ।",
+          "इडली या डोसा के साथ सांभर: सांभर से दाल और सब्ज़ी दोनों मिलती हैं। नारियल चटनी और डोसे पर तेल कम रखें।",
+          "दलिया: नमकीन सब्ज़ी वाला दलिया, या दूध में पका सादा दलिया, चीनी की जगह फल डालकर।",
+          "ओट्स: सादे ओट्स सब्ज़ी के साथ नमकीन, या दूध और फल के साथ। चीनी वाले फ़्लेवर पैकेट से बचें।",
+          "अंकुरित चाट: मूँग या चने के स्प्राउट्स में प्याज़, टमाटर, खीरा और नींबू।",
+          "दही या गाढ़े दही की कटोरी, फल और थोड़े मेवे के साथ।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "अंडा खाने वालों के लिए"
+      },
+      {
+        "type": "paragraph",
+        "text": "अंडा आसान प्रोटीन है। ज़्यादातर अंडे की सफ़ेदी से बना सब्ज़ी वाला ऑमलेट, मल्टीग्रेन टोस्ट और सलाद के साथ उबला अंडा, या ढेर सारे प्याज़, टमाटर और शिमला मिर्च वाली अंडा भुर्जी, सब अच्छे विकल्प हैं। कम तेल में बनाएँ, और पूरे अंडे कितने लेने हैं, यह डॉक्टर या डाइटीशियन से पूछें।"
+      },
+      {
+        "type": "heading",
+        "text": "जैन नाश्ते के विकल्प"
+      },
+      {
+        "type": "paragraph",
+        "text": "बहुत से नाश्ते बिना प्याज़, लहसुन या ज़मीन के नीचे उगने वाली सब्ज़ियों के बन सकते हैं। प्याज़ और आलू की जगह शिमला मिर्च, टमाटर, पत्तागोभी, बीन्स, मटर, लौकी और कच्चा पपीता इस्तेमाल करें, और अपने नियम के हिसाब से स्वाद के लिए हींग, सोंठ और हरी मिर्च डालें।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "शिमला मिर्च, टमाटर और धनिया वाला मूँग दाल या बेसन चीला।",
+          "मटर, मूँगफली और टमाटर वाला पोहा, बिना प्याज़ और आलू के।",
+          "बीन्स, मटर और शिमला मिर्च वाला सब्ज़ी दलिया या मिलेट उपमा।",
+          "लौकी या टमाटर की चटनी के साथ इडली, और बिना प्याज़-लहसुन का सादा सांभर।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ये कभी-कभार ही खाएँ"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "रोज़ मक्खन या घी वाला पराठा, ख़ासकर आलू या भरवाँ पराठे जिनमें ऊपर से और घी हो।",
+          "पूरी-सब्ज़ी, कचौड़ी, समोसा, छोले भटूरे और दूसरे तले नाश्ते।",
+          "चाय के साथ बिस्किट, रस्क, केक और बेकरी की चीज़ें।",
+          "मीठे ब्रेकफ़ास्ट सीरियल, फ़्लेवर वाले ओट्स पैकेट और मीठे जूस।",
+          "जैम या मोटी परत मक्खन वाली सफ़ेद ब्रेड।"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "अपना पसंदीदा पराठा हमेशा के लिए छोड़ना ज़रूरी नहीं। कम तेल में बनाएँ, सब्ज़ी या पनीर भरें, और मक्खन की जगह दही के साथ खाएँ, रोज़ नहीं बल्कि हफ़्ते में कुछ बार।"
+      },
+      {
+        "type": "heading",
+        "text": "जल्दी काम आने वाली बातें"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "समय बचाने के लिए दाल रात में भिगो दें या चीले का घोल पहले से बना लें।",
+          "चाय एक-दो कप तक रखें और चीनी धीरे-धीरे कम करें।",
+          "बनाने का समय न हो तो नाश्ता छोड़कर बाद में बिस्किट खाने से अच्छा है एक फल और एक गिलास दूध या एक कटोरी दही।",
+          "अगर शुगर है, तो डॉक्टर या डाइटीशियन से पूछें कि नाश्ते की कितनी मात्रा आपके लिए ठीक है।"
+        ]
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

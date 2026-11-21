@@ -1,0 +1,182 @@
+{
+  "id": "sleep-and-stress",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Sleep and stress: the hidden part of your diet",
+    "hi": "नींद और तनाव: सेहत का छुपा हिस्सा"
+  },
+  "summary": {
+    "en": "Poor sleep and constant stress can push you towards sugary snacks and late meals. Simple ways to sleep better and feel calmer.",
+    "hi": "कम नींद और लगातार तनाव से मीठा, तला और देर रात खाने का मन करता है। बेहतर नींद और शांत मन के आसान तरीक़े।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "When we think about fatty liver or high uric acid, we usually think about food. But how you sleep and how you handle stress also affect what you eat, how your body uses sugar, and how much energy you have to stay active. Getting these right may make every other change a little easier."
+      },
+      {
+        "type": "heading",
+        "text": "How poor sleep affects your body"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "After a short night, hunger hormones change and you may crave sweets, namkeen and fried snacks.",
+          "Tiredness makes it harder to go for a walk or cook a proper meal.",
+          "Late nights often mean late dinners and extra cups of sweet chai.",
+          "Research links regular short sleep with weight gain and poorer sugar control, both of which are tied to fatty liver."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Most adults feel and function best with about seven to eight hours of sleep. Quality matters as much as the number of hours."
+      },
+      {
+        "type": "heading",
+        "text": "Habits for better sleep"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Go to bed and wake up at roughly the same time every day, including Sundays.",
+          "Finish dinner two to three hours before bedtime and keep it light.",
+          "Avoid tea and coffee in the late afternoon and evening.",
+          "Keep the phone and TV away for the last half hour before sleep. Read, pray or listen to soft music instead.",
+          "Keep the bedroom dark, quiet and comfortably cool.",
+          "A short walk after dinner may help you feel relaxed and sleepy.",
+          "Avoid alcohol. It may make you drowsy but it disturbs deep sleep, and it is harmful for the liver and uric acid."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Snoring and daytime sleepiness"
+      },
+      {
+        "type": "paragraph",
+        "text": "Loud snoring, gasping or choking during sleep, and feeling very sleepy in the day even after a full night may be signs of sleep apnoea. This is more common in people who carry extra weight and is often seen alongside fatty liver. If your family notices these signs, mention them to your doctor."
+      },
+      {
+        "type": "heading",
+        "text": "Stress and emotional eating"
+      },
+      {
+        "type": "paragraph",
+        "text": "Work pressure, money worries, family responsibilities and health concerns are part of life. When stress stays high for a long time, many of us reach for comfort food: biscuits with chai, a packet of chips, or something sweet after dinner. Noticing this pattern is the first step."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Before eating a snack, pause and ask: am I hungry, or am I tired, bored or worried?",
+          "Keep roasted chana, fruit or buttermilk handy for real hunger, and keep packaged snacks out of easy reach.",
+          "Try slow breathing: breathe in gently for a count of four, breathe out for a count of six, and repeat for a few minutes.",
+          "Pranayama, meditation, prayer or simple stretching may help calm the mind.",
+          "Talk to someone you trust. Sharing a worry often makes it lighter.",
+          "Spend a few minutes outdoors in daylight, especially in the morning."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "When to ask for help"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you have trouble sleeping most nights for weeks, or you feel low, anxious or hopeless for a long time, please speak to your doctor. Sleep problems and low mood are common and treatable, and asking for help is a sign of strength, not weakness."
+      },
+      {
+        "type": "heading",
+        "text": "One small step this week"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pick just one habit, such as a fixed bedtime or no phone in bed, and try it for seven days. Small, steady changes in sleep and stress may support your food and activity goals more than you expect."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "फैटी लिवर या हाई यूरिक एसिड की बात होती है तो हम ज़्यादातर खाने के बारे में सोचते हैं। लेकिन आप कैसे सोते हैं और तनाव को कैसे संभालते हैं, इसका असर भी इस पर पड़ता है कि आप क्या खाते हैं, शरीर शुगर को कैसे इस्तेमाल करता है, और कसरत के लिए कितनी ताक़त बचती है। इन्हें ठीक करने से बाक़ी बदलाव भी थोड़े आसान हो सकते हैं।"
+      },
+      {
+        "type": "heading",
+        "text": "कम नींद का शरीर पर असर"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "कम सोने के बाद भूख वाले हॉर्मोन बदल जाते हैं और मीठा, नमकीन या तला खाने का मन ज़्यादा करता है।",
+          "थकान में टहलने जाना या ढंग का खाना बनाना मुश्किल लगता है।",
+          "देर रात जागने का मतलब अक्सर देर से डिनर और चीनी वाली चाय के ज़्यादा कप।",
+          "रिसर्च के मुताबिक़ लगातार कम नींद से वज़न बढ़ सकता है और शुगर कंट्रोल बिगड़ सकता है, और दोनों का संबंध फैटी लिवर से है।"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "ज़्यादातर बड़े लोग 7–8 घंटे की नींद में सबसे अच्छा महसूस करते हैं। घंटों जितनी ही ज़रूरी है अच्छी, गहरी नींद।"
+      },
+      {
+        "type": "heading",
+        "text": "अच्छी नींद की आदतें"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "हर दिन, रविवार को भी, लगभग एक ही समय पर सोएँ और उठें।",
+          "सोने से 2–3 घंटे पहले हल्का डिनर कर लें।",
+          "दोपहर बाद और शाम को चाय-कॉफ़ी से बचें।",
+          "सोने से पहले आख़िरी आधा घंटा फ़ोन और टीवी दूर रखें। पढ़ें, पूजा करें या धीमा संगीत सुनें।",
+          "कमरे में अँधेरा, शांति और हल्की ठंडक रखें।",
+          "डिनर के बाद थोड़ी सैर से शरीर ढीला होता है और नींद आसानी से आ सकती है।",
+          "शराब से बचें। इससे नींद तो आती है पर गहरी नींद टूटती है, और यह लिवर व यूरिक एसिड के लिए नुक़सानदेह है।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "खर्राटे और दिन में नींद"
+      },
+      {
+        "type": "paragraph",
+        "text": "तेज़ खर्राटे, सोते समय साँस अटकना या हाँफना, और पूरी रात सोने के बाद भी दिन में बहुत नींद आना, स्लीप एपनिया के संकेत हो सकते हैं। यह ज़्यादा वज़न वाले लोगों में आम है और अक्सर फैटी लिवर के साथ देखा जाता है। घरवालों को ऐसा दिखे तो अपने डॉक्टर को ज़रूर बताएँ।"
+      },
+      {
+        "type": "heading",
+        "text": "तनाव और भावनाओं में खाना"
+      },
+      {
+        "type": "paragraph",
+        "text": "काम का दबाव, पैसों की चिंता, परिवार की ज़िम्मेदारियाँ और सेहत की फ़िक्र, ये सब ज़िंदगी का हिस्सा हैं। जब तनाव लंबे समय तक रहता है, तो हम में से कई लोग आराम के लिए खाने की तरफ़ जाते हैं: चाय के साथ बिस्कुट, चिप्स का पैकेट, या डिनर के बाद कुछ मीठा। इस आदत को पहचानना पहला क़दम है।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "कुछ खाने से पहले रुककर पूछें: क्या सच में भूख है, या थकान, बोरियत या चिंता है?",
+          "असली भूख के लिए भुना चना, फल या छाछ पास रखें, और पैकेट वाले स्नैक्स नज़र से दूर रखें।",
+          "धीमी साँस लें: चार गिनती तक आराम से साँस अंदर, छह गिनती तक बाहर, कुछ मिनट दोहराएँ।",
+          "प्राणायाम, ध्यान, प्रार्थना या हल्की स्ट्रेचिंग से मन शांत हो सकता है।",
+          "किसी भरोसेमंद इंसान से बात करें। चिंता बाँटने से अक्सर मन हल्का होता है।",
+          "कुछ मिनट बाहर धूप में बिताएँ, ख़ासकर सुबह।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "मदद कब लें"
+      },
+      {
+        "type": "paragraph",
+        "text": "अगर हफ़्तों तक ज़्यादातर रातें नींद नहीं आती, या लंबे समय से मन उदास, घबराया हुआ या निराश रहता है, तो अपने डॉक्टर से ज़रूर बात करें। नींद की परेशानी और उदासी आम हैं और इनका इलाज हो सकता है। मदद माँगना कमज़ोरी नहीं, हिम्मत है।"
+      },
+      {
+        "type": "heading",
+        "text": "इस हफ़्ते एक छोटा क़दम"
+      },
+      {
+        "type": "paragraph",
+        "text": "सिर्फ़ एक आदत चुनें, जैसे सोने का तय समय या बिस्तर पर फ़ोन नहीं, और सात दिन आज़माएँ। नींद और तनाव में छोटे, लगातार बदलाव आपके खाने और कसरत के लक्ष्यों में उम्मीद से ज़्यादा मदद कर सकते हैं।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

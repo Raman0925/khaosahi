@@ -1,0 +1,208 @@
+{
+  "id": "cooking-oils",
+  "topics": ["fattyLiver", "general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Cooking oils: which one and how much?",
+    "hi": "खाने का तेल: कौन सा और कितना?"
+  },
+  "summary": {
+    "en": "A practical guide to choosing, rotating and measuring cooking oil, ghee and butter in an Indian kitchen.",
+    "hi": "भारतीय रसोई में तेल, घी और मक्खन चुनने, बदल-बदलकर इस्तेमाल करने और नापने की आसान गाइड।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Tadka is the soul of Indian cooking. But when you have fatty liver, the amount of oil and the kind of fat you use every day matter a lot. All oils, even the 'healthy' ones, are packed with calories. A single tablespoon has more energy than a whole roti. So before asking which oil is best, it helps to ask: how much oil am I using?"
+      },
+      {
+        "type": "heading",
+        "text": "How much is too much?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Many Indian families use far more oil than they realise. The bottle seems to last a month, but it is shared over many meals and many people. Indian dietary guidelines suggest keeping visible fat (oil, ghee, butter) modest. A practical way is to find out how much your family uses each month and slowly bring it down."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Note the date when you open a new bottle and when it runs out",
+          "Divide by the number of people in the home to see each person's share",
+          "Aim to make the next bottle last a little longer",
+          "Use a measuring spoon for tadka instead of pouring from the bottle",
+          "Cook in a non-stick or well-seasoned iron pan, which needs less oil"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Which oils to choose"
+      },
+      {
+        "type": "paragraph",
+        "text": "No single oil has all the good fats. That is why nutrition experts in India often suggest using a combination or rotating between two or three oils. Common choices that are good for daily cooking include:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Mustard oil, widely used in the north and east",
+          "Groundnut (peanut) oil",
+          "Rice bran oil",
+          "Sesame (til) oil, common in the south",
+          "Soybean, sunflower or safflower oil, ideally in rotation with one of the above"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "For example, you might use mustard oil for sabzi and rice bran oil for dosa, or switch brands every other bottle. The key point is: the right amount of a mix of oils is better than a large amount of any single 'best' oil."
+      },
+      {
+        "type": "heading",
+        "text": "Ghee, butter and coconut oil"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ghee, butter and coconut oil are high in saturated fat. Small amounts can be part of a traditional diet, like a little ghee on dal or a roti, but large amounts every day may add to liver fat and raise cholesterol. If ghee is part of your family's food, keep it to a small spoon a day and avoid using it for deep frying."
+      },
+      {
+        "type": "heading",
+        "text": "Fats to avoid"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Vanaspati and dalda, which can contain harmful trans fats",
+          "Oil reused again and again for frying, as in many shops and street stalls",
+          "Bakery items, puffs and biscuits made with hydrogenated fats",
+          "Packaged namkeen, chips and fried snacks"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "At home, avoid saving and reusing frying oil many times. When oil is heated again and again, it breaks down. If you do fry occasionally, use fresh oil and do not keep the leftover oil for weeks."
+      },
+      {
+        "type": "heading",
+        "text": "Cook tasty food with less oil"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Steam, boil, roast, grill or bake instead of deep frying",
+          "Make idli, dhokla, steamed momos or chilla instead of puri, pakora or vada",
+          "Use an air fryer or tawa with a light brush of oil for tikki and paratha",
+          "Add flavour with jeera, ajwain, hing, ginger, curry leaves, lemon and fresh herbs",
+          "Cook sabzi with a lid on, so it cooks in its own steam with less oil",
+          "Skim visible oil from the top of curries before serving",
+          "Make paratha only now and then, and prefer plain phulka on most days"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Small changes add up"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cutting down even one or two spoons of oil per person per day can make a real difference over months. It may help with weight loss and with the fat in your liver. Your family's taste will adjust in a few weeks, and many people find that food with less oil feels lighter and easier to digest."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "तड़का भारतीय खाने की जान है। लेकिन जब फैटी लिवर हो, तो रोज़ कितना तेल और कैसी चिकनाई इस्तेमाल होती है, यह बहुत मायने रखता है। सभी तेल, 'हेल्दी' वाले भी, कैलोरी से भरे होते हैं। एक बड़े चम्मच तेल में पूरी एक रोटी से ज़्यादा ऊर्जा होती है। इसलिए यह पूछने से पहले कि कौन सा तेल सबसे अच्छा है, यह पूछना ज़रूरी है: मैं कितना तेल इस्तेमाल कर रहा हूँ?"
+      },
+      {
+        "type": "heading",
+        "text": "कितना तेल ज़्यादा है?"
+      },
+      {
+        "type": "paragraph",
+        "text": "बहुत से भारतीय परिवार जितना सोचते हैं, उससे कहीं ज़्यादा तेल इस्तेमाल करते हैं। बोतल महीने भर चलती लगती है, पर वह कई लोगों के कई खानों में बँटती है। भारतीय खान-पान की गाइडलाइन दिखने वाली चिकनाई (तेल, घी, मक्खन) सीमित रखने की सलाह देती हैं। एक आसान तरीक़ा है यह देखना कि परिवार हर महीने कितना तेल इस्तेमाल करता है, और उसे धीरे-धीरे कम करना।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "नई बोतल खोलने और ख़त्म होने की तारीख़ लिख लें",
+          "घर के लोगों की गिनती से भाग दें ताकि हर व्यक्ति का हिस्सा पता चले",
+          "कोशिश करें कि अगली बोतल थोड़ा ज़्यादा दिन चले",
+          "तड़के के लिए बोतल से उड़ेलने के बजाय नापने वाले चम्मच का इस्तेमाल करें",
+          "नॉन-स्टिक या अच्छी तरह तैयार लोहे की कड़ाही में पकाएँ, इसमें कम तेल लगता है"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "कौन सा तेल चुनें"
+      },
+      {
+        "type": "paragraph",
+        "text": "किसी एक तेल में सारी अच्छी चिकनाई नहीं होती। इसीलिए भारत के पोषण विशेषज्ञ अक्सर दो-तीन तेल मिलाकर या बदल-बदलकर इस्तेमाल करने की सलाह देते हैं। रोज़ के खाने के लिए आम अच्छे विकल्प हैं:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "सरसों का तेल, जो उत्तर और पूर्व में ख़ूब चलता है",
+          "मूँगफली का तेल",
+          "राइस ब्रान तेल",
+          "तिल का तेल, जो दक्षिण में आम है",
+          "सोयाबीन, सूरजमुखी या कुसुम का तेल, बेहतर है ऊपर वालों में से किसी के साथ बदल-बदलकर"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "जैसे, सब्ज़ी के लिए सरसों का तेल और डोसा के लिए राइस ब्रान तेल, या हर दूसरी बोतल पर तेल बदल लें। असली बात यह है: कई तेलों की सही मात्रा, किसी एक 'सबसे अच्छे' तेल की ज़्यादा मात्रा से बेहतर है।"
+      },
+      {
+        "type": "heading",
+        "text": "घी, मक्खन और नारियल तेल"
+      },
+      {
+        "type": "paragraph",
+        "text": "घी, मक्खन और नारियल तेल में सैचुरेटेड फ़ैट ज़्यादा होता है। थोड़ी मात्रा पारंपरिक खाने का हिस्सा हो सकती है, जैसे दाल या रोटी पर ज़रा सा घी, पर रोज़ ज़्यादा मात्रा लिवर की चर्बी और कोलेस्ट्रॉल बढ़ा सकती है। अगर घी आपके घर के खाने का हिस्सा है, तो दिन में एक छोटे चम्मच तक रखें और इसमें तलना न करें।"
+      },
+      {
+        "type": "heading",
+        "text": "किस चिकनाई से बचें"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "वनस्पति और डालडा, जिनमें नुक़सानदेह ट्रांस फ़ैट हो सकता है",
+          "बार-बार तलने में इस्तेमाल हुआ तेल, जैसा कई दुकानों और ठेलों पर होता है",
+          "हाइड्रोजनेटेड फ़ैट से बने बेकरी आइटम, पफ़ और बिस्कुट",
+          "पैकेट वाली नमकीन, चिप्स और तले स्नैक्स"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "घर पर तलने वाला तेल बचाकर बार-बार इस्तेमाल न करें। तेल बार-बार गरम होने से ख़राब हो जाता है। अगर कभी-कभार तलना हो, तो ताज़ा तेल लें और बचा तेल हफ़्तों तक न रखें।"
+      },
+      {
+        "type": "heading",
+        "text": "कम तेल में स्वादिष्ट खाना"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "तलने के बजाय भाप में, उबालकर, भूनकर, ग्रिल या बेक करके पकाएँ",
+          "पूरी, पकौड़े या वड़ा की जगह इडली, ढोकला, भाप वाले मोमो या चीला बनाएँ",
+          "टिक्की और पराठे के लिए एयर फ़्रायर या तवे पर हल्का सा तेल लगाएँ",
+          "जीरा, अजवाइन, हींग, अदरक, कढ़ी पत्ता, नींबू और हरी पत्तियों से स्वाद बढ़ाएँ",
+          "सब्ज़ी ढककर पकाएँ, ताकि वह अपनी भाप में कम तेल में पक जाए",
+          "परोसने से पहले करी के ऊपर तैरता तेल निकाल दें",
+          "पराठा कभी-कभार बनाएँ, ज़्यादातर दिन सादा फुलका लें"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "छोटे बदलाव, बड़ा असर"
+      },
+      {
+        "type": "paragraph",
+        "text": "हर व्यक्ति का रोज़ का एक-दो चम्मच तेल कम करना भी कुछ महीनों में असली फ़र्क़ ला सकता है। इससे वज़न घटाने और लिवर की चर्बी कम करने में मदद मिल सकती है। कुछ हफ़्तों में परिवार का स्वाद भी बदल जाता है, और बहुत से लोगों को कम तेल वाला खाना हल्का और आसानी से पचने वाला लगता है।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

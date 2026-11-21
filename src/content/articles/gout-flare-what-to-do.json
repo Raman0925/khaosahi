@@ -1,0 +1,166 @@
+{
+  "id": "gout-flare-what-to-do",
+  "topics": ["uricAcid"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Gout attack: what to do when a joint flares up",
+    "hi": "गाउट का अटैक: जोड़ में अचानक दर्द हो तो क्या करें"
+  },
+  "summary": {
+    "en": "Simple comfort steps during a gout flare, the signs that need a doctor quickly, and how to plan ahead.",
+    "hi": "गाउट अटैक में आराम के आसान तरीक़े, कब तुरंत डॉक्टर को दिखाएँ, और आगे की तैयारी कैसे करें।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "A gout flare can start suddenly, often at night. A joint, very often the big toe, becomes red, hot, swollen and so painful that even a bedsheet touching it hurts. The pain is usually worst in the first day or two and then slowly settles over several days. Knowing what to do can make the attack easier to handle."
+      },
+      { "type": "heading", "text": "See a doctor promptly if" },
+      {
+        "type": "bullets",
+        "items": [
+          "This is your first-ever attack, or you are not sure it is gout",
+          "You have fever or chills along with a hot, swollen joint",
+          "The pain is severe or keeps getting worse",
+          "More than one joint is affected, or the swelling is spreading",
+          "You cannot walk or put weight on the leg",
+          "The attack does not settle in a few days, or attacks keep coming back"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "A hot, swollen joint with fever can sometimes be an infection, which needs urgent treatment. Only a doctor can tell the difference, so do not wait at home in these cases."
+      },
+      { "type": "heading", "text": "Comfort steps at home" },
+      {
+        "type": "bullets",
+        "items": [
+          "Rest the joint. Avoid long walks and standing for a day or two",
+          "Raise the leg or arm on a pillow so it is a little higher than your heart",
+          "Use a cold pack: wrap ice or a cold pack in a thin cloth and keep it on the joint for short spells. Never put ice directly on the skin",
+          "Keep drinking water through the day, unless your doctor has given you a fluid limit",
+          "Wear loose, soft footwear or none at home, and keep the sheet off a painful toe",
+          "Avoid alcohol completely during the attack, especially beer",
+          "Eat simple home food: roti, dal, sabzi, curd. Avoid organ meat, shellfish, rich non-veg dishes and sugary drinks"
+        ]
+      },
+      { "type": "heading", "text": "About medicines" },
+      {
+        "type": "paragraph",
+        "text": "Do not start, stop or change any medicine on your own during a flare. Some common painkillers are not safe for people with kidney, stomach or heart problems, and some uric acid medicines need special handling during an attack. If your doctor has already given you a plan for flares, follow it. If not, call your doctor and ask what to take."
+      },
+      {
+        "type": "paragraph",
+        "text": "If you are already taking a medicine to lower uric acid every day, do not stop it because of the attack unless your doctor tells you to. Stopping suddenly can make things worse."
+      },
+      { "type": "heading", "text": "Things that may trigger a flare" },
+      {
+        "type": "bullets",
+        "items": [
+          "A heavy meal with meat, seafood or alcohol, such as at a party or wedding",
+          "Beer or a drinking session",
+          "Not drinking enough water, especially in hot weather or while travelling",
+          "Crash dieting or long fasting",
+          "Injury to the joint, illness or surgery",
+          "Starting or changing some medicines"
+        ]
+      },
+      { "type": "heading", "text": "After the attack settles" },
+      {
+        "type": "paragraph",
+        "text": "Once the pain is gone, it is easy to forget about it. But this is the best time to plan ahead with your doctor. Ask whether you need a uric acid test, whether you need long-term medicine, and what to do if another attack comes."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Write down the date, the joint, and what you ate or drank in the day before",
+          "Log your uric acid results in the app so you and your doctor can see the trend",
+          "Keep a cold pack in the freezer so you are ready next time",
+          "Work on steady habits: water, walking, gentle weight loss, less alcohol and sugary drinks"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Many people with gout are able to have fewer attacks over time with the right mix of medical care and daily habits. You do not have to handle it alone; your doctor is your partner in this."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "गाउट का अटैक अचानक शुरू हो सकता है, अक्सर रात में। कोई जोड़, ज़्यादातर पैर का अंगूठा, लाल, गरम और सूज जाता है, और इतना दर्द करता है कि उस पर चादर लगना भी बर्दाश्त नहीं होता। दर्द आम तौर पर पहले एक-दो दिन सबसे ज़्यादा होता है और फिर कुछ दिनों में धीरे-धीरे कम होता है। क्या करना है यह पता हो, तो अटैक संभालना आसान हो जाता है।"
+      },
+      { "type": "heading", "text": "इन हालात में जल्दी डॉक्टर को दिखाएँ" },
+      {
+        "type": "bullets",
+        "items": [
+          "यह आपका पहला अटैक है, या आपको पक्का नहीं पता कि यह गाउट है",
+          "गरम, सूजे जोड़ के साथ बुख़ार या कँपकँपी है",
+          "दर्द बहुत ज़्यादा है या बढ़ता जा रहा है",
+          "एक से ज़्यादा जोड़ में दर्द है, या सूजन फैल रही है",
+          "आप चल नहीं पा रहे या पैर पर वज़न नहीं डाल पा रहे",
+          "अटैक कुछ दिनों में ठीक नहीं हो रहा, या बार-बार हो रहा है"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "बुख़ार के साथ गरम, सूजा जोड़ कभी-कभी इन्फ़ेक्शन भी हो सकता है, जिसका तुरंत इलाज ज़रूरी है। यह फ़र्क़ सिर्फ़ डॉक्टर ही बता सकते हैं, इसलिए ऐसे में घर पर इंतज़ार न करें।"
+      },
+      { "type": "heading", "text": "घर पर आराम के तरीक़े" },
+      {
+        "type": "bullets",
+        "items": [
+          "जोड़ को आराम दें। एक-दो दिन लंबा चलना और देर तक खड़े रहना टालें",
+          "पैर या हाथ को तकिए पर रखें ताकि वह दिल से थोड़ा ऊपर रहे",
+          "ठंडी सिकाई करें: बर्फ़ या कोल्ड पैक को पतले कपड़े में लपेटकर थोड़ी-थोड़ी देर जोड़ पर रखें। बर्फ़ सीधे त्वचा पर कभी न रखें",
+          "दिन भर पानी पीते रहें, जब तक डॉक्टर ने पानी की लिमिट न बताई हो",
+          "घर में ढीली, नरम चप्पल पहनें या नंगे पैर रहें, और दर्द वाले अंगूठे से चादर दूर रखें",
+          "अटैक के दौरान शराब बिल्कुल न लें, ख़ासकर बीयर",
+          "सादा घर का खाना खाएँ: रोटी, दाल, सब्ज़ी, दही। ऑर्गन मीट, सीफ़ूड, भारी नॉन-वेज और मीठे ड्रिंक से बचें"
+        ]
+      },
+      { "type": "heading", "text": "दवाओं के बारे में" },
+      {
+        "type": "paragraph",
+        "text": "अटैक के दौरान अपने मन से कोई दवा शुरू, बंद या बदलें नहीं। कुछ आम दर्द की दवाएँ किडनी, पेट या दिल की दिक्कत वालों के लिए ठीक नहीं होतीं, और यूरिक एसिड की कुछ दवाओं को अटैक के समय ख़ास तरीक़े से लेना होता है। अगर डॉक्टर ने अटैक के लिए पहले से प्लान दिया है, तो उसे मानें। अगर नहीं, तो डॉक्टर को फ़ोन करके पूछें कि क्या लेना है।"
+      },
+      {
+        "type": "paragraph",
+        "text": "अगर आप पहले से रोज़ यूरिक एसिड कम करने की दवा ले रहे हैं, तो अटैक की वजह से उसे बंद न करें, जब तक डॉक्टर न कहें। अचानक बंद करने से हालत बिगड़ सकती है।"
+      },
+      { "type": "heading", "text": "किन चीज़ों से अटैक शुरू हो सकता है" },
+      {
+        "type": "bullets",
+        "items": [
+          "मीट, सीफ़ूड या शराब वाला भारी खाना, जैसे पार्टी या शादी में",
+          "बीयर या ज़्यादा शराब पीना",
+          "कम पानी पीना, ख़ासकर गर्मी में या सफ़र के दौरान",
+          "क्रैश डाइट या लंबा उपवास",
+          "जोड़ में चोट, बीमारी या ऑपरेशन",
+          "कुछ दवाएँ शुरू करना या बदलना"
+        ]
+      },
+      { "type": "heading", "text": "अटैक ठीक होने के बाद" },
+      {
+        "type": "paragraph",
+        "text": "दर्द जाते ही इसे भूल जाना आसान है। लेकिन यही डॉक्टर के साथ आगे का प्लान बनाने का सबसे अच्छा समय है। पूछें कि क्या यूरिक एसिड टेस्ट करवाना है, क्या लंबे समय की दवा चाहिए, और अगला अटैक आए तो क्या करना है।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "तारीख़, कौन-सा जोड़, और एक दिन पहले क्या खाया-पिया, लिख लें",
+          "यूरिक एसिड के रिज़ल्ट ऐप में दर्ज करें ताकि आप और डॉक्टर बदलाव देख सकें",
+          "फ़्रीज़र में एक कोल्ड पैक रखें ताकि अगली बार तैयार रहें",
+          "पक्की आदतों पर काम करें: पानी, टहलना, धीरे-धीरे वज़न घटाना, कम शराब और कम मीठे ड्रिंक"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "सही इलाज और रोज़ की आदतों से गाउट वाले कई लोगों के अटैक समय के साथ कम हो जाते हैं। आपको यह अकेले नहीं संभालना है; इसमें डॉक्टर आपके साथी हैं।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

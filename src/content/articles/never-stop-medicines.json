@@ -1,0 +1,174 @@
+{
+  "id": "never-stop-medicines",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Never stop medicines on your own",
+    "hi": "अपने आप दवा कभी बंद न करें"
+  },
+  "summary": {
+    "en": "Diet works alongside your treatment, not instead of it. Why medicine changes must go through your doctor.",
+    "hi": "डाइट आपके इलाज के साथ काम करती है, उसकी जगह नहीं। दवा में बदलाव डॉक्टर से ही क्यों कराएँ।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "KhaoSahi is a diet and lifestyle guide. It helps you choose food, build habits and keep track of your numbers. It does not replace the treatment your doctor has given you. Healthy eating and medicines often work best together."
+      },
+      {
+        "type": "heading",
+        "text": "The golden rule"
+      },
+      {
+        "type": "paragraph",
+        "text": "Never stop a medicine, start a new one or change the dose without talking to your doctor first. This applies to every medicine, including those for uric acid or gout, blood sugar, blood pressure, thyroid, cholesterol and heart health."
+      },
+      {
+        "type": "heading",
+        "text": "Why this matters"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Some medicines must be taken every day, even when you feel completely fine. Feeling well is often a sign that the medicine is working.",
+          "Stopping certain medicines suddenly can make the problem come back stronger, or cause other problems.",
+          "Uric acid medicines are usually taken long term. Stopping them on your own may lead to more gout attacks.",
+          "If your sugar or BP medicine is changed without advice while you are also eating less, your sugar or BP may drop too low.",
+          "Better lab values after a diet change are good news, but only your doctor can decide if your medicine should change."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Common situations"
+      },
+      {
+        "type": "paragraph",
+        "text": "\"My report is normal now, so I stopped my tablets.\" This is one of the most common mistakes. A normal report may be normal because of the medicine. Show the report to your doctor and let them decide the next step."
+      },
+      {
+        "type": "paragraph",
+        "text": "\"A relative told me about a tablet that worked for them.\" Every person is different. A medicine that suits one person can harm another, especially if they have liver or kidney problems. Do not take medicines suggested by friends, chemists or social media without asking your doctor."
+      },
+      {
+        "type": "paragraph",
+        "text": "\"I feel side effects.\" If you think a medicine is causing trouble, call or visit your doctor soon. Do not simply stop it. There is often another option or a different dose."
+      },
+      {
+        "type": "heading",
+        "text": "Supplements, herbal and \"detox\" products"
+      },
+      {
+        "type": "paragraph",
+        "text": "Many people take ayurvedic, herbal or home-made remedies, protein powders, vitamins or products sold as \"liver detox\" or \"uric acid flush\". Natural does not always mean safe. Some of these products may affect the liver or interact with your medicines."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Tell your doctor about every supplement, herbal product, churan, kadha or powder you take, even if you think it is harmless.",
+          "Be careful of products that promise quick results for the liver or uric acid.",
+          "Do not take high-dose vitamins or bodybuilding supplements without advice.",
+          "Show your doctor the box or label if you are not sure what is inside."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Simple habits that help"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Keep a written list of all your medicines with doses, and carry it to every appointment.",
+          "Use a pill box or phone alarm so you do not miss doses.",
+          "Before travel or festivals, check that you have enough medicine.",
+          "If you miss a dose, follow your doctor's or pharmacist's advice. Do not take a double dose on your own."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Your food choices and your medicines are a team. Use this app for the food part, and keep your doctor in charge of the medicine part."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "KhaoSahi खाने-पीने और रहन-सहन की गाइड है। यह आपको सही खाना चुनने, अच्छी आदतें बनाने और अपने नंबर पर नज़र रखने में मदद करता है। यह डॉक्टर के दिए इलाज की जगह नहीं ले सकता। अच्छा खाना और दवा अक्सर साथ मिलकर सबसे अच्छा काम करते हैं।"
+      },
+      {
+        "type": "heading",
+        "text": "सबसे ज़रूरी नियम"
+      },
+      {
+        "type": "paragraph",
+        "text": "डॉक्टर से बात किए बिना कोई दवा बंद न करें, नई दवा शुरू न करें और डोज़ न बदलें। यह हर दवा पर लागू है, जैसे यूरिक एसिड या गाउट, शुगर, BP, थायरॉइड, कोलेस्ट्रॉल और दिल की दवाएँ।"
+      },
+      {
+        "type": "heading",
+        "text": "यह क्यों ज़रूरी है"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "कुछ दवाएँ रोज़ लेनी होती हैं, चाहे आप बिल्कुल ठीक महसूस करें। ठीक महसूस करना अक्सर इसी बात का संकेत है कि दवा काम कर रही है।",
+          "कुछ दवाएँ अचानक बंद करने से दिक़्क़त और ज़्यादा लौट सकती है, या नई परेशानी हो सकती है।",
+          "यूरिक एसिड की दवाएँ अक्सर लंबे समय तक चलती हैं। अपने आप बंद करने से गाउट का दर्द बार-बार उठ सकता है।",
+          "अगर आप कम खा रहे हैं और साथ में बिना सलाह शुगर या BP की दवा बदल दें, तो शुगर या BP बहुत नीचे जा सकता है।",
+          "डाइट बदलने के बाद रिपोर्ट अच्छी आए तो यह ख़ुशी की बात है, पर दवा बदलनी है या नहीं, यह सिर्फ़ डॉक्टर तय करेंगे।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "आम हालात"
+      },
+      {
+        "type": "paragraph",
+        "text": "\"रिपोर्ट नॉर्मल आ गई, तो मैंने गोलियाँ बंद कर दीं।\" यह सबसे आम ग़लती है। हो सकता है रिपोर्ट दवा की वजह से ही नॉर्मल हो। रिपोर्ट डॉक्टर को दिखाएँ और आगे का फ़ैसला उन्हें करने दें।"
+      },
+      {
+        "type": "paragraph",
+        "text": "\"एक रिश्तेदार ने कहा यह गोली उन्हें फ़ायदा कर गई।\" हर इंसान अलग है। जो दवा एक को सूट करे, वह दूसरे को नुकसान कर सकती है, ख़ासकर अगर लिवर या किडनी की दिक़्क़त हो। दोस्तों, केमिस्ट या सोशल मीडिया की बताई दवा डॉक्टर से पूछे बिना न लें।"
+      },
+      {
+        "type": "paragraph",
+        "text": "\"दवा से परेशानी हो रही है।\" अगर लगे कि कोई दवा दिक़्क़त दे रही है, तो जल्दी डॉक्टर को फ़ोन करें या मिलें। बस बंद न कर दें। अक्सर कोई दूसरा विकल्प या अलग डोज़ मिल जाता है।"
+      },
+      {
+        "type": "heading",
+        "text": "सप्लीमेंट, जड़ी-बूटी और \"डिटॉक्स\" वाली चीज़ें"
+      },
+      {
+        "type": "paragraph",
+        "text": "बहुत लोग आयुर्वेदिक, जड़ी-बूटी वाले या घरेलू नुस्ख़े, प्रोटीन पाउडर, विटामिन, या \"लिवर डिटॉक्स\" और \"यूरिक एसिड फ़्लश\" के नाम से बिकने वाली चीज़ें लेते हैं। नेचुरल का मतलब हमेशा सुरक्षित नहीं होता। इनमें से कुछ चीज़ें लिवर पर असर डाल सकती हैं या आपकी दवाओं के साथ गड़बड़ कर सकती हैं।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "जो भी सप्लीमेंट, जड़ी-बूटी, चूर्ण, काढ़ा या पाउडर लेते हैं, सब डॉक्टर को बताएँ, चाहे आपको वह बेनुकसान लगे।",
+          "जो चीज़ें लिवर या यूरिक एसिड में जल्दी नतीजे का वादा करें, उनसे सावधान रहें।",
+          "बिना सलाह ज़्यादा डोज़ वाले विटामिन या बॉडीबिल्डिंग सप्लीमेंट न लें।",
+          "अगर पता न हो कि किसी चीज़ में क्या है, तो उसका डिब्बा या लेबल डॉक्टर को दिखाएँ।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "आसान आदतें जो मदद करती हैं"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "सारी दवाओं और उनकी डोज़ की लिखी हुई लिस्ट रखें और हर बार डॉक्टर के पास ले जाएँ।",
+          "पिल बॉक्स या फ़ोन अलार्म लगाएँ ताकि कोई डोज़ न छूटे।",
+          "सफ़र या त्योहार से पहले देख लें कि दवा पूरी है।",
+          "कोई डोज़ छूट जाए तो डॉक्टर या फ़ार्मासिस्ट की सलाह मानें। अपने आप डबल डोज़ न लें।"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "आपका खाना और आपकी दवा एक टीम हैं। खाने वाले हिस्से के लिए यह ऐप इस्तेमाल करें, और दवा वाला हिस्सा डॉक्टर के हाथ में रहने दें।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

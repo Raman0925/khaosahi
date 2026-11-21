@@ -8,36 +8,129 @@
     "hi": "फैटी लिवर क्या है?"
   },
   "summary": {
-    "en": "A simple explanation of fatty liver and why diet matters.",
-    "hi": "फैटी लिवर की आसान जानकारी और खाने का इसमें क्या रोल है।"
+    "en": "A simple explanation of fatty liver, why it happens and how daily food and habits may help.",
+    "hi": "फैटी लिवर क्या है, क्यों होता है और रोज़ का खाना और आदतें कैसे मदद कर सकती हैं, आसान भाषा में।"
   },
   "body": {
     "en": [
       {
         "type": "paragraph",
-        "text": "Fatty liver means extra fat has built up in the liver. It is very common in India and often has no symptoms in the early stages."
+        "text": "Your liver is a hard-working organ on the right side of your belly. It stores energy, helps digest fat, handles medicines and cleans many things out of your blood. Fatty liver means that more fat than normal has built up inside the liver cells. Doctors may call it NAFLD or MASLD, which simply means fat in the liver that is linked to weight, blood sugar and lifestyle rather than to heavy drinking."
+      },
+      {
+        "type": "paragraph",
+        "text": "Fatty liver is very common in India, in cities and villages alike. Many people find out about it by chance, when an ultrasound is done for some other reason. It often causes no pain or symptoms for years, which is why it is easy to ignore. But it is a useful early signal from your body that it is time to look after your eating and activity."
       },
       {
         "type": "heading",
-        "text": "What can help"
+        "text": "Why does fat build up in the liver?"
+      },
+      {
+        "type": "paragraph",
+        "text": "When we take in more energy than the body uses, the extra is stored as fat. Some of it gets stored in the liver. A few things make this more likely:"
       },
       {
         "type": "bullets",
         "items": [
-          "Gradual weight loss if you are overweight",
-          "Less sugar, maida and fried food",
-          "Daily physical activity"
+          "Extra weight, especially around the waist (a big belly or 'tond')",
+          "Diabetes, pre-diabetes or high blood sugar",
+          "High triglycerides or cholesterol",
+          "A lot of sugar, sweet drinks, mithai, maida and fried snacks",
+          "Sitting for long hours with little walking or exercise",
+          "Alcohol, which adds more load on the liver",
+          "Poor sleep and long-term stress"
         ]
       },
       {
         "type": "paragraph",
-        "text": "These changes may help improve liver health over time. Your doctor will guide you on tests and treatment."
+        "text": "Many Indians store fat around the belly even when they do not look very heavy. So fatty liver can also be found in people with a normal weight. Your genes and family history play a part too."
+      },
+      {
+        "type": "heading",
+        "text": "Why it matters"
+      },
+      {
+        "type": "paragraph",
+        "text": "In many people, fatty liver stays mild. In some, the fat can lead to swelling (inflammation) in the liver, and over many years this may cause scarring. Fatty liver is also closely linked with diabetes and heart disease. The good news is that the liver is an organ that can heal well when the load on it comes down. This is why small, steady changes in food and activity matter so much."
+      },
+      {
+        "type": "heading",
+        "text": "What may help"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Slow, steady weight loss if you are overweight. Losing even a small part of your body weight over a few months may help the liver.",
+          "Fewer sweets, sweet chai, cold drinks and packaged juices",
+          "Less maida, white bread, biscuits and bakery items",
+          "Less deep-fried food like puri, pakora, samosa and namkeen",
+          "Half your thali filled with sabzi and salad, with a katori of dal or another protein",
+          "Walking or other activity on most days of the week",
+          "Avoiding alcohol, or talking to your doctor about stopping it",
+          "Good sleep and ways to manage stress"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "You do not need special or costly foods. Simple home-cooked Indian meals with the right portions are enough. Crash diets and 'detox' drinks are not needed and can do more harm than good."
+      },
+      {
+        "type": "paragraph",
+        "text": "It also helps to involve your family. When the whole household eats less sugar and fried food and goes for an evening walk together, the new habits are much easier to keep, and everyone's health benefits."
+      },
+      {
+        "type": "heading",
+        "text": "Work with your doctor"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your doctor may suggest blood tests such as ALT and AST, an ultrasound or other scans to understand how your liver is doing. They will also check your sugar, cholesterol and blood pressure. Keep your reports in one place and track them over time in this app. Never start or stop any medicine on your own, and ask your doctor before trying herbal or 'liver tonic' products."
+      },
+      {
+        "type": "paragraph",
+        "text": "Fatty liver is not a reason to panic. Think of it as a nudge to build healthier habits, one day at a time. Your 90-day plan in KhaoSahi breaks these habits into small daily steps you can follow at home."
       }
     ],
     "hi": [
       {
         "type": "paragraph",
-        "text": "फैटी लिवर का मतलब है कि लिवर में ज़्यादा चर्बी जमा हो गई है। भारत में यह बहुत आम है और शुरू में अक्सर कोई लक्षण नहीं होते।"
+        "text": "लिवर पेट के दाईं तरफ़ एक बहुत मेहनती अंग है। यह ताक़त जमा करता है, चर्बी पचाने में मदद करता है, दवाइयों को संभालता है और ख़ून से कई चीज़ें साफ़ करता है। फैटी लिवर का मतलब है कि लिवर के अंदर सामान्य से ज़्यादा चर्बी जमा हो गई है। डॉक्टर इसे NAFLD या MASLD कह सकते हैं, यानी ऐसी चर्बी जो वज़न, शुगर और रहन-सहन से जुड़ी है, ज़्यादा शराब से नहीं।"
+      },
+      {
+        "type": "paragraph",
+        "text": "भारत में फैटी लिवर बहुत आम है, शहर हो या गाँव। कई लोगों को इसका पता तब चलता है जब किसी और वजह से अल्ट्रासाउंड होता है। सालों तक इसमें अक्सर कोई दर्द या लक्षण नहीं होता, इसलिए लोग इसे नज़रअंदाज़ कर देते हैं। लेकिन यह शरीर का एक शुरुआती इशारा है कि अब खाने-पीने और चलने-फिरने पर ध्यान देने का समय है।"
+      },
+      {
+        "type": "heading",
+        "text": "लिवर में चर्बी क्यों जमती है?"
+      },
+      {
+        "type": "paragraph",
+        "text": "जब हम शरीर की ज़रूरत से ज़्यादा खाते हैं, तो बची हुई ऊर्जा चर्बी बनकर जमा हो जाती है। इसका कुछ हिस्सा लिवर में जमता है। कुछ बातें इसका ख़तरा बढ़ाती हैं:"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "ज़्यादा वज़न, ख़ासकर पेट और कमर के आसपास (तोंद)",
+          "डायबिटीज़, प्री-डायबिटीज़ या बढ़ी हुई शुगर",
+          "ट्राइग्लिसराइड या कोलेस्ट्रॉल ज़्यादा होना",
+          "ज़्यादा चीनी, मीठे ड्रिंक, मिठाई, मैदा और तले हुए स्नैक्स",
+          "घंटों बैठे रहना, कम चलना या कसरत न करना",
+          "शराब, जो लिवर पर और बोझ डालती है",
+          "कम नींद और लंबे समय का तनाव"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "बहुत से भारतीयों के पेट पर चर्बी जमती है, भले ही वे ज़्यादा भारी न दिखें। इसलिए सामान्य वज़न वाले लोगों में भी फैटी लिवर मिल सकता है। आपके जीन और परिवार का इतिहास भी इसमें भूमिका निभाते हैं।"
+      },
+      {
+        "type": "heading",
+        "text": "यह क्यों ज़रूरी है"
+      },
+      {
+        "type": "paragraph",
+        "text": "बहुत से लोगों में फैटी लिवर हल्का ही रहता है। कुछ लोगों में यह चर्बी लिवर में सूजन ला सकती है, और कई सालों में इससे लिवर पर निशान (स्कारिंग) पड़ सकते हैं। फैटी लिवर का डायबिटीज़ और दिल की बीमारी से भी गहरा रिश्ता है। अच्छी बात यह है कि जब लिवर पर बोझ कम होता है तो वह अच्छी तरह सँभल सकता है। इसीलिए खाने और चलने-फिरने में छोटे, लगातार बदलाव बहुत मायने रखते हैं।"
       },
       {
         "type": "heading",
@@ -46,14 +139,35 @@
       {
         "type": "bullets",
         "items": [
-          "वज़न ज़्यादा है तो धीरे-धीरे घटाएँ",
-          "चीनी, मैदा और तला खाना कम करें",
-          "रोज़ थोड़ी कसरत या टहलना"
+          "वज़न ज़्यादा है तो धीरे-धीरे घटाएँ। कुछ महीनों में शरीर के वज़न का थोड़ा सा हिस्सा कम करना भी लिवर के लिए मददगार हो सकता है।",
+          "मिठाई, मीठी चाय, कोल्ड ड्रिंक और पैकेट वाले जूस कम करें",
+          "मैदा, सफ़ेद ब्रेड, बिस्कुट और बेकरी की चीज़ें कम करें",
+          "पूरी, पकौड़े, समोसे और नमकीन जैसी तली चीज़ें कम करें",
+          "आधी थाली सब्ज़ी और सलाद से भरें, साथ में एक कटोरी दाल या कोई प्रोटीन",
+          "हफ़्ते के ज़्यादातर दिन टहलें या कोई कसरत करें",
+          "शराब से बचें, या छोड़ने के बारे में डॉक्टर से बात करें",
+          "अच्छी नींद लें और तनाव कम करने के तरीक़े अपनाएँ"
         ]
       },
       {
         "type": "paragraph",
-        "text": "ये बदलाव समय के साथ लिवर की सेहत सुधारने में मदद कर सकते हैं। जाँच और इलाज के लिए आपके डॉक्टर ही सही राह बताएँगे।"
+        "text": "आपको कोई ख़ास या महँगा खाना नहीं चाहिए। सही मात्रा में घर का सादा भारतीय खाना ही काफ़ी है। क्रैश डाइट और 'डिटॉक्स' ड्रिंक की ज़रूरत नहीं है, ये उल्टा नुक़सान भी कर सकते हैं।"
+      },
+      {
+        "type": "paragraph",
+        "text": "परिवार को साथ लेना भी मदद करता है। जब पूरा घर कम चीनी और कम तला खाना खाता है और शाम को साथ टहलने जाता है, तो नई आदतें निभाना बहुत आसान हो जाता है, और सबकी सेहत को फ़ायदा होता है।"
+      },
+      {
+        "type": "heading",
+        "text": "डॉक्टर के साथ मिलकर चलें"
+      },
+      {
+        "type": "paragraph",
+        "text": "लिवर का हाल समझने के लिए डॉक्टर ALT और AST जैसे ख़ून के टेस्ट, अल्ट्रासाउंड या दूसरे स्कैन करा सकते हैं। वे आपकी शुगर, कोलेस्ट्रॉल और बीपी भी देखेंगे। अपनी रिपोर्ट एक जगह रखें और इस ऐप में समय के साथ उन्हें ट्रैक करें। कोई भी दवा अपने आप शुरू या बंद न करें, और जड़ी-बूटी या 'लिवर टॉनिक' लेने से पहले डॉक्टर से पूछें।"
+      },
+      {
+        "type": "paragraph",
+        "text": "फैटी लिवर से घबराने की ज़रूरत नहीं है। इसे अच्छी आदतें बनाने का एक इशारा समझें, एक-एक दिन करके। KhaoSahi का 90 दिन का प्लान इन आदतों को छोटे-छोटे रोज़ के क़दमों में बाँटता है, जिन्हें आप घर पर अपना सकते हैं।"
       }
     ]
   },

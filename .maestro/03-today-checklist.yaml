@@ -1,0 +1,34 @@
+# Today: tick a checklist item, and the tick survives an app restart.
+#
+# Selector assumptions:
+# - Every plan has a daily water item; for the "Both" plan its text starts with
+#   "Drink water through the day" (src/content/plans/both.json, id "water-uric").
+# - Checklist rows are checkbox-role touchables whose accessibility label is the item text, and
+#   expose the checked state to Maestro (checked: true/false).
+appId: app.khaosahi
+name: 03-today-checklist
+tags:
+  - smoke
+---
+- runFlow: subflows/onboard.yaml
+- tapOn: 'Today'
+- scrollUntilVisible:
+    element: 'Drink water through the day.*'
+    direction: DOWN
+- assertVisible:
+    text: 'Drink water through the day.*'
+    checked: false
+- tapOn: 'Drink water through the day.*'
+- assertVisible:
+    text: 'Drink water through the day.*'
+    checked: true
+
+# Persists after restart (no clearState)
+- stopApp
+- launchApp
+- scrollUntilVisible:
+    element: 'Drink water through the day.*'
+    direction: DOWN
+- assertVisible:
+    text: 'Drink water through the day.*'
+    checked: true

@@ -1,0 +1,165 @@
+{
+  "id": "water-intake",
+  "topics": ["uricAcid", "general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": { "en": "Water: simple ways to drink enough", "hi": "पानी: पूरा पानी पीने के आसान तरीक़े" },
+  "summary": {
+    "en": "Why water matters for uric acid and overall health, and easy habits to drink enough every day.",
+    "hi": "यूरिक एसिड और पूरी सेहत के लिए पानी क्यों ज़रूरी है, और रोज़ पूरा पानी पीने की आसान आदतें।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Water is one of the simplest and cheapest habits that may help your health. Most uric acid leaves the body through the kidneys in urine. When you drink enough, your kidneys have more fluid to work with, and this may help them pass out uric acid. Enough water may also lower the chance of kidney stones, which are more common in people with high uric acid."
+      },
+      { "type": "heading", "text": "How much is enough?" },
+      {
+        "type": "paragraph",
+        "text": "There is no single number that suits everyone. How much you need depends on your body size, the weather, how active you are and your health. In Indian summers, or if you work outdoors or sweat a lot, you need more. A simple guide for most healthy adults is to drink regularly through the day so that your urine stays pale yellow, and to drink a little extra on hot days and after exercise."
+      },
+      {
+        "type": "paragraph",
+        "text": "Important: some people need to limit fluids. If you have kidney disease, heart failure, swelling in the legs or liver problems with fluid build-up, your doctor may have given you a fluid limit. Always follow your doctor's advice in that case, even if it means drinking less than others."
+      },
+      { "type": "heading", "text": "Easy habits that may help" },
+      {
+        "type": "bullets",
+        "items": [
+          "Start the day with a glass of water before your morning chai",
+          "Keep a filled bottle or steel glass where you can see it: on your desk, near the TV, in the bag",
+          "Drink a glass with each meal and one between meals",
+          "Set a reminder on your phone if you forget",
+          "Drink a little extra before and after walking or exercise",
+          "Sip water through the evening, and slow down close to bedtime so your sleep is not disturbed"
+        ]
+      },
+      { "type": "heading", "text": "What counts as a good drink?" },
+      {
+        "type": "paragraph",
+        "text": "Plain water is the best choice. Other drinks can add to your fluid too, as long as they are not full of sugar."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Plain or lukewarm water",
+          "Nimbu pani without sugar, or with very little",
+          "Chaas (thin buttermilk) with a pinch of jeera and salt",
+          "Plain coconut water now and then, if your doctor has not limited potassium",
+          "Clear soups such as dal ka pani or vegetable soup",
+          "Tea or coffee with little or no sugar, in moderate amounts"
+        ]
+      },
+      { "type": "heading", "text": "Drinks to cut down" },
+      {
+        "type": "bullets",
+        "items": [
+          "Cold drinks and soda, including the ones sold as energy drinks",
+          "Packaged fruit juices, even when they say \"no added sugar\"",
+          "Sweet lassi, milkshakes and sharbat with lots of sugar",
+          "Beer and other alcohol, which may raise uric acid and harm the liver"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Sugary drinks, especially those with fructose, may raise uric acid and add fat to the liver. Swapping them for water is one of the easiest changes you can make."
+      },
+      { "type": "heading", "text": "Signs you may need more water" },
+      {
+        "type": "bullets",
+        "items": [
+          "Dark yellow urine or passing urine very rarely",
+          "Dry mouth, headache or feeling tired in the afternoon",
+          "Feeling thirsty most of the time"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "If you feel very thirsty all the time, pass a lot of urine, or notice swelling in your feet or face, do not just change how much you drink. These can be signs of other health problems, so speak to your doctor."
+      },
+      { "type": "heading", "text": "Make it a family habit" },
+      {
+        "type": "paragraph",
+        "text": "Keep a jug of water on the dining table and offer water to guests before chai. When the whole family drinks water regularly and keeps cold drinks out of the fridge, it becomes much easier for you to stick to the habit."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "पानी पीना सेहत के लिए सबसे आसान और सस्ती आदतों में से एक है। ज़्यादातर यूरिक एसिड किडनी से पेशाब के रास्ते बाहर निकलता है। जब आप पूरा पानी पीते हैं, तो किडनी को काम करने के लिए ज़्यादा पानी मिलता है, और इससे यूरिक एसिड बाहर निकालने में मदद मिल सकती है। पूरा पानी पीने से किडनी की पथरी का ख़तरा भी कम हो सकता है, जो हाई यूरिक एसिड वालों में ज़्यादा होती है।"
+      },
+      { "type": "heading", "text": "कितना पानी काफ़ी है?" },
+      {
+        "type": "paragraph",
+        "text": "हर किसी के लिए एक ही नंबर नहीं है। कितना पानी चाहिए, यह आपके शरीर, मौसम, कितना चलते-फिरते हैं और आपकी सेहत पर निर्भर करता है। भारत की गर्मी में, या अगर आप बाहर काम करते हैं या बहुत पसीना आता है, तो ज़्यादा पानी चाहिए। ज़्यादातर स्वस्थ लोगों के लिए आसान तरीक़ा है: दिन भर थोड़ा-थोड़ा पानी पीते रहें ताकि पेशाब हल्का पीला रहे, और गर्मी के दिनों में और कसरत के बाद थोड़ा ज़्यादा पिएँ।"
+      },
+      {
+        "type": "paragraph",
+        "text": "ज़रूरी बात: कुछ लोगों को पानी कम पीना होता है। अगर आपको किडनी की बीमारी, हार्ट फ़ेल्योर, पैरों में सूजन, या लिवर की ऐसी दिक्कत है जिसमें पानी भरता है, तो डॉक्टर ने आपको पानी की लिमिट बताई हो सकती है। ऐसे में हमेशा डॉक्टर की बात मानें, भले ही आपको दूसरों से कम पानी पीना पड़े।"
+      },
+      { "type": "heading", "text": "आसान आदतें जो मदद कर सकती हैं" },
+      {
+        "type": "bullets",
+        "items": [
+          "सुबह की चाय से पहले एक गिलास पानी पिएँ",
+          "भरी हुई बोतल या स्टील का गिलास नज़र के सामने रखें: टेबल पर, टीवी के पास, बैग में",
+          "हर खाने के साथ एक गिलास और दो खानों के बीच एक गिलास पिएँ",
+          "भूल जाते हैं तो फ़ोन पर रिमाइंडर लगाएँ",
+          "टहलने या कसरत से पहले और बाद में थोड़ा ज़्यादा पानी पिएँ",
+          "शाम को घूँट-घूँट पीते रहें, और सोने से ठीक पहले कम करें ताकि नींद न टूटे"
+        ]
+      },
+      { "type": "heading", "text": "कौन-से ड्रिंक अच्छे हैं?" },
+      {
+        "type": "paragraph",
+        "text": "सादा पानी सबसे अच्छा है। दूसरे ड्रिंक से भी पानी की कमी पूरी होती है, बस उनमें ज़्यादा चीनी न हो।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "सादा या गुनगुना पानी",
+          "बिना चीनी या बहुत कम चीनी वाला नींबू पानी",
+          "चुटकी भर जीरा और नमक वाली पतली छाछ",
+          "कभी-कभी सादा नारियल पानी, अगर डॉक्टर ने पोटैशियम कम करने को न कहा हो",
+          "दाल का पानी या सब्ज़ी का सूप जैसे पतले सूप",
+          "कम या बिना चीनी वाली चाय या कॉफ़ी, सीमित मात्रा में"
+        ]
+      },
+      { "type": "heading", "text": "ये ड्रिंक कम करें" },
+      {
+        "type": "bullets",
+        "items": [
+          "कोल्ड ड्रिंक और सोडा, एनर्जी ड्रिंक भी",
+          "पैकेट वाले फलों के जूस, भले ही उन पर \"नो ऐडेड शुगर\" लिखा हो",
+          "ज़्यादा चीनी वाली मीठी लस्सी, मिल्कशेक और शरबत",
+          "बीयर और बाकी शराब, जो यूरिक एसिड बढ़ा सकती है और लिवर को नुक़सान पहुँचाती है"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "मीठे ड्रिंक, ख़ासकर जिनमें फ़्रुक्टोज़ हो, यूरिक एसिड बढ़ा सकते हैं और लिवर में चर्बी बढ़ा सकते हैं। इनकी जगह पानी पीना सबसे आसान बदलावों में से एक है।"
+      },
+      { "type": "heading", "text": "ये संकेत बताते हैं कि शायद पानी कम है" },
+      {
+        "type": "bullets",
+        "items": [
+          "गहरे पीले रंग का पेशाब या बहुत कम बार पेशाब आना",
+          "मुँह सूखना, सिर दर्द या दोपहर में थकान",
+          "ज़्यादातर समय प्यास लगना"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "अगर हर समय बहुत प्यास लगती है, बहुत ज़्यादा पेशाब आता है, या पैरों या चेहरे पर सूजन दिखे, तो सिर्फ़ पानी की मात्रा न बदलें। ये दूसरी बीमारियों के संकेत हो सकते हैं, इसलिए डॉक्टर से बात करें।"
+      },
+      { "type": "heading", "text": "इसे परिवार की आदत बनाएँ" },
+      {
+        "type": "paragraph",
+        "text": "खाने की मेज़ पर पानी का जग रखें और मेहमानों को चाय से पहले पानी दें। जब पूरा परिवार नियम से पानी पिए और फ़्रिज में कोल्ड ड्रिंक न रखे, तो आपके लिए भी यह आदत निभाना बहुत आसान हो जाता है।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

@@ -1,0 +1,180 @@
+{
+  "id": "refined-carbs-and-maida",
+  "topics": ["fattyLiver"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Maida, white rice and refined carbs",
+    "hi": "मैदा, सफ़ेद चावल और रिफ़ाइंड कार्ब्स"
+  },
+  "summary": {
+    "en": "Why refined flour and large portions of white rice can add to liver fat, and easy whole-grain swaps.",
+    "hi": "मैदा और ज़्यादा सफ़ेद चावल लिवर की चर्बी कैसे बढ़ा सकते हैं, और साबुत अनाज के आसान विकल्प।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Most Indian meals are built around grains: roti, rice, poha, upma, idli, dosa, paratha, bread. Grains are not the enemy. But the kind of grain and the size of the portion make a big difference for a fatty liver. Refined carbs, the kind where the outer fibre-rich layer has been removed, are digested very fast. They raise blood sugar and insulin quickly, and the extra energy can end up as fat, including in the liver."
+      },
+      {
+        "type": "heading",
+        "text": "What are refined carbs?"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Maida and everything made from it: white bread, pav, naan, kulcha, bhatura, samosa covering, pizza, pasta and noodles made from refined flour",
+          "Biscuits, cakes, rusk, khari, puffs and most bakery items",
+          "Polished white rice in large portions",
+          "Sooji (rava) and poha, which are fine in small amounts but easy to overeat",
+          "Sugar and sugary foods, which are the most refined carbs of all"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Many of these are also cooked with a lot of oil, butter or sugar. A plate of chole bhature or a pav bhaji with extra butter gives a large load of refined carbs and fat together, which is hard on the liver."
+      },
+      {
+        "type": "heading",
+        "text": "Why whole grains are better"
+      },
+      {
+        "type": "paragraph",
+        "text": "Whole grains keep their bran and fibre. They are digested more slowly, keep you full for longer, and cause a gentler rise in blood sugar. They also carry more vitamins and minerals. The Indian kitchen already has many excellent whole grains."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Whole wheat atta (chakki atta) instead of maida",
+          "Millets like jowar, bajra, ragi, kangni and kodo",
+          "Brown, red or hand-pounded rice, or mixing some with white rice",
+          "Broken wheat (dalia) and whole oats",
+          "Besan, moong and other dals, which add protein to rotis and chillas"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Easy swaps for everyday meals"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Breakfast: vegetable dalia, moong dal chilla, oats upma or besan chilla instead of white bread toast or biscuits",
+          "Roti: add some besan, jowar or bajra flour to your wheat atta",
+          "Rice: keep it to one small katori and add more dal and sabzi; try mixing a little brown rice with white",
+          "Snacks: roasted chana, sprouts chaat or a fruit instead of biscuits, rusk or namkeen",
+          "Eating out: choose tandoori roti over naan, and plain rice over biryani or fried rice",
+          "Poha and upma: add lots of vegetables and some peanuts or sprouts, and keep the portion moderate"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Portion is as important as type"
+      },
+      {
+        "type": "paragraph",
+        "text": "Even whole grains add up if the portion is large. A simple guide is the plate method: half the plate sabzi and salad, a quarter protein like dal, paneer, curd, egg or fish, and a quarter grains like roti or rice. If you usually eat four rotis, try three with more sabzi. If you eat two big plates of rice, try one with an extra katori of dal."
+      },
+      {
+        "type": "heading",
+        "text": "Read the label"
+      },
+      {
+        "type": "paragraph",
+        "text": "'Brown bread' and 'multigrain biscuits' are often made mostly of maida with some colour or a little added grain. Check the ingredients list: if refined wheat flour or maida comes first, it is mainly maida. Look for products where whole wheat or another whole grain is listed first."
+      },
+      {
+        "type": "heading",
+        "text": "Go step by step"
+      },
+      {
+        "type": "paragraph",
+        "text": "You do not need to give up every bakery item or never eat a naan again. Start by picking one meal where you swap a refined grain for a whole grain. Once that feels normal, pick the next. Over a few months, these small swaps may help your weight, your blood sugar and the fat in your liver."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "ज़्यादातर भारतीय खाना अनाज के इर्द-गिर्द बनता है: रोटी, चावल, पोहा, उपमा, इडली, डोसा, पराठा, ब्रेड। अनाज दुश्मन नहीं है। लेकिन फैटी लिवर में अनाज किस तरह का है और कितना है, इससे बहुत फ़र्क़ पड़ता है। रिफ़ाइंड कार्ब्स, यानी जिनकी फ़ाइबर वाली ऊपरी परत हटा दी गई हो, बहुत जल्दी पचते हैं। ये ख़ून में शुगर और इंसुलिन तेज़ी से बढ़ाते हैं, और बची हुई ऊर्जा चर्बी बन सकती है, लिवर में भी।"
+      },
+      {
+        "type": "heading",
+        "text": "रिफ़ाइंड कार्ब्स क्या हैं?"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "मैदा और उससे बनी हर चीज़: सफ़ेद ब्रेड, पाव, नान, कुलचा, भटूरा, समोसे का खोल, पिज़्ज़ा, मैदे वाला पास्ता और नूडल्स",
+          "बिस्कुट, केक, रस्क, खारी, पफ़ और ज़्यादातर बेकरी आइटम",
+          "ज़्यादा मात्रा में पॉलिश किया सफ़ेद चावल",
+          "सूजी (रवा) और पोहा, जो थोड़ी मात्रा में ठीक हैं पर ज़्यादा खाना आसान है",
+          "चीनी और मीठी चीज़ें, जो सबसे ज़्यादा रिफ़ाइंड कार्ब्स हैं"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "इनमें से बहुत सी चीज़ें ढेर सारे तेल, मक्खन या चीनी के साथ बनती हैं। एक प्लेट छोले भटूरे या ज़्यादा मक्खन वाली पाव भाजी से एक साथ बहुत सारे रिफ़ाइंड कार्ब्स और चिकनाई मिलती है, जो लिवर पर भारी पड़ती है।"
+      },
+      {
+        "type": "heading",
+        "text": "साबुत अनाज क्यों बेहतर है"
+      },
+      {
+        "type": "paragraph",
+        "text": "साबुत अनाज में चोकर और फ़ाइबर बचा रहता है। ये धीरे पचते हैं, देर तक पेट भरा रखते हैं, और शुगर धीरे बढ़ाते हैं। इनमें विटामिन और मिनरल भी ज़्यादा होते हैं। भारतीय रसोई में पहले से कई बढ़िया साबुत अनाज हैं।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "मैदे की जगह गेहूँ का चक्की आटा",
+          "ज्वार, बाजरा, रागी, कंगनी और कोदो जैसे मोटे अनाज",
+          "ब्राउन, लाल या हाथ-कुटा चावल, या सफ़ेद चावल में थोड़ा मिलाकर",
+          "दलिया और साबुत ओट्स",
+          "बेसन, मूँग और दूसरी दालें, जो रोटी और चीले में प्रोटीन जोड़ती हैं"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "रोज़ के खाने में आसान बदलाव"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "नाश्ता: सफ़ेद ब्रेड टोस्ट या बिस्कुट की जगह सब्ज़ी वाला दलिया, मूँग दाल चीला, ओट्स उपमा या बेसन चीला",
+          "रोटी: गेहूँ के आटे में थोड़ा बेसन, ज्वार या बाजरे का आटा मिलाएँ",
+          "चावल: एक छोटी कटोरी तक रखें और दाल-सब्ज़ी ज़्यादा लें; सफ़ेद चावल में थोड़ा ब्राउन चावल मिलाकर देखें",
+          "स्नैक्स: बिस्कुट, रस्क या नमकीन की जगह भुना चना, अंकुरित चाट या कोई फल",
+          "बाहर खाना: नान की जगह तंदूरी रोटी, और बिरयानी या फ़्राइड राइस की जगह सादा चावल",
+          "पोहा और उपमा: ख़ूब सब्ज़ियाँ और थोड़ी मूँगफली या अंकुरित अनाज डालें, और मात्रा ठीक रखें"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "मात्रा उतनी ही ज़रूरी है जितना प्रकार"
+      },
+      {
+        "type": "paragraph",
+        "text": "साबुत अनाज भी ज़्यादा मात्रा में हो तो बोझ बन जाता है। एक आसान तरीक़ा है थाली का नियम: आधी थाली सब्ज़ी और सलाद, चौथाई प्रोटीन जैसे दाल, पनीर, दही, अंडा या मछली, और चौथाई अनाज जैसे रोटी या चावल। अगर आप आमतौर पर चार रोटी खाते हैं, तो ज़्यादा सब्ज़ी के साथ तीन लें। अगर चावल की दो बड़ी प्लेट खाते हैं, तो एक प्लेट और एक कटोरी दाल ज़्यादा लें।"
+      },
+      {
+        "type": "heading",
+        "text": "लेबल पढ़ें"
+      },
+      {
+        "type": "paragraph",
+        "text": "'ब्राउन ब्रेड' और 'मल्टीग्रेन बिस्कुट' अक्सर ज़्यादातर मैदे से बने होते हैं, बस थोड़ा रंग या थोड़ा अनाज मिला होता है। सामग्री की लिस्ट देखें: अगर सबसे पहले refined wheat flour या मैदा लिखा है, तो वह मुख्य रूप से मैदा ही है। ऐसे प्रोडक्ट चुनें जिनमें सबसे पहले whole wheat या कोई और साबुत अनाज लिखा हो।"
+      },
+      {
+        "type": "heading",
+        "text": "एक-एक क़दम बढ़ें"
+      },
+      {
+        "type": "paragraph",
+        "text": "आपको हर बेकरी आइटम छोड़ने या कभी नान न खाने की ज़रूरत नहीं है। शुरुआत किसी एक खाने से करें जिसमें रिफ़ाइंड अनाज की जगह साबुत अनाज लें। जब यह आदत बन जाए, तो अगला चुनें। कुछ महीनों में ये छोटे बदलाव आपके वज़न, शुगर और लिवर की चर्बी में मदद कर सकते हैं।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

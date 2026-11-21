@@ -1,0 +1,16 @@
+# Fresh install: language -> intro -> disclaimer -> consent -> age gate -> profile -> Today.
+#
+# Selector assumptions: see subflows/onboard.yaml. In addition:
+# - Today shows "Day 1 / 90" and the current plan week title "Week 1: ..." (from content/plans).
+# - The bottom tabs use the nav.* labels: Today, Food, Progress, Learn.
+appId: app.khaosahi
+name: 01-onboarding
+tags:
+  - smoke
+---
+- runFlow: subflows/onboard.yaml
+- assertVisible: 'Week 1: .*'
+- assertVisible: 'Today'
+- assertVisible: 'Food'
+- assertVisible: 'Progress'
+- assertVisible: 'Learn'

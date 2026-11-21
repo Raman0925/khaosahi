@@ -1,0 +1,186 @@
+{
+  "id": "family-healthy-habits",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Healthy habits for the whole family",
+    "hi": "पूरे परिवार के लिए सेहतमंद आदतें"
+  },
+  "summary": {
+    "en": "Changes are easier when the whole family joins in. Simple ideas for eating together, cutting packaged snacks and cooking as a team.",
+    "hi": "जब पूरा परिवार साथ हो तो बदलाव आसान हो जाते हैं। साथ खाने, पैकेट वाले स्नैक्स कम करने और मिलकर पकाने के आसान तरीक़े।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "In most Indian homes, one kitchen feeds everyone. If you are the only one trying to eat differently, it can feel lonely and difficult. The good news is that the food that may help with fatty liver and uric acid is simply balanced, home-style Indian food, and it is good for everyone, from children to grandparents. Fatty liver and weight problems are also becoming more common in children, so building good habits together may protect the next generation too."
+      },
+      {
+        "type": "heading",
+        "text": "Eat together when you can"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Try to share at least one meal a day at the table or on the floor together, without the TV or phones.",
+          "Eating slowly and talking helps everyone notice when they are full.",
+          "Serve food from the kitchen instead of keeping big bowls on the table, so second helpings are a choice and not a habit.",
+          "Let children serve themselves small portions and take more if they are still hungry."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Change what is in the house"
+      },
+      {
+        "type": "paragraph",
+        "text": "The easiest way to eat fewer chips, biscuits and cold drinks is not to buy them every week. When they are not in the cupboard, nobody has to fight the temptation."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Keep a fruit bowl where everyone can see it.",
+          "Stock roasted chana, makhana, peanuts and homemade poha chivda instead of packaged namkeen.",
+          "Replace cold drinks and packaged juices with water, nimbu pani, chaas and whole fruit.",
+          "Keep sweets and mithai for festivals and special occasions, not every day.",
+          "Buy whole wheat bread or atta instead of maida-based bread and bakery items."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Cook together"
+      },
+      {
+        "type": "paragraph",
+        "text": "Children are more likely to try a vegetable they have washed, chopped or stirred themselves. Give everyone a small job that suits their age: washing vegetables, measuring dal, kneading atta, or making a salad plate in a fun pattern. Cooking together is also a nice way to pass on family recipes, with small changes like less oil, more vegetables and baked or tawa versions instead of deep-fried ones."
+      },
+      {
+        "type": "heading",
+        "text": "Small kitchen swaps for everyone"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Measure oil with a spoon instead of pouring from the bottle.",
+          "Add extra vegetables to dal, khichdi, poha, upma and parathas.",
+          "Make tawa or air-fried versions of tikki and pakode for weekend treats.",
+          "Reduce sugar in chai a little at a time; most people stop noticing after a few weeks.",
+          "Offer curd, raita or buttermilk with meals."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Move together"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Go for an evening walk as a family after dinner.",
+          "Play outdoor games with children: cricket, badminton, skipping or simply running around in the park.",
+          "Put on music and dance at home on rainy days.",
+          "Plan weekend outings that involve walking, like a park, a market or a heritage site."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Be kind, not strict"
+      },
+      {
+        "type": "paragraph",
+        "text": "Avoid labelling foods as good or bad in front of children, and never use sweets as a reward or punishment. Talk instead about foods that give strength and energy, and foods we enjoy sometimes. Praise effort, not body size. Elders in the family may find it hard to change old habits, so make changes gently and respect their preferences."
+      },
+      {
+        "type": "paragraph",
+        "text": "When the whole family moves in the same direction, healthy eating stops being a diet and becomes simply the way your home eats."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "ज़्यादातर भारतीय घरों में एक ही रसोई से सबका खाना बनता है। अगर सिर्फ़ आप अलग खाने की कोशिश कर रहे हैं, तो यह अकेलापन और मुश्किल लग सकता है। अच्छी बात यह है कि फैटी लिवर और यूरिक एसिड में मदद करने वाला खाना बस संतुलित, घर का भारतीय खाना है, और यह बच्चों से लेकर दादा-दादी तक, सबके लिए अच्छा है। बच्चों में भी फैटी लिवर और वज़न की समस्या बढ़ रही है, तो मिलकर अच्छी आदतें बनाने से अगली पीढ़ी को भी फ़ायदा हो सकता है।"
+      },
+      {
+        "type": "heading",
+        "text": "जब हो सके, साथ खाएँ"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "दिन में कम से कम एक बार, बिना टीवी और फ़ोन के, साथ बैठकर खाने की कोशिश करें।",
+          "धीरे खाने और बातें करने से सबको पता चलता है कि पेट कब भर गया।",
+          "बड़े बर्तन मेज़ पर रखने की जगह रसोई से परोसें, ताकि दोबारा लेना आदत नहीं, सोच-समझकर हो।",
+          "बच्चों को ख़ुद थोड़ा परोसने दें, और भूख हो तो और ले लें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "घर में क्या रखते हैं, वो बदलें"
+      },
+      {
+        "type": "paragraph",
+        "text": "चिप्स, बिस्कुट और कोल्ड ड्रिंक कम करने का सबसे आसान तरीक़ा है इन्हें हर हफ़्ते न ख़रीदना। जब अलमारी में ही नहीं होंगे, तो किसी को ललचाने से लड़ना नहीं पड़ेगा।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "फलों की टोकरी ऐसी जगह रखें जहाँ सबकी नज़र पड़े।",
+          "पैकेट वाली नमकीन की जगह भुना चना, मखाना, मूँगफली और घर का पोहा चिवड़ा रखें।",
+          "कोल्ड ड्रिंक और पैकेट जूस की जगह पानी, नींबू पानी, छाछ और साबुत फल।",
+          "मिठाई रोज़ नहीं, त्योहार और ख़ास मौक़ों के लिए रखें।",
+          "मैदे वाली ब्रेड और बेकरी की चीज़ों की जगह आटे वाली ब्रेड या आटा ख़रीदें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "मिलकर पकाएँ"
+      },
+      {
+        "type": "paragraph",
+        "text": "बच्चे वो सब्ज़ी ज़्यादा खाते हैं जो उन्होंने ख़ुद धोई, काटी या चलाई हो। सबको उम्र के हिसाब से छोटा काम दें: सब्ज़ी धोना, दाल नापना, आटा गूँधना, या सलाद को मज़ेदार डिज़ाइन में सजाना। साथ पकाना परिवार की रेसिपी आगे बढ़ाने का भी अच्छा तरीक़ा है, छोटे बदलावों के साथ जैसे कम तेल, ज़्यादा सब्ज़ी, और तलने की जगह बेक या तवे वाले तरीक़े।"
+      },
+      {
+        "type": "heading",
+        "text": "सबके लिए रसोई के छोटे बदलाव"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "तेल बोतल से सीधे डालने की जगह चम्मच से नापें।",
+          "दाल, खिचड़ी, पोहा, उपमा और परांठे में ज़्यादा सब्ज़ियाँ डालें।",
+          "वीकेंड के लिए टिक्की और पकौड़े तवे पर या एयर फ़्रायर में बनाएँ।",
+          "चाय में चीनी थोड़ी-थोड़ी कम करें; कुछ हफ़्तों में ज़्यादातर लोगों को फ़र्क़ महसूस नहीं होता।",
+          "खाने के साथ दही, रायता या छाछ दें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "साथ में चलें-फिरें"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "डिनर के बाद पूरा परिवार शाम की सैर पर जाए।",
+          "बच्चों के साथ बाहर खेलें: क्रिकेट, बैडमिंटन, रस्सी कूदना, या बस पार्क में दौड़ना।",
+          "बारिश के दिनों में घर पर गाना लगाकर डांस करें।",
+          "वीकेंड पर ऐसी जगह घूमने जाएँ जहाँ पैदल चलना हो, जैसे पार्क, बाज़ार या कोई पुरानी इमारत।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "सख़्ती नहीं, प्यार से"
+      },
+      {
+        "type": "paragraph",
+        "text": "बच्चों के सामने खाने को अच्छा या बुरा कहने से बचें, और मिठाई को कभी इनाम या सज़ा न बनाएँ। इसकी जगह बात करें कि कौन सा खाना ताक़त और एनर्जी देता है, और कौन सा कभी-कभी मज़े के लिए है। शरीर के साइज़ की नहीं, कोशिश की तारीफ़ करें। घर के बड़ों के लिए पुरानी आदतें बदलना मुश्किल हो सकता है, तो बदलाव धीरे से करें और उनकी पसंद का सम्मान करें।"
+      },
+      {
+        "type": "paragraph",
+        "text": "जब पूरा परिवार एक दिशा में चलता है, तो सेहतमंद खाना डाइट नहीं रहता, बल्कि आपके घर के खाने का तरीक़ा बन जाता है।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

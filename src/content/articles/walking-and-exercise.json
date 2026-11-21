@@ -1,0 +1,186 @@
+{
+  "id": "walking-and-exercise",
+  "topics": ["general"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Walking and exercise: start where you are",
+    "hi": "टहलना और कसरत: जहाँ हैं, वहीं से शुरू करें"
+  },
+  "summary": {
+    "en": "Why moving your body every day matters for your liver and uric acid, and how to build the habit slowly and safely.",
+    "hi": "रोज़ शरीर को चलाना लिवर और यूरिक एसिड के लिए क्यों ज़रूरी है, और यह आदत धीरे-धीरे और सुरक्षित तरीक़े से कैसे बनाएँ।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "You do not need a gym membership or expensive shoes to get the benefits of exercise. For most adults, a brisk daily walk is one of the simplest and most useful habits you can build. Regular activity may help your body use sugar better, may help reduce fat stored in the liver, and supports a healthy weight, which in turn may help keep uric acid in check."
+      },
+      {
+        "type": "heading",
+        "text": "Why activity helps"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Muscles use sugar from the blood when they work, so less is left over to be stored as fat.",
+          "Studies suggest that regular activity may lower liver fat even before the weighing scale moves much.",
+          "Activity supports gradual weight loss, which is linked with better liver health and steadier uric acid levels.",
+          "Moving every day may help your mood, sleep and energy, which makes other healthy changes easier."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Start small, then build"
+      },
+      {
+        "type": "paragraph",
+        "text": "If you have not been active for a while, start with a short walk of ten to fifteen minutes and add a few minutes every week. The goal over time is about 30 minutes on most days of the week, at a pace where you can talk but not sing. You can split it up: a short walk after breakfast, one after lunch and one after dinner all count."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Walk for 10 minutes after each main meal. This may also help with sugar spikes after eating.",
+          "Take the stairs for one or two floors instead of the lift.",
+          "Walk while talking on the phone.",
+          "Get off the auto or bus one stop early and walk the rest.",
+          "Walk to the local sabzi market or kirana shop instead of taking the scooter."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Add some strength work"
+      },
+      {
+        "type": "paragraph",
+        "text": "Stronger muscles use more sugar and help you stay active as you age. Two or three days a week, try simple exercises at home. You do not need weights; your own body is enough to begin with."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Sit down on a chair and stand up again, slowly, several times.",
+          "Wall push-ups: push against a wall instead of the floor.",
+          "Climb a few steps up and down holding the railing.",
+          "Carry filled water bottles or shopping bags as light weights.",
+          "Yoga asanas and surya namaskar, done gently and at your own pace."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "If you have gout or joint pain"
+      },
+      {
+        "type": "paragraph",
+        "text": "During a painful gout attack, rest the affected joint and do not push through the pain. Once the joint has settled, gentle movement like walking, cycling on a stationary cycle or swimming may be kinder to the joints than running or jumping. Choose comfortable shoes with good support, and drink water before and after exercise, because losing too much fluid through sweat may push uric acid up."
+      },
+      {
+        "type": "heading",
+        "text": "Stay safe"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Talk to your doctor before starting if you have heart disease, high blood pressure, diabetes on medicines, or any joint problem.",
+          "Stop and rest if you feel chest pain, dizziness, unusual breathlessness or palpitations, and seek medical help if it does not settle.",
+          "In summer, walk in the early morning or evening, not in the afternoon heat.",
+          "If the air quality is poor, walk indoors, in a mall corridor, or do home exercises instead."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Make it stick"
+      },
+      {
+        "type": "paragraph",
+        "text": "The best exercise is the one you will actually do. Walking with a friend, a neighbour or your family makes it more fun, and fixing a time, such as right after evening chai, helps it become a habit. Count your days, not your speed. Missing a day is normal; just start again tomorrow. Over weeks and months, these small walks may add up to real changes in how you feel."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "कसरत का फ़ायदा लेने के लिए जिम या महँगे जूतों की ज़रूरत नहीं है। ज़्यादातर लोगों के लिए रोज़ तेज़ चाल से टहलना सबसे आसान और काम की आदत है। रोज़ चलने-फिरने से शरीर शुगर को बेहतर इस्तेमाल कर पाता है, लिवर में जमा चर्बी कम होने में मदद मिल सकती है, और वज़न ठीक रहता है, जिससे यूरिक एसिड को काबू में रखने में भी मदद मिल सकती है।"
+      },
+      {
+        "type": "heading",
+        "text": "चलना-फिरना क्यों मदद करता है"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "काम करते समय मांसपेशियाँ ख़ून से शुगर लेती हैं, तो चर्बी बनने के लिए कम बचती है।",
+          "रिसर्च बताती है कि रोज़ की कसरत से लिवर की चर्बी कम हो सकती है, चाहे वज़न अभी ज़्यादा न घटा हो।",
+          "कसरत से वज़न धीरे-धीरे घटता है, जो लिवर की सेहत और यूरिक एसिड दोनों के लिए अच्छा है।",
+          "रोज़ चलने से मूड, नींद और ताक़त बेहतर हो सकती है, जिससे बाक़ी अच्छे बदलाव भी आसान हो जाते हैं।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "छोटे से शुरू करें, फिर बढ़ाएँ"
+      },
+      {
+        "type": "paragraph",
+        "text": "अगर काफ़ी समय से कसरत नहीं की है, तो 10–15 मिनट की छोटी सैर से शुरू करें और हर हफ़्ते कुछ मिनट बढ़ाएँ। धीरे-धीरे लक्ष्य रखें कि हफ़्ते के ज़्यादातर दिन लगभग 30 मिनट चलें, इतनी रफ़्तार से कि बात कर सकें पर गा न सकें। इसे टुकड़ों में भी कर सकते हैं: नाश्ते, दोपहर और रात के खाने के बाद थोड़ी-थोड़ी सैर, सब गिनी जाती है।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "हर बड़े खाने के बाद 10 मिनट टहलें। इससे खाने के बाद शुगर का उछाल भी कम हो सकता है।",
+          "एक-दो मंज़िल के लिए लिफ़्ट की जगह सीढ़ियाँ लें।",
+          "फ़ोन पर बात करते हुए टहलें।",
+          "ऑटो या बस से एक स्टॉप पहले उतरकर बाक़ी पैदल चलें।",
+          "सब्ज़ी मंडी या किराने की दुकान स्कूटर की जगह पैदल जाएँ।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "थोड़ी ताक़त वाली कसरत भी जोड़ें"
+      },
+      {
+        "type": "paragraph",
+        "text": "मज़बूत मांसपेशियाँ ज़्यादा शुगर इस्तेमाल करती हैं और उम्र बढ़ने पर भी आपको चलता-फिरता रखती हैं। हफ़्ते में दो-तीन दिन घर पर आसान कसरत करें। शुरू में वज़न उठाने की ज़रूरत नहीं, अपना शरीर ही काफ़ी है।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "कुर्सी पर बैठें और फिर धीरे से खड़े हों, कई बार दोहराएँ।",
+          "दीवार पर पुश-अप: ज़मीन की जगह दीवार पर हाथ टिकाकर करें।",
+          "रेलिंग पकड़कर कुछ सीढ़ियाँ ऊपर-नीचे चढ़ें।",
+          "पानी से भरी बोतलें या सामान के थैले हल्के वज़न की तरह उठाएँ।",
+          "योगासन और सूर्य नमस्कार, आराम से और अपनी रफ़्तार से।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "अगर गठिया (गाउट) या जोड़ों में दर्द है"
+      },
+      {
+        "type": "paragraph",
+        "text": "गाउट के तेज़ दर्द के दौरान उस जोड़ को आराम दें और दर्द सहकर कसरत न करें। जोड़ ठीक होने के बाद हल्की कसरत जैसे टहलना, एक जगह खड़ी साइकिल चलाना या तैराकी, दौड़ने-कूदने से ज़्यादा आरामदायक हो सकती है। अच्छे सपोर्ट वाले आरामदायक जूते पहनें, और कसरत से पहले और बाद में पानी पिएँ, क्योंकि पसीने से ज़्यादा पानी निकलने पर यूरिक एसिड बढ़ सकता है।"
+      },
+      {
+        "type": "heading",
+        "text": "सावधानी रखें"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "दिल की बीमारी, हाई बीपी, डायबिटीज़ की दवा या जोड़ों की कोई तकलीफ़ है तो शुरू करने से पहले डॉक्टर से बात करें।",
+          "सीने में दर्द, चक्कर, असामान्य साँस फूलना या धड़कन तेज़ लगे तो रुककर आराम करें, और ठीक न हो तो डॉक्टर को दिखाएँ।",
+          "गर्मियों में दोपहर की धूप में नहीं, सुबह जल्दी या शाम को टहलें।",
+          "हवा ज़्यादा ख़राब हो तो घर के अंदर, मॉल के गलियारे में टहलें या घर पर कसरत करें।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "आदत कैसे बनाएँ"
+      },
+      {
+        "type": "paragraph",
+        "text": "सबसे अच्छी कसरत वही है जो आप सच में करेंगे। किसी दोस्त, पड़ोसी या परिवार के साथ टहलने में मज़ा आता है, और एक समय तय करना, जैसे शाम की चाय के ठीक बाद, इसे आदत बनाने में मदद करता है। रफ़्तार नहीं, दिन गिनें। कोई दिन छूट जाए तो कोई बात नहीं, कल फिर शुरू करें। हफ़्तों और महीनों में यही छोटी सैर आपकी सेहत में असली फ़र्क़ ला सकती है।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

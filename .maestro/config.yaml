@@ -1,0 +1,13 @@
+# Maestro workspace config. Run all flows with: maestro test .maestro
+# Only the top-level flows below run; files in subflows/ are reused via runFlow.
+flows:
+  - '*.yaml'
+executionOrder:
+  continueOnFailure: true
+  flowsOrder:
+    - 01-onboarding
+    - 02-food-search
+    - 03-today-checklist
+    - 04-log-uric-acid
+    - 05-change-language
+    - 06-delete-all-data

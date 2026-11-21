@@ -17,20 +17,20 @@
       },
       "items": [
         {
-          "id": "drink-water",
+          "id": "water-8-glasses",
           "text": {
-            "en": "Drink 8–10 glasses of water through the day",
-            "hi": "दिन भर में 8–10 गिलास पानी पिएँ"
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
           },
           "frequency": "daily",
           "reviewedBy": "PENDING",
           "reviewedOn": null
         },
         {
-          "id": "walk-30",
+          "id": "walk-15",
           "text": {
-            "en": "Walk for 30 minutes",
-            "hi": "30 मिनट टहलें"
+            "en": "Walk for 15 minutes",
+            "hi": "15 मिनट टहलें"
           },
           "frequency": "daily",
           "reviewedBy": "PENDING",
@@ -49,8 +49,8 @@
         {
           "id": "no-sugary-drinks",
           "text": {
-            "en": "No cold drinks, packaged juice or sweetened tea today",
-            "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या ज़्यादा चीनी वाली चाय नहीं"
+            "en": "No cold drinks, packaged juice or energy drinks today",
+            "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या एनर्जी ड्रिंक नहीं"
           },
           "frequency": "rotating",
           "reviewedBy": "PENDING",
@@ -77,22 +77,2113 @@
           "reviewedOn": null
         },
         {
-          "id": "no-fried-snacks",
+          "id": "chai-half-sugar",
           "text": {
-            "en": "Skip fried snacks like samosa, pakora and namkeen",
-            "hi": "समोसा, पकौड़े और नमकीन जैसे तले स्नैक्स छोड़ें"
+            "en": "Have your chai with half the usual sugar, or none",
+            "hi": "चाय में आधी चीनी डालें, या बिल्कुल नहीं"
           },
           "frequency": "rotating",
           "reviewedBy": "PENDING",
           "reviewedOn": null
         },
         {
-          "id": "oil-3-tsp",
+          "id": "weigh-in",
           "text": {
-            "en": "Use no more than 3–4 teaspoons of oil in all meals today",
-            "hi": "आज पूरे खाने में 3–4 चम्मच से ज़्यादा तेल नहीं"
+            "en": "Weigh yourself in the morning before breakfast and log it in the app",
+            "hi": "सुबह नाश्ते से पहले वज़न लें और ऐप में लिखें"
           },
           "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "waist-measure",
+          "text": {
+            "en": "Measure your waist at the level of your navel and log it in the app",
+            "hi": "नाभि की सीध में कमर नापें और ऐप में लिखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "mindful-meal",
+          "text": {
+            "en": "Eat one meal sitting down, slowly, without TV or phone",
+            "hi": "एक खाना बैठकर, आराम से, बिना टीवी या फ़ोन के खाएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-sabzi",
+          "text": {
+            "en": "Make a Jain-friendly sabzi with lauki, tori, cabbage, capsicum or beans, cooked in little oil",
+            "hi": "लौकी, तोरी, पत्तागोभी, शिमला मिर्च या बीन्स की कम तेल वाली जैन सब्ज़ी बनाएँ"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-white-breakfast",
+          "text": {
+            "en": "Have an egg-white omelette or boiled egg whites with sabzi for breakfast",
+            "hi": "नाश्ते में सब्ज़ी के साथ अंडे की सफ़ेदी का ऑमलेट या उबली सफ़ेदी लें"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "grilled-fish",
+          "text": {
+            "en": "Have grilled, steamed or curry fish (not fried) for one meal",
+            "hi": "एक खाने में मछली लें — ग्रिल, भाप में या करी वाली, तली नहीं"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "besan-chilla-veg",
+          "text": {
+            "en": "Have a besan or moong chilla with onion, tomato and capsicum for breakfast",
+            "hi": "नाश्ते में प्याज़, टमाटर और शिमला मिर्च वाला बेसन या मूँग चीला लें"
+          },
+          "frequency": "rotating",
+          "diets": ["veg", "egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "title": {
+        "en": "Week 2: Smarter drinks",
+        "hi": "हफ़्ता 2: समझदारी वाले ड्रिंक"
+      },
+      "focus": {
+        "en": "Cut sugary drinks and alcohol, and take less sugar in chai.",
+        "hi": "मीठे ड्रिंक और शराब छोड़ें, चाय में चीनी कम करें।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-20",
+          "text": {
+            "en": "Walk for 20 minutes",
+            "hi": "20 मिनट टहलें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "chai-half-sugar",
+          "text": {
+            "en": "Have your chai with half the usual sugar, or none",
+            "hi": "चाय में आधी चीनी डालें, या बिल्कुल नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-sugary-drinks",
+          "text": {
+            "en": "No cold drinks, packaged juice or energy drinks today",
+            "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या एनर्जी ड्रिंक नहीं"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "fruit-not-juice",
+          "text": {
+            "en": "Eat a whole fruit (guava, apple, orange or papaya) instead of juice",
+            "hi": "जूस की जगह साबुत फल खाएँ (अमरूद, सेब, संतरा या पपीता)"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "nimbu-pani",
+          "text": {
+            "en": "Have plain nimbu pani or jeera water without sugar instead of a sweet drink",
+            "hi": "मीठे ड्रिंक की जगह बिना चीनी का नींबू पानी या जीरा पानी लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "chaas-instead",
+          "text": {
+            "en": "Have a glass of plain chaas instead of a sweet lassi or shake",
+            "hi": "मीठी लस्सी या शेक की जगह एक गिलास सादी छाछ लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "chai-no-biscuit",
+          "text": {
+            "en": "Have chai without biscuits, rusk or namkeen",
+            "hi": "चाय बिस्किट, रस्क या नमकीन के बिना पिएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "chai-max-2",
+          "text": {
+            "en": "Keep chai or coffee to 2 cups today",
+            "hi": "आज चाय या कॉफ़ी 2 कप तक ही रखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "veg-half-plate",
+          "text": {
+            "en": "Fill half your plate with sabzi or salad at lunch and dinner",
+            "hi": "दोपहर और रात के खाने में आधी थाली सब्ज़ी या सलाद रखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "sleep-7h",
+          "text": {
+            "en": "Sleep 7–8 hours",
+            "hi": "7–8 घंटे सोएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-salad",
+          "text": {
+            "en": "Have a Jain salad of cucumber, tomato, cabbage and capsicum with lemon",
+            "hi": "खीरा, टमाटर, पत्तागोभी और शिमला मिर्च का नींबू वाला जैन सलाद लें"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-no-butter",
+          "text": {
+            "en": "Cook eggs without butter — boil, poach or use a few drops of oil",
+            "hi": "अंडा बिना मक्खन के बनाएँ — उबालें, पोच करें या कुछ बूँद तेल में"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-processed-meat",
+          "text": {
+            "en": "No processed meat today: sausages, salami, nuggets or fried kebabs",
+            "hi": "आज प्रोसेस्ड मीट नहीं: सॉसेज, सलामी, नगेट्स या तले कबाब"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "title": {
+        "en": "Week 3: Balance your thali",
+        "hi": "हफ़्ता 3: संतुलित थाली"
+      },
+      "focus": {
+        "en": "Half sabzi, a quarter dal or protein, a quarter roti or rice — and smaller portions.",
+        "hi": "आधी सब्ज़ी, चौथाई दाल या प्रोटीन, चौथाई रोटी या चावल — और थोड़ी कम मात्रा।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-20",
+          "text": {
+            "en": "Walk for 20 minutes",
+            "hi": "20 मिनट टहलें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "thali-plating",
+          "text": {
+            "en": "Plate one meal the thali way: half sabzi, a quarter dal or protein, a quarter roti or rice",
+            "hi": "एक खाना थाली के हिसाब से परोसें: आधी सब्ज़ी, चौथाई दाल या प्रोटीन, चौथाई रोटी या चावल"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "salad-first",
+          "text": {
+            "en": "Start lunch with a katori of salad: cucumber, tomato, cabbage or capsicum",
+            "hi": "दोपहर के खाने की शुरुआत एक कटोरी सलाद से करें: खीरा, टमाटर, पत्तागोभी या शिमला मिर्च"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "one-roti-less",
+          "text": {
+            "en": "Have one roti less than usual at dinner and add more sabzi instead",
+            "hi": "रात के खाने में रोज़ से एक रोटी कम लें और उसकी जगह सब्ज़ी ज़्यादा लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "rice-one-katori",
+          "text": {
+            "en": "Keep rice to one katori per meal",
+            "hi": "हर खाने में चावल एक कटोरी तक रखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "small-plate",
+          "text": {
+            "en": "Use a smaller plate for dinner",
+            "hi": "रात के खाने के लिए छोटी थाली लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "wait-second-helping",
+          "text": {
+            "en": "Wait 10 minutes before taking a second helping",
+            "hi": "दोबारा परोसने से पहले 10 मिनट रुकें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "dal-katori",
+          "text": {
+            "en": "Have one katori of dal at lunch or dinner",
+            "hi": "दोपहर या रात के खाने में एक कटोरी दाल लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "kachumber-salad",
+          "text": {
+            "en": "Have a katori of kachumber salad (onion, cucumber, tomato, lemon) with lunch",
+            "hi": "दोपहर के खाने के साथ एक कटोरी कचूमर सलाद (प्याज़, खीरा, टमाटर, नींबू) लें"
+          },
+          "frequency": "rotating",
+          "diets": ["veg", "egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-salad",
+          "text": {
+            "en": "Have a Jain salad of cucumber, tomato, cabbage and capsicum with lemon",
+            "hi": "खीरा, टमाटर, पत्तागोभी और शिमला मिर्च का नींबू वाला जैन सलाद लें"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-white-breakfast",
+          "text": {
+            "en": "Have an egg-white omelette or boiled egg whites with sabzi for breakfast",
+            "hi": "नाश्ते में सब्ज़ी के साथ अंडे की सफ़ेदी का ऑमलेट या उबली सफ़ेदी लें"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "chicken-skinless",
+          "text": {
+            "en": "Choose skinless chicken cooked with little oil instead of mutton or fried chicken",
+            "hi": "मटन या तले चिकन की जगह कम तेल में बना बिना खाल वाला चिकन लें"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "title": {
+        "en": "Week 4: Better grains, less maida",
+        "hi": "हफ़्ता 4: बेहतर अनाज, कम मैदा"
+      },
+      "focus": {
+        "en": "Swap maida and white rice for whole wheat, millets and dalia.",
+        "hi": "मैदा और सफ़ेद चावल की जगह साबुत गेहूँ, मोटा अनाज और दलिया।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-30",
+          "text": {
+            "en": "Walk for 30 minutes",
+            "hi": "30 मिनट टहलें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-maida",
+          "text": {
+            "en": "No maida today: no white bread, biscuits, naan, pav or bakery items",
+            "hi": "आज मैदा नहीं: सफ़ेद ब्रेड, बिस्किट, नान, पाव या बेकरी का सामान नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "whole-wheat-roti",
+          "text": {
+            "en": "Make rotis from whole wheat atta, without removing the chokar (bran)",
+            "hi": "रोटी साबुत गेहूँ के आटे से बनाएँ, चोकर निकाले बिना"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "millet-meal",
+          "text": {
+            "en": "Have one meal with a millet: jowar, bajra or ragi roti, or a millet khichdi",
+            "hi": "एक खाने में मोटा अनाज लें: ज्वार, बाजरा या रागी की रोटी, या मिलेट की खिचड़ी"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "mixed-atta",
+          "text": {
+            "en": "Mix some besan, jowar or bajra into your roti atta",
+            "hi": "रोटी के आटे में थोड़ा बेसन, ज्वार या बाजरा मिलाएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "brown-rice-swap",
+          "text": {
+            "en": "Swap white rice for dalia, brown rice or a millet at one meal",
+            "hi": "एक खाने में सफ़ेद चावल की जगह दलिया, ब्राउन राइस या मोटा अनाज लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "rice-one-katori",
+          "text": {
+            "en": "Keep rice to one katori per meal",
+            "hi": "हर खाने में चावल एक कटोरी तक रखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "read-label",
+          "text": {
+            "en": "Read the label of one packaged food and check its sugar and fat",
+            "hi": "किसी एक पैकेट वाले खाने का लेबल पढ़ें और उसमें चीनी और फ़ैट देखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "poha-veg",
+          "text": {
+            "en": "Make poha or upma with lots of vegetables (peas, carrot, onion) and less oil",
+            "hi": "पोहा या उपमा में ढेर सारी सब्ज़ियाँ (मटर, गाजर, प्याज़) डालें और तेल कम रखें"
+          },
+          "frequency": "rotating",
+          "diets": ["veg", "egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-chilla",
+          "text": {
+            "en": "Have a moong or besan chilla with tomato, capsicum and coriander for breakfast (no onion)",
+            "hi": "नाश्ते में टमाटर, शिमला मिर्च और धनिया वाला मूँग या बेसन चीला लें (बिना प्याज़)"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-white-breakfast",
+          "text": {
+            "en": "Have an egg-white omelette or boiled egg whites with sabzi for breakfast",
+            "hi": "नाश्ते में सब्ज़ी के साथ अंडे की सफ़ेदी का ऑमलेट या उबली सफ़ेदी लें"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "fish-twice-week",
+          "text": {
+            "en": "Plan non-fried fish for two meals this week",
+            "hi": "इस हफ़्ते दो खानों में बिना तली मछली रखें"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "weigh-in",
+          "text": {
+            "en": "Weigh yourself in the morning before breakfast and log it in the app",
+            "hi": "सुबह नाश्ते से पहले वज़न लें और ऐप में लिखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "title": {
+        "en": "Week 5: Less oil, less fried food",
+        "hi": "हफ़्ता 5: कम तेल, कम तला"
+      },
+      "focus": {
+        "en": "Measure oil, fry less and try steaming, roasting and grilling.",
+        "hi": "तेल नापकर डालें, कम तलें और भाप, भूनना या ग्रिल आज़माएँ।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-30",
+          "text": {
+            "en": "Walk for 30 minutes",
+            "hi": "30 मिनट टहलें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-fried-snacks",
+          "text": {
+            "en": "Skip fried snacks today: samosa, pakora, kachori, bhujia",
+            "hi": "आज तला नाश्ता नहीं: समोसा, पकौड़ा, कचौड़ी, भुजिया"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "measure-oil",
+          "text": {
+            "en": "Measure cooking oil with a spoon instead of pouring from the bottle",
+            "hi": "तेल बोतल से सीधे डालने की जगह चम्मच से नापकर डालें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "less-oil-tadka",
+          "text": {
+            "en": "Use a little less oil in today’s tadka than you usually do",
+            "hi": "आज तड़के में रोज़ से थोड़ा कम तेल डालें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "fried-swap",
+          "text": {
+            "en": "Swap one fried item (puri, paratha with lots of ghee, pakora) for a steamed, roasted or plain version",
+            "hi": "एक तली चीज़ (पूरी, घी वाला पराठा, पकौड़ा) की जगह भाप में बनी, भुनी या सादी चीज़ लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-reused-oil",
+          "text": {
+            "en": "Do not reuse oil left over from deep frying",
+            "hi": "तलने के बाद बचा तेल दोबारा इस्तेमाल न करें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "ghee-limit",
+          "text": {
+            "en": "Keep ghee or butter to one teaspoon for the whole day",
+            "hi": "पूरे दिन में घी या मक्खन एक चम्मच तक रखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "cooking-method",
+          "text": {
+            "en": "Cook one dish today by steaming, roasting, grilling or in a pressure cooker instead of frying",
+            "hi": "आज एक चीज़ तलने की जगह भाप, भूनकर, ग्रिल या कुकर में बनाएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "roasted-snack",
+          "text": {
+            "en": "Choose a roasted snack — chana, makhana or a fruit — instead of namkeen",
+            "hi": "नमकीन की जगह भुना नाश्ता लें — चना, मखाना या कोई फल"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-farsan-swap",
+          "text": {
+            "en": "Swap fried farsan (khakhra with ghee, fafda, gathiya) for plain khakhra, roasted makhana or chana",
+            "hi": "तले फ़रसाण (घी वाला खाखरा, फाफड़ा, गाठिया) की जगह सादा खाखरा, भुना मखाना या चना लें"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-no-butter",
+          "text": {
+            "en": "Cook eggs without butter — boil, poach or use a few drops of oil",
+            "hi": "अंडा बिना मक्खन के बनाएँ — उबालें, पोच करें या कुछ बूँद तेल में"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "grilled-fish",
+          "text": {
+            "en": "Have grilled, steamed or curry fish (not fried) for one meal",
+            "hi": "एक खाने में मछली लें — ग्रिल, भाप में या करी वाली, तली नहीं"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "aloo-limit",
+          "text": {
+            "en": "Keep potato to a small part of the sabzi; add more green vegetables instead",
+            "hi": "सब्ज़ी में आलू थोड़ा रखें; उसकी जगह हरी सब्ज़ियाँ ज़्यादा डालें"
+          },
+          "frequency": "rotating",
+          "diets": ["veg", "egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "title": {
+        "en": "Week 6: Move more",
+        "hi": "हफ़्ता 6: ज़्यादा चलें-फिरें"
+      },
+      "focus": {
+        "en": "Walk faster, sit less and add simple strength exercises.",
+        "hi": "तेज़ चलें, कम बैठें और आसान ताक़त वाली कसरत जोड़ें।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-brisk-30",
+          "text": {
+            "en": "Walk briskly for 30 minutes — fast enough that talking gets a little harder",
+            "hi": "30 मिनट तेज़ चलें — इतना तेज़ कि बात करना थोड़ा मुश्किल लगे"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "sit-less",
+          "text": {
+            "en": "For every hour you sit, get up and move for 2–3 minutes",
+            "hi": "हर घंटे बैठने के बाद 2–3 मिनट उठकर चलें-फिरें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "strength-10",
+          "text": {
+            "en": "Do 10 minutes of simple strength moves: sit-to-stand from a chair, wall push-ups, step-ups",
+            "hi": "10 मिनट आसान ताक़त वाली कसरत करें: कुर्सी से उठना-बैठना, दीवार पर पुश-अप, सीढ़ी पर चढ़ना-उतरना"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "stairs",
+          "text": {
+            "en": "Take the stairs instead of the lift at least once today",
+            "hi": "आज कम से कम एक बार लिफ़्ट की जगह सीढ़ियाँ लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "stretch-10",
+          "text": {
+            "en": "Do 10 minutes of stretching or simple yoga",
+            "hi": "10 मिनट स्ट्रेचिंग या आसान योग करें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-after-meal",
+          "text": {
+            "en": "Take a 10-minute walk after lunch or dinner",
+            "hi": "दोपहर या रात के खाने के बाद 10 मिनट टहलें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "active-chores",
+          "text": {
+            "en": "Do one household chore actively: sweeping, gardening or walking to the market",
+            "hi": "घर का कोई एक काम चलते-फिरते करें: झाड़ू, बाग़बानी या पैदल बाज़ार जाना"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-while-phone",
+          "text": {
+            "en": "Walk around while you talk on the phone",
+            "hi": "फ़ोन पर बात करते समय टहलते रहें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "water-after-walk",
+          "text": {
+            "en": "Drink a glass of water after your walk or exercise",
+            "hi": "टहलने या कसरत के बाद एक गिलास पानी पिएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "protein-breakfast",
+          "text": {
+            "en": "Add protein to breakfast: moong or besan chilla, paneer, curd or dal",
+            "hi": "नाश्ते में प्रोटीन जोड़ें: मूँग या बेसन चीला, पनीर, दही या दाल"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-protein",
+          "text": {
+            "en": "Add Jain-friendly protein to a meal: paneer, curd, moong dal or chana",
+            "hi": "एक खाने में जैन प्रोटीन जोड़ें: पनीर, दही, मूँग दाल या चना"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-protein",
+          "text": {
+            "en": "Have eggs as your protein today — boiled, or bhurji with little oil",
+            "hi": "आज प्रोटीन के लिए अंडा लें — उबला, या कम तेल वाली भुर्जी"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "chicken-skinless",
+          "text": {
+            "en": "Choose skinless chicken cooked with little oil instead of mutton or fried chicken",
+            "hi": "मटन या तले चिकन की जगह कम तेल में बना बिना खाल वाला चिकन लें"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "title": {
+        "en": "Week 7: Snacks and cravings",
+        "hi": "हफ़्ता 7: नाश्ता और खाने की तलब"
+      },
+      "focus": {
+        "en": "Plan healthy snacks and handle cravings for namkeen and sweets.",
+        "hi": "हेल्दी नाश्ते की तैयारी और नमकीन-मिठाई की तलब से निपटना।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-brisk-30",
+          "text": {
+            "en": "Walk briskly for 30 minutes — fast enough that talking gets a little harder",
+            "hi": "30 मिनट तेज़ चलें — इतना तेज़ कि बात करना थोड़ा मुश्किल लगे"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-packaged-snacks",
+          "text": {
+            "en": "No chips, cookies or packaged namkeen today",
+            "hi": "आज चिप्स, कुकीज़ या पैकेट वाली नमकीन नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "roasted-snack",
+          "text": {
+            "en": "Choose a roasted snack — chana, makhana or a fruit — instead of namkeen",
+            "hi": "नमकीन की जगह भुना नाश्ता लें — चना, मखाना या कोई फल"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "snack-plan",
+          "text": {
+            "en": "Keep a healthy snack ready for the evening (roasted chana, fruit or plain curd)",
+            "hi": "शाम के लिए हेल्दी नाश्ता पहले से तैयार रखें (भुना चना, फल या सादा दही)"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "craving-pause",
+          "text": {
+            "en": "When a craving hits, drink water and wait 10 minutes before deciding",
+            "hi": "जब कुछ खाने का मन करे, पानी पिएँ और फ़ैसला करने से पहले 10 मिनट रुकें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "nuts-handful",
+          "text": {
+            "en": "Have a small handful of unsalted nuts (almonds, walnuts or peanuts) as a snack",
+            "hi": "नाश्ते में मुट्ठी भर बिना नमक वाले मेवे लें (बादाम, अखरोट या मूँगफली)"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "kitchen-clearout",
+          "text": {
+            "en": "Move biscuits, namkeen and sweets out of easy reach in your kitchen",
+            "hi": "बिस्किट, नमकीन और मिठाई रसोई में ऐसी जगह रखें जहाँ हाथ आसानी से न पहुँचे"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "sweet-small",
+          "text": {
+            "en": "If you have a sweet, keep it to one small piece right after a meal",
+            "hi": "मीठा खाना हो तो खाने के तुरंत बाद बस एक छोटा टुकड़ा लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "fruit-one",
+          "text": {
+            "en": "Eat one portion of whole fruit (one medium fruit or one katori)",
+            "hi": "एक हिस्सा साबुत फल खाएँ (एक मध्यम फल या एक कटोरी)"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-farsan-swap",
+          "text": {
+            "en": "Swap fried farsan (khakhra with ghee, fafda, gathiya) for plain khakhra, roasted makhana or chana",
+            "hi": "तले फ़रसाण (घी वाला खाखरा, फाफड़ा, गाठिया) की जगह सादा खाखरा, भुना मखाना या चना लें"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "sprouts-chaat",
+          "text": {
+            "en": "Have a katori of moong sprouts chaat with onion, tomato and lemon",
+            "hi": "प्याज़, टमाटर और नींबू के साथ एक कटोरी अंकुरित मूँग की चाट खाएँ"
+          },
+          "frequency": "rotating",
+          "diets": ["veg", "egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-protein",
+          "text": {
+            "en": "Have eggs as your protein today — boiled, or bhurji with little oil",
+            "hi": "आज प्रोटीन के लिए अंडा लें — उबला, या कम तेल वाली भुर्जी"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-processed-meat",
+          "text": {
+            "en": "No processed meat today: sausages, salami, nuggets or fried kebabs",
+            "hi": "आज प्रोसेस्ड मीट नहीं: सॉसेज, सलामी, नगेट्स या तले कबाब"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "title": {
+        "en": "Week 8: Sleep and stress",
+        "hi": "हफ़्ता 8: नींद और तनाव"
+      },
+      "focus": {
+        "en": "Good sleep and less stress may help your weight and your liver.",
+        "hi": "अच्छी नींद और कम तनाव वज़न और लिवर दोनों के लिए मददगार हो सकते हैं।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-brisk-30",
+          "text": {
+            "en": "Walk briskly for 30 minutes — fast enough that talking gets a little harder",
+            "hi": "30 मिनट तेज़ चलें — इतना तेज़ कि बात करना थोड़ा मुश्किल लगे"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "sleep-7h",
+          "text": {
+            "en": "Sleep 7–8 hours",
+            "hi": "7–8 घंटे सोएँ"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "fixed-bedtime",
+          "text": {
+            "en": "Go to bed and wake up at about the same time as yesterday",
+            "hi": "कल जितने ही समय पर सोएँ और उठें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "screens-off",
+          "text": {
+            "en": "Switch off TV and phone 30 minutes before bed",
+            "hi": "सोने से 30 मिनट पहले टीवी और फ़ोन बंद कर दें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-late-chai",
+          "text": {
+            "en": "No chai or coffee after 5 pm so you sleep better",
+            "hi": "शाम 5 बजे के बाद चाय या कॉफ़ी नहीं, ताकि नींद अच्छी आए"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "slow-breathing",
+          "text": {
+            "en": "Spend 5 minutes on slow breathing or quiet time to relax",
+            "hi": "5 मिनट धीमी साँस लें या चुपचाप बैठकर आराम करें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "stress-talk",
+          "text": {
+            "en": "Talk to someone you trust about anything that is worrying you",
+            "hi": "जो बात परेशान कर रही है, किसी भरोसेमंद व्यक्ति से बात करें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-night-snack",
+          "text": {
+            "en": "No snacking after dinner; if hungry, have warm milk without sugar or a glass of water",
+            "hi": "रात के खाने के बाद कुछ न खाएँ; भूख लगे तो बिना चीनी का गुनगुना दूध या पानी लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "light-dinner",
+          "text": {
+            "en": "Keep dinner lighter than lunch: dal, sabzi and 1–2 rotis",
+            "hi": "रात का खाना दोपहर से हल्का रखें: दाल, सब्ज़ी और 1–2 रोटी"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "dinner-by-8",
+          "text": {
+            "en": "Finish dinner by 8 pm",
+            "hi": "रात का खाना 8 बजे तक खा लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-chauvihar",
+          "text": {
+            "en": "If you follow chauvihar, keep your sunset dinner light: dal, sabzi and 1–2 rotis",
+            "hi": "अगर आप चौविहार करते हैं, तो सूर्यास्त से पहले का खाना हल्का रखें: दाल, सब्ज़ी और 1–2 रोटी"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-white-breakfast",
+          "text": {
+            "en": "Have an egg-white omelette or boiled egg whites with sabzi for breakfast",
+            "hi": "नाश्ते में सब्ज़ी के साथ अंडे की सफ़ेदी का ऑमलेट या उबली सफ़ेदी लें"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "grilled-fish",
+          "text": {
+            "en": "Have grilled, steamed or curry fish (not fried) for one meal",
+            "hi": "एक खाने में मछली लें — ग्रिल, भाप में या करी वाली, तली नहीं"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "title": {
+        "en": "Week 9: Eating out and street food",
+        "hi": "हफ़्ता 9: बाहर का खाना और स्ट्रीट फ़ूड"
+      },
+      "focus": {
+        "en": "Make lighter choices at restaurants, canteens and street stalls.",
+        "hi": "रेस्टोरेंट, कैंटीन और ठेले पर हल्के विकल्प चुनें।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-brisk-30",
+          "text": {
+            "en": "Walk briskly for 30 minutes — fast enough that talking gets a little harder",
+            "hi": "30 मिनट तेज़ चलें — इतना तेज़ कि बात करना थोड़ा मुश्किल लगे"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "veg-half-plate",
+          "text": {
+            "en": "Fill half your plate with sabzi or salad at lunch and dinner",
+            "hi": "दोपहर और रात के खाने में आधी थाली सब्ज़ी या सलाद रखें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "eat-out-grilled",
+          "text": {
+            "en": "When eating out, choose tandoori, grilled or dal-sabzi dishes over fried or creamy gravies",
+            "hi": "बाहर खाएँ तो तली या मलाईदार ग्रेवी की जगह तंदूरी, ग्रिल या दाल-सब्ज़ी चुनें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "eat-out-share",
+          "text": {
+            "en": "Share a restaurant dish or order a half portion",
+            "hi": "रेस्टोरेंट में डिश बाँटकर खाएँ या हाफ़ प्लेट मँगाएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "street-food-swap",
+          "text": {
+            "en": "Pick a lighter street food — roasted corn, fruit chaat or idli — instead of pani puri, tikki or bhature",
+            "hi": "गोलगप्पे, टिक्की या भटूरे की जगह हल्का स्ट्रीट फ़ूड चुनें — भुना भुट्टा, फ्रूट चाट या इडली"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-extra-butter",
+          "text": {
+            "en": "Ask for no extra butter, cream or cheese on your order",
+            "hi": "ऑर्डर में ऊपर से मक्खन, क्रीम या चीज़ न डलवाएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "lunch-box",
+          "text": {
+            "en": "Carry a home-made lunch box when you go out",
+            "hi": "बाहर जाएँ तो घर का बना टिफ़िन साथ ले जाएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-sugary-drinks",
+          "text": {
+            "en": "No cold drinks, packaged juice or energy drinks today",
+            "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या एनर्जी ड्रिंक नहीं"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "chaas-instead",
+          "text": {
+            "en": "Have a glass of plain chaas instead of a sweet lassi or shake",
+            "hi": "मीठी लस्सी या शेक की जगह एक गिलास सादी छाछ लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-farsan-swap",
+          "text": {
+            "en": "Swap fried farsan (khakhra with ghee, fafda, gathiya) for plain khakhra, roasted makhana or chana",
+            "hi": "तले फ़रसाण (घी वाला खाखरा, फाफड़ा, गाठिया) की जगह सादा खाखरा, भुना मखाना या चना लें"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "tandoori-not-butter",
+          "text": {
+            "en": "Order tandoori chicken or fish tikka instead of butter chicken or fried fish",
+            "hi": "बटर चिकन या तली मछली की जगह तंदूरी चिकन या फ़िश टिक्का लें"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-no-butter",
+          "text": {
+            "en": "Cook eggs without butter — boil, poach or use a few drops of oil",
+            "hi": "अंडा बिना मक्खन के बनाएँ — उबालें, पोच करें या कुछ बूँद तेल में"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "plan-tomorrow",
+          "text": {
+            "en": "Plan tomorrow’s meals tonight",
+            "hi": "आज रात ही कल के खाने की योजना बना लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "title": {
+        "en": "Week 10: Festivals, weddings and travel",
+        "hi": "हफ़्ता 10: त्योहार, शादी और सफ़र"
+      },
+      "focus": {
+        "en": "Enjoy celebrations with a plan: one small sweet, more sabzi, no alcohol.",
+        "hi": "योजना के साथ जश्न मनाएँ: एक छोटी मिठाई, ज़्यादा सब्ज़ी, शराब नहीं।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-brisk-30",
+          "text": {
+            "en": "Walk briskly for 30 minutes — fast enough that talking gets a little harder",
+            "hi": "30 मिनट तेज़ चलें — इतना तेज़ कि बात करना थोड़ा मुश्किल लगे"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "veg-half-plate",
+          "text": {
+            "en": "Fill half your plate with sabzi or salad at lunch and dinner",
+            "hi": "दोपहर और रात के खाने में आधी थाली सब्ज़ी या सलाद रखें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "festival-plan",
+          "text": {
+            "en": "Before a festival or function, decide in advance what you will eat and what you will skip",
+            "hi": "त्योहार या फ़ंक्शन से पहले ही तय कर लें कि क्या खाएँगे और क्या छोड़ेंगे"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "eat-before-party",
+          "text": {
+            "en": "Before a party or wedding, eat a small healthy snack at home so you are not very hungry",
+            "hi": "पार्टी या शादी में जाने से पहले घर पर थोड़ा हेल्दी खा लें ताकि बहुत भूख न लगे"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "buffet-round",
+          "text": {
+            "en": "At a buffet, take one round: fill half the plate with salad and sabzi first",
+            "hi": "बुफ़े में एक ही बार प्लेट भरें: पहले आधी प्लेट सलाद और सब्ज़ी से"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "one-sweet-festival",
+          "text": {
+            "en": "At a celebration, pick one sweet you really love and have a small piece",
+            "hi": "जश्न में वही एक मिठाई चुनें जो सबसे ज़्यादा पसंद हो, और छोटा टुकड़ा लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "homemade-sweet",
+          "text": {
+            "en": "If you make sweets at home, use less sugar and ghee, or try a fruit-based sweet",
+            "hi": "घर पर मिठाई बनाएँ तो चीनी और घी कम डालें, या फल वाली मिठाई बनाएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "say-no-politely",
+          "text": {
+            "en": "Practise a polite “no, thank you” for second helpings and sweets",
+            "hi": "दोबारा परोसने और मिठाई के लिए विनम्रता से “नहीं, धन्यवाद” कहने की आदत डालें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "travel-snacks",
+          "text": {
+            "en": "When travelling, pack roasted chana, fruit and a water bottle",
+            "hi": "सफ़र में भुना चना, फल और पानी की बोतल साथ रखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "vrat-smart",
+          "text": {
+            "en": "On a vrat day, choose fruit, curd, roasted makhana or kuttu roti instead of fried sabudana or puri",
+            "hi": "व्रत के दिन तले साबूदाने या पूरी की जगह फल, दही, भुना मखाना या कुट्टू की रोटी लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-sweet-small",
+          "text": {
+            "en": "At a Jain festival meal, take a small piece of one sweet and fill up on sabzi and dal",
+            "hi": "जैन त्योहार के खाने में एक मिठाई का छोटा टुकड़ा लें और पेट सब्ज़ी-दाल से भरें"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "tandoori-not-butter",
+          "text": {
+            "en": "Order tandoori chicken or fish tikka instead of butter chicken or fried fish",
+            "hi": "बटर चिकन या तली मछली की जगह तंदूरी चिकन या फ़िश टिक्का लें"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-protein",
+          "text": {
+            "en": "Have eggs as your protein today — boiled, or bhurji with little oil",
+            "hi": "आज प्रोटीन के लिए अंडा लें — उबला, या कम तेल वाली भुर्जी"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 11,
+      "title": {
+        "en": "Week 11: Cook smart at home",
+        "hi": "हफ़्ता 11: घर पर समझदारी से पकाएँ"
+      },
+      "focus": {
+        "en": "Shop, plan and cook healthy meals for the whole family.",
+        "hi": "पूरे परिवार के लिए हेल्दी ख़रीदारी, योजना और खाना।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-brisk-40",
+          "text": {
+            "en": "Walk briskly for 40 minutes, in one go or in two parts",
+            "hi": "40 मिनट तेज़ चलें, एक बार में या दो हिस्सों में"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "measure-oil",
+          "text": {
+            "en": "Measure cooking oil with a spoon instead of pouring from the bottle",
+            "hi": "तेल बोतल से सीधे डालने की जगह चम्मच से नापकर डालें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "grocery-list",
+          "text": {
+            "en": "Make a grocery list with more sabzi, fruit, dal and whole grains, and stick to it",
+            "hi": "ज़्यादा सब्ज़ी, फल, दाल और साबुत अनाज वाली सामान की सूची बनाएँ और उसी के हिसाब से ख़रीदें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "read-label",
+          "text": {
+            "en": "Read the label of one packaged food and check its sugar and fat",
+            "hi": "किसी एक पैकेट वाले खाने का लेबल पढ़ें और उसमें चीनी और फ़ैट देखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "cooking-method",
+          "text": {
+            "en": "Cook one dish today by steaming, roasting, grilling or in a pressure cooker instead of frying",
+            "hi": "आज एक चीज़ तलने की जगह भाप, भूनकर, ग्रिल या कुकर में बनाएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "family-meal",
+          "text": {
+            "en": "Cook one healthy meal for the whole family, not a separate “diet” plate",
+            "hi": "पूरे परिवार के लिए एक हेल्दी खाना बनाएँ, अलग “डाइट” वाली थाली नहीं"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "plan-tomorrow",
+          "text": {
+            "en": "Plan tomorrow’s meals tonight",
+            "hi": "आज रात ही कल के खाने की योजना बना लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "two-veg-colours",
+          "text": {
+            "en": "Eat vegetables of at least two colours today",
+            "hi": "आज कम से कम दो रंगों की सब्ज़ियाँ खाएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "green-sabzi",
+          "text": {
+            "en": "Have one green sabzi today: palak, methi, lauki, tori, beans or cabbage",
+            "hi": "आज एक हरी सब्ज़ी खाएँ: पालक, मेथी, लौकी, तोरी, बीन्स या पत्तागोभी"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "paneer-tofu",
+          "text": {
+            "en": "Add paneer, tofu or soya to one meal for protein",
+            "hi": "प्रोटीन के लिए एक खाने में पनीर, टोफ़ू या सोया लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-raw-banana",
+          "text": {
+            "en": "Use raw banana or lauki instead of potato in Jain dishes, cooked with little oil",
+            "hi": "जैन खाने में आलू की जगह कच्चा केला या लौकी लें, कम तेल में बनाएँ"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "poha-veg",
+          "text": {
+            "en": "Make poha or upma with lots of vegetables (peas, carrot, onion) and less oil",
+            "hi": "पोहा या उपमा में ढेर सारी सब्ज़ियाँ (मटर, गाजर, प्याज़) डालें और तेल कम रखें"
+          },
+          "frequency": "rotating",
+          "diets": ["veg", "egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "fish-twice-week",
+          "text": {
+            "en": "Plan non-fried fish for two meals this week",
+            "hi": "इस हफ़्ते दो खानों में बिना तली मछली रखें"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-white-breakfast",
+          "text": {
+            "en": "Have an egg-white omelette or boiled egg whites with sabzi for breakfast",
+            "hi": "नाश्ते में सब्ज़ी के साथ अंडे की सफ़ेदी का ऑमलेट या उबली सफ़ेदी लें"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 12,
+      "title": {
+        "en": "Week 12: Check in with your doctor",
+        "hi": "हफ़्ता 12: डॉक्टर से मिलकर जाँच"
+      },
+      "focus": {
+        "en": "Review your weight, waist and labs, and plan a check-up with your doctor.",
+        "hi": "वज़न, कमर और लैब रिपोर्ट देखें और डॉक्टर से जाँच की योजना बनाएँ।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-brisk-40",
+          "text": {
+            "en": "Walk briskly for 40 minutes, in one go or in two parts",
+            "hi": "40 मिनट तेज़ चलें, एक बार में या दो हिस्सों में"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "veg-half-plate",
+          "text": {
+            "en": "Fill half your plate with sabzi or salad at lunch and dinner",
+            "hi": "दोपहर और रात के खाने में आधी थाली सब्ज़ी या सलाद रखें"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "weigh-in",
+          "text": {
+            "en": "Weigh yourself in the morning before breakfast and log it in the app",
+            "hi": "सुबह नाश्ते से पहले वज़न लें और ऐप में लिखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "waist-measure",
+          "text": {
+            "en": "Measure your waist at the level of your navel and log it in the app",
+            "hi": "नाभि की सीध में कमर नापें और ऐप में लिखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "log-labs",
+          "text": {
+            "en": "Log your latest lab values in the app if you have a recent report",
+            "hi": "अगर हाल की रिपोर्ट है तो लैब वैल्यू ऐप में लिखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "lab-date",
+          "text": {
+            "en": "Check when your next blood test is due and note the date",
+            "hi": "देखें कि अगला ब्लड टेस्ट कब होना है और तारीख़ लिख लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "doctor-questions",
+          "text": {
+            "en": "Write down questions for your next doctor visit",
+            "hi": "अगली बार डॉक्टर से पूछने वाले सवाल लिख लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "medicines-on-time",
+          "text": {
+            "en": "If your doctor has prescribed medicines, take them as advised — never stop on your own",
+            "hi": "अगर डॉक्टर ने दवा दी है तो बताए अनुसार लें — अपने आप कभी बंद न करें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "weight-pace",
+          "text": {
+            "en": "Check your weight trend: aim for slow loss, about half to one kg a week at most",
+            "hi": "अपने वज़न का रुझान देखें: धीरे-धीरे घटाएँ, हफ़्ते में ज़्यादा से ज़्यादा आधा से एक किलो"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "review-progress",
+          "text": {
+            "en": "Look at your progress charts in the app and note what has improved",
+            "hi": "ऐप में अपने प्रोग्रेस चार्ट देखें और लिखें कि क्या सुधरा है"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "strength-15",
+          "text": {
+            "en": "Do 15 minutes of strength exercises (squats, wall push-ups, light weights or water bottles)",
+            "hi": "15 मिनट ताक़त वाली कसरत करें (स्क्वॉट, दीवार पर पुश-अप, हल्का वज़न या पानी की बोतलें)"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-protein",
+          "text": {
+            "en": "Add Jain-friendly protein to a meal: paneer, curd, moong dal or chana",
+            "hi": "एक खाने में जैन प्रोटीन जोड़ें: पनीर, दही, मूँग दाल या चना"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-no-butter",
+          "text": {
+            "en": "Cook eggs without butter — boil, poach or use a few drops of oil",
+            "hi": "अंडा बिना मक्खन के बनाएँ — उबालें, पोच करें या कुछ बूँद तेल में"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "chicken-skinless",
+          "text": {
+            "en": "Choose skinless chicken cooked with little oil instead of mutton or fried chicken",
+            "hi": "मटन या तले चिकन की जगह कम तेल में बना बिना खाल वाला चिकन लें"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        }
+      ]
+    },
+    {
+      "week": 13,
+      "title": {
+        "en": "Week 13: Make it your way of life",
+        "hi": "हफ़्ता 13: इसे अपनी जीवनशैली बनाएँ"
+      },
+      "focus": {
+        "en": "Keep the habits that worked for you, and restart gently after any slip.",
+        "hi": "जो आदतें काम आईं उन्हें बनाए रखें, और चूक हो तो आराम से फिर शुरू करें।"
+      },
+      "items": [
+        {
+          "id": "water-8-glasses",
+          "text": {
+            "en": "Drink 8–10 glasses of water through the day (unless your doctor has limited your fluids)",
+            "hi": "दिन भर में 8–10 गिलास पानी पिएँ (अगर डॉक्टर ने पानी कम पीने को नहीं कहा है)"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "walk-brisk-40",
+          "text": {
+            "en": "Walk briskly for 40 minutes, in one go or in two parts",
+            "hi": "40 मिनट तेज़ चलें, एक बार में या दो हिस्सों में"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "thali-plating",
+          "text": {
+            "en": "Plate one meal the thali way: half sabzi, a quarter dal or protein, a quarter roti or rice",
+            "hi": "एक खाना थाली के हिसाब से परोसें: आधी सब्ज़ी, चौथाई दाल या प्रोटीन, चौथाई रोटी या चावल"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-alcohol",
+          "text": {
+            "en": "No alcohol today",
+            "hi": "आज शराब नहीं"
+          },
+          "frequency": "daily",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "next-90-plan",
+          "text": {
+            "en": "Pick the three habits you will keep after this plan ends",
+            "hi": "वे तीन आदतें चुनें जो आप यह प्लान ख़त्म होने के बाद भी निभाएँगे"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "week-win",
+          "text": {
+            "en": "Write down one healthy change you kept up this week",
+            "hi": "इस हफ़्ते जो एक अच्छी आदत निभाई, उसे लिख लें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "relapse-reset",
+          "text": {
+            "en": "If you slipped up this week, restart at the next meal — no guilt needed",
+            "hi": "इस हफ़्ते कहीं चूक हुई हो तो अगले खाने से फिर शुरू करें — ख़ुद को दोष न दें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "family-walk",
+          "text": {
+            "en": "Go for an evening walk with a family member or friend",
+            "hi": "शाम को परिवार के किसी सदस्य या दोस्त के साथ टहलने जाएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "family-meal",
+          "text": {
+            "en": "Cook one healthy meal for the whole family, not a separate “diet” plate",
+            "hi": "पूरे परिवार के लिए एक हेल्दी खाना बनाएँ, अलग “डाइट” वाली थाली नहीं"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-maida",
+          "text": {
+            "en": "No maida today: no white bread, biscuits, naan, pav or bakery items",
+            "hi": "आज मैदा नहीं: सफ़ेद ब्रेड, बिस्किट, नान, पाव या बेकरी का सामान नहीं"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-fried-snacks",
+          "text": {
+            "en": "Skip fried snacks today: samosa, pakora, kachori, bhujia",
+            "hi": "आज तला नाश्ता नहीं: समोसा, पकौड़ा, कचौड़ी, भुजिया"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "no-sugary-drinks",
+          "text": {
+            "en": "No cold drinks, packaged juice or energy drinks today",
+            "hi": "आज कोल्ड ड्रिंक, पैकेट वाला जूस या एनर्जी ड्रिंक नहीं"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "sleep-7h",
+          "text": {
+            "en": "Sleep 7–8 hours",
+            "hi": "7–8 घंटे सोएँ"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "weigh-in",
+          "text": {
+            "en": "Weigh yourself in the morning before breakfast and log it in the app",
+            "hi": "सुबह नाश्ते से पहले वज़न लें और ऐप में लिखें"
+          },
+          "frequency": "rotating",
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "jain-sabzi",
+          "text": {
+            "en": "Make a Jain-friendly sabzi with lauki, tori, cabbage, capsicum or beans, cooked in little oil",
+            "hi": "लौकी, तोरी, पत्तागोभी, शिमला मिर्च या बीन्स की कम तेल वाली जैन सब्ज़ी बनाएँ"
+          },
+          "frequency": "rotating",
+          "diets": ["jain"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "egg-white-breakfast",
+          "text": {
+            "en": "Have an egg-white omelette or boiled egg whites with sabzi for breakfast",
+            "hi": "नाश्ते में सब्ज़ी के साथ अंडे की सफ़ेदी का ऑमलेट या उबली सफ़ेदी लें"
+          },
+          "frequency": "rotating",
+          "diets": ["egg", "nonveg"],
+          "reviewedBy": "PENDING",
+          "reviewedOn": null
+        },
+        {
+          "id": "fish-twice-week",
+          "text": {
+            "en": "Plan non-fried fish for two meals this week",
+            "hi": "इस हफ़्ते दो खानों में बिना तली मछली रखें"
+          },
+          "frequency": "rotating",
+          "diets": ["nonveg"],
           "reviewedBy": "PENDING",
           "reviewedOn": null
         }

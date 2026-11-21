@@ -1,0 +1,196 @@
+{
+  "id": "reading-your-lab-report",
+  "topics": ["general", "fattyLiver", "uricAcid"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": {
+    "en": "Reading your lab report",
+    "hi": "अपनी लैब रिपोर्ट कैसे पढ़ें"
+  },
+  "summary": {
+    "en": "What ALT, AST, uric acid and ultrasound lines on your report mean, in plain words.",
+    "hi": "रिपोर्ट में ALT, AST, यूरिक एसिड और अल्ट्रासाउंड का मतलब, आसान भाषा में।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "A lab report can look like a page full of numbers and short forms. You do not need to understand every line. This guide explains the few lines that matter most for fatty liver and uric acid, so you can have a better talk with your doctor. It does not replace your doctor's reading of the report."
+      },
+      {
+        "type": "heading",
+        "text": "How a report is laid out"
+      },
+      {
+        "type": "paragraph",
+        "text": "Most Indian lab reports have four columns: the test name, your result, the unit and the reference range. The reference range (sometimes called the normal range or biological reference interval) is the range the lab sees in most healthy people. Values outside it are often printed in bold, marked with H (high) or L (low), or shown with a star."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Always compare your result with your own lab's reference range, not a number from the internet or a friend's report.",
+          "Different labs use different machines, so ranges can differ a little from lab to lab.",
+          "Check the unit. Liver enzymes are usually in U/L and uric acid in mg/dL.",
+          "Note the date and whether the test was done fasting, if the report mentions it."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ALT and AST (liver enzymes)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ALT (also written SGPT) and AST (also written SGOT) are enzymes found inside liver cells. When liver cells are stressed, more of these enzymes can leak into the blood, so the numbers may go up. They are usually part of a liver function test (LFT)."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "A high ALT or AST is a signal that the liver may be under stress. It does not tell you the reason by itself.",
+          "Fatty liver, alcohol, some medicines, viral infections, hard exercise and many other things can raise these values.",
+          "Normal ALT and AST do not always mean there is no fatty liver. Some people with fatty liver have normal enzymes.",
+          "Your doctor looks at these numbers together with your history, other tests and scans."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Uric acid"
+      },
+      {
+        "type": "paragraph",
+        "text": "Serum uric acid shows how much uric acid is in your blood on that day. The reference range is often different for men and women, so check which range applies to you. A high value does not always mean gout, and gout can sometimes flare even when a single reading looks fine. Your doctor decides what your value means for you and whether you need treatment."
+      },
+      {
+        "type": "heading",
+        "text": "Ultrasound report"
+      },
+      {
+        "type": "paragraph",
+        "text": "An ultrasound of the abdomen may say \"fatty liver\" or \"increased echogenicity\" and give a grade such as grade 1, 2 or 3. Echogenicity simply means how bright the liver looks on the scan; fat makes it look brighter. The grade is a rough guide to how much fat is seen. It is not a measure of liver damage on its own, and different scans and operators can give slightly different grades."
+      },
+      {
+        "type": "heading",
+        "text": "One number is just a snapshot"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lab values move up and down with food, sleep, exercise, illness and even the time of day. One reading is a snapshot, not the full story. What usually matters more is the trend over months, along with how you feel and what your doctor finds."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Log each result in the Progress tab with the test date, so you and your doctor can see the trend.",
+          "Try to repeat tests at the same lab when you can, so the numbers are easier to compare.",
+          "Do not panic over a single high value, and do not ignore it either. Show it to your doctor."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Questions to ask your doctor"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Which of these values are outside the range, and what could be the reason?",
+          "Do I need any more tests or a repeat test? When?",
+          "What changes in food and activity may help in my case?",
+          "Which values should I keep an eye on before my next visit?"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "This app helps you keep a record and understand the words on the page. Only your doctor can tell you what the report means for your health, so always take your reports to your next appointment."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "लैब रिपोर्ट देखकर लगता है जैसे बस नंबर और छोटे-छोटे शब्द भरे हों। हर लाइन समझना ज़रूरी नहीं है। यहाँ हम फैटी लिवर और यूरिक एसिड से जुड़ी कुछ ख़ास लाइनें आसान भाषा में समझा रहे हैं, ताकि आप डॉक्टर से बेहतर बात कर सकें। रिपोर्ट का असली मतलब आपके डॉक्टर ही बताएँगे।"
+      },
+      {
+        "type": "heading",
+        "text": "रिपोर्ट कैसे बनी होती है"
+      },
+      {
+        "type": "paragraph",
+        "text": "ज़्यादातर रिपोर्ट में चार कॉलम होते हैं: टेस्ट का नाम, आपका रिज़ल्ट, यूनिट और रेफ़रेंस रेंज। रेफ़रेंस रेंज (जिसे नॉर्मल रेंज भी कहते हैं) वह दायरा है जो लैब ज़्यादातर स्वस्थ लोगों में देखती है। इससे बाहर वाले नंबर अक्सर बोल्ड में, H (हाई) या L (लो) लिखकर या स्टार लगाकर दिखाए जाते हैं।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "अपना रिज़ल्ट हमेशा अपनी ही लैब की रेफ़रेंस रेंज से मिलाएँ, इंटरनेट या किसी दोस्त की रिपोर्ट से नहीं।",
+          "अलग-अलग लैब की मशीनें अलग होती हैं, इसलिए रेंज थोड़ी अलग हो सकती है।",
+          "यूनिट देखें। लिवर एंज़ाइम आमतौर पर U/L में और यूरिक एसिड mg/dL में होता है।",
+          "तारीख़ देखें और यह भी कि टेस्ट ख़ाली पेट हुआ था या नहीं, अगर रिपोर्ट में लिखा हो।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "ALT और AST (लिवर एंज़ाइम)"
+      },
+      {
+        "type": "paragraph",
+        "text": "ALT (जिसे SGPT भी लिखते हैं) और AST (जिसे SGOT भी लिखते हैं) लिवर की कोशिकाओं के अंदर पाए जाने वाले एंज़ाइम हैं। जब लिवर पर दबाव होता है तो ये ख़ून में ज़्यादा आ सकते हैं और नंबर बढ़ सकते हैं। ये आमतौर पर LFT (लिवर फ़ंक्शन टेस्ट) का हिस्सा होते हैं।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "ALT या AST ज़्यादा होना इशारा है कि लिवर पर दबाव हो सकता है। सिर्फ़ इससे वजह पता नहीं चलती।",
+          "फैटी लिवर, शराब, कुछ दवाएँ, वायरल इन्फ़ेक्शन, भारी कसरत और कई और चीज़ें ये नंबर बढ़ा सकती हैं।",
+          "ALT और AST नॉर्मल होने का मतलब हमेशा यह नहीं कि फैटी लिवर नहीं है। कुछ लोगों में फैटी लिवर के साथ भी एंज़ाइम नॉर्मल रहते हैं।",
+          "डॉक्टर इन नंबरों को आपकी हिस्ट्री, दूसरे टेस्ट और स्कैन के साथ मिलाकर देखते हैं।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "यूरिक एसिड"
+      },
+      {
+        "type": "paragraph",
+        "text": "सीरम यूरिक एसिड बताता है कि उस दिन आपके ख़ून में कितना यूरिक एसिड था। आदमियों और औरतों की रेंज अक्सर अलग होती है, तो देखें कि आप पर कौन-सी रेंज लागू होती है। नंबर ज़्यादा होने का मतलब हमेशा गठिया (गाउट) नहीं होता, और कभी-कभी एक रीडिंग ठीक होने पर भी गाउट का दर्द उठ सकता है। आपके लिए इस नंबर का क्या मतलब है और इलाज चाहिए या नहीं, यह डॉक्टर तय करेंगे।"
+      },
+      {
+        "type": "heading",
+        "text": "अल्ट्रासाउंड रिपोर्ट"
+      },
+      {
+        "type": "paragraph",
+        "text": "पेट के अल्ट्रासाउंड में लिखा हो सकता है \"फैटी लिवर\" या \"increased echogenicity\", और ग्रेड 1, 2 या 3। Echogenicity का मतलब बस इतना है कि स्कैन में लिवर कितना चमकीला दिखता है; चर्बी से लिवर ज़्यादा चमकीला दिखता है। ग्रेड से मोटा-मोटा अंदाज़ा मिलता है कि कितनी चर्बी दिख रही है। यह अपने आप में लिवर के नुकसान का नाप नहीं है, और अलग स्कैन या अलग डॉक्टर थोड़ा अलग ग्रेड दे सकते हैं।"
+      },
+      {
+        "type": "heading",
+        "text": "एक नंबर बस एक झलक है"
+      },
+      {
+        "type": "paragraph",
+        "text": "खाना, नींद, कसरत, बीमारी, यहाँ तक कि दिन का समय भी लैब के नंबर ऊपर-नीचे कर सकता है। एक रीडिंग सिर्फ़ एक झलक है, पूरी कहानी नहीं। ज़्यादा ज़रूरी है कुछ महीनों का रुझान, आप कैसा महसूस करते हैं, और डॉक्टर क्या देखते हैं।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "हर रिज़ल्ट टेस्ट की तारीख़ के साथ प्रोग्रेस टैब में लिखें, ताकि आप और डॉक्टर रुझान देख सकें।",
+          "हो सके तो टेस्ट एक ही लैब से दोबारा कराएँ, ताकि नंबर मिलाना आसान हो।",
+          "एक बार नंबर ज़्यादा आने पर घबराएँ नहीं, पर उसे अनदेखा भी न करें। डॉक्टर को दिखाएँ।"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "डॉक्टर से क्या पूछें"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "कौन-से नंबर रेंज से बाहर हैं, और इसकी क्या वजह हो सकती है?",
+          "क्या मुझे कोई और टेस्ट या दोबारा टेस्ट कराना चाहिए? कब?",
+          "मेरे केस में खाने-पीने और कसरत में कौन-से बदलाव मदद कर सकते हैं?",
+          "अगली बार मिलने से पहले मुझे किन नंबरों पर नज़र रखनी है?"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "यह ऐप आपको रिकॉर्ड रखने और रिपोर्ट के शब्द समझने में मदद करता है। रिपोर्ट का आपकी सेहत के लिए क्या मतलब है, यह सिर्फ़ आपके डॉक्टर बता सकते हैं, इसलिए अगली बार अपनी रिपोर्ट ज़रूर साथ ले जाएँ।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}

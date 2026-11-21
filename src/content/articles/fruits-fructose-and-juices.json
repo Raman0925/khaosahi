@@ -1,0 +1,153 @@
+{
+  "id": "fruits-fructose-and-juices",
+  "topics": ["uricAcid", "fattyLiver"],
+  "readMinutes": 3,
+  "rewardedExtra": false,
+  "title": { "en": "Fruits, juices and hidden fructose", "hi": "फल, जूस और छुपा हुआ फ़्रुक्टोज़" },
+  "summary": {
+    "en": "Why whole fruit is fine in sensible portions, but packaged juices and cold drinks are not.",
+    "hi": "सही मात्रा में साबुत फल क्यों ठीक है, पर पैकेट जूस और कोल्ड ड्रिंक क्यों नहीं।"
+  },
+  "body": {
+    "en": [
+      {
+        "type": "paragraph",
+        "text": "Fruits are healthy, so a glass of juice must be healthy too. This is a very common belief, but for the liver and for uric acid it is not quite right. The key is a natural sugar called fructose, and the form in which you take it."
+      },
+      { "type": "heading", "text": "What is fructose?" },
+      {
+        "type": "paragraph",
+        "text": "Fructose is a type of sugar found naturally in fruits and honey. It is also half of ordinary table sugar, and it is used in large amounts in cold drinks, packaged juices, sweets and many processed foods. Unlike some other sugars, fructose is handled mainly by the liver."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "When a lot of fructose reaches the liver quickly, the liver may turn some of it into fat",
+          "Breaking down fructose also produces uric acid, so large amounts may raise uric acid levels",
+          "This is why sugary drinks are linked with both fatty liver and gout"
+        ]
+      },
+      { "type": "heading", "text": "Whole fruit is different" },
+      {
+        "type": "paragraph",
+        "text": "A whole fruit comes with fibre, water, vitamins and minerals. The fibre slows down how fast the sugar enters your blood, and you need to chew, which fills you up. It is hard to eat four oranges at once, but very easy to drink the juice of four oranges in a minute. For most people with fatty liver or high uric acid, whole fruit in sensible portions is a good choice."
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "Aim for whole fruits rather than juice, about one to two portions a day, spread out",
+          "One portion is roughly one medium fruit like an apple, orange or guava, or one small katori of cut fruit like papaya or watermelon",
+          "Good everyday choices include guava, orange, mosambi, papaya, apple, pear, jamun, berries and watermelon",
+          "Enjoy mango, chikoo, banana, grapes and litchi in smaller portions, since they are sweeter",
+          "Eat fruit as a snack or with a meal, not as an extra after a big dessert",
+          "Cherries are often said to help with gout; they are fine as a fruit, but they do not replace your doctor's advice"
+        ]
+      },
+      { "type": "heading", "text": "Drinks to cut down" },
+      {
+        "type": "bullets",
+        "items": [
+          "Cold drinks and colas, including energy drinks",
+          "Packaged fruit juices and fruit drinks, even the \"100% juice\" or \"no added sugar\" ones",
+          "Fresh juice from the juice stall, especially with added sugar or ice cream",
+          "Sweet lassi, milkshakes, falooda and sugarcane juice in large glasses",
+          "Sharbat, rooh afza and squash with lots of sugar"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Even fresh, home-made juice loses most of the fibre. If you really enjoy it, keep it to a small glass now and then, and do not add sugar. Most of the time, choose the whole fruit instead."
+      },
+      { "type": "heading", "text": "Watch for hidden sugar" },
+      {
+        "type": "paragraph",
+        "text": "Fructose and sugar hide in many packaged foods. Read the label and look for words like sugar, glucose-fructose syrup, high fructose corn syrup, invert syrup, fruit juice concentrate and honey. Ketchup, flavoured yoghurt, breakfast cereals, biscuits and health drinks often contain more sugar than you expect."
+      },
+      { "type": "heading", "text": "Better swaps" },
+      {
+        "type": "bullets",
+        "items": [
+          "Packaged juice → a whole orange or a bowl of papaya",
+          "Cold drink at lunch → chaas or nimbu pani without sugar",
+          "Mango shake → a few slices of mango with a bowl of plain curd",
+          "Fruit juice at breakfast → fruit plus a protein like curd, egg or sprouts"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "If you have diabetes along with fatty liver or high uric acid, ask your doctor or dietitian which fruits and how much suit your sugar levels best."
+      }
+    ],
+    "hi": [
+      {
+        "type": "paragraph",
+        "text": "फल सेहतमंद हैं, तो जूस का गिलास भी सेहतमंद होगा। यह बहुत आम सोच है, लेकिन लिवर और यूरिक एसिड के लिए यह पूरी तरह सही नहीं। असली बात है फ़्रुक्टोज़ नाम की एक कुदरती शुगर, और वह आप किस रूप में लेते हैं।"
+      },
+      { "type": "heading", "text": "फ़्रुक्टोज़ क्या है?" },
+      {
+        "type": "paragraph",
+        "text": "फ़्रुक्टोज़ एक तरह की शुगर है जो फलों और शहद में कुदरती रूप से होती है। आम चीनी का भी आधा हिस्सा फ़्रुक्टोज़ होता है, और कोल्ड ड्रिंक, पैकेट जूस, मिठाई और कई पैकेट वाली चीज़ों में यह बहुत मात्रा में डाला जाता है। कुछ दूसरी शुगर की तरह नहीं, फ़्रुक्टोज़ को ज़्यादातर लिवर ही संभालता है।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "जब बहुत सारा फ़्रुक्टोज़ जल्दी से लिवर तक पहुँचता है, तो लिवर उसका कुछ हिस्सा चर्बी में बदल सकता है",
+          "फ़्रुक्टोज़ टूटने पर यूरिक एसिड भी बनता है, इसलिए ज़्यादा मात्रा से यूरिक एसिड बढ़ सकता है",
+          "इसीलिए मीठे ड्रिंक फैटी लिवर और गाउट दोनों से जुड़े हैं"
+        ]
+      },
+      { "type": "heading", "text": "साबुत फल अलग है" },
+      {
+        "type": "paragraph",
+        "text": "साबुत फल के साथ फ़ाइबर, पानी, विटामिन और मिनरल भी आते हैं। फ़ाइबर की वजह से शुगर धीरे-धीरे ख़ून में जाती है, और चबाने से पेट भरता है। एक साथ चार संतरे खाना मुश्किल है, पर चार संतरों का जूस एक मिनट में पी जाना बहुत आसान। फैटी लिवर या हाई यूरिक एसिड वाले ज़्यादातर लोगों के लिए सही मात्रा में साबुत फल अच्छा विकल्प है।"
+      },
+      {
+        "type": "bullets",
+        "items": [
+          "जूस की जगह साबुत फल लें, दिन में लगभग एक से दो हिस्से, अलग-अलग समय पर",
+          "एक हिस्सा मतलब लगभग एक मध्यम फल जैसे सेब, संतरा या अमरूद, या एक छोटी कटोरी कटा फल जैसे पपीता या तरबूज़",
+          "रोज़ के लिए अच्छे विकल्प: अमरूद, संतरा, मौसमी, पपीता, सेब, नाशपाती, जामुन, बेरी और तरबूज़",
+          "आम, चीकू, केला, अंगूर और लीची ज़्यादा मीठे हैं, इन्हें कम मात्रा में लें",
+          "फल नाश्ते में या खाने के साथ लें, भारी मिठाई के बाद एक्स्ट्रा के तौर पर नहीं",
+          "चेरी को अक्सर गाउट में फ़ायदेमंद बताया जाता है; फल के तौर पर ठीक है, पर यह डॉक्टर की सलाह की जगह नहीं ले सकती"
+        ]
+      },
+      { "type": "heading", "text": "ये ड्रिंक कम करें" },
+      {
+        "type": "bullets",
+        "items": [
+          "कोल्ड ड्रिंक और कोला, एनर्जी ड्रिंक भी",
+          "पैकेट वाले फलों के जूस और फ्रूट ड्रिंक, \"100% जूस\" या \"नो ऐडेड शुगर\" वाले भी",
+          "जूस की दुकान का ताज़ा जूस, ख़ासकर चीनी या आइसक्रीम डालकर",
+          "बड़े गिलास में मीठी लस्सी, मिल्कशेक, फ़ालूदा और गन्ने का रस",
+          "ज़्यादा चीनी वाला शरबत, रूह अफ़ज़ा और स्क्वैश"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "घर का ताज़ा जूस भी ज़्यादातर फ़ाइबर खो देता है। अगर आपको बहुत पसंद है, तो कभी-कभार छोटा गिलास लें और चीनी न डालें। ज़्यादातर समय साबुत फल ही चुनें।"
+      },
+      { "type": "heading", "text": "छुपी हुई चीनी पर नज़र रखें" },
+      {
+        "type": "paragraph",
+        "text": "फ़्रुक्टोज़ और चीनी कई पैकेट वाली चीज़ों में छुपी होती है। लेबल पढ़ें और शुगर, ग्लूकोज़-फ़्रुक्टोज़ सिरप, हाई फ़्रुक्टोज़ कॉर्न सिरप, इनवर्ट सिरप, फ्रूट जूस कॉन्सन्ट्रेट और शहद जैसे शब्द देखें। केचप, फ़्लेवर वाला दही, ब्रेकफ़ास्ट सीरियल, बिस्किट और हेल्थ ड्रिंक में अक्सर उम्मीद से ज़्यादा चीनी होती है।"
+      },
+      { "type": "heading", "text": "बेहतर बदलाव" },
+      {
+        "type": "bullets",
+        "items": [
+          "पैकेट जूस → एक साबुत संतरा या एक कटोरी पपीता",
+          "दोपहर में कोल्ड ड्रिंक → छाछ या बिना चीनी का नींबू पानी",
+          "मैंगो शेक → सादे दही की कटोरी के साथ आम की कुछ फाँकें",
+          "नाश्ते में फलों का जूस → फल के साथ दही, अंडा या अंकुरित अनाज जैसा प्रोटीन"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "अगर फैटी लिवर या हाई यूरिक एसिड के साथ डायबिटीज़ भी है, तो डॉक्टर या डाइटीशियन से पूछें कि आपकी शुगर के लिए कौन-से फल और कितनी मात्रा सबसे ठीक है।"
+      }
+    ]
+  },
+  "reviewedBy": "PENDING",
+  "reviewedOn": null
+}
