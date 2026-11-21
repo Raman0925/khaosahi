@@ -61,7 +61,56 @@
   "onboarding": {},
   "profile": {},
   "today": {},
-  "food": {},
+  "food": {
+    "list": {
+      "searchLabel": "खाना खोजें",
+      "searchPlaceholder": "जैसे राजमा, chawal, दही",
+      "categoriesLabel": "खाने की श्रेणियाँ",
+      "dietLabel": "किसके लिए खाना दिखाएँ",
+      "allCategories": "सभी",
+      "resultCount_one": "{{count}} चीज़",
+      "resultCount_other": "{{count}} चीज़ें",
+      "rowA11y": "{{name}}, {{otherName}}. {{rating}}",
+      "rowHint": "खाने की पूरी जानकारी खोलता है",
+      "noProfileNote": "रेटिंग फैटी लिवर और यूरिक एसिड दोनों के लिए है। सिर्फ़ अपनी रेटिंग देखने के लिए प्रोफ़ाइल बनाएँ।",
+      "emptyTitle": "कोई खाना नहीं मिला",
+      "emptySearch": "“{{query}}” से कुछ नहीं मिला। दूसरी स्पेलिंग, हिन्दी या Hinglish में लिखकर देखें, या फ़िल्टर बदलें।",
+      "emptyBrowse": "चुनी गई डाइट के लिए इस श्रेणी में कोई खाना नहीं है।"
+    },
+    "categories": {
+      "cereals": "अनाज",
+      "pulses": "दालें",
+      "vegetables": "सब्ज़ियाँ",
+      "fruits": "फल",
+      "dairy": "दूध-दही",
+      "eggs": "अंडे",
+      "meat": "मांस",
+      "fish": "मछली और सी-फ़ूड",
+      "nutsSeeds": "मेवे और बीज",
+      "oilsFats": "तेल और घी",
+      "sweets": "मिठाई",
+      "snacks": "नाश्ता",
+      "beverages": "पीने की चीज़ें",
+      "spices": "मसाले",
+      "dishes": "पकवान"
+    },
+    "detail": {
+      "title": "खाने की जानकारी",
+      "ratingFor": "{{condition}} के लिए",
+      "ratingA11y": "{{condition}}: {{rating}}",
+      "portionTip": "कितना खाएँ",
+      "purine": "प्यूरीन: {{level}}",
+      "purineLevels": {
+        "low": "कम",
+        "moderate": "मध्यम",
+        "high": "ज़्यादा"
+      },
+      "swapsTitle": "इनसे बदलें",
+      "swapHint": "इस खाने की जानकारी खोलता है",
+      "notFoundTitle": "खाना नहीं मिला",
+      "notFoundBody": "यह खाना नहीं मिला। वापस जाकर फिर से खोजें।"
+    }
+  },
   "plan": {},
   "progress": {},
   "reminders": {},
