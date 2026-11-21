@@ -253,5 +253,11 @@
       "adsBody": "KhaoSahi shows ads from Google AdMob. Ads may use your phone's advertising ID. No health data is ever shared with ads. You can change ad choices in \"Ad privacy options\" (when shown) or in your phone's Google settings."
     }
   },
-  "ads": {}
+  "ads": {
+    "advertisement": "Advertisement",
+    "privacyOptions": "Ad privacy options",
+    "watchAdToUnlock": "Watch a short ad to unlock",
+    "adNotReady": "The ad is not ready yet. Please try again in a moment.",
+    "unlocked": "Unlocked"
+  }
 }
