@@ -61,7 +61,56 @@
   "onboarding": {},
   "profile": {},
   "today": {},
-  "food": {},
+  "food": {
+    "list": {
+      "searchLabel": "Search food",
+      "searchPlaceholder": "e.g. rajma, चावल, dahi",
+      "categoriesLabel": "Food categories",
+      "dietLabel": "Show foods for",
+      "allCategories": "All",
+      "resultCount_one": "{{count}} food",
+      "resultCount_other": "{{count}} foods",
+      "rowA11y": "{{name}}, {{otherName}}. {{rating}}",
+      "rowHint": "Opens food details",
+      "noProfileNote": "Ratings cover both fatty liver and uric acid. Set up your profile to see only yours.",
+      "emptyTitle": "No foods found",
+      "emptySearch": "Nothing matches “{{query}}”. Try another spelling, Hindi or Hinglish, or change the filters.",
+      "emptyBrowse": "No foods in this category for the selected diet."
+    },
+    "categories": {
+      "cereals": "Grains",
+      "pulses": "Dals & pulses",
+      "vegetables": "Vegetables",
+      "fruits": "Fruits",
+      "dairy": "Milk & dairy",
+      "eggs": "Eggs",
+      "meat": "Meat",
+      "fish": "Fish & seafood",
+      "nutsSeeds": "Nuts & seeds",
+      "oilsFats": "Oils & ghee",
+      "sweets": "Sweets",
+      "snacks": "Snacks",
+      "beverages": "Drinks",
+      "spices": "Spices",
+      "dishes": "Dishes"
+    },
+    "detail": {
+      "title": "Food details",
+      "ratingFor": "For {{condition}}",
+      "ratingA11y": "{{condition}}: {{rating}}",
+      "portionTip": "Portion tip",
+      "purine": "Purine level: {{level}}",
+      "purineLevels": {
+        "low": "Low",
+        "moderate": "Moderate",
+        "high": "High"
+      },
+      "swapsTitle": "Better choices",
+      "swapHint": "Opens details of this food",
+      "notFoundTitle": "Food not found",
+      "notFoundBody": "We could not find this food. Please go back and search again."
+    }
+  },
   "plan": {},
   "progress": {},
   "reminders": {},
