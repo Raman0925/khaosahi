@@ -30,7 +30,9 @@ Release builds read `.env` (copy `.env.example`; never commit it). Signing uses 
 | `npm run check`            | All of the above                                                                                 |
 | `npm run format`           | Prettier                                                                                         |
 
-E2E: Maestro flows in `.maestro/` (`maestro test .maestro`).
+E2E: Maestro flows in `.maestro/` (`maestro test .maestro`). CI runs them on Android 16
+(font scale 1.0 and 2.0) and a low-end API 26 / 2 GB emulator; screenshots are uploaded as
+artifacts.
 
 ## Structure
 

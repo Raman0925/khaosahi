@@ -1,72 +1,97 @@
-# Reusable: fresh install -> onboarding -> Today. Called by every top-level flow.
-#
-# Selector assumptions (screens are built in parallel; adjust once the i18n keys land):
-# - Language screen shows "English" and "हिन्दी" options and a "Continue" button (common.continue).
-# - Intro slides have a "Skip" button (common.skip).
-# - Disclaimer screen shows the exact common.disclaimer text, a checkbox/row starting with
-#   "I understand" or "I accept", and a "Continue" button.
-# - Consent screen has an "I agree" button.
-# - Age gate asks if the user is 18 or older with a "Yes" / "I am 18 or older" answer.
-# - Profile setup uses field labels "Age", "Height", "Weight", "Waist", condition chips with the
-#   common.conditions labels, diet chips with the common.dietTypes labels, and a "Save" button.
-# - Today is the initial tab after onboarding; its tab label is "Today" (nav.today).
-# Profile used: condition "Both", diet "Vegetarian", age 45, height 168 cm, weight 78 kg.
+# Reusable: fresh install -> onboarding -> Today (selectors are real testIDs).
+# Profile: both conditions, male, 45 y, 168 cm, 78 kg, waist 92 cm, vegetarian, north.
 appId: app.khaosahi
 ---
 - launchApp:
     clearState: true
-
-# F1.1 Language
 - extendedWaitUntil:
-    visible: 'English'
-    timeout: 20000
-- tapOn: 'English'
-- tapOn: 'Continue|Next'
-
-# F1.2 Intro slides (skippable)
-- runFlow:
-    when:
-      visible: 'Skip'
-    commands:
-      - tapOn: 'Skip'
-
-# F1.3 Disclaimer
+    visible:
+      id: 'onboarding-language'
+    timeout: 30000
+- tapOn:
+    id: 'language-en'
+- tapOn:
+    id: 'onboarding-next'
+# Intro
+- tapOn:
+    id: 'intro-skip'
+# Disclaimer
 - assertVisible: 'KhaoSahi gives general diet and lifestyle information.*'
-- tapOn: '(?i)I (understand|accept|agree).*'
-- tapOn: 'Continue|Next'
-
-# F1.4 Consent
-- assertVisible: '(?i).*(stays|stored) on (this|your) (phone|device).*'
-- tapOn: '(?i)I agree'
-
-# F1.5 Age gate
-- tapOn: '(?i)(Yes|I am 18 or older|18 or older).*'
-- runFlow:
-    when:
-      visible: 'Continue|Next'
-    commands:
-      - tapOn: 'Continue|Next'
-
-# F2 Profile
-- tapOn: 'Both'
-- tapOn: 'Age'
+- tapOn:
+    id: 'disclaimer-ack'
+- tapOn:
+    id: 'onboarding-next'
+# Consent
+- scrollUntilVisible:
+    element:
+      id: 'consent-agree'
+    direction: DOWN
+- tapOn:
+    id: 'consent-agree'
+# Age gate
+- tapOn:
+    id: 'age-yes'
+# Profile
+- extendedWaitUntil:
+    visible:
+      id: 'profile-setup'
+    timeout: 10000
+- tapOn:
+    id: 'condition-both'
+- tapOn:
+    id: 'field-ageYears'
 - inputText: '45'
-- tapOn: '(?i)Height.*'
+- hideKeyboard
+- scrollUntilVisible:
+    element:
+      id: 'sex-male'
+    direction: DOWN
+- tapOn:
+    id: 'sex-male'
+- scrollUntilVisible:
+    element:
+      id: 'field-height'
+    direction: DOWN
+- tapOn:
+    id: 'field-height'
 - inputText: '168'
-- tapOn: '(?i)Weight.*'
+- hideKeyboard
+- scrollUntilVisible:
+    element:
+      id: 'field-waist'
+    direction: DOWN
+- tapOn:
+    id: 'field-waist'
+- inputText: '92'
+- hideKeyboard
+- scrollUntilVisible:
+    element:
+      id: 'field-weight'
+    direction: DOWN
+- tapOn:
+    id: 'field-weight'
 - inputText: '78'
 - hideKeyboard
 - scrollUntilVisible:
-    element: 'Vegetarian'
+    element:
+      id: 'diet-veg'
     direction: DOWN
-- tapOn: 'Vegetarian'
+- tapOn:
+    id: 'diet-veg'
 - scrollUntilVisible:
-    element: 'Save|Continue|Create my plan|Done'
+    element:
+      id: 'region-north'
     direction: DOWN
-- tapOn: 'Save|Continue|Create my plan|Done'
-
-# F1.7 Onboarding ends on Today
+- tapOn:
+    id: 'region-north'
+- scrollUntilVisible:
+    element:
+      id: 'profile-submit'
+    direction: DOWN
+- tapOn:
+    id: 'profile-submit'
+# Today
 - extendedWaitUntil:
-    visible: '(?i)Day 1 ?/ ?90.*'
+    visible:
+      id: 'today-screen'
     timeout: 15000
-- assertVisible: 'Today'

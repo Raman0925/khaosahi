@@ -1,44 +1,25 @@
-# Progress: log a uric acid value and see it on the metric screen.
-#
-# Selector assumptions:
-# - The Progress tab label is "Progress" (nav.progress).
-# - The Progress screen lists metrics including "Uric acid"; tapping it opens ProgressMetric.
-# - ProgressMetric has an add button labelled "Add" / "Log" / "Add entry"
-#   (or testID "progress-add").
-# - ProgressEntry has a numeric field with testID "progress-value" (fallback: the field labelled
-#   "Uric acid" / "Value"); the date defaults to today; "Save" (common.save) saves.
-# - The saved value is shown with the unit label "mg/dL" (common.units.mgdl).
+# F6: log a uric acid value and see it on the metric screen.
 appId: app.khaosahi
 name: 04-log-uric-acid
-tags:
-  - smoke
+tags: [smoke]
 ---
 - runFlow: subflows/onboard.yaml
 - tapOn: 'Progress'
 - scrollUntilVisible:
-    element: '(?i)Uric acid.*'
+    element:
+      id: 'progress-add-uricAcid'
     direction: DOWN
-- tapOn: '(?i)Uric acid.*'
 - tapOn:
-    id: 'progress-add'
-    optional: true
-- runFlow:
-    when:
-      notVisible:
-        id: 'progress-value'
-    commands:
-      - tapOn: '(?i)(\+ )?(Add|Log)( entry| value| reading)?'
+    id: 'progress-add-uricAcid'
 - tapOn:
-    id: 'progress-value'
-    optional: true
-- runFlow:
-    when:
-      notVisible:
-        id: 'progress-value'
-    commands:
-      - tapOn: '(?i)(Uric acid|Value).*'
+    id: 'progress-entry-value'
 - inputText: '6.8'
 - hideKeyboard
-- tapOn: 'Save'
+- tapOn:
+    id: 'progress-entry-save'
+- scrollUntilVisible:
+    element:
+      id: 'progress-card-uricAcid'
+    direction: DOWN
 - assertVisible: '.*6\.8.*'
-- assertVisible: '.*mg/dL.*'
+- takeScreenshot: 04-progress

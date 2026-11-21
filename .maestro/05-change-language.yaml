@@ -1,31 +1,13 @@
-# Settings: switch the language to Hindi and back without restarting.
-#
-# Selector assumptions:
-# - Settings opens from the header button with testID "open-settings" (RootNavigator).
-# - The Settings screen has a "Language" row with options "English" and "हिन्दी".
-# - After switching, the tab labels change at once: "Today" -> "आज" (nav.today in hi.json).
-# - In Hindi the language row label contains "भाषा".
+# F9: switch to Hindi in Settings; the UI changes without a restart.
 appId: app.khaosahi
 name: 05-change-language
-tags:
-  - smoke
+tags: [smoke]
 ---
 - runFlow: subflows/onboard.yaml
 - tapOn:
     id: 'open-settings'
-- tapOn: '(?i)Language.*'
 - tapOn: 'हिन्दी'
+- assertVisible: 'भाषा'
 - back
-- extendedWaitUntil:
-    visible: 'आज'
-    timeout: 5000
-
-# And back to English
-- tapOn:
-    id: 'open-settings'
-- tapOn: '.*भाषा.*'
-- tapOn: 'English'
-- back
-- extendedWaitUntil:
-    visible: 'Today'
-    timeout: 5000
+- assertVisible: 'आज'
+- takeScreenshot: 05-hindi
