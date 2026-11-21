@@ -6,6 +6,7 @@ module.exports = {
   moduleNameMapper: {
     '^@/(.*)$': '<rootDir>/src/$1',
     '^react-native-file-access$': '<rootDir>/jest/mocks/react-native-file-access.ts',
+    '^react-native-google-mobile-ads$': '<rootDir>/jest/mocks/react-native-google-mobile-ads.tsx',
     '^react-native-notify-kit$': '<rootDir>/node_modules/react-native-notify-kit/jest-mock.js',
   },
   transformIgnorePatterns: [

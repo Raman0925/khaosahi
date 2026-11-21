@@ -67,5 +67,11 @@
   "reminders": {},
   "learn": {},
   "settings": {},
-  "ads": {}
+  "ads": {
+    "advertisement": "Advertisement",
+    "privacyOptions": "Ad privacy options",
+    "watchAdToUnlock": "Watch a short ad to unlock",
+    "adNotReady": "The ad is not ready yet. Please try again in a moment.",
+    "unlocked": "Unlocked"
+  }
 }
