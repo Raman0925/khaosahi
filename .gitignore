@@ -86,3 +86,6 @@ keystore.properties
 # Tooling
 coverage/
 .maestro/out/
+
+# Claude Code local state and agent worktrees
+.claude/

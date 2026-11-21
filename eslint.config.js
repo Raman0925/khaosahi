@@ -4,6 +4,7 @@ module.exports = [
   {
     ignores: [
       'node_modules/**',
+      '.claude/**',
       'android/**',
       'ios/**',
       'coverage/**',

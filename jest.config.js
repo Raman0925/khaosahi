@@ -11,6 +11,6 @@ module.exports = {
   transformIgnorePatterns: [
     'node_modules/(?!((jest-)?react-native|@react-native(-community)?|@react-navigation|react-native-.*|@shopify/flash-list|gifted-charts-core|nitro-core)/)',
   ],
-  testPathIgnorePatterns: ['/node_modules/', '/android/', '/ios/', '/.maestro/'],
+  testPathIgnorePatterns: ['/node_modules/', '/.claude/', '/android/', '/ios/', '/.maestro/'],
   collectCoverageFrom: ['src/**/*.{ts,tsx}', '!src/**/*.d.ts'],
 };
