@@ -2,8 +2,7 @@
 # Run: maestro test .maestro-screens/tour.yaml -e APP_LANG=en   (or APP_LANG=hi)
 appId: app.khaosahi
 name: screenshot-tour
-env:
-  APP_LANG: en
+# APP_LANG must come from the command line: a flow-level env block would override -e.
 ---
 - launchApp:
     clearState: true

@@ -8,7 +8,7 @@ adb shell settings put global sysui_demo_allowed 1
 adb shell am broadcast -a com.android.systemui.demo -e command enter >/dev/null
 adb shell am broadcast -a com.android.systemui.demo -e command clock -e hhmm 0930 >/dev/null
 adb shell am broadcast -a com.android.systemui.demo -e command battery -e level 100 -e plugged false >/dev/null
-adb shell am broadcast -a com.android.systemui.demo -e command network -e mobile show -e level 4 -e datatype 4g >/dev/null
+adb shell am broadcast -a com.android.systemui.demo -e command network -e mobile show -e level 4 -e datatype lte >/dev/null
 adb shell am broadcast -a com.android.systemui.demo -e command notifications -e visible false >/dev/null
 mkdir -p screenshots
 STATUS=0
