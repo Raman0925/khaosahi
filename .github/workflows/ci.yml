@@ -84,6 +84,13 @@ jobs:
           KHAOSAHI_UPLOAD_KEY_PASSWORD: ${{ secrets.KHAOSAHI_UPLOAD_KEY_PASSWORD }}
         run: ./gradlew bundleRelease --no-daemon -PreactNativeArchitectures=armeabi-v7a,arm64-v8a,x86_64
 
+      - name: Verify the AAB is signed with the upload key (tags only)
+        if: startsWith(github.ref, 'refs/tags/v')
+        run: |
+          AAB=$(ls android/app/build/outputs/bundle/release/*.aab)
+          jarsigner -verify -verbose -certs "$AAB" | grep -q "CN=KhaoSahi" || { echo "::error::AAB is not signed with the KhaoSahi upload key"; exit 1; }
+          echo "Signed: $AAB"
+
       - uses: actions/upload-artifact@v7
         with:
           name: app-release-aab
