@@ -23,7 +23,13 @@ export function Chip({ label, selected = false, onPress, accessibilityLabel, tes
       accessibilityState={{ selected }}
       style={[styles.chip, selected ? styles.selected : null]}
     >
-      <Text weight="medium" color={selected ? colors.onPrimary : colors.text}>
+      {/* One line: Android can under-measure multi-word Devanagari and hide the wrapped word. */}
+      <Text
+        weight="medium"
+        color={selected ? colors.onPrimary : colors.text}
+        numberOfLines={1}
+        textBreakStrategy="simple"
+      >
         {label}
       </Text>
     </Pressable>
