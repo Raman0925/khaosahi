@@ -40,7 +40,7 @@ export function ReminderCard({
           onValueChange={onToggle}
           accessibilityLabel={t('reminders.enable', { name: title })}
           accessibilityState={{ checked: enabled, disabled }}
-          trackColor={{ true: colors.primary, false: colors.border }}
+          trackColor={{ true: colors.primary, false: colors.textMuted }}
           thumbColor={colors.surface}
           style={styles.switch}
         />
