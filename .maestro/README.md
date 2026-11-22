@@ -1,6 +1,6 @@
 # End-to-end tests (Maestro)
 
-Black-box UI flows for the Android app (`appId: app.khaosahi`). Every flow starts from a fresh
+Black-box UI flows for the Android app (`appId: in.khaosahi.app`). Every flow starts from a fresh
 install (`launchApp` with `clearState: true`) and onboards through `subflows/onboard.yaml`.
 
 | Flow                      | What it checks                                                  |

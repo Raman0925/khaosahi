@@ -1,5 +1,5 @@
 # F6: log a uric acid value and see it on the metric screen.
-appId: app.khaosahi
+appId: in.khaosahi.app
 name: 04-log-uric-acid
 tags: [smoke]
 ---

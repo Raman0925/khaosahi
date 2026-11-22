@@ -64,10 +64,10 @@ merging, so the app manifest does not repeat them.
    Run `adb reverse tcp:8081 tcp:8081` if needed.
 2. Finish onboarding. In Settings → Reminders, turn on "Daily checklist", allow notifications
    and set the time 3 minutes ahead.
-3. Check `adb shell dumpsys alarm | grep app.khaosahi`. There should be one RTC_WAKEUP alarm.
+3. Check `adb shell dumpsys alarm | grep in.khaosahi.app`. There should be one RTC_WAKEUP alarm.
 4. Run `adb reboot` and wait for `sys.boot_completed`. **Do not open the app.**
 5. Run `dumpsys alarm` again: the alarm should be back, set by `RebootBroadcastReceiver`.
-6. At the set time, check `adb shell dumpsys notification --noredact | grep -A3 app.khaosahi`,
+6. At the set time, check `adb shell dumpsys notification --noredact | grep -A3 in.khaosahi.app`,
    or take a screenshot with `adb exec-out screencap -p > shot.png`.
 7. Tap the notification. The app should open on Today, both on a cold start and from the
    background.

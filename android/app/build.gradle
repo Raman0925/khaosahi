@@ -105,13 +105,16 @@ android {
 
     namespace "app.khaosahi"
     defaultConfig {
-        applicationId "app.khaosahi"
+        // Play package name. The Kotlin namespace stays app.khaosahi.
+        applicationId "in.khaosahi.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 3
+        versionCode 4
         versionName appVersionName
         // Google's sample AdMob App ID; replaced for release builds below.
         manifestPlaceholders = [admobAppId: ADMOB_TEST_APP_ID]
+        // react-native-config finds BuildConfig by package; it lives in the namespace, not applicationId.
+        resValue "string", "build_config_package", "app.khaosahi"
     }
     signingConfigs {
         debug {

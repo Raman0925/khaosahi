@@ -283,7 +283,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "app.khaosahi";
+				PRODUCT_BUNDLE_IDENTIFIER = "in.khaosahi.app";
 				PRODUCT_NAME = KhaoSahi;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -312,7 +312,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "app.khaosahi";
+				PRODUCT_BUNDLE_IDENTIFIER = "in.khaosahi.app";
 				PRODUCT_NAME = KhaoSahi;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_VERSION = 5.0;

@@ -1,6 +1,6 @@
 # Reusable: fresh install -> onboarding -> Today (selectors are real testIDs).
 # Profile: both conditions, male, 45 y, 168 cm, 78 kg, waist 92 cm, vegetarian, north.
-appId: app.khaosahi
+appId: in.khaosahi.app
 ---
 - launchApp:
     clearState: true

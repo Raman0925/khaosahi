@@ -1,5 +1,5 @@
 # F3: tick the first checklist item on Today; it becomes checked and the count updates.
-appId: app.khaosahi
+appId: in.khaosahi.app
 name: 03-today-checklist
 tags: [smoke]
 ---

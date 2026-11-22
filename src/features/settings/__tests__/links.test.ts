@@ -18,8 +18,8 @@ describe('openFirstUrl', () => {
     });
     await expect(openFirstUrl(RATE_APP_URLS, openURL)).resolves.toBe(true);
     expect(openURL.mock.calls.map(([url]) => url)).toEqual([
-      'market://details?id=app.khaosahi',
-      'https://play.google.com/store/apps/details?id=app.khaosahi',
+      'market://details?id=in.khaosahi.app',
+      'https://play.google.com/store/apps/details?id=in.khaosahi.app',
     ]);
   });
 

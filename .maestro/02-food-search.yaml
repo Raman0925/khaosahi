@@ -1,5 +1,5 @@
 # F4: search "rajma" (Latin) and "राजमा" (Devanagari), open the detail screen.
-appId: app.khaosahi
+appId: in.khaosahi.app
 name: 02-food-search
 tags: [smoke]
 ---

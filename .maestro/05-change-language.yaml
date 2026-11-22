@@ -1,5 +1,5 @@
 # F9: switch to Hindi in Settings; the UI changes without a restart.
-appId: app.khaosahi
+appId: in.khaosahi.app
 name: 05-change-language
 tags: [smoke]
 ---

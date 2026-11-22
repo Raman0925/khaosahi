@@ -1,5 +1,5 @@
 # F9: delete all data -> confirm -> back to the language screen.
-appId: app.khaosahi
+appId: in.khaosahi.app
 name: 06-delete-all-data
 tags: [smoke]
 ---

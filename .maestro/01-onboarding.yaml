@@ -1,5 +1,5 @@
 # F1 + F2: fresh install -> onboarding -> Today with Day 1 of the plan.
-appId: app.khaosahi
+appId: in.khaosahi.app
 name: 01-onboarding
 tags: [smoke]
 ---

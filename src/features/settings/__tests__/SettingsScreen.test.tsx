@@ -98,7 +98,7 @@ describe('SettingsScreen', () => {
     await fireEvent.press(screen.getByText('Rate KhaoSahi'));
     expect(openURL.mock.calls.map(([url]) => url)).toEqual([
       DEFAULT_PRIVACY_POLICY_URL,
-      'market://details?id=app.khaosahi',
+      'market://details?id=in.khaosahi.app',
     ]);
     expect(screen.getByText(APP_VERSION)).toBeTruthy();
   });

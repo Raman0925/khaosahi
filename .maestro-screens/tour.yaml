@@ -1,6 +1,6 @@
 # Screenshot tour (not part of the E2E suite). Walks every main screen and saves a PNG of each.
 # Run: maestro test .maestro-screens/tour.yaml -e APP_LANG=en   (or APP_LANG=hi)
-appId: app.khaosahi
+appId: in.khaosahi.app
 name: screenshot-tour
 # APP_LANG must come from the command line: a flow-level env block would override -e.
 ---
