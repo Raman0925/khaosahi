@@ -1,0 +1,250 @@
+# Screenshot tour (not part of the E2E suite). Walks every main screen and saves a PNG of each.
+# Run: maestro test .maestro-screens/tour.yaml -e APP_LANG=en   (or APP_LANG=hi)
+appId: app.khaosahi
+name: screenshot-tour
+env:
+  APP_LANG: en
+---
+- launchApp:
+    clearState: true
+- extendedWaitUntil:
+    visible:
+      id: 'onboarding-language'
+    timeout: 30000
+- tapOn:
+    id: 'language-${APP_LANG}'
+- takeScreenshot: ${APP_LANG}-01-language
+- tapOn:
+    id: 'onboarding-next'
+# Intro
+- takeScreenshot: ${APP_LANG}-02-intro
+- tapOn:
+    id: 'intro-skip'
+# Disclaimer
+- takeScreenshot: ${APP_LANG}-03-disclaimer
+- scrollUntilVisible:
+    element:
+      id: 'disclaimer-ack'
+    direction: DOWN
+- tapOn:
+    id: 'disclaimer-ack'
+- tapOn:
+    id: 'onboarding-next'
+# Consent
+- takeScreenshot: ${APP_LANG}-04-consent
+- scrollUntilVisible:
+    element:
+      id: 'consent-agree'
+    direction: DOWN
+- tapOn:
+    id: 'consent-agree'
+# Age gate
+- takeScreenshot: ${APP_LANG}-05-age
+- scrollUntilVisible:
+    element:
+      id: 'age-yes'
+    direction: DOWN
+- tapOn:
+    id: 'age-yes'
+# Profile
+- extendedWaitUntil:
+    visible:
+      id: 'profile-setup'
+    timeout: 10000
+- takeScreenshot: ${APP_LANG}-06-profile
+- scrollUntilVisible:
+    element:
+      id: 'condition-both'
+    direction: DOWN
+- tapOn:
+    id: 'condition-both'
+- scrollUntilVisible:
+    element:
+      id: 'field-ageYears'
+    direction: DOWN
+- tapOn:
+    id: 'field-ageYears'
+- inputText: '45'
+- hideKeyboard
+- scrollUntilVisible:
+    element:
+      id: 'sex-male'
+    direction: DOWN
+- tapOn:
+    id: 'sex-male'
+- scrollUntilVisible:
+    element:
+      id: 'field-height'
+    direction: DOWN
+- tapOn:
+    id: 'field-height'
+- inputText: '168'
+- hideKeyboard
+- scrollUntilVisible:
+    element:
+      id: 'field-waist'
+    direction: DOWN
+- tapOn:
+    id: 'field-waist'
+- inputText: '92'
+- hideKeyboard
+- scrollUntilVisible:
+    element:
+      id: 'field-weight'
+    direction: DOWN
+- tapOn:
+    id: 'field-weight'
+- inputText: '78'
+- hideKeyboard
+- scrollUntilVisible:
+    element:
+      id: 'diet-veg'
+    direction: DOWN
+- tapOn:
+    id: 'diet-veg'
+- scrollUntilVisible:
+    element:
+      id: 'region-north'
+    direction: DOWN
+- tapOn:
+    id: 'region-north'
+- takeScreenshot: ${APP_LANG}-07-profile-filled
+- scrollUntilVisible:
+    element:
+      id: 'profile-submit'
+    direction: DOWN
+- tapOn:
+    id: 'profile-submit'
+# Today
+- extendedWaitUntil:
+    visible:
+      id: 'today-screen'
+    timeout: 15000
+- waitForAnimationToEnd
+- takeScreenshot: ${APP_LANG}-08-today
+- scrollUntilVisible:
+    element:
+      id: 'checklist-item-.*'
+    direction: DOWN
+- tapOn:
+    id: 'checklist-item-.*'
+    index: 0
+- tapOn:
+    id: 'checklist-item-.*'
+    index: 1
+    optional: true
+- takeScreenshot: ${APP_LANG}-09-today-checklist
+# 90-day plan
+- scrollUntilVisible:
+    element:
+      id: 'today-link-plan'
+    direction: DOWN
+- tapOn:
+    id: 'today-link-plan'
+- extendedWaitUntil:
+    visible:
+      id: 'plan-overview'
+    timeout: 10000
+- takeScreenshot: ${APP_LANG}-10-plan
+- tapOn:
+    id: 'week-row-1'
+    optional: true
+- takeScreenshot: ${APP_LANG}-11-week-summary
+- back
+- back
+# Food
+- tapOn:
+    id: 'tab-food'
+- extendedWaitUntil:
+    visible:
+      id: 'food-list-screen'
+    timeout: 10000
+- takeScreenshot: ${APP_LANG}-12-food-list
+- tapOn:
+    id: 'food-search'
+- inputText: 'rajma'
+- hideKeyboard
+- takeScreenshot: ${APP_LANG}-13-food-search
+- scrollUntilVisible:
+    element:
+      id: 'food-row-rajma'
+    direction: DOWN
+- tapOn:
+    id: 'food-row-rajma'
+- extendedWaitUntil:
+    visible:
+      id: 'food-detail-screen'
+    timeout: 10000
+- takeScreenshot: ${APP_LANG}-14-food-detail
+- scrollUntilVisible:
+    element:
+      id: 'food-rating-uricAcid'
+    direction: DOWN
+    optional: true
+- takeScreenshot: ${APP_LANG}-15-food-detail-uric
+- back
+# Progress
+- tapOn:
+    id: 'tab-progress'
+- extendedWaitUntil:
+    visible:
+      id: 'progress-screen'
+    timeout: 10000
+- takeScreenshot: ${APP_LANG}-16-progress-empty
+- scrollUntilVisible:
+    element:
+      id: 'progress-add-uricAcid'
+    direction: DOWN
+- tapOn:
+    id: 'progress-add-uricAcid'
+- tapOn:
+    id: 'progress-entry-value'
+- inputText: '6.8'
+- hideKeyboard
+- takeScreenshot: ${APP_LANG}-17-progress-entry
+- scrollUntilVisible:
+    element:
+      id: 'progress-entry-save'
+    direction: DOWN
+- tapOn:
+    id: 'progress-entry-save'
+- scrollUntilVisible:
+    element:
+      id: 'progress-card-uricAcid'
+    direction: DOWN
+- takeScreenshot: ${APP_LANG}-18-progress-logged
+- tapOn:
+    id: 'progress-card-uricAcid'
+    optional: true
+- takeScreenshot: ${APP_LANG}-19-progress-metric
+- back
+# Learn
+- tapOn:
+    id: 'tab-learn'
+- waitForAnimationToEnd
+- takeScreenshot: ${APP_LANG}-20-learn
+- tapOn:
+    id: 'article-row-.*'
+    index: 0
+    optional: true
+- waitForAnimationToEnd
+- takeScreenshot: ${APP_LANG}-21-article
+- back
+# Settings
+- tapOn:
+    id: 'tab-today'
+- tapOn:
+    id: 'open-settings'
+- extendedWaitUntil:
+    visible:
+      id: 'settings-screen'
+    timeout: 10000
+- takeScreenshot: ${APP_LANG}-22-settings
+- scrollUntilVisible:
+    element:
+      id: 'settings-reminders'
+    direction: DOWN
+- tapOn:
+    id: 'settings-reminders'
+- waitForAnimationToEnd
+- takeScreenshot: ${APP_LANG}-23-reminders

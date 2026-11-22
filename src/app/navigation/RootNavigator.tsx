@@ -54,6 +54,7 @@ function SettingsButton() {
 
 function tabOptions(k: NavTitleKey, icon: IconName) {
   return {
+    tabBarButtonTestID: `tab-${icon}`,
     headerTitle: () => <HeaderTitle k={k} />,
     tabBarLabel: ({ color }: { color: string }) => <TabLabel k={k} color={color} />,
     tabBarIcon: ({ color, size }: { color: string; size: number }) => (

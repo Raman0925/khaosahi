@@ -107,16 +107,19 @@ export function TodayScreen() {
         <Button
           variant="secondary"
           title={t('today.linkFood')}
+          testID="today-link-food"
           onPress={() => navigation.navigate('Main', { screen: 'Food' })}
         />
         <Button
           variant="secondary"
           title={t('today.linkWeight')}
+          testID="today-link-weight"
           onPress={() => navigation.navigate('ProgressEntry', { metric: 'weight' })}
         />
         <Button
           variant="secondary"
           title={t('today.linkPlan')}
+          testID="today-link-plan"
           onPress={() => navigation.navigate('PlanOverview')}
         />
       </View>

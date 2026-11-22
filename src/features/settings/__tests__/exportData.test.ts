@@ -17,11 +17,17 @@ const shareOpen = Share.open as jest.Mock;
 const NOW = new Date(2026, 10, 21, 10, 0, 0);
 
 beforeEach(async () => {
+  // Saving the progress store also writes a daily snapshot dated by the system clock; pin it.
+  jest.useFakeTimers({ now: NOW, advanceTimers: true });
   fs.reset();
   storage.clearAll();
   useProgressStore.getState().reset();
   jest.clearAllMocks();
   jest.spyOn(console, 'warn').mockImplementation(() => undefined);
+});
+
+afterEach(() => {
+  jest.useRealTimers();
 });
 
 describe('exportData', () => {
